@@ -1,0 +1,32 @@
+number: 563
+preName: 【勇猛果敢】ガチャピン
+name: 【西涼の錦】ガチャピン
+rarity: 3
+group: 蜀
+arm: 騎兵
+maxLevel: 50
+capability: 8
+initHp: 289
+initAttack: 470
+initRecovery: 34
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: まけないよ～！
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: いっぽもひかないよ！
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: ガチャピンも、中々、三国志の武将の格好が、板についてきたようです。「錦馬超ピン、推して参る！いくよー！」

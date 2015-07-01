@@ -1,0 +1,32 @@
+number: 532
+preName:
+name: 【甘い旋律】蔡文姫
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 16
+initHp: 356
+initAttack: 181
+initRecovery: 174
+finalHp: 1068
+finalAttack: 543
+finalRecovery: 348
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 愛詩恋歌
+    turnMax: 13
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、使用した武将の回復力5倍のHPを回復
+strategies:
+  -
+    name: 蔡文姫式料理術
+    statements:
+      -
+        content: 連撃時、一定HPまでは上限を超えていても回復する(回復量は回復力の3倍、HPの上限は1.5倍)
+description: 数奇な運命をたどった才女。彼女の手にかかれば、異国のお菓子もお茶の子さいさいです。「もぉ…もう少し待ってくださいね♪」

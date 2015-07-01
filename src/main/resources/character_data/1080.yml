@@ -1,0 +1,32 @@
+number: 1080
+preName: 【張魯の弟】張衛
+name: 【道教の軍人】張衛
+rarity: 5
+group: 群
+arm: 剣兵
+maxLevel: 70
+capability: 16
+initHp: 676
+initAttack: 330
+initRecovery: 16
+finalHp: 2029
+finalAttack: 908
+finalRecovery: 29
+breakHp: 2309
+breakAttack: 1068
+breakRecovery: 149
+skills:
+  -
+    name: 群の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「群」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 折れぬ意志
+    statements:
+      -
+        content: 味方の「剣兵」武将の攻撃力を1.5倍にする、さらに6連撃以上で全武将の攻撃力を1.8倍
+description: 五斗米道の教祖・張魯の弟で、鬼卒（信者）から成る軍の総帥。曹操の侵攻に対しても自ら先頭に立ち、陽平関に拠って対抗。一度は撃退する活躍を見せた。

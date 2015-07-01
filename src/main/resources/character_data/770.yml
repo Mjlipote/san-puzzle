@@ -1,0 +1,34 @@
+number: 770
+preName: 【夏色浮遊】黄月英
+name: 【夏色将校隊】黄月英
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 
+initAttack: 
+initRecovery: 
+finalHp: 1878
+finalAttack: 1143
+finalRecovery: 787
+breakHp: 2158
+breakAttack: 1343
+breakRecovery: 907
+skills:
+  -
+    name: ぷかぷか夢心地
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「蜀」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: のんびり墮落です～
+    statements:
+      -
+        content: 進軍時には応援を送り、部隊回復力8倍のHP回復
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値4倍の再攻撃
+description: 稀代の天才軍師・諸葛亮の妻。インドア派の彼女は、波に揺られてお昼寝三昧。「海辺の墮落は、素敵ですー」

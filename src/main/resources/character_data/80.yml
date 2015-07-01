@@ -1,0 +1,30 @@
+number: 80
+preName:
+name: 関羽
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 15
+capability: 5
+initHp: 142
+initAttack: 62
+initRecovery: 16
+finalHp: 249
+finalAttack: 109
+finalRecovery: 34
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 義侠の刃
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「蜀」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備・張飛と「桃園の誓い」で義兄弟の契りを交わした豪傑。人並み外れた武勇と、義理堅さを併せ持つ、三国志を代表する英雄の1人。

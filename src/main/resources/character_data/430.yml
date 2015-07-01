@@ -1,0 +1,30 @@
+number: 430
+preName: 許攸
+name: 【貪欲な謀臣】許攸
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 3
+initHp: 311
+initAttack: 300
+initRecovery: 96
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢の進攻
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.2倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 

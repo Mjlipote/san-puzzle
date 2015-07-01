@@ -1,0 +1,32 @@
+number: 339
+preName:
+name: 【老当益壮】黄忠
+rarity: 6
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 40
+initHp: 551
+initAttack: 289
+initRecovery: 141
+finalHp: 2480
+finalAttack: 1301
+finalRecovery: 282
+breakHp: 2760
+breakAttack: 1501
+breakRecovery: 402
+skills:
+  -
+    name: 馬上の烈弓
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 勇猛なる老将
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2倍にする
+description: 老将軍の名で知られる、老いて益々盛んな勇将。劉備の入蜀に於いては、先鋒軍の中核として劉璋軍の諸将をことごとく打ち破り、その勇名を轟かせた。

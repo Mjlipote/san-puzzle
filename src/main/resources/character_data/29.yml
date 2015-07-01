@@ -1,0 +1,30 @@
+number: 29
+preName: 【的盧指摘】伊籍
+name: 【益州進撃】伊籍
+rarity: 4
+group: 蜀
+arm: 神算
+maxLevel: 70
+capability: 11
+initHp: 239
+initAttack: 223
+initRecovery: 149
+finalHp: 1195
+finalAttack: 558
+finalRecovery: 335
+breakHp: 1395
+breakAttack: 718
+breakRecovery: 415
+skills:
+  -
+    name: 巧妙な外交
+    turnMax: 22
+    turnMin: 12
+    statements:
+      -
+        content: 部隊の回復力合計の２倍のHPを回復させる
+strategies:
+  -
+    name: 敵の「蜀」武将から受けるダメージを減少させる
+    statements:
+description: 劉備軍の勇猛な文官。益州侵攻後は蜀科という法律を考案。また、馬良・馬謖らの兄弟を推挙するなど政治手腕や人事にも才覚を発揮する。

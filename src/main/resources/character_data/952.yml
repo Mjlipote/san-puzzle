@@ -1,0 +1,32 @@
+number: 952
+preName: 【道中記旅人編】董白
+name: 【道中記友情編】董白
+rarity: 5
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 20
+initHp: 1362
+initAttack: 659
+initRecovery: 120
+finalHp: 2179
+finalAttack: 1186
+finalRecovery: 181
+breakHp: 2419
+breakAttack: 1346
+breakRecovery: 261
+skills:
+  -
+    name: 強烈な威圧 
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+strategies:
+  -
+    name: 天下は全て私の物！
+    statements:
+      -
+        content: 味方の「魏」「群」武将の攻撃力を2倍にする
+description: 董白が行く。そこに道ができる。出会い、別れ、おかしな仲間...。まだまだ終わりそうにない董白の旅の、明日はどっちだ...！？「天下は全て私のものよ！」

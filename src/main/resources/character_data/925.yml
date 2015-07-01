@@ -1,0 +1,32 @@
+number: 925
+preName:
+name: 【無双の智勇】陸遜
+rarity: 5
+group: 呉
+arm: 神算
+maxLevel: 50
+capability: 15
+initHp: 510
+initAttack: 305
+initRecovery: 54
+finalHp: 1785
+finalAttack: 1220
+finalRecovery: 162
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 焦熱の火種
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「漢」ユニットに変化
+strategies:
+  -
+    name: 新星の機略
+    statements:
+      -
+        content: 5連撃以上で、「神算」武将の攻撃力を3倍
+description: 軍略

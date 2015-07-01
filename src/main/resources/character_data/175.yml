@@ -1,0 +1,32 @@
+number: 175
+preName: 【鉄鞭駆使】黄蓋
+name: 【孫呉の忠老】黄蓋
+rarity: 4
+group: 呉
+arm: 蛮兵
+maxLevel: 70
+capability: 10
+initHp: 816
+initAttack: 513
+initRecovery: 8
+finalHp: 3264
+finalAttack: 1026
+finalRecovery: 0
+breakHp: 3624
+breakAttack: 1186
+breakRecovery: 0
+skills:
+  -
+    name: 鉄鞭乱打
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 苦肉の策
+    statements:
+      -
+        content: HPが70%以上の時、HPが0になる攻撃を耐える
+description: 身を挺して孫家を支えた宿将。孫策の代では江東制圧に付き従い山越賊との戦いで活躍。また、相手が誰であれ公正な態度で接したので誰もが心服した。

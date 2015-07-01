@@ -1,0 +1,32 @@
+number: 580
+preName:
+name: 【三顧礼物】諸葛亮
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 50
+capability: 16
+initHp: 287
+initAttack: 192
+initRecovery: 96
+finalHp: 901
+finalAttack: 603
+finalRecovery: 301
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 軍師からの返礼
+    turnMax: 3
+    turnMin: 2
+    statements:
+      -
+        content: 使用した武将の回復力3.14倍のHPを回復させる
+strategies:
+  -
+    name: 霊妙なる采配
+    statements:
+      -
+        content: 「蜀」武将のHPと攻撃力と回復力を1.5倍にする
+description: 劉備配下の軍師。野に在り晴耕雨読の生活ですが、はたむきな熱意には、弱いようです。「三度もご足労、痛み入ります。礼をもって応えねば。」

@@ -1,0 +1,32 @@
+number: 817
+preName: 【関中統括】鍾ヨウ
+name: 【巧みなる書家】鍾ヨウ
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 70
+capability: 14
+initHp: 597
+initAttack: 511
+initRecovery: 138
+finalHp: 1194
+finalAttack: 1021
+finalRecovery: 276
+breakHp: 1594
+breakAttack: 1421
+breakRecovery: 436
+skills:
+  -
+    name: 魏の攻勢
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ２ターンの間、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 法令遵守
+    statements:
+      -
+        content: 味方の「神算」武将の攻撃力を2倍にする
+description: 項羽の部将‧鍾離昧の末裔。法の運用者として魏国の治世に貢献した彼は、字体「鍾ヨウ体」を生み出した書道家としても歴史にその名を残している。

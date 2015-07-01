@@ -1,0 +1,32 @@
+number: 176
+preName:
+name: 【梟雄】董卓
+rarity: 3
+group: 群
+arm: 鬼謀
+maxLevel: 25
+capability: 6
+initHp: 60
+initAttack: 63
+initRecovery: 15
+finalHp: 720
+finalAttack: 378
+finalRecovery: 120
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 酒池肉林
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 魔王の兵
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を1.5倍にする
+description: 悪逆非道な暴雄。涼州勅史の立場を利用して軍事力を蓄え、何進の命令を機に軍を率いて上洛。何進暗殺の混乱に乗じて、またたく間に洛陽を占領した。

@@ -1,0 +1,32 @@
+number: 748
+preName:
+name: 【白き稲妻】公孫姫
+rarity: 5
+group: 漢
+arm: 騎兵
+maxLevel: 50
+capability: 20
+initHp: 404
+initAttack: 359
+initRecovery: 111
+finalHp: 1414
+finalAttack: 1077
+finalRecovery: 222
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 迅雷の如き攻め
+    statements:
+      -
+        content: 味方の「騎兵」武将のHPと攻撃力を2倍にする
+description: 公孫サンの娘。父親讓りの美貌と馬術の才に恵まれる。父親同樣白馬を自在に操り、その姿は息を飲むほどの美しさだったという。

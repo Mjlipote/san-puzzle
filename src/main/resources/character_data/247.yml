@@ -1,0 +1,32 @@
+number: 247
+preName: 【夏色息吹】黄月英
+name: 【夏色浮遊】黄月英
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 14
+initHp: 490
+initAttack: 271
+initRecovery: 230
+finalHp: 1175
+finalAttack: 651
+finalRecovery: 460
+breakHp: 1455
+breakAttack: 811
+breakRecovery: 580
+skills:
+  -
+    name: ぷかぷか夢心地
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「蜀」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: おやつはバッチリ
+    statements:
+      -
+        content: 進軍時に応援を送り、部隊の回復力の3倍のHPを回復
+description: 稀代の天才軍師・諸葛亮の妻。多くの発明品を作ったという。「これが、この夏の新発明っ♪　波の力で『じゅうでん』ー♪　どーんといっちゃいます★」

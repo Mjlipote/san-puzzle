@@ -1,0 +1,32 @@
+number: 121
+preName: 【未亡人】鄒氏
+name: 【傾国の美女】鄒氏
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 70
+capability: 8
+initHp: 255
+initAttack: 232
+initRecovery: 181
+finalHp: 1050
+finalAttack: 521
+finalRecovery: 390
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 妖艶な美貌
+    turnMax: 14
+    turnMin: 5
+    statements:
+      -
+        content: 敵全体を毒状態にする
+strategies:
+  -
+    name: 快楽の檻
+    statements:
+      -
+        content: ユニットを動かせる時間が少し延びる
+description: 曹操を虜にした絶世の美女。そのあまりの美貌に張繍の軍師・賈クが目をつけ、曹操をおびき寄せて油断させるための罠に、鄒氏を利用しようと画策する。

@@ -1,0 +1,32 @@
+number: 674
+preName:
+name: 【遺言遂行】劉曄
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 50
+capability: 18
+initHp: 529
+initAttack: 275
+initRecovery: 88
+finalHp: 1058
+finalAttack: 550
+finalRecovery: 176
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「群」と「桃」を、「魏」に変化させる
+strategies:
+  -
+    name: 朗々たる頭脳
+    statements:
+      -
+        content: 味方の「魏」武将のHPと回復力を2倍にする
+description: 魏の政治家。冷静で剛胆な事で知られる。幼少時、父の近侍の中の奸臣を排除する様に、と母から遺言を受け、十三歳で成人した折、冷静にそれを実行した。

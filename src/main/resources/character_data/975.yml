@@ -1,0 +1,34 @@
+number: 975
+preName: 【物見遊山】羊コ
+name: 【功徳施す名将】羊コ
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 28
+initHp: 1298
+initAttack: 741
+initRecovery: 192
+finalHp: 3115
+finalAttack: 1704
+finalRecovery: 384
+breakHp: 3435
+breakAttack: 1904
+breakRecovery: 504
+skills:
+  -
+    name: 魏の誘い（群）糧食確保（毒）
+    turnMax: 25
+    turnMin: 10
+    statements:
+      -
+        content: ユニットの「群」を「魏」へ「毒」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 優等なる名族の血筋
+    statements:
+      -
+        content: 5連撃以上で、「魏」武将の攻撃力を3倍
+      -
+        content: 毒ユニットがかなり出現しにくくなる
+description: 泰山郡の名族に出自を持つ武将。任地の荊州では、自国はおろか国境を接する敵国・呉の民からも慕われていた。呉の陸抗とは、奇妙な友情で結ばれていた。

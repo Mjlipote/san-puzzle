@@ -1,0 +1,34 @@
+number: 150
+preName:
+name: 【絶世の美】貂蝉
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 50
+capability: 15
+initHp: 276
+initAttack: 218
+initRecovery: 76
+finalHp: 1242
+finalAttack: 763
+finalRecovery: 266
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 美女連環の計
+    turnMax: 30
+    turnMin: 18
+    statements:
+      -
+        content: 敵のHPを30%減少させる
+strategies:
+  -
+    name: 秘めたる本心
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを半減させる
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 中国四大美女の1人。幼いころに王允に拾われ、養女として育てられる。その眩いばかりの美しさには、月が恥じて雲の中に隠れるほどと言われる。

@@ -1,0 +1,32 @@
+number: 179
+preName:
+name: 【千射万箭】太史慈
+rarity: 6
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 503
+initAttack: 325
+initRecovery: 54
+finalHp: 3068
+finalAttack: 1388
+finalRecovery: 156
+breakHp: 3388
+breakAttack: 1588
+breakRecovery: 276
+skills:
+  -
+    name: 星天弓
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 使用した武将の攻撃力50倍の「呉」攻撃
+strategies:
+  -
+    name: 信義の援軍
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを半減させる
+description: 信義に厚い勇将。元は青洲の文官だったが、賊徒に襲われていた北海国の孔融を助ける。大勢の賊を打ち倒し、騎射の名手として名を轟かせた。

@@ -1,0 +1,32 @@
+number: 755
+preName:
+name: 【蒼天裂く凶刃】張梁
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 669
+initAttack: 398
+initRecovery: 51
+finalHp: 1673
+finalAttack: 1194
+finalRecovery: 102
+breakHp: 1913
+breakAttack: 1354
+breakRecovery: 182
+skills:
+  -
+    name: 絶対なる衝撃
+    turnMax: 27
+    turnMin: 17
+    statements:
+      -
+        content: 敵のHPを20%減少させる
+strategies:
+  -
+    name: 躊躇いなき凶刃
+    statements:
+      -
+        content: 味方の「蛮兵」武将の攻撃力を2倍にする
+description: 大賢良師・張角の末弟。蜂起の序盤では、討伐軍を大いに苦しめるが、それが、劉備ら、実力はあるが無名な将の台頭を促し、結果、歷史を動かす事となった。

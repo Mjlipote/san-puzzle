@@ -1,0 +1,32 @@
+number: 639
+preName:
+name: 【雑号将軍】カク昭
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 50
+capability: 18
+initHp: 264
+initAttack: 182
+initRecovery: 79
+finalHp: 1382
+finalAttack: 1065
+finalRecovery: 108
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強靭なる守護
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 6ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: 不動頑健の守衛
+    statements:
+      -
+        content: 味方の全武将のHPを2倍にする
+description: 勇猛果敢な魏の武将。曹操から曹叡まで三代に渡り仕えた。若いうちから各地を転戦して戦功を重ね、雑号将軍となり、河西方面に睨みをきかせた。

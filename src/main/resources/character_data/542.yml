@@ -1,0 +1,30 @@
+number: 542
+preName: 【漢兵心酔】ミクファン
+name: 【漢兵超心酔】ミクファン
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 39
+capability: 3
+initHp: 33
+initAttack: 150
+initRecovery: 29
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 余韻に酔う間奏曲
+    turnMax: 39
+    turnMin: 
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 元漢軍の兵卒。刀剣の扱いが巧く、熟練の域に達している。滑り台や迷路など、それ自体が遊具となり楽しく遊べる雪像を得意とする。

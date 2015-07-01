@@ -1,0 +1,34 @@
+number: 1033
+preName: 【東郡太守】曹操－今日ぱず
+name: 【徐州侵略】曹操
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 30
+initHp: 1714
+initAttack: 975
+initRecovery: 196
+finalHp: 3384
+finalAttack: 1754
+finalRecovery: 272
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 乱世の奸雄
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 精強なる武
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2.5倍にする
+      -
+        content: 全ての武将から受けるダメージを減少させる
+description: 天下も、天下の女性も俺のもの。

@@ -1,0 +1,32 @@
+number: 446
+preName: 【流麗美歌】巡音ルカ
+name: 【天下を巡る歌】巡音ルカ
+rarity: 4
+group: 漢
+arm: 鬼謀
+maxLevel: 70
+capability: 10
+initHp: 826
+initAttack: 342
+initRecovery: 380
+finalHp: 1715
+finalAttack: 518
+finalRecovery: 417
+breakHp: 1875
+breakAttack: 638
+breakRecovery: 497
+skills:
+  -
+    name: 逡巡の誘い
+    turnMax: 24
+    turnMin: 19
+    statements:
+      -
+        content: 敵の攻撃を1ターン遅らせる
+strategies:
+  -
+    name: 流れ香る音色
+    statements:
+      -
+        content: ユニットを動かせる時間が延びる
+description: 終南山に舞い降りた天女の一人。一番大人びた性格、外観ながら、『三番目』だという処が天界の謎な部分である。「私についてこれるかしら？」

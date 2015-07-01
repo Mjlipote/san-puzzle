@@ -1,0 +1,32 @@
+number: 836
+preName:
+name: 【偽りの病】呂蒙
+rarity: 5
+group: 呉
+arm: 鬼謀
+maxLevel: 50
+capability: 19
+initHp: 526
+initAttack: 326
+initRecovery: 109
+finalHp: 1578
+finalAttack: 978
+finalRecovery: 218
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀魏よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「蜀」を「呉」に、「魏」を「桃」に変換
+strategies:
+  -
+    name: 卓越の手練手管
+    statements:
+      -
+        content: 4連撃以上で「呉」の攻撃力があがり、最大4倍
+description: 孫権配下の軍師。荊州奪還の為に、呂蒙は一計を案じる。自らを病と偽り一線を退くことで、北進中の関羽の油断を誘い、荊州の守備を手薄にさせたのである。

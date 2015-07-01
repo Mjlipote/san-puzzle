@@ -1,0 +1,36 @@
+number: 1078
+preName: 【医術の髄】華佗
+name: 【神医】華佗
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 1125
+initAttack: 1140
+initRecovery: 413
+finalHp: 2249
+finalAttack: 1710
+finalRecovery: 744
+breakHp: 2569
+breakAttack: 1910
+breakRecovery: 864
+skills:
+  -
+    name: 漢の誘い（魏）漢の攻勢
+    turnMax: 11
+    turnMin: 5
+    statements:
+      -
+        content: 「魏」ユニットを「漢」ユニットに変化させる
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 医の頂に在りて
+    statements:
+      -
+        content: 「漢」武将のHPと攻撃力を2倍、回復力を1.2倍
+      -
+        content: 必殺技発動に必要なチャージ数が2減少する
+description: 後漢末期に活躍した伝説の医師。薬だけでなく、鍼灸にも非凡な才を持つ。曹操の頭痛や矢を受けた関羽の傷を治療するなど、その活躍は枚挙に暇がない。

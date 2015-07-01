@@ -1,0 +1,32 @@
+number: 248
+preName:
+name: 【夏色媚薬】何皇后
+rarity: 4
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 7
+initHp: 326
+initAttack: 131
+initRecovery: 84
+finalHp: 782
+finalAttack: 288
+finalRecovery: 168
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: とろける熱視線
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 汗かいちゃうわ
+    statements:
+      -
+        content: 進軍時に応援を送り、部隊の回復力の３倍のHPを回復する
+description: 大将軍何進の異母妹。妖艶なる美貌で、霊帝の皇后となった。「あぁん…熱くなってきたわぁ。ねぇ、これ塗ってくださる？あん♪」

@@ -1,0 +1,32 @@
+number: 275
+preName: 【臥龍雌伏】諸葛亮
+name: 【三顧の礼】諸葛亮
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 16
+initHp: 610
+initAttack: 527
+initRecovery: 106
+finalHp: 1281
+finalAttack: 1106
+finalRecovery: 222
+breakHp: 1561
+breakAttack: 1266
+breakRecovery: 342
+skills:
+  -
+    name: 奇門遁甲
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「魏」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 八卦の列陣
+    statements:
+      -
+        content: 味方の「蜀」武将のHPを２倍にする
+description: 技能

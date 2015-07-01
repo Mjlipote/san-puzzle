@@ -1,0 +1,30 @@
+number: 382
+preName:
+name: 【肉屋宦官】髭男爵（【にくやかんがん】ひげだんしゃく
+rarity: 2
+group: 漢
+arm: 蛮兵
+maxLevel: 15
+capability: 5
+initHp: 245
+initAttack: 163
+initRecovery: 102
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ルネッサンス！
+    turnMax: 6
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の回復力の1倍のHPを回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: ゴマすりし過ぎて指紋が消えた宦官と、ジェントリーな肉屋のノブリスなセレブリティ。あと、実生活は割と質素。「ヌーボォ！」

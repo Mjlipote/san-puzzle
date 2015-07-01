@@ -1,0 +1,32 @@
+number: 581
+preName: 【三顧礼物】諸葛亮
+name: 【臥龍の恋文】諸葛亮
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 766
+initAttack: 573
+initRecovery: 286
+finalHp: 1639
+finalAttack: 1226
+finalRecovery: 613
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 軍師からの返礼
+    turnMax: 3
+    turnMin: 2
+    statements:
+      -
+        content: 使用した武将の回復力3.14倍のHPを回復させる
+strategies:
+  -
+    name: 霊妙なる采配
+    statements:
+      -
+        content: 「蜀」武将のHPと攻撃力と回復力を1.5倍にする
+description: 劉備配下の軍師。その才幹は龍に擬えて高く評されており、女性の扱いも上手なようです。「可憐な女性の心遣い、決して無碍にはしません。」

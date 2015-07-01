@@ -1,0 +1,30 @@
+number: 164
+preName:
+name: 陳武
+rarity: 1
+group: 呉
+arm: 槍兵
+maxLevel: 10
+capability: 2
+initHp: 38
+initAttack: 74
+initRecovery: 26
+finalHp: 95
+finalAttack: 185
+finalRecovery: 65
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 異形の風貌
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを少し減少させる
+description: 黄色い顔に赤い瞳という独特の風貌を持つ将。選りすぐりの精鋭部隊を率いて多くの戦場で活躍。また、面倒見が良く、部下や避難民からも慕われている。

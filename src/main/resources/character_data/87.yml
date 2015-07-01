@@ -1,0 +1,32 @@
+number: 87
+preName: 張飛
+name: 張飛
+rarity: 3
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 10
+initHp: 112
+initAttack: 281
+initRecovery: 30
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 義侠の鉈矛撃
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「蜀」勢力の1000ダメージ
+strategies:
+  -
+    name: 意地を見せるとき
+    statements:
+      -
+        content: ダメージを受けると、ごく稀に反撃をする
+description: 劉備・関羽と義兄弟の契りを交わした猛将。故郷の幽州がかつての強国・燕の一部だったことを誇りに思い「燕人（えんひと）張飛」と名乗っている。

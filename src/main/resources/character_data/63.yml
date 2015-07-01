@@ -1,0 +1,30 @@
+number: 63
+preName: 張譲
+name: 【宦官筆頭】張譲
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 
+initHp: 230
+initAttack: 145
+initRecovery: 87
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 十常侍の讒言
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 霊帝に、我が父と言われて敬愛された十常侍の長。賄賂を集めるだけでは飽き足らず、ついには黄巾賊と内通。国を内外の両面から腐敗させた。

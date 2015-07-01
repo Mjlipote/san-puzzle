@@ -1,0 +1,32 @@
+number: 741
+preName: 【晴れの門出】孫尚香
+name: 【止められない想い】孫尚香
+rarity: 6
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 1142
+initAttack: 1009
+initRecovery: 259
+finalHp: 2285
+finalAttack: 1513
+finalRecovery: 389
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉蜀同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「桃」ユニットに変化させる
+strategies:
+  -
+    name: 呉蜀の架け橋
+    statements:
+      -
+        content: 味方の「呉」「蜀」武将の攻撃力を2.5倍にする
+description: 江東の虎と呼ばれた孫堅の末娘。淑やかな表情もほんの一瞬、いつものおてんばな娘に早変わり。「婚礼をジャマするやつは、やっつけちゃうよ─っ★」

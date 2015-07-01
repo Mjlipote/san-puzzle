@@ -1,0 +1,30 @@
+number: 973
+preName:
+name: 藤甲兵
+rarity: 3
+group: 群
+arm: 蛮兵
+maxLevel: 20
+capability: 3
+initHp: 64
+initAttack: 460
+initRecovery: -15
+finalHp: 77
+finalAttack: 552
+finalRecovery: -34
+breakHp: 237
+breakAttack: 672
+breakRecovery: 46
+skills:
+  -
+    name: 捨て身の一撃
+    turnMax: 4
+    turnMin: 2
+    statements:
+      -
+        content: 自分のHPを75%減少させ、敵単体に極小のダメージを与える
+strategies:
+  -
+    name: なし
+    statements:
+description: 南中でも秘境とされる烏戈国の王・兀突骨が率いる屈強な戦士。刀も矢も受け付けない強力な鎧「藤甲」を標準装備しており、その武装で蜀軍を苦しめる。

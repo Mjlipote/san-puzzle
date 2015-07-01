@@ -1,0 +1,30 @@
+number: 293
+preName: 郭図
+name: 【讒言】郭図
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 6
+initHp: 170
+initAttack: 251
+initRecovery: 89
+finalHp: 374
+finalAttack: 502
+finalRecovery: 160
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 歪なる讒言
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 自分のHPを少し減少させ、敵単体にダメージを与える
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹に仕えた謀士。袁紹の監軍（総司令）の地位にいた沮授を讒言。権限を三都督（隊指令）に分割させた後、沮授・淳于瓊と並んで都督に任命された。

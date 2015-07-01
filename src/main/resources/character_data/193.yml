@@ -1,0 +1,30 @@
+number: 193
+preName:
+name: 曹軍剣兵
+rarity: 1
+group: 魏
+arm: 槍兵
+maxLevel: 10
+capability: 1
+initHp: 12
+initAttack: 92
+initRecovery: 6
+finalHp: 18
+finalAttack: 138
+finalRecovery: 9
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 曹軍兵の剣撃
+    turnMax: 4
+    turnMin: 2
+    statements:
+      -
+        content: 敵全体に「魏」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操軍の兵卒。曹操の定めた法を順守し、非常に統制が取れていることが特徴。また普段は曹操の定めた屯田制に従事している。

@@ -1,0 +1,32 @@
+number: 565
+preName: 【技巧派】ガチャピン
+name: 【巧みなる妙技】ガチャピン
+rarity: 3
+group: 漢
+arm: 槍兵
+maxLevel: 50
+capability: 8
+initHp: 334
+initAttack: 437
+initRecovery: 55
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: みょうぎ！
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: だよ！
+strategies:
+  -
+    name: こんなかんじ、かな！
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: ガチャピンも、中々、三国志の武将の格好が、板についてきたようです。「このガチャ良が、栄光を築きましょう！　なんてねー」

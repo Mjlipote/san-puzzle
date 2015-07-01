@@ -1,0 +1,30 @@
+number: 72
+preName:
+name: 黄祖
+rarity: 2
+group: 漢
+arm: 弓兵
+maxLevel: 15
+capability: 5
+initHp: 106
+initAttack: 57
+initRecovery: 17
+finalHp: 530 
+finalAttack: 214
+finalRecovery: 85
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 伏兵戦法
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫家と戦い続けた江夏太守・劉表配下の将で、荊州に攻め込んできた孫堅を射殺することに成功する。以後、孫家の仇敵として狙われ続けることになる。

@@ -1,0 +1,34 @@
+number: 1013
+preName:
+name: 【矢も楯も堪らず】鮑三娘
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 27
+initHp: 1091
+initAttack: 647
+initRecovery: 246
+finalHp: 2182
+finalAttack: 1294
+finalRecovery: 369
+breakHp: 2422
+breakAttack: 1454
+breakRecovery: 449
+skills:
+  -
+    name: 絶対なる中衝撃
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 敵のHPを25%減少させる
+strategies:
+  -
+    name: 関索の一番はボクだよ？
+    statements:
+      -
+        content: 全武将の攻撃力を3倍にする
+      -
+        content: 2連撃以上で攻撃力が減少し、最低1.5倍になる
+description: 鮑家荘を治める地主・鮑凱の娘。関索の人気にヤキモチを焼いた鮑三娘。「お返しが欲しかったら、ボクを倒してみて！」と群がる女の子の前に立ち塞がる。

@@ -1,0 +1,32 @@
+number: 695
+preName: 【ムク兎馬】関羽
+name: 【ムク兎疾駆】関羽
+rarity: 6
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 20
+initHp: 1510
+initAttack: 559
+initRecovery: 61
+finalHp: 2415
+finalAttack: 1117
+finalRecovery: 91
+breakHp: 2695
+breakAttack: 1317
+breakRecovery: 211
+skills:
+  -
+    name: 関公の一喝
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+strategies:
+  -
+    name: ムク兎馬大激走！
+    statements:
+      -
+        content: ユニットを動かせる時間が大きく延びる
+description: なんと、ムック、三国志の英雄、関羽と意気投合したようです！「行くぞ、ムク兎馬！　共に戦場を駆けようぞ！」「頑張りますぞ！　関羽殿！」

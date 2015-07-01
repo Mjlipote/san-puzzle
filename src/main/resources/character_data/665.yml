@@ -1,0 +1,32 @@
+number: 665
+preName: 【精兵八百騎】張遼
+name: 【孫権肉薄】張遼
+rarity: 6
+group: 魏
+arm: 騎兵
+maxLevel: 99
+capability: 22
+initHp: 1020
+initAttack: 804
+initRecovery: 145
+finalHp: 1836
+finalAttack: 2009
+finalRecovery: 174
+breakHp: 2156
+breakAttack: 2209
+breakRecovery: 294
+skills:
+  -
+    name: 燃え上がる鬪志
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力が1.8倍になる
+strategies:
+  -
+    name: 神速神攻
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2.2倍にする
+description: 泣く子も黙る魏の猛将軍。合肥防衛の折、少数精鋭の騎兵で孫権軍に突撃、縦横無尽に暴れ回る。孫権自身にも肉迫、その退路にまで先回りし、首を狙う。

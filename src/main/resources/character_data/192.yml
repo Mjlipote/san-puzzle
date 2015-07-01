@@ -1,0 +1,32 @@
+number: 192
+preName: 【戦鬼】呂布
+name: 【赤兎疾駆】呂布
+rarity: 7
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 50
+initHp: 1449
+initAttack: 921
+initRecovery: 167
+finalHp: 3478
+finalAttack: 1842
+finalRecovery: 334
+breakHp: 3878
+breakAttack: 2042
+breakRecovery: 454
+skills:
+  -
+    name: 天下無双
+    turnMax: 35
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力30倍防御無視攻撃
+strategies:
+  -
+    name: 無双の猛勇
+    statements:
+      -
+        content: HPが80%以上の時、全武将の攻撃力を3.5倍にする
+description: 三国志最強の武将。赤兎馬に乗り、方天画戟を振るって鬼神の如く敵陣を疾駆する姿は「人中の呂布、馬中の赤兎」と称され、生きた伝説と化している。

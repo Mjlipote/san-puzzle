@@ -1,0 +1,32 @@
+number: 444
+preName: 【風花雪月】MEIKO
+name: 【春を告げる歌】MEIKO
+rarity: 4
+group: 呉
+arm: 騎兵
+maxLevel: 70
+capability: 10
+initHp: 848
+initAttack: 379
+initRecovery: 92
+finalHp: 1929
+finalAttack: 577
+finalRecovery: 242
+breakHp: 2169
+breakAttack: 737
+breakRecovery: 322
+skills:
+  -
+    name: 酔えば酔うほど
+    turnMax: 24
+    turnMin: 14
+    statements:
+      -
+        content: MEIKOの攻撃力を2ターンの間2倍にする
+strategies:
+  -
+    name: 始まりの音色
+    statements:
+      -
+        content: 攻撃後、最も攻撃力が高いMEIKOの攻撃力2倍で回復
+description: 

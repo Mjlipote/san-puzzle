@@ -1,0 +1,32 @@
+number: 507
+preName: 【意趣遺恨】張繍
+name: 【許都に迫る刃】張繍
+rarity: 5
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 16
+initHp: 784
+initAttack: 518
+initRecovery: 182
+finalHp: 1926
+finalAttack: 1145
+finalRecovery: 299
+breakHp: 2206
+breakAttack: 1306
+breakRecovery: 419
+skills:
+  -
+    name: 能臣重用
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「群」武将の攻撃力1.3倍にする
+strategies:
+  -
+    name: 非凡なる凡才
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 荊州北部の群雄。劉表の後ろ盾、すぐに許都を突ける絶好の地勢、そして名参謀・賈クの存在･･･張繍は、自信の持つ全ての力で、曹操との闘争を粘り強く続けた。

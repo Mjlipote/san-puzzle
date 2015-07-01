@@ -1,0 +1,34 @@
+number: 892
+preName:
+name: 【男の意地】太史慈
+rarity: 7
+group: 漢
+arm: 槍兵
+maxLevel: 99
+capability: 50
+initHp: 813
+initAttack: 346
+initRecovery: 84
+finalHp: 3252
+finalAttack: 1730
+finalRecovery: 319
+breakHp: 3652
+breakAttack: 1930
+breakRecovery: 439
+skills:
+  -
+    name: 速戦の鬪争心
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 鬨の咆哮
+    statements:
+      -
+        content: 4連撃以上で攻撃力があがり、最大3倍になる
+      -
+        content: 「回復封じ‧技能封じ‧ユニット封じ」を確率で無効
+description: 揚州刺史‧劉ヨウと同鄉の部将。劉ヨウには、冷遇され偵察の任しか与えられなかった。しかし、任務中に侵略者‧孫策と邂逅。壮絶な一騎討ちを繰り広げた。

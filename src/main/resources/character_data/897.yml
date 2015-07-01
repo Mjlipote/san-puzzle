@@ -1,0 +1,34 @@
+number: 897
+preName:
+name: 【応援団長】陸遜
+rarity: 5
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 741
+initAttack: 515
+initRecovery: 42
+finalHp: 2594
+finalAttack: 1545
+finalRecovery: 126
+breakHp: 2874
+breakAttack: 1705
+breakRecovery: 246
+skills:
+  -
+    name: 呉軍への転向
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「魏」と「漢」ユニットを「呉」ユニットに変換
+strategies:
+  -
+    name: 炎の応援団
+    statements:
+      -
+        content: 「呉」「蜀」「群」で攻撃した時、全武将の攻撃力2倍
+      -
+        content: 「魏」「呉」「漢」で攻撃した時、全武将の攻撃力2倍
+description: 呉の四姓と呼ばれる名家の出身で、深慮遠謀の智将、政治家。応援団長を任され学ランに袖を通した陸遜だが、そのやり口はどこか脅迫じみていて......？

@@ -1,0 +1,32 @@
+number: 301
+preName: 【嫉妬の炎】張繍
+name: 【騙し討ち】張繍
+rarity: 4
+group: 群
+arm: 剣兵
+maxLevel: 70
+capability: 10
+initHp: 469
+initAttack: 369
+initRecovery: 109
+finalHp: 1126
+finalAttack: 811
+finalRecovery: 219
+breakHp: 1366
+breakAttack: 971
+breakRecovery: 299
+skills:
+  -
+    name: 怒涛の夜襲
+    turnMax: 20
+    turnMin: 8
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「群」攻撃
+strategies:
+  -
+    name: 執拗なる追撃
+    statements:
+      -
+        content: 攻撃の後、再攻撃を行う
+description: 荊州北部の群雄。傾国の美女である鄒氏の虜となった曹操を倒すため賈ク・胡車児と計らって奇襲。猛将・典韋を憤死させて曹操に痛撃を与えた。

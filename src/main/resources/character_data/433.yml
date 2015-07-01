@@ -1,0 +1,30 @@
+number: 433
+preName:
+name: 董襲
+rarity: 2
+group: 呉
+arm: 剣兵
+maxLevel: 20
+capability: 3
+initHp: 132
+initAttack: 178
+initRecovery: 28
+finalHp: 350
+finalAttack: 408
+finalRecovery: 59
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: わずかな鬪争心
+    turnMax: 25
+    turnMin: 17
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を1.2倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 身の八丈尺を越え、並外れた武力で知られた吳の武将。孫策‧孫権に仕え、各地の反乱を討伐、賊達は彼の旗を見るだけで逃げるようになったという。

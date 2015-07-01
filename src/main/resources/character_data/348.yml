@@ -1,0 +1,30 @@
+number: 348
+preName:
+name: 公孫越
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 15
+capability: 5
+initHp: 171
+initAttack: 122
+initRecovery: 42
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 窮鼠の一噛み
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「漢」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 公孫サンの弟。公孫サンと反目していた劉虞が、袁術の下に実施を派遣した為、対抗する為に公孫越も袁術に従軍することとなった。

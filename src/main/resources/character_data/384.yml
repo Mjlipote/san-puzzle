@@ -1,0 +1,30 @@
+number: 384
+preName:
+name: 黄巾坂野（こうきんさかの）
+rarity: 2
+group: 群
+arm: 蛮兵
+maxLevel: 15
+capability: 5
+initHp: 143
+initAttack: 284
+initRecovery: 7
+finalHp: 286
+finalAttack: 568
+finalRecovery: 14
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 体力ゲッツ
+    turnMax: 13
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に攻撃力分のダメージを与え、回復する
+strategies:
+  -
+    name: なし
+    statements:
+description: 太平道で、一瞬だけ一世を風靡した、一人三役芸の伊達男。あと、楽屋では凄く良い人。「ゲッツ！」

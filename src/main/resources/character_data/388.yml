@@ -1,0 +1,30 @@
+number: 388
+preName:
+name: 虞翻
+rarity: 2
+group: 呉
+arm: 神算
+maxLevel: 15
+capability: 5
+initHp: 182
+initAttack: 167
+initRecovery: 35
+finalHp: 546
+finalAttack: 418
+finalRecovery: 77
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 気高き暴言
+    turnMax: 26
+    turnMin: 19
+    statements:
+      -
+        content: 敵の攻撃を1ターン遅らせる
+strategies:
+  -
+    name: なし
+    statements:
+description: 鋭い知性と狂直（正しいことを貫く様）の性格で知られる官吏。当初は会稽太守の王朗に仕える。孫策と事を構える無謀さを説くが、容れられなかった。　

@@ -1,0 +1,32 @@
+number: 133
+preName: 【曹丕寵愛】甄姫
+name: 【雪膚花貌】甄姫
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 13
+initHp: 335
+initAttack: 340
+initRecovery: 284
+finalHp: 1389
+finalAttack: 1189
+finalRecovery: 498
+breakHp: 1629
+breakAttack: 1349
+breakRecovery: 578
+skills:
+  -
+    name: 傾国の舞
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ２ターンの間、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 妖艶なる美貌
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を２倍にする
+description: 三国志を代表する美女の１人。曹丕の妻になった後も義父・曹操や義弟・曹植に恋慕される。しかし、彼女自身は清廉で高潔な性格でそれを拒み続けた。

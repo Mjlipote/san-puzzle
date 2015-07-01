@@ -1,0 +1,32 @@
+number: 655
+preName:
+name: 【武鬪派】大山真由里
+rarity: 3
+group: 蜀
+arm: 槍兵
+maxLevel: 25
+capability: 8
+initHp: 155
+initAttack: 77
+initRecovery: 46
+finalHp: 1085
+finalAttack: 539
+finalRecovery: 69
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: みんな応援してるッスよ～
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「魏」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 全力でいっきまっすよぉ～！
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと攻撃力を1.5倍にする
+description: 終南山に新たに現れた、謎の天女？の一人。謎の格鬪カラテの使い手、言葉も武人っぽい。「豪傑と修行して、もっと強くなるッス！」

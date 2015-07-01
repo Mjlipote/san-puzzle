@@ -1,0 +1,30 @@
+number: 40
+preName:
+name: 【黄巾改心】廖化
+rarity: 1
+group: 蜀
+arm: 槍兵
+maxLevel: 15
+capability: 2
+initHp: 67
+initAttack: 41
+initRecovery: 22
+finalHp: 285
+finalAttack: 108
+finalRecovery: 49
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 歴戦の勇士
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを少し減少させる
+description: 元黄巾賊の歴戦の将。若い頃は黄巾賊や山賊として過ごしていたが、今は心を入れ替えて劉備軍に加わり多くの戦場で活躍している。

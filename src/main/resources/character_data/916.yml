@@ -1,0 +1,34 @@
+number: 916
+preName: 【数奇なる運命】関索
+name: 【花関索伝】関索
+rarity: 5
+group: 蜀
+arm: 剣兵
+maxLevel: 70
+capability: 14
+initHp: 1012
+initAttack: 752
+initRecovery: 91
+finalHp: 2023
+finalAttack: 1129
+finalRecovery: 164
+breakHp: 2423
+breakAttack: 1449
+breakRecovery: 284
+skills:
+  -
+    name: 確かな研鑚
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 運命の旅人
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2.2倍にする
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 軍神・関羽の息子。自分が関羽の息子であると知った関索は、父との邂逅を求めて長い旅路に出る。その軌跡は『花関索伝』という奇書として伝わる。

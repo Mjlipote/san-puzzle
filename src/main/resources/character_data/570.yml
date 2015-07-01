@@ -1,0 +1,30 @@
+number: 570
+preName:
+name: 【なりきりガチャ】槍兵
+rarity: 1
+group: 蜀
+arm: 槍兵
+maxLevel: 15
+capability: 2
+initHp: 94
+initAttack: 92
+initRecovery: 16
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ガチャピン直伝槍術
+    turnMax: 28
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力10倍の攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 

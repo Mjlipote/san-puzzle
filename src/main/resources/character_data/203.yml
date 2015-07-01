@@ -1,0 +1,30 @@
+number: 203
+preName:
+name: 群雄兵長
+rarity: 2
+group: 群
+arm: 騎兵
+maxLevel: 15
+capability: 2
+initHp: 49
+initAttack: 106
+initRecovery: 10
+finalHp: 123
+finalAttack: 221
+finalRecovery: 21
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群兵の強襲
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 群雄軍兵卒の長。5人程度の兵卒を率いている。荒くれ者が多い一癖ある群雄兵を、自ら先頭に立って戦うことで手懐づけている。

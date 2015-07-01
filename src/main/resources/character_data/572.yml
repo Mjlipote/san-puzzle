@@ -1,0 +1,32 @@
+number: 572
+preName:
+name: 【軍神の息子】関平
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 35
+capability: 7
+initHp: 308
+initAttack: 282
+initRecovery: 29
+finalHp: 1232
+finalAttack: 564
+finalRecovery: 58
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確かな研鑚
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 高みを目指す者
+    statements:
+      -
+        content: 味方の「槍兵」武将の攻撃力と回復力を1.8倍にする
+description: 軍神・関羽の養子。劉備が新野城に居を構えていた際に、劉封と共に諸葛亮の計を遺憾無く実行、夏侯惇を撃退している。

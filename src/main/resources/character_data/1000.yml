@@ -1,0 +1,36 @@
+number: 1000
+preName: 【加速する嫉妬心】賈南風
+name: 【終末もたらす妖狐】賈南風
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 28
+initHp: 1303
+initAttack: 801
+initRecovery: 61
+finalHp: 3127
+finalAttack: 1842
+finalRecovery: 122
+breakHp: 3447
+breakAttack: 2042
+breakRecovery: 242
+skills:
+  -
+    name: 魏漢群同盟‧魏漢群招集
+    turnMax: 21
+    turnMin: 15
+    statements:
+      -
+        content: 全てのユニットを「魏」「漢」「群」ユニットに変化
+      -
+        content: 1ターンの間、「魏・漢・群・桃」ユニットのみ出現
+strategies:
+  -
+    name: 破滅へと続く連鎖
+    statements:
+      -
+        content: 5連撃以上で、「鬼謀」武将の攻撃力を3倍
+      -
+        content: 「魏」武将のHPを1.8倍にする
+description: 司馬氏の腹心‧賈充の娘であり、残忍で嫉妒深く、権謀に長ける。夫の即位により皇后位に就くと、血で血を洗う政治闘争を展開し「八王の乱」の端緒となった。

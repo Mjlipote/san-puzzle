@@ -1,0 +1,34 @@
+number: 143
+preName: 【隻眼将軍】夏侯惇
+name: 【羅刹】夏侯惇
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 20
+initHp: 1170
+initAttack: 778
+initRecovery: 200
+finalHp: 2634
+finalAttack: 1362
+finalRecovery: 479
+breakHp: 2914
+breakAttack: 1562
+breakRecovery: 599
+skills:
+  -
+    name: 盲夏侯の憤怒
+    turnMax: 40
+    turnMin: 25
+    statements:
+      -
+        content: 自分のHPを半分減少させ、敵単体にダメージを与える
+strategies:
+  -
+    name: 隻眼将の眼光
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを半減させる
+      -
+        content: 味方の「魏」武将の攻撃力を2倍にする
+description: 曹操軍最古参の隻眼将軍。羅刹の如き強さから、名を聞くだけで逃げ出す者がいるほど敵兵に恐れられた。その反面、清廉な人柄で部下には慕われている。

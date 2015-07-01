@@ -1,0 +1,34 @@
+number: 802
+preName:
+name: 【藤甲鬼兵】兀突骨
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 50
+capability: 21
+initHp: 651
+initAttack: 369
+initRecovery: -24
+finalHp: 1953
+finalAttack: 1107
+finalRecovery: -72
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 捨て身の一撃
+    turnMax: 4
+    turnMin: 2
+    statements:
+      -
+        content: 自分のHPを75%減少させ、敵単体に極小のダメージを与える
+strategies:
+  -
+    name: 終焉の蛮獣
+    statements:
+      -
+        content: HPが半分以下の時、全武将の攻撃力2.5倍
+      -
+        content: さらに、HPが25%以下の時、全武将の攻撃力1.8倍
+description: 南蛮にあるという烏戈国の王であり、身の丈十二尺にものぼるという大男。本人の武もさる事ながら、彼の軍は藤製の軽く頑強な鎧を纏い、精強を誇った。

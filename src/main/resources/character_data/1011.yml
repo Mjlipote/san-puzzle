@@ -1,0 +1,36 @@
+number: 1011
+preName: 【征西参陣】王異
+name: 【潼関決戦】王異
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 25
+initHp: 1354
+initAttack: 895
+initRecovery: 145
+finalHp: 2708
+finalAttack: 1790
+finalRecovery: 291
+breakHp: 3028
+breakAttack: 1990
+breakRecovery: 411
+skills:
+  -
+    name: 燃え上がる闘志・僅かな衝撃
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力が1.8倍になる
+      -
+        content: 敵のHPを10%減少させる
+strategies:
+  -
+    name: 流麗なる剣戟
+    statements:
+      -
+        content: 3連撃以上で「剣兵」の攻撃力があがり、最大3倍
+      -
+        content: HPが80%以上の時、全武将の攻撃力を1.5倍
+description: 涼州参軍・趙昴の妻。曹操軍の精鋭たちと共に闘った経験は、王異に秘技を体得させるに至る。乱を止める力を得た王異は、ついに馬超との決戦に臨む！

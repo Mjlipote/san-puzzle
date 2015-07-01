@@ -1,0 +1,28 @@
+number: 400
+preName:
+name: 【魏軍指南】管輅
+rarity: 3
+group: 魏
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 100
+initAttack: 20
+initRecovery: 5
+finalHp: 100
+finalAttack: 20
+finalRecovery: 5
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 未来を見通す占い師。易経に通じ、将来を予知する不思議な力を持っている。人の死期も占うことができ、魯粛や夏侯淵の寿命を言い当てている。

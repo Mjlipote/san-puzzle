@@ -1,0 +1,32 @@
+number: 492
+preName:
+name: 【男伊達】曹洪
+rarity: 4
+group: 魏
+arm: 槍兵
+maxLevel: 35
+capability: 11
+initHp: 420
+initAttack: 368
+initRecovery: 18
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 縦横無尽
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に攻撃力の最大100倍までのランダムダメージ
+strategies:
+  -
+    name: 鋭い攻めの呼吸
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2倍にする
+description: 曹操の徒弟で、彼の覇業を支え続けた宿将。良く言えば運用に長けた資産家、悪く言えば吝嗇として知られるが、曹操を度々その資産で支援する一面も。

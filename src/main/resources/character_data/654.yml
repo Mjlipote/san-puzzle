@@ -1,0 +1,32 @@
+number: 654
+preName: 【猫系少女】鈴河凜乃
+name: 【陽気な猫姫】鈴河凜乃
+rarity: 4
+group: 呉
+arm: 弓兵
+maxLevel: 70
+capability: 17
+initHp: 627
+initAttack: 485
+initRecovery: 160
+finalHp: 1004
+finalAttack: 810
+finalRecovery: 319
+breakHp: 1204
+breakAttack: 970
+breakRecovery: 399
+skills:
+  -
+    name: 散步してこよっか♪
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「漢」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: まっしぐらに攻撃さ～
+    statements:
+      -
+        content: 味方の「呉」武将のHPと攻撃力を1.5倍にする
+description: 終南山に新たに現れた、謎の天女？の一人。眷属らしい猫と一緒の姿が良いく目撃される。名は大将だが、軍用ではない模樣。「猫の手も借りたいよねー？」

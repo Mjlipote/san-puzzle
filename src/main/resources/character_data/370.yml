@@ -1,0 +1,32 @@
+number: 370
+preName: 閻圃
+name: 【ホウ徳擁護】閻圃
+rarity: 3
+group: 群
+arm: 神算
+maxLevel: 50
+capability: 9
+initHp: 307
+initAttack: 412
+initRecovery: 103
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 師君への諫言
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: 意味ある抗戦
+    statements:
+      -
+        content: ダメージを受けると、確率で反撃をする
+description: 五斗米道にて教主・張魯を補佐した文官。曹操の侵攻に際して的確な進言を行ない、漢中の地を戦禍から守った。曹操からも評価されて侯位を与えられた。

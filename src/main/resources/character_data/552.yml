@@ -1,0 +1,32 @@
+number: 552
+preName:
+name: 【孫呉の二雄】ガチャムク
+rarity: 5
+group: 呉
+arm: 剣兵
+maxLevel: 50
+capability: 16
+initHp: 606
+initAttack: 147
+initRecovery: 40
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ぼくたちのちから！
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: だよ！
+strategies:
+  -
+    name: ちからをあわせて！
+    statements:
+      -
+        content: 「ガチャムクコラボ武将」の攻撃力を2.2倍にする
+description: ガチャピン・ムックも、中々、三国志の格好が、板についてきたようです。「孫呉の守りは、ぼくと…」「わたくしに、お任せ！」

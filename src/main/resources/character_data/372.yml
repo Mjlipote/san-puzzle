@@ -1,0 +1,32 @@
+number: 372
+preName:
+name: 【乙八臂】黄蓋よしお
+rarity: 5
+group: 呉
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 612
+initAttack: 316
+initRecovery: 0
+finalHp: 3060
+finalAttack: 632
+finalRecovery: 0
+breakHp: 3420
+breakAttack: 792
+breakRecovery: 0
+skills:
+  -
+    name: ラスタラウェイ
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 太平洋に平和を
+    statements:
+      -
+        content: 「蛮兵」武将のHPを2倍にする
+description: 鍛え抜いた肉体を誇示するため、常に海パン一丁の猛将。防御力には難アリ。「胸に矢を受けてしまってな！　でもそんなの関係ねぇ！」

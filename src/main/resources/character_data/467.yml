@@ -1,0 +1,32 @@
+number: 467
+preName: 【新春】孫尚香
+name: 【破魔の弓腰姫】孫尚香
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 70
+capability: 10
+initHp: 974
+initAttack: 459
+initRecovery: 141
+finalHp: 2014
+finalAttack: 918
+finalRecovery: 212
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: いっしょに遊ぼう！
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 新春おてんば娘
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を2.014倍にする
+description: 江東の虎とヨバれた孫堅の末娘。おめでたい春節を珍しい倭国の晴れ着で過ごせて、ご機嫌！「新春孫尚香です！君も早口で言ってみよう！」

@@ -1,0 +1,32 @@
+number: 621
+preName: 【北部尉】曹操－今日ぱず
+name: 【東郡太守】曹操
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 10
+initHp: 672 
+initAttack: 604
+initRecovery: 103
+finalHp: 2016
+finalAttack: 1026
+finalRecovery: 206
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 乱世の奸雄
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 魏武の至強
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2倍にする
+description: 魏呉蜀混じっても俺が一番

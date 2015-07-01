@@ -1,0 +1,32 @@
+number: 656
+preName: 【武鬪派】大山真由里
+name: 【真剣勝負】大山真由里
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 70
+capability: 16
+initHp: 922
+initAttack: 512
+initRecovery: 66
+finalHp: 1383
+finalAttack: 1025
+finalRecovery: 98
+breakHp: 1583
+breakAttack: 1185
+breakRecovery: 178
+skills:
+  -
+    name: みんな応援してるッスよ～
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「魏」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 全力でいっきまっすよぉ～！
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと攻撃力を1.5倍にする
+description: 終南山に新たに現れた、謎の天女？の一人。将來の夢は素手での熊退治だそうで、呉の大将と話が合いそうな気がする。「正々堂々、勝負するッス！」

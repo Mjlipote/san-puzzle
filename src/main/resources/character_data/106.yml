@@ -1,0 +1,32 @@
+number: 106
+preName:
+name: 【老将】厳顔
+rarity: 3
+group: 蜀
+arm: 槍兵
+maxLevel: 25
+capability: 6
+initHp: 178
+initAttack: 80
+initRecovery: 6
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 忠臣の覚悟
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 戦いの年季
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 誇り高き老将。劉璋が劉備を迎え入れようとすると、厳顔はその危険性に気がつき「国に虎を迎え入れるようなもの」と嘆いた。

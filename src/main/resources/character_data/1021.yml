@@ -1,0 +1,32 @@
+number: 1021
+preName:
+name: 【点下の英雄】袁術
+rarity: 3
+group: 群
+arm: 剣兵
+maxLevel: 1
+capability: 1
+initHp: 41
+initAttack: 41
+initRecovery: 41
+finalHp: 41
+finalAttack: 41
+finalRecovery: 41
+breakHp: 521
+breakAttack: 281
+breakRecovery: 201
+skills:
+  -
+    name: 群の誘い（呉）
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 「呉」を「群」ユニットに変化させる
+strategies:
+  -
+    name: 点下の英傑
+    statements:
+      -
+        content: 「点」武将の攻撃力を4.1倍にする
+description: 「いつわりのみかど」ぎょくじを　えて　こうていを　なのり　てんかを　めざす

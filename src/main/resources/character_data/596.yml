@@ -1,0 +1,32 @@
+number: 596
+preName:
+name: 【劉備の妻】孫尚香
+rarity: 5
+group: 蜀
+arm: 弓兵
+maxLevel: 50
+capability: 18
+initHp: 413
+initAttack: 235
+initRecovery: 102
+finalHp: 1239
+finalAttack: 588
+finalRecovery: 204
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀への誘い（群）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 政略を超えた絆
+    statements:
+      -
+        content: 「蜀」と「呉」で攻撃した時、全武将の攻撃力2.5倍
+description: 江東の虎と呼ばれた孫堅の末娘。実母である呉国太が劉備を気に入った事もあり、蜀へ嫁いだ。完全武装の侍女達を引き連れ、常に側に侍らせていたという。

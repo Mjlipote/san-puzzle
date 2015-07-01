@@ -1,0 +1,32 @@
+number: 529
+preName: 【亡命単于】於夫羅
+name: 【襤褸の放浪者】於夫羅
+rarity: 5
+group: 群
+arm: 剣兵
+maxLevel: 99
+capability: 14
+initHp: 807
+initAttack: 609
+initRecovery: 104
+finalHp: 1820
+finalAttack: 1342
+finalRecovery: 168
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 単于の矜持
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 不屈なる蛮王
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 南匈奴の悲劇の単于（王）。国を失った於夫羅は、後漢末期の混乱に乗じ、ある時は野盗、ある時は傭兵で糧を得る。献帝の洛陽帰還を援助したことも。

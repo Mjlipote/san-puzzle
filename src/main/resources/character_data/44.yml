@@ -1,0 +1,30 @@
+number: 44
+preName:
+name: 張宝
+rarity: 1
+group: 群
+arm: 鬼謀
+maxLevel: 15
+capability: 2
+initHp: 34
+initAttack: 60
+initRecovery: 16
+finalHp: 145
+finalAttack: 150
+finalRecovery: 52
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 幻影兵の追撃
+    statements:
+      -
+        content: 攻撃の後、弱い再攻撃を行う
+description: 大賢良師・張角の次弟。政治腐敗を正すという大義名分の元、張角と共に挙兵して黄巾の乱を起こした。地公将軍を名乗り、兄の代わりに前線の指揮を執る。

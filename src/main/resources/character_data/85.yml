@@ -1,0 +1,32 @@
+number: 85
+preName: 周瑜
+name: 【美周朗】周瑜
+rarity: 3
+group: 呉
+arm: 鬼謀
+maxLevel: 50
+capability: 10
+initHp: 80
+initAttack: 200
+initRecovery: 112
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 美周郎の軍略
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「呉」攻撃
+strategies:
+  -
+    name: 大都督の論破
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを少し減少させる
+description: 孫策を支えた容姿麗しき盟友。政治や実践指揮に優れた才能を持ち孫家の勇躍を支えた。また、秀麗な容姿をしていたため「美周郎」と称賛される。

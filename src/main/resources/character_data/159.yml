@@ -1,0 +1,32 @@
+number: 159
+preName: 【数奇の才女】蔡文姫
+name: 【胡笳十八拍】蔡文姫
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 1186
+initAttack: 725
+initRecovery: 222
+finalHp: 2348
+finalAttack: 1087
+finalRecovery: 556
+breakHp: 2668
+breakAttack: 1287
+breakRecovery: 676
+skills:
+  -
+    name: 運命の音律
+    turnMax: 35
+    turnMin: 25
+    statements:
+      -
+        content: HPが上限値を超えて大回復する
+strategies:
+  -
+    name: 美詩愛吟
+    statements:
+      -
+        content: ユニットを消したときにHPを大きく回復(回復量 = 自身回復x5)
+description: 数奇な運命をたどった才女。匈奴の副王に嫁いでいたが、曹操の尽力で戻る。その帰郷の喜びと、子と離別する悲しみを胡笳十八拍という詩に残している。

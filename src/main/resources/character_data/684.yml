@@ -1,0 +1,32 @@
+number: 684
+preName:
+name: 【拘束の縛鎖】王双
+rarity: 5
+group: 魏
+arm: 蛮兵
+maxLevel: 50
+capability: 19
+initHp: 611
+initAttack: 325
+initRecovery: 10
+finalHp: 1833
+finalAttack: 878
+finalRecovery: 15
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 絕大なる猛撃
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 敵全体に使用した武将の攻撃力5倍防御無視攻撃
+strategies:
+  -
+    name: 暴風の如き流星
+    statements:
+      -
+        content: 味方の「蛮兵」の攻撃力を3倍、HPを0.7倍にする
+description: 武勇に優れた魏の猛将。流星鎚と呼ばれる鎖付き鉄球の扱いに長ける。魏帝‧曹叡から直々に虎威将軍に任命され、黄金の鎧を賜うという栄誉を得る。

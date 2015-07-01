@@ -1,0 +1,32 @@
+number: 692
+preName:
+name: 【飛刀の名人】祝融
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 50
+capability: 19
+initHp: 453
+initAttack: 375
+initRecovery: 65
+finalHp: 1359
+finalAttack: 1013
+finalRecovery: 98
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 激化する闘争心
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 祝融神ヶ加護
+    statements:
+      -
+        content: 味方の「蛮兵」武将のHPと攻撃力を2倍にする
+description: 南方の有力豪族‧孟獲の妻。火の神の名を名乗り、その末裔を自称する。男勝りの性格で、幾度も負かされ意気消沈した夫に代わり、諸葛亮に勝負を挑む。

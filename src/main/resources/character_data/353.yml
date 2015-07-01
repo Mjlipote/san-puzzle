@@ -1,0 +1,32 @@
+number: 353
+preName: 【王佐の才】荀イク
+name: 【先見之明】荀イク
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 743
+initAttack: 619
+initRecovery: 276
+finalHp: 2079
+finalAttack: 1361
+finalRecovery: 607
+breakHp: 2399
+breakAttack: 1561
+breakRecovery: 727
+skills:
+  -
+    name: 清廉なる神君
+    turnMax: 5
+    turnMin: 3
+    statements:
+      -
+        content: 使用した武将の回復力の5倍のHPを回復させる
+strategies:
+  -
+    name: 比類なき才覚
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力と回復力を2倍にする
+description: 儒学に通じる学者名門の出で、幼い頃から高い評価を得ていた。知識階級に広い人脈があり甥の荀攸を筆頭に後の魏国を支える数多の人材を推挙している。

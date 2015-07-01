@@ -1,0 +1,32 @@
+number: 690
+preName:
+name: 【高貴なる姿】袁氏
+rarity: 5
+group: 漢
+arm: 弓兵
+maxLevel: 50
+capability: 19
+initHp: 390
+initAttack: 359
+initRecovery: 135
+finalHp: 1170
+finalAttack: 969
+finalRecovery: 203
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 士気高揚の煽惑
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止状態を3ターン回復
+strategies:
+  -
+    name: 高貴なる統率
+    statements:
+      -
+        content: 10連撃以上で「弓兵」武将の攻撃力を6倍にする
+description: 名門袁家の御曹司‧袁紹の末娘。父と似て、高貴なる威厳と気品を兼ね備えた少女。自分の前では森羅万象がひれ伏すであろうという絕対の自信を持つ。

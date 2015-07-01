@@ -1,0 +1,32 @@
+number: 81
+preName: 関羽
+name: 関羽
+rarity: 3
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 10
+initHp: 211
+initAttack: 103
+initRecovery: 32
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 義侠の白刃
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「蜀」攻撃
+strategies:
+  -
+    name: 誇り高き武の道
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを少し減少させる
+description: 劉備・張飛と「桃園の誓い」で義兄弟の契りを交わした豪傑。強気を挫き、弱気を助ける義侠心溢れる偉丈夫で、民のために黄巾族討伐に立ち上がる。

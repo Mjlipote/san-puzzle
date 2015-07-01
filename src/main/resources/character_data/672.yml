@@ -1,0 +1,32 @@
+number: 672
+preName:
+name: 【こども】袁術
+rarity: 4
+group: 群
+arm: 剣兵
+maxLevel: 60
+capability: 10
+initHp: 193
+initAttack: 124
+initRecovery: 83
+finalHp: 1298
+finalAttack: 504
+finalRecovery: 167
+breakHp: 1458
+breakAttack: 624
+breakRecovery: 247
+skills:
+  -
+    name: めいもんのだいこうせい
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: ぐんゆうのいしん
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: どこかで見た様な我が儘ザル...いや、蜂蜜好きのお坊ちゃん。「こ、こらっ！お、俺はこうてーだぞ！」

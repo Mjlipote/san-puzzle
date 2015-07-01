@@ -1,0 +1,30 @@
+number: 318
+preName:
+name: 太史慈
+rarity: 2
+group: 呉
+arm: 弓兵
+maxLevel: 20
+capability: 4
+initHp: 122
+initAttack: 152
+initRecovery: 10
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 力強き一矢
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「呉」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 

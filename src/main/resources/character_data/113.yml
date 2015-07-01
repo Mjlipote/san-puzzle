@@ -1,0 +1,32 @@
+number: 113
+preName: 【曹家正室】丁夫人
+name: 【悲嘆】丁夫人
+rarity: 4
+group: 魏
+arm: 神算
+maxLevel: 70
+capability: 8
+initHp: 276
+initAttack: 196
+initRecovery: 197
+finalHp: 1105
+finalAttack: 441
+finalRecovery: 424
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 嘆きの舞
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 母后の慈愛
+    statements:
+      -
+        content: ユニットを消したときにHPを少し回復
+description: 曹操の正室。曹家の跡継ぎとして手塩にかけて育った曹昂が、曹操の失態によって身代わりとなって戦死。そのことが原因で曹操とは離縁することになる。

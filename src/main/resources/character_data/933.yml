@@ -1,0 +1,28 @@
+number: 933
+preName:
+name: 【結集】群雄兵【乙】
+rarity: 4
+group: 群
+arm: 剣兵
+maxLevel: 1
+capability: 1
+initHp: 1000
+initAttack: 500
+initRecovery: 300
+finalHp: 1000
+finalAttack: 500
+finalRecovery: 300
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 来たるべき戦に向け招集された小隊。歴戦の精鋭たちによって構成されており、その連携攻撃の前には、音に聞こえた豪傑でさえ、無事では済まないだろう。

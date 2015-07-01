@@ -1,0 +1,30 @@
+number: 458
+preName:
+name: 【魏兵賛美】ミクファン
+rarity: 2
+group: 魏
+arm: 剣兵
+maxLevel: 10
+capability: 1
+initHp: 16
+initAttack: 42
+initRecovery: 8
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 天使に捧ぐ幻想曲
+    turnMax: 39
+    turnMin: 
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 元曹操軍の兵卒。刀剣の扱いが巧く、熟練の域に達している。曹操に鍛えられた策士の力を存分に発揮し、美しく、力強い詩で、皆を泣かせる。

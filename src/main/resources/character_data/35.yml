@@ -1,0 +1,32 @@
+number: 35
+preName: 【飛将の右腕】高順
+name: 【陥陣営】高順
+rarity: 4
+group: 群
+arm: 騎兵
+maxLevel: 70
+capability: 11
+initHp: 182
+initAttack: 695
+initRecovery: 91
+finalHp: 364
+finalAttack: 1390
+finalRecovery: 114
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 陥陣営
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、使用した武将の攻撃力が2倍になる
+strategies:
+  -
+    name: 決死の諫言
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 呂布配下の筆頭武将。攻めた敵陣は必ず落とすことから「陥陣営」と称される。その苛烈な攻めで、劉備の守る沛城を落とし、援軍の夏候惇をも撃退した。

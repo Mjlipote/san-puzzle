@@ -1,0 +1,30 @@
+number: 257
+preName: 劉軍兵長
+name: 【上級】劉軍兵長
+rarity: 3
+group: 蜀
+arm: 騎兵
+maxLevel: 30
+capability: 
+initHp: 119
+initAttack: 196
+initRecovery: 17
+finalHp: 239
+finalAttack: 294
+finalRecovery: 37
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 劉軍兵の剛槍
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「蜀」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備軍兵卒の長。１０人程度の兵を率いている。劉備のもとで経験を重ねてきており、少数で多数の兵に勝つ術を心得ている優秀な古参兵である。

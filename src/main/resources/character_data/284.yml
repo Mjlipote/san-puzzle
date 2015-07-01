@@ -1,0 +1,30 @@
+number: 284
+preName: 
+name: 蔡瑁
+rarity: 2
+group: 漢
+arm: 鬼謀
+maxLevel: 20
+capability: 4
+initHp: 100
+initAttack: 53
+initRecovery: 16
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 暗殺の策謀
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: ３ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 荊州の有力豪族。荊州刺史に任じられた劉表に力を貸す。私兵を投入して、劉表の荊州支配を成功させた。後に次姉が劉表に嫁ぎ、彼の一族となる。

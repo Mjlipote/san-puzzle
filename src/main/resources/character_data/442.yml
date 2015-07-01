@@ -1,0 +1,32 @@
+number: 442
+preName: 【清風明月】KAITO
+name: 【安隠を運ぶ歌】KAITO
+rarity: 4
+group: 魏
+arm: 剣兵
+maxLevel: 70
+capability: 10
+initHp: 927
+initAttack: 406
+initRecovery: 19
+finalHp: 2006
+finalAttack: 810
+finalRecovery: 19
+breakHp: 2166
+breakAttack: 930
+breakRecovery: 99
+skills:
+  -
+    name: 気分爽快！
+    turnMax: 24
+    turnMin: 14
+    statements:
+      -
+        content: KAITOの攻撃力を2ターンの間2倍にする
+strategies:
+  -
+    name: 清風の楽音
+    statements:
+      -
+        content: 攻撃後、最も攻撃力が高いKAITOの攻撃力3倍の追撃
+description: 雪の終南山に、新たに舞い降りた天人の一人。コミカルなものからじっくり聞かせるものまで幅広い才能を見せる。「そろそろ、俺の出番かな？」

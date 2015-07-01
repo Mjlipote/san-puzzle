@@ -1,0 +1,32 @@
+number: 45
+preName: 張宝
+name: 【地公将軍】張宝
+rarity: 2
+group: 群
+arm: 鬼謀
+maxLevel: 30
+capability: 3
+initHp: 123
+initAttack: 143
+initRecovery: 49
+finalHp: 215
+finalAttack: 392
+finalRecovery: 74
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾の妖術
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 幻影兵の追撃
+    statements:
+      -
+        content: 攻撃の後、弱い再攻撃を行う
+description: 大賢良師・張角の次弟。突風や落雷を自在に起こすことができる妖術使いで、さまざまな術を使って皇甫嵩や朱儁が率いる官軍を撃退している。

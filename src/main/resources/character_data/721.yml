@@ -1,0 +1,32 @@
+number: 721
+preName:
+name: 【豪華絢爛】賀斉
+rarity: 6
+group: 呉
+arm: 蛮兵
+maxLevel: 99
+capability: 50
+initHp: 2012
+initAttack: 775
+initRecovery: 40
+finalHp: 4024
+finalAttack: 1395
+finalRecovery: 56
+breakHp: 4344
+breakAttack: 1595
+breakRecovery: 176
+skills:
+  -
+    name: 呉の絕技
+    turnMax: 30
+    turnMin: 15
+    statements:
+      -
+        content: 使用した武将の攻撃力30倍の「呉」攻撃
+strategies:
+  -
+    name: 盤石なる攻勢
+    statements:
+      -
+        content: 味方の「蛮兵」と「弓兵」武将の攻撃力を2倍にする
+description: 剛胆かつ豪奢な呉の武将。山越を初めとした異民族討伐で功を上げた。その軍勢は派手で華美な武具や軍船で仕立てられ、威容山の如しと賞されている。

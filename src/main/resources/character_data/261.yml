@@ -1,0 +1,30 @@
+number: 261
+preName: 于禁
+name: 【益寿亭侯】于禁
+rarity: 3
+group: 魏
+arm: 弓兵
+maxLevel: 50
+capability: 6
+initHp: 247
+initAttack: 182
+initRecovery: 59
+finalHp: 493
+finalAttack: 365
+finalRecovery: 118
+breakHp: 653
+breakAttack: 445
+breakRecovery: 158
+skills:
+  -
+    name: 手堅き用兵
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操配下の清廉厳格な将。その功により益寿亭侯に封じられた延津の戦いでは、袁紹の別動隊を討ち取り、殿軍の指揮でも奮戦するなど手腕を発揮した。

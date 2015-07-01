@@ -1,0 +1,32 @@
+number: 112
+preName:
+name: 【曹家正室】丁夫人
+rarity: 3
+group: 魏
+arm: 神算
+maxLevel: 25
+capability: 5
+initHp: 26
+initAttack: 33
+initRecovery: 25
+finalHp: 325
+finalAttack: 206
+finalRecovery: 208
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 嘆きの舞
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 母后の慈愛
+    statements:
+      -
+        content: ユニットを消したときにHPを少し回復
+description: 曹操の正室。劉夫人が曹昂の出産直後に亡くなった為、その後に正室として迎えられた。子宝に恵まれなかったので曹昂を実の子のように可愛がっている。

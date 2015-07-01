@@ -1,0 +1,32 @@
+number: 708
+preName:
+name: 【亡父の復讐】夏侯覇
+rarity: 4
+group: 魏
+arm: 弓兵
+maxLevel: 25
+capability: 7
+initHp: 301
+initAttack: 212
+initRecovery: 36
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強化する鬪争心
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 相伝の弓技
+    statements:
+      -
+        content: 味方の「魏」武将の攻擊力と回復力を1.8倍にする
+description: 弓馬に優れた魏の勇将。曹操の盟友である夏侯淵の息子であり、威‧和‧恵‧栄ら弟たちと共に、幼き頃からその英才ぶりは評判であった。

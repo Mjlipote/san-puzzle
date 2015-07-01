@@ -1,0 +1,30 @@
+number: 1051
+preName:
+name: 【袁譚の能臣】辛ピ
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 25
+capability: 5
+initHp: 116
+initAttack: 184
+initRecovery: 100
+finalHp: 464
+finalAttack: 460
+finalRecovery: 250
+breakHp: 624
+breakAttack: 540
+breakRecovery: 290
+skills:
+  -
+    name: 戦意高揚の煽惑
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止・ユニット封じ状態を3ターン回復する
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹配下の政治家で、その死後は長子・袁譚に仕える。袁尚との跡目争いで窮地に陥った主を救うため、使者として曹操の下に赴き、和睦交渉を成立させた。

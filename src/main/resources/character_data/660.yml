@@ -1,0 +1,32 @@
+number: 660
+preName: 【先見の献策】田豊
+name: 【報われぬ賢才】田豊
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 913
+initAttack: 970
+initRecovery: 254
+finalHp: 1735
+finalAttack: 1358
+finalRecovery: 635
+breakHp: 2055
+breakAttack: 1558
+breakRecovery: 755
+skills:
+  -
+    name: 機略縦横
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「蜀」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 夢幻なる持久戦
+    statements:
+      -
+        content: 味方の「漢」武将のHPを2倍、攻撃力を1.8倍にする
+description: 袁紹配下の軍師。曹操との対決に臨み、持久戦略を主張したが、袁紹は短期決戦戦略を採用、懸命に諫止した為、袁紹の怒りを買って投獄されてしまった。

@@ -1,0 +1,34 @@
+number: 939
+preName:
+name: 【聖夜の贈り物】公孫姫
+rarity: 5
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 20
+initHp: 1225
+initAttack: 442
+initRecovery: 94
+finalHp: 2695
+finalAttack: 1414
+finalRecovery: 207
+breakHp: 2935
+breakAttack: 1574
+breakRecovery: 287
+skills:
+  -
+    name: 戦意高揚の煽惑
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止・ユニット封じ状態を3ターン回復する
+strategies:
+  -
+    name: 白輝の贈呈者
+    statements:
+      -
+        content: 4兵種以上で編成時、全武将の攻撃力と回復力1.8倍
+      -
+        content: 最大HPまで回復した時、余剰値2.5倍の再攻撃
+description: 公孫サンの娘。西方には、聖夜に子供たちへ贈り物を配り歩く、不思議な人物がいるらしい。「ふっ、見てしまったのか...聖夜駆ける白き稲妻の姿を。」

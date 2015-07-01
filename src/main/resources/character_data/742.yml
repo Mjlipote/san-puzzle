@@ -1,0 +1,32 @@
+number: 742
+preName:
+name: 【冷静沈着】司馬師
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 50
+capability: 20
+initHp: 395
+initAttack: 349
+initRecovery: 125
+finalHp: 1383
+finalAttack: 1047
+finalRecovery: 250
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏軍への転換
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「呉」と「蜀」ユニットを「魏」ユニットに変換
+strategies:
+  -
+    name: 躊躇なき下命
+    statements:
+      -
+        content: 味方の「鬼謀」武将の攻撃力と回復力を2倍にする
+description: 父の司馬懿と共に曹魏に対するクーデターを鮮やかに成功させ西晉の基礎を築いた英才。若くからその冷静沈着さ、先読みに長ける事で、高く評価された。

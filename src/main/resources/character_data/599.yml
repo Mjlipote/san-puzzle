@@ -1,0 +1,30 @@
+number: 599
+preName: 高覧
+name: 【官渡攻城】高覧
+rarity: 3
+group: 漢
+arm: 槍兵
+maxLevel: 50
+capability: 6
+initHp: 274
+initAttack: 389
+initRecovery: 60
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 全軍の寡兵
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹配下の勇将で、顔良、文醜亡き後は、張コウと共に先鋒を務めた。官渡で曹操の本陣攻めに失敗、曹操軍に投降し、今度は袁紹軍追撃の先鋒となる。

@@ -1,0 +1,34 @@
+number: 936
+preName:
+name: 【聖夜の贈り物】王元姫
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 1225
+initAttack: 430
+initRecovery: 113
+finalHp: 2450
+finalAttack: 1419
+finalRecovery: 339
+breakHp: 2690
+breakAttack: 1579
+breakRecovery: 419
+skills:
+  -
+    name: 戦意高揚の煽惑
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止・ユニット封じ状態を3ターン回復する
+strategies:
+  -
+    name: 幸福の時間
+    statements:
+      -
+        content: 4兵種以上で編成時、全武将の攻撃力と回復力1.8倍
+      -
+        content: 最大HPまで回復した時、余剰値2.5倍の再攻撃
+description: 司馬昭の妻で王朗の孫。聖なる夜、普段から質素倹約が心情の王元姫も、少しだけおめかし。「たまの贅沢くらい、問題ないですよね、子上君？」

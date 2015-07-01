@@ -1,0 +1,32 @@
+number: 490
+preName:
+name: 【重厚なる将】曹仁
+rarity: 4
+group: 魏
+arm: 剣兵
+maxLevel: 35
+capability: 11
+initHp: 492
+initAttack: 277
+initRecovery: 75
+finalHp: 1175
+finalAttack: 512
+finalRecovery: 139
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 一気呵成
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 不退転の将
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 成長を重ねる曹操軍の勇将。戦いを経るにつれ、戦術、戦略眼も磨かれ、官渡の戦いでは、離反郡県を素早く再帰順させ、会戦の環境作りに貢献した。

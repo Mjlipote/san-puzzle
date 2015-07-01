@@ -1,0 +1,30 @@
+number: 345
+preName: 凌統
+name: 【確執の果てに】凌統
+rarity: 3
+group: 呉
+arm: 槍兵
+maxLevel: 50
+capability: 8
+initHp: 241
+initAttack: 305
+initRecovery: 70
+finalHp: 483
+finalAttack: 641
+finalRecovery: 141
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 特攻隊の猛進
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 使用した武将の攻撃力50倍の「呉」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 謹厳実直な剛将。孫策の挙兵に従った父親の戦死により、十五歳で後を継いだ。攻守共に粘り強い戦いを得意とし、南郡攻めでは一人本陣を守り通した。

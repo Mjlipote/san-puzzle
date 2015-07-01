@@ -1,0 +1,32 @@
+number: 506
+preName: ー
+name: 【意趣遺恨】張繍
+rarity: 4
+group: 群
+arm: 騎兵
+maxLevel: 35
+capability: 11
+initHp: 388
+initAttack: 232
+initRecovery: 124
+finalHp: 922
+finalAttack: 545
+finalRecovery: 192
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 能臣重用
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「群」武将の攻撃力1.3倍にする
+strategies:
+  -
+    name: 非凡なる凡才
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 荊州北部の群雄。董卓の一軍閥だった叔父・張済の死後、その軍勢を受け継ぐ。参謀の賈クを信任、賈クもまた張繍の期待に応え、曹操相手に善く戦った。

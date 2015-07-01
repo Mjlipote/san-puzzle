@@ -1,0 +1,30 @@
+number: 558
+preName:
+name: 【馬子にも衣装】ムック
+rarity: 2
+group: 魏
+arm: 鬼謀
+maxLevel: 20
+capability: 5
+initHp: 250
+initAttack: 186
+initRecovery: 35
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: よめています！
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 

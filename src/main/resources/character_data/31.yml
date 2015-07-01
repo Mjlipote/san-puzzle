@@ -1,0 +1,32 @@
+number: 31
+preName: 【清流士大夫】盧植
+name: 【博士出仕】盧植
+rarity: 3
+group: 漢
+arm: 神算
+maxLevel: 25
+capability: 5
+initHp: 152
+initAttack: 133
+initRecovery: 62
+finalHp: 455
+finalAttack: 399
+finalRecovery: 108
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾征伐
+    turnMax: 25
+    turnMin: 17
+    statements:
+      -
+        content: 敵の「群」武将全員に超特大「漢」攻撃 
+strategies:
+  -
+    name: 憂国の士
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを少し減少させる
+description: 知勇兼備の憂国の将軍。学識で国を支えるという目的があったため、州郡からの出仕は全て断り、中央から「博士」として召し出されると初めて出仕した。

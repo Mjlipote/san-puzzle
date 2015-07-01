@@ -1,0 +1,32 @@
+number: 291
+preName: 文聘
+name: 【江夏太守】文聘
+rarity: 3
+group: 魏
+arm: 蛮兵
+maxLevel: 50
+capability: 6
+initHp: 333
+initAttack: 171
+initRecovery: 38
+finalHp: 832
+finalAttack: 376
+finalRecovery: 75
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 水際の防衛
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: 頑強なる布陣
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを少し減少させる
+description: 誠実果断な武勇の士。旧主への忠節を曹操は高く評価、対孫権最前線となる江夏太守に任じる。文聘は曹操の高い期待に応えて戦場で活躍を見せた。

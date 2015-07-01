@@ -1,0 +1,34 @@
+number: 833
+preName:
+name: 【軍神】関羽
+rarity: 7
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 50
+initHp: 1869
+initAttack: 666
+initRecovery: 56
+finalHp: 4112
+finalAttack: 1665
+finalRecovery: 101
+breakHp: 4512
+breakAttack: 1865
+breakRecovery: 221
+skills:
+  -
+    name: 蜀漢群の速攻勢
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 1ターンの間、「蜀」「漢」「群」武将の攻撃力を1.5倍
+strategies:
+  -
+    name: 軍神の神気
+    statements:
+      -
+        content: 「蜀‧漢」を入れた編成時、全武将の攻撃力2.5倍
+      -
+        content: 「回復封じ‧技能封じ‧ユニット封じ」を確率で無効
+description: 劉備・張飛と義兄弟の契りを交わした英傑。劉備の漢中王即位に呼応して、関羽は荊州で北進の兵を挙げる。兄弟と共に抱いた長年の夢を叶えるために。

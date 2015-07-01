@@ -1,0 +1,34 @@
+number: 913
+preName:
+name: 【蘆塘寨の女盗賊】王桃
+rarity: 6
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 22
+initHp: 452
+initAttack: 214
+initRecovery: 25
+finalHp: 1130
+finalAttack: 535
+finalRecovery: 75
+breakHp: 2530
+breakAttack: 1415
+breakRecovery: 115
+skills:
+  -
+    name: 漢群変転‧糧食確保（魏）
+    turnMax: 30
+    turnMin: 15
+    statements:
+      -
+        content: ユニットの「漢」「群」を「蜀」へ「魏」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 女盜賊の絶技
+    statements:
+      -
+        content: 味方の「剣・槍・弓兵」武将の攻撃力を2.2倍
+      -
+        content: 全ての武将から受けるダメージを減少させる
+description: 蘆塘寨の盜賊‧王令公の娘で、その頭領の座を受け継いだ女傑。旅の青年‧関索に敗れた王桃は、盜賊から足を洗うことを決意。次妻として連れ添い、寨を出る。

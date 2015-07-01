@@ -1,0 +1,32 @@
+number: 831
+preName: 【依存する心】厳氏
+name: 【崩落の心魂】厳氏
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 27
+initHp: 1539
+initAttack: 1028
+initRecovery: 294
+finalHp: 2462
+finalAttack: 1542
+finalRecovery: 441
+breakHp: 2742
+breakAttack: 1742
+breakRecovery: 561
+skills:
+  -
+    name: 高尚と高慢の狭間
+    turnMax: 17
+    turnMin: 12
+    statements:
+      -
+        content: 敵単体にHPが低いほど、強力な攻撃を行う
+strategies:
+  -
+    name: 後悔は遅すぎて
+    statements:
+      -
+        content: 「群」武将のHPを2.2倍、回復力を1.8倍にする
+description: 呂布の正妻。呂布は戦場に散り、厳氏と家族は許都へ送られた。彼女の胸に去来するは、敗戦を呼び込んだ己の弱さへの自責か、あるいは、亡き夫への哀悼か。

@@ -1,0 +1,34 @@
+number: 707
+preName: 【才学博通】司馬懿
+name: 【鋭敏なる献策】司馬懿
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 24
+initHp: 515
+initAttack: 585
+initRecovery: 51
+finalHp: 1030
+finalAttack: 702
+finalRecovery: 62
+breakHp: 2230
+breakAttack: 1902
+breakRecovery: 782
+skills:
+  -
+    name: 魏軍集結
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 聡明なる采配
+    statements:
+      -
+        content: ユニットを6つ以上同時消しで攻撃力3倍
+      -
+        content: 最大6倍
+description: 文官として出仕するも、徐々に軍才を認められ、後に機動戦と孫呉を卷き込んだ外交で、蜀の北伐を尽く防ぐ。また、激情家だが感情を隱すのに長けていた。

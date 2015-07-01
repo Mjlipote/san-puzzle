@@ -1,0 +1,32 @@
+number: 482
+preName:
+name: 【暴虐非道】董卓
+rarity: 6
+group: 群
+arm: 蛮兵
+maxLevel: 50
+capability: 30
+initHp: 666
+initAttack: 243
+initRecovery: 0
+finalHp: 1998
+finalAttack: 729
+finalRecovery: 0
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 残虐なる搾取
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 敵単体に大ダメージを与え、HPを大回復する
+strategies:
+  -
+    name: 暴虐の王
+    statements:
+      -
+        content: 4兵種で同時に攻撃した時、全武将の攻撃力2.5倍
+description: 悪逆非道な暴雄。袁紹や曹操が反董卓連合を結成すると、洛陽の袁家一族や弘農王ら不穏分子を次々と粛清。あまたの流血の上に、盤石の迎撃態勢を整えた。

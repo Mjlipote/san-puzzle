@@ -1,0 +1,32 @@
+number: 1068
+preName:
+name: 【母の日】卞皇后
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 503
+initAttack: 494
+initRecovery: 346
+finalHp: 1509
+finalAttack: 1235
+finalRecovery: 692
+breakHp: 1829
+breakAttack: 1435
+breakRecovery: 812
+skills:
+  -
+    name: 慈愛の心
+    turnMax: 30
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 母の幸福
+    statements:
+      -
+        content: 全武将の回復力を1.5倍
+description: 

@@ -1,0 +1,34 @@
+number: 849
+preName: 【魔王の腹心】李儒
+name: 【狂気遺言】李儒
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 26
+initHp: 1698
+initAttack: 949
+initRecovery: -54
+finalHp: 3566
+finalAttack: 1900
+finalRecovery: -162
+breakHp: 3886
+breakAttack: 2100
+breakRecovery: -42
+skills:
+  -
+    name: 群雄への大変転
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: ユニットの「魏」「呉」「漢」を「群」に変化させる
+strategies:
+  -
+    name: 惡鬼の如き狂気
+    statements:
+      -
+        content: 味方の「鬼謀」の攻撃力を3倍にする
+      -
+        content: 2兵種以上で編成した時、全武将のHP0.25倍
+description: 董卓配下の謀士。呂布によって董卓が誅殺されると、彼も同罪として四つ裂きの刑に処され、惨死した。惡逆を尽くした軍師に相応しい、惨い最期であった。

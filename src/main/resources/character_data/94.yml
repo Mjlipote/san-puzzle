@@ -1,0 +1,30 @@
+number: 94
+preName:
+name: 波才
+rarity: 1
+group: 群
+arm: 剣兵
+maxLevel: 15
+capability: 5
+initHp: 62
+initAttack: 73
+initRecovery: 22
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾の気勢
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間、敵の防御力がダウン 
+strategies:
+  -
+    name: なし
+    statements:
+description: 黄巾党の指揮官の1人。南陽の張曼成や、博陵の張燕らと同じ時期に潁川で挙兵し、黄巾党に加わる。統率力に優れていたので一軍を任される。

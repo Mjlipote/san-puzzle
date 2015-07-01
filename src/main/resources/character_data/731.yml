@@ -1,0 +1,32 @@
+number: 731
+preName: 【飛将姫】呂姫
+name: 【無双姫】呂姫
+rarity: 6
+group: 群
+arm: 弓兵
+maxLevel: 99
+capability: 27
+initHp: 1634
+initAttack: 1462
+initRecovery: 156
+finalHp: 2451
+finalAttack: 1828
+finalRecovery: 187
+breakHp: 2731
+breakAttack: 2028
+breakRecovery: 307
+skills:
+  -
+    name: 飛将姫降臨
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「群」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 天下無双の一閃
+    statements:
+      -
+        content: 「群」武将の攻撃力を2.2倍、回復力を1.5倍にする
+description: 三国志最強と言われた呂布の娘。父讓りの武勇に磨きをかけて、張遼‧高順ら強者揃いの呂布軍においても頭角を現す。弓術にかけては父親以上との噂も。

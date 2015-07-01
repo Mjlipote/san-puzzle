@@ -1,0 +1,32 @@
+number: 640
+preName: 【雑号将軍】カク昭
+name: 【頑健なる防衛】カク昭
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 23
+initHp: 628
+initAttack: 484
+initRecovery: 90
+finalHp: 1382
+finalAttack: 1065
+finalRecovery: 108
+breakHp: 3382
+breakAttack: 1425
+breakRecovery: 188
+skills:
+  -
+    name: 強靭なる守護
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 6ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: 不動頑健の守衛
+    statements:
+      -
+        content: 味方の全武将のHPを2倍にする
+description: 勇猛果敢な魏の武将。曹操から曹叡まで三代に渡り仕えた。陳倉の戦いでは、孔明に、彼が直接指揮を執った戦いとしては、初の敗戦を味あわせた。

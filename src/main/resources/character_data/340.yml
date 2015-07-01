@@ -1,0 +1,32 @@
+number: 340
+preName:
+name: 【白馬長史】公孫サン
+rarity: 6
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 40
+initHp: 536
+initAttack: 304
+initRecovery: 129
+finalHp: 2412
+finalAttack: 1368
+finalRecovery: 258
+breakHp: 2692
+breakAttack: 1568
+breakRecovery: 378
+skills:
+  -
+    name: 閃く宝剣の輝き
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 煌めく白馬上の英姿
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: 名家に生まれるが生母の身分故、待遇は低く、己の才覚で頭角を現す。『白馬義従』と呼ばれる精鋭の騎兵部隊を率い、北方の異民族討伐で成果を上げた。

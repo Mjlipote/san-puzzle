@@ -1,0 +1,32 @@
+number: 827
+preName: 【純真慈母】糜夫人
+name: 【母の決意】糜夫人
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 1862
+initAttack: 877
+initRecovery: 351
+finalHp: 2700
+finalAttack: 1228
+finalRecovery: 527
+breakHp: 2980
+breakAttack: 1428
+breakRecovery: 647
+skills:
+  -
+    name: 不屈の献身
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 決意示す力
+    statements:
+      -
+        content: 「蜀」武将のHPを2.2倍、回復力を1.8倍にする
+description: 芯の強い劉備の第一夫人。戦場で深手を負った糜夫人は、ただ幼い阿斗の生き残る未来を願う。駆けつけた趙雲に我が子を託し、彼女は静かにその役目を終える。

@@ -1,0 +1,32 @@
+number: 957
+preName: 【道中記旅人編】司馬懿
+name: 【道中記友情編】司馬懿
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 997
+initAttack: 727
+initRecovery: 299
+finalHp: 1595
+finalAttack: 1308
+finalRecovery: 448
+breakHp: 1835
+breakAttack: 1468
+breakRecovery: 528
+skills:
+  -
+    name: 魏の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「魏」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: ･･･さて、次はどこに行くのです？
+    statements:
+      -
+        content: 味方の「魏」「群」武将の回復力を2倍にする
+description: 司馬懿はいつの間にか董白との旅に馴染んだ自分に気が付く。本当にこのまま、天下を･･･？「･･･さて、次はどこに行くのです？董白さん？」

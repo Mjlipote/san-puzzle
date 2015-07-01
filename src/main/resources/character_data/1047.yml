@@ -1,0 +1,36 @@
+number: 1047
+preName: 【動乱の予感】花鬘
+name: 【無二の連携】花鬘
+rarity: 6
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 25
+initHp: 1275
+initAttack: 855
+initRecovery: 274
+finalHp: 2550
+finalAttack: 1710
+finalRecovery: 547
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確固たる防備・糧食確保（蜀）
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+      -
+        content: 「蜀」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 南蛮王の娘
+    statements:
+      -
+        content: 3連撃以上で「蛮兵」の攻撃力があがり、最大3.5倍
+      -
+        content: ユニットを動かせる時間が延びる
+description: 南蛮王・孟獲と妻・祝融の娘。戦いへ向かう花鬘に怯懦はない。心許す親友が、傍にいてくれるから、花鬘は生まれ育った地を守るため、戦うことができる。

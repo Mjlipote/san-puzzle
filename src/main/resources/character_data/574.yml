@@ -1,0 +1,32 @@
+number: 574
+preName:
+name: 【放浪の果てに】馬岱
+rarity: 4
+group: 蜀
+arm: 騎兵
+maxLevel: 35
+capability: 7
+initHp: 308
+initAttack: 327
+initRecovery: 58
+finalHp: 1230
+finalAttack: 654
+finalRecovery: 116
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 着実なる攻勢
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力5倍防御無視攻撃
+strategies:
+  -
+    name: 馬氏の継手
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力と回復力を1.8倍にする
+description: 馬超の族弟にして、若い頃からの片腕的存在。馬超が劉備に帰順した際に付き従い、以降は蜀の忠臣として、永く活躍し、北伐や南進に参加した。

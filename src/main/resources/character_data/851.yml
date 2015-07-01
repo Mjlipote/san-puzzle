@@ -1,0 +1,34 @@
+number: 851
+preName: 【奇襲の傷跡】孫策
+name: 【燃え盛る最後の炎】孫策
+rarity: 7
+group: 呉
+arm: 剣兵
+maxLevel: 99
+capability: 40
+initHp: 1113
+initAttack: 1714
+initRecovery: -190
+finalHp: 2061
+finalAttack: 2571
+finalRecovery: -492
+breakHp: 2461
+breakAttack: 2771
+breakRecovery: -372
+skills:
+  -
+    name: 超激化する闘争心
+    turnMax: 20
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.5倍にする
+strategies:
+  -
+    name: 終焉へと至る炎
+    statements:
+      -
+        content: 全武将のHPが半分、攻撃力が2倍になる
+      -
+        content: 攻撃力は連撃数に応じ上昇し、7連撃で最大6倍になる
+description: 若くして江東を制した戦の天才。残された時間の短さを知っても、燃え盛る闘志は、孫策を闘いへと駆り立てる。闘争の化身と化した男が戦場に吼えるーー！

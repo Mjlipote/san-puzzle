@@ -1,0 +1,32 @@
+number: 272
+preName:
+name: 【呉下阿蒙】呂蒙
+rarity: 4
+group: 呉
+arm: 鬼謀
+maxLevel: 50
+capability: 8
+initHp: 300
+initAttack: 294
+initRecovery: 4
+finalHp: 750
+finalAttack: 588
+finalRecovery: 8
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 大器刮目
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「漢」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 孫呉の荒武者
+    statements:
+      -
+        content: 味方の「呉」武将のHPを1.5倍にする
+description: 孫権配下の軍師。勇敢な武人として評価されていたが教養面は皆無であった。孫権から諭され、阿蒙（蒙ちゃん）呼ばわり返上を誓い勉学に励むことに。

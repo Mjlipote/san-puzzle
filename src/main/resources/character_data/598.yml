@@ -1,0 +1,30 @@
+number: 598
+preName:
+name: 高覧
+rarity: 2
+group: 漢
+arm: 槍兵
+maxLevel: 20
+capability: 3
+initHp: 122
+initAttack: 179
+initRecovery: 30
+finalHp: 323
+finalAttack: 410
+finalRecovery: 64
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 全軍の寡兵
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹配下の勇将で、顔良、文醜亡き後は、張コウと共に先鋒を務めた。烏巣急襲のため、本陣を離れた曹操の隙を突き、曹操軍の官渡本陣を攻める。

@@ -1,0 +1,32 @@
+number: 481
+preName: 【良家の俊英】陸遜
+name: 【高雅たる英姿】陸遜
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 1278
+initAttack: 542
+initRecovery: 57
+finalHp: 3194
+finalAttack: 1354
+finalRecovery: 143
+breakHp: 3514
+breakAttack: 1554
+breakRecovery: 263
+skills:
+  -
+    name: 神技謀略
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 俊英の指揮
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力と回復力を2倍にする
+description: 呉の四姓と呼ばれる孫家と同等家格を誇る名家の出身で、深慮遠謀の智将、政治家。戦闘、政治、策謀を並列に操る、広く自由な戦略眼を持っていた。

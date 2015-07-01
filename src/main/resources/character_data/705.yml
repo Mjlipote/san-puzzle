@@ -1,0 +1,30 @@
+number: 705
+preName: 【幽州刺史】袁熙
+name: 【中山逃走】袁熙
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 30
+capability: 9
+initHp: 500
+initAttack: 283
+initRecovery: 124
+finalHp: 1000
+finalAttack: 708
+finalRecovery: 198
+breakHp: 1160
+breakAttack: 788
+breakRecovery: 238
+skills:
+  -
+    name: 強靭なる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹の次男。袁紹の死後、家督争いに巻き込まれ、弟‧袁尚を匿うが、その際、協力したのは異民族‧烏丸であり、任地の幽州では人望があったらしい。

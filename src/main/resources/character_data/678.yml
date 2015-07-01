@@ -1,0 +1,32 @@
+number: 678
+preName:
+name: 【誠実なる士】馬良
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 50
+capability: 18
+initHp: 598
+initAttack: 328
+initRecovery: 72
+finalHp: 1196
+finalAttack: 656
+finalRecovery: 144
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「呉」と「桃」を、「蜀」に変化させる
+strategies:
+  -
+    name: 賢良方正
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと回復力を2倍にする
+description: 馬謖の実兄で、蜀の政治家。眉毛のみ白毛であり、また馬氏五兄弟の中で最も優秀だと噂された事から、傑出の例えとして『白眉』という言葉が生まれた。

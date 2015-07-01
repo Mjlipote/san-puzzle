@@ -1,0 +1,34 @@
+number: 1049
+preName:
+name: 【美花の憂鬱】甄姫
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 27
+initHp: 873
+initAttack: 612
+initRecovery: 415
+finalHp: 1921
+finalAttack: 1102
+finalRecovery: 623
+breakHp: 2201
+breakAttack: 1302
+breakRecovery: 743
+skills:
+  -
+    name: 魏軍への変転
+    turnMax: 17
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「群」と「桃」を、「魏」に変化させる
+strategies:
+  -
+    name: 美姫の吐息
+    statements:
+      -
+        content: 「鬼謀」武将のHPと攻撃力を1.5倍にする
+      -
+        content: 必殺技の威力を1.5倍にする
+description: 三国志を代表する美女の1人。元々他家の女であった自覚から、花見を満足に楽しめない甄姫。だが、その物憂げな表情は、無意識の内に男たちを魅了する。

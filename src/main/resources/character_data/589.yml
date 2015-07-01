@@ -1,0 +1,32 @@
+number: 589
+preName: 【新時代の智将】姜維
+name: 【孔明の愛弟子】姜維
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 24
+initHp: 717
+initAttack: 570
+initRecovery: 114
+finalHp: 1576
+finalAttack: 1254
+finalRecovery: 148
+breakHp: 3776
+breakAttack: 1814
+breakRecovery: 308
+skills:
+  -
+    name: 蜀の超攻勢
+    turnMax: 37
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 勇ましき剛槍
+    statements:
+      -
+        content: 味方の「槍兵」武将のHPと攻撃力を2倍にする
+description: 文武両道に優れた武将。『天水の麒麟児』の異名を持つ。孔明に「思慮精密」と評され、その懐刀となるが、一方で、趙雲と互角の腕前も持っていた。

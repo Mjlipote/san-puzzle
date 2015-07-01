@@ -1,0 +1,32 @@
+number: 421
+preName:
+name: 【二喬の姉】大喬
+rarity: 4
+group: 呉
+arm: 弓兵
+maxLevel: 25
+capability: 7
+initHp: 295
+initAttack: 222
+initRecovery: 67
+finalHp: 1033
+finalAttack: 666
+finalRecovery: 168
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 月満ちる奏楽
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: あまねく穏和の音
+    statements:
+      -
+        content: 味方の「呉」武将のHPと回復力を1.8倍にする
+description: 名士・喬公の上の娘。妹の小喬と共に、その美貌を称えられて「二喬」と呼ばれた。妹と二人大陸の戦乱を憂い、英雄が天下を治める日を待っている。

@@ -1,0 +1,32 @@
+number: 124
+preName:
+name: 【鉄脊蛇矛】程普
+rarity: 3
+group: 呉
+arm: 槍兵
+maxLevel: 25
+capability: 6
+initHp: 64
+initAttack: 38
+initRecovery: 19
+finalHp: 800
+finalAttack: 238
+finalRecovery: 158
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 程公の威厳
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「魏」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 宿将の守り
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを減少させる
+description: 孫呉三代に仕えた宿老。武勇に優れ、「鉄脊蛇矛」を自在に使いこなす。董卓軍の将・胡軫を一騎打ちで討ち取るなど猛者ぶりを見せている。

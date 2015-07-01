@@ -1,0 +1,30 @@
+number: 98
+preName:
+name: 李カク
+rarity: 1
+group: 群
+arm: 剣兵
+maxLevel: 15
+capability: 5
+initHp: 55
+initAttack: 80
+initRecovery: 15
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 非道な急襲
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃 
+strategies:
+  -
+    name: なし
+    statements:
+description: 董卓配下の非道な将。董卓政権下では洛陽方面の制圧を命じられ、エン洲と豫州を蹂躙・虐殺して回った。彼の通った場所には死体の山ができたという。

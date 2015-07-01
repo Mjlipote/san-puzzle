@@ -1,0 +1,32 @@
+number: 710
+preName:
+name: 【虎豹騎隊長】曹真
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 50
+capability: 17
+initHp: 437
+initAttack: 324
+initRecovery: 103
+finalHp: 1530
+finalAttack: 810
+finalRecovery: 144
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏の妙技
+    turnMax: 20
+    turnMin: 10
+    statements:
+      -
+        content: 使用した武将の攻撃力20倍の「魏」攻撃
+strategies:
+  -
+    name: 的確なる防衛
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを半減させる
+description: 曹操から曹叡まで三代に渡り、魏に仕えた武将。曹操の挙兵に呼応した父親死亡後、曹操に我が子同様に育てられた為、部下や弱者への情に厚かった。

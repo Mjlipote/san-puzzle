@@ -1,0 +1,32 @@
+number: 108
+preName:
+name: 【袁家勇将】顔良
+rarity: 3
+group: 漢
+arm: 槍兵
+maxLevel: 25
+capability: 6
+initHp: 109
+initAttack: 116
+initRecovery: 5
+finalHp: 667
+finalAttack: 377
+finalRecovery: 21
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家の先鋒
+    turnMax: 20
+    turnMin: 10
+    statements:
+      -
+        content: 3ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: 大軍の圧
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 文醜と並び、袁家の双璧と賞された勇将。袁紹軍を代表する将師で、孔融にも要注意人物として列挙される。また、文醜とは義兄弟の契りを結んだ仲。

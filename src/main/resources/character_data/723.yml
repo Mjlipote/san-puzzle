@@ -1,0 +1,32 @@
+number: 723
+preName:
+name: 【忠孝仁義】張任
+rarity: 6
+group: 漢
+arm: 弓兵
+maxLevel: 99
+capability: 50
+initHp: 1732
+initAttack: 854
+initRecovery: 124
+finalHp: 3464
+finalAttack: 1537
+finalRecovery: 174
+breakHp: 3784
+breakAttack: 1737
+breakRecovery: 294
+skills:
+  -
+    name: 漢の絕技
+    turnMax: 30
+    turnMin: 15
+    statements:
+      -
+        content: 使用した武将の攻撃力30倍の「漢」攻撃
+strategies:
+  -
+    name: 精確なる攻勢
+    statements:
+      -
+        content: 味方の「弓兵」と「剣兵」武将の攻撃力を2倍にする
+description: 劉璋忠実な宿将。劉備の入蜀に際し、最後まで激しく抵抗し、敗れた後も『二君には仕えず』と帰順を拒否。劉備は激しく彼を惜しみつつ処刑を命じた。

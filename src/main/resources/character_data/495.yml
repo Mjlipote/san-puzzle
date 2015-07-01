@@ -1,0 +1,32 @@
+number: 495
+preName: 【剛直なる智】張昭
+name: 【孫呉の賢臣】張昭
+rarity: 5
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 16
+initHp: 674
+initAttack: 572
+initRecovery: 121
+finalHp: 1515
+finalAttack: 1292
+finalRecovery: 312
+breakHp: 1795
+breakAttack: 1452
+breakRecovery: 432
+skills:
+  -
+    name: 参謀の叡智
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「呉」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 二張の守り手
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: その俊才さから『呉の二張』と呼ばれた参謀の一人。孫策あらの遺言を守り、孫権に度々直諫する。孫権は閉口するも、その言には素直に従っていた。

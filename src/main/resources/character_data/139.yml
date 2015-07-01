@@ -1,0 +1,32 @@
+number: 139
+preName: 【賄賂姫】何皇后
+name: 【後宮の毒蛇】何皇后
+rarity: 5
+group: 漢
+arm: 鬼謀
+maxLevel: 99
+capability: 13
+initHp: 870
+initAttack: 275
+initRecovery: 166
+finalHp: 2176
+finalAttack: 1099
+finalRecovery: 378
+breakHp: 2416
+breakAttack: 1259
+breakRecovery: 458
+skills:
+  -
+    name: 寵妃の色香
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 美麗妃の誘惑
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: 大将軍何進の異母妹。嫉妬心と野心が強い女性で、霊帝の寵姫の1人である王美人が劉協を産むと、彼女を毒殺。さらに、自分の実子を皇帝へ即位させた。

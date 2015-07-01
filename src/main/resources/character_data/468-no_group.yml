@@ -1,0 +1,28 @@
+number: 468
+preName:
+name: 【破魔矢】左慈
+rarity: 0
+group:
+arm: 
+maxLevel: 1
+capability: 
+initHp: 1
+initAttack: 1
+initRecovery: 1
+finalHp: 1
+finalAttack: 1
+finalRecovery: 1
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description:

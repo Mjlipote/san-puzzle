@@ -1,0 +1,32 @@
+number: 641
+preName:
+name: 【大戦前夜】周瑜
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 50
+capability: 27
+initHp: 352
+initAttack: 343
+initRecovery: 115
+finalHp: 1408
+finalAttack: 1201
+finalRecovery: 230
+breakHp: 1688
+breakAttack: 1401
+breakRecovery: 350
+skills:
+  -
+    name: 呉蜀の大攻勢
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 1ターンの間、「呉」と「蜀」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 天下二分の計
+    statements:
+      -
+        content: 4勢力以上で攻撃した時、全武将の攻撃力を4倍
+description: 孫家を支えた若き天才軍師。曹操の南進に対し対応を迷っていた孫権を叱咤し、紛糾していた幕僚達を抗戦でまとめ上け、霸者となった男を迎え討つ。

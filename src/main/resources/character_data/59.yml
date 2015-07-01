@@ -1,0 +1,30 @@
+number: 59
+preName: 朱治
+name: 【呉旧臣】朱治
+rarity: 3
+group: 呉
+arm: 神算
+maxLevel: 50
+capability: 6
+initHp: 238
+initAttack: 133
+initRecovery: 65
+finalHp: 714
+finalAttack: 366
+finalRecovery: 210
+breakHp: 874
+breakAttack: 446
+breakRecovery: 250
+skills:
+  -
+    name: 小覇王への進言
+    turnMax: 17
+    turnMin: 6
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策の覇業を支えた功臣。孫策勇躍の立役者で、袁術に飼い殺しにされていた孫策に、玉璽を渡して兵を借り、その兵で江東を制圧することを勧めた。

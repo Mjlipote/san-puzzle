@@ -1,0 +1,36 @@
+number: 998
+preName:
+name: 【もう一つの可能性】孫権
+rarity: 7
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 40
+initHp: 1091
+initAttack: 717
+initRecovery: 11
+finalHp: 4364
+finalAttack: 1793
+finalRecovery: 33
+breakHp: 4764
+breakAttack: 1993
+breakRecovery: 153
+skills:
+  -
+    name: 絕対なる激衝撃‧呉の攻勢
+    turnMax: 34
+    turnMin: 20
+    statements:
+      -
+        content: 敵のHPを30%減少させる
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 退路なき飢虎
+    statements:
+      -
+        content: HP15%以下の時、全武将の攻撃力を1.8倍
+      -
+        content: 毎ターンHPを減少させ、全武将の攻撃力を2.5倍
+description: 威信を懸けた戦いで敗退した男のもう一つの可能性。その意志と共に受け継がれた虎の血は、至高の武人・張遼の突撃を迎え討つに、燃え滾り熱く猛る。

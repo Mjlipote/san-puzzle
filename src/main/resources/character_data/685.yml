@@ -1,0 +1,32 @@
+number: 685
+preName: 【拘束の縛鎖】王双
+name: 【制約なき暴武】王双
+rarity: 6
+group: 魏
+arm: 蛮兵
+maxLevel: 99
+capability: 24
+initHp: 1558
+initAttack: 834
+initRecovery: 14
+finalHp: 3584
+finalAttack: 1250
+finalRecovery: 21
+breakHp: 3864
+breakAttack: 1450
+breakRecovery: 141
+skills:
+  -
+    name: 絕大なる猛撃
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 敵全体に使用した武将の攻撃力5倍防御無視攻撃
+strategies:
+  -
+    name: 暴風の如き流星
+    statements:
+      -
+        content: 味方の「蛮兵」の攻撃力を3倍、HPを0.7倍にする
+description: 武勇に優れた魏の猛将。曹真の指揮下で呉、蜀と戦い、その武を戦場で遺憾なく発揮するも撤退する諸葛亮を深追いし、逆撃を喰らってしまう。

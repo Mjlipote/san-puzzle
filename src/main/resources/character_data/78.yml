@@ -1,0 +1,30 @@
+number: 78
+preName:
+name: 孫策
+rarity: 2
+group: 呉
+arm: 剣兵
+maxLevel: 15
+capability: 5
+initHp: 40
+initAttack: 109
+initRecovery: 17
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 小覇王の進撃
+    turnMax: 8
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「呉」勢力の500ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 小覇王の異名を持つ戦の天才。江東の虎と呼ばれた孫堅の長男。父の死後、袁術からわずかな兵を借り受け、孫家の威光を取り戻すために立ち上がる。

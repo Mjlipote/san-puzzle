@@ -1,0 +1,32 @@
+number: 736
+preName:
+name: 【孫権寵愛】歩夫人
+rarity: 4
+group: 呉
+arm: 神算
+maxLevel: 25
+capability: 7
+initHp: 273
+initAttack: 198
+initRecovery: 41
+finalHp: 491
+finalAttack: 356
+finalRecovery: 62
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ３ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 慈愛の広がり
+    statements:
+      -
+        content: 味方の「呉」武将の攻擊力と回復力を1.8倍にする
+description: 孫権の妻で、孫魯班（大虎）と孫魯育（小虎）の母。淮陰での戦火を避けて江東に移り住み、孫権に見初められる。嫉妒せぬ性格ゆえ、最も寵愛された夫人。

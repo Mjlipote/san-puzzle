@@ -1,0 +1,32 @@
+number: 590
+preName:
+name: 【異民族討伐】張嶷
+rarity: 4
+group: 蜀
+arm: 騎兵
+maxLevel: 25
+capability: 7
+initHp: 275
+initAttack: 208
+initRecovery: 78
+finalHp: 835
+finalAttack: 530
+finalRecovery: 166
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ３ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 実質なる攻め手
+    statements:
+      -
+        content: 味方の「蜀」武将の攻擊力と回復力を1.8倍にする
+description: 若い頃から士気勇壮で知られた良将。蜀の屋台骨を支えた。北方異民族に明るく、北方討伐で活躍し、後年の越スイ太守時は、彼らから篤い信頼を得た。

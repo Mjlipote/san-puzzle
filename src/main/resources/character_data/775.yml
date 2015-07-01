@@ -1,0 +1,34 @@
+number: 775
+preName:
+name: 【夏色球姫】周姫
+rarity: 4
+group: 呉
+arm: 弓兵
+maxLevel: 50
+capability: 11
+initHp: 453
+initAttack: 210
+initRecovery: 154
+finalHp: 1359
+finalAttack: 630
+finalRecovery: 308
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉への誘い（魏）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「魏」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 周姫は海でも全力です！
+    statements:
+      -
+        content: 「弓兵」武将の攻撃力と回復力を1.8倍
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値2倍の再攻撃
+description: 孫呉の頭脳‧周瑜と、その美を称えられた二喬の妹‧小喬との間に生まれた娘。夏の浜辺の平和を守ります。「海でも周姫は輝く星になります！」

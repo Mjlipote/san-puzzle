@@ -1,0 +1,30 @@
+number: 429
+preName:
+name: 許攸
+rarity: 2
+group: 漢
+arm: 鬼謀
+maxLevel: 20
+capability: 3
+initHp: 
+initAttack: 
+initRecovery: 
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢の進攻
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.2倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹配下の参謀であるが、官渡の戦いの時に、曹操に寝返った。彼が手土産代わりに持ち込んだ情報を基に行われた鳥巣急襲により袁紹軍は継戦能力を失った。

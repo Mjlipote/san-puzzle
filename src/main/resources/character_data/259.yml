@@ -1,0 +1,30 @@
+number: 259
+preName: 漢軍兵長
+name: 【上級】漢軍兵長
+rarity: 3
+group: 漢
+arm: 騎兵
+maxLevel: 30
+capability: 5
+initHp: 89
+initAttack: 190
+initRecovery: 32
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢軍兵の剣閃
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「漢」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 漢軍兵卒の長。10人程度の兵を率いている。実力に相応しい気高さを併せ持つ、文武両道の兵長。指揮官の指示を理解して期待通りの行動を起こす。

@@ -1,0 +1,32 @@
+number: 152
+preName:
+name: 【悪来】典韋
+rarity: 5
+group: 魏
+arm: 槍兵
+maxLevel: 50
+capability: 15
+initHp: 380
+initAttack: 210
+initRecovery: 30
+finalHp: 1710
+finalAttack: 735
+finalRecovery: 105
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 典韋奮闘
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 5ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 悪来の意地
+    statements:
+      -
+        content: HPが50%以上の時、HPが0になる攻撃を耐える
+description: 怪力無双の親衛隊長。誰も持ち上げられなかった牙門旗を片手で持ち上げ、曹操に「古の英雄、悪来の再来」と賞されたことから悪来典韋と呼ばれている。

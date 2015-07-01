@@ -1,0 +1,32 @@
+number: 126
+preName:
+name: 【勇猛果敢】馬超
+rarity: 3
+group: 蜀
+arm: 騎兵
+maxLevel: 25
+capability: 6
+initHp: 51
+initAttack: 70
+initRecovery: 8
+finalHp: 638
+finalAttack: 438
+finalRecovery: 66
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 錦馬超
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「呉」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 若き血の猛り
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: 「錦馬超」「西涼の錦」と呼ばれている西方の英雄。父親以上の勇猛さと剛力で、齢１７にして敵将２人を簡単に打ち取った武勇の持ち主。

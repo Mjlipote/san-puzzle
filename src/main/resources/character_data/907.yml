@@ -1,0 +1,34 @@
+number: 907
+preName:
+name: 【大将軍に足る】于禁
+rarity: 4
+group: 魏
+arm: 槍兵
+maxLevel: 25
+capability: 11
+initHp: 441
+initAttack: 246
+initRecovery: 24
+finalHp: 1544
+finalAttack: 652
+finalRecovery: 72
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 震撼の大攻勢
+    turnMax: 25
+    turnMin: 20
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が0になる
+strategies:
+  -
+    name: 規律高き進軍
+    statements:
+      -
+        content: 味方の「槍兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 曹操配下の精錬厳格な将。元々曹操の盟友、鮑信の配下だったが、青洲黄巾賊との戦いで主が戦死。以後は曹操に仕え、軍才は大将軍に足ると評された。

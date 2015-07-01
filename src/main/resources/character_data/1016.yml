@@ -1,0 +1,36 @@
+number: 1016
+preName:
+name: 【返す想いの形】徐庶
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 1119
+initAttack: 397
+initRecovery: 314
+finalHp: 3133
+finalAttack: 1390
+finalRecovery: 345
+breakHp: 3373
+breakAttack: 1550
+breakRecovery: 425
+skills:
+  -
+    name: 蜀の誘い（桃）強化する闘争心
+    turnMax: 14
+    turnMin: 8
+    statements:
+      -
+        content: 「桃」ユニットを「蜀」ユニットに変化させる
+      -
+        content: 2ターンの間、使用した武将の攻撃力が1.5倍になる
+strategies:
+  -
+    name: 女心はわからん！
+    statements:
+      -
+        content: 「神算」武将の攻撃力と回復力を1.8倍
+      -
+        content: 毒ユニットがかなり出現しにくくなる
+description: 武にも優れた義侠心溢れる異色の軍師。「女心はわからん！」とお断じて憚らないが、女性からの贈り物には、ぼやきながらも絶対に礼を返す伊達男である。

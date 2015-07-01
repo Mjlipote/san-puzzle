@@ -1,0 +1,34 @@
+number: 878
+preName: 【温柔の調べ】卞皇后
+name: 【豊潤なる母性】卞皇后
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 26
+initHp: 877
+initAttack: 678
+initRecovery: 342
+finalHp: 1754
+finalAttack: 1357
+finalRecovery: 684
+breakHp: 2034
+breakAttack: 1557
+breakRecovery: 804
+skills:
+  -
+    name: 魏軍への大変転
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: ユニットの「漢」「群」「桃」を「魏」に変化させる
+strategies:
+  -
+    name: 幸福の時間
+    statements:
+      -
+        content: 4連撃以上で「魏」の攻撃力があがり、最大4倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 歌妓出身の美姫。倹約家で華美を好まない性格だった。曹丕や曹植ら男子を多く儲け、曹操の正室となってからも、良妻賢母として夫を影から支え続けた。

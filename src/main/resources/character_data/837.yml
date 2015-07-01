@@ -1,0 +1,32 @@
+number: 837
+preName: 【偽りの病】呂蒙
+name: 【荊州奪還】呂蒙
+rarity: 6
+group: 呉
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1341
+initAttack: 929
+initRecovery: 207
+finalHp: 2414
+finalAttack: 1672
+finalRecovery: 373
+breakHp: 2734
+breakAttack: 1872
+breakRecovery: 493
+skills:
+  -
+    name: 蜀魏よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「蜀」を「呉」に、「魏」を「桃」に変換
+strategies:
+  -
+    name: 卓越の手練手管
+    statements:
+      -
+        content: 4連撃以上で「呉」の攻撃力があがり、最大4倍
+description: 孫権配下の軍師。荊州の奪還は主君‧孫権の宿願であった。偉大なる先進たちの遺志と、孫呉の未来とを双肩に担い、呂蒙は軍神となった男に挑む！

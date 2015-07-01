@@ -1,0 +1,32 @@
+number: 649
+preName:
+name: 【のんびり少女】森園芽以
+rarity: 4
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 8
+initHp: 157
+initAttack: 78
+initRecovery: 46
+finalHp: 1256
+finalAttack: 702
+finalRecovery: 276
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 大丈夫ですよ、きっと♪
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: HPを2000回復させ、回復禁止狀態を1ターン回復する
+strategies:
+  -
+    name: ささっと決めちゃいましょう
+    statements:
+      -
+        content: 5勢力で攻撃した時、全武将の攻撃力を2.5倍
+description: 終南山に新たに現れた、謎の天女？の一人。のんびりとした家庭的な女の子でお掃除が好き。「どいてくださーい、お掃除中でーす！」

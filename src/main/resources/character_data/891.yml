@@ -1,0 +1,34 @@
+number: 891
+preName: 【政権掌握】司馬昭
+name: 【天下掴む手腕】司馬昭
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 28
+initHp: 1311
+initAttack: 770
+initRecovery: 225
+finalHp: 2884
+finalAttack: 1693
+finalRecovery: 450
+breakHp: 3204
+breakAttack: 1893
+breakRecovery: 570
+skills:
+  -
+    name: 超撃の威圧
+    turnMax: 24
+    turnMin: 19
+    statements:
+      -
+        content: 敵の攻撃を5ターン遅らせる
+strategies:
+  -
+    name: 権謀術数の才
+    statements:
+      -
+        content: 味方の「魏」「漢」武将のHPを1.8倍、攻撃力を2.5倍にする
+      -
+        content: さらにHPが80%以上の時、全武将の攻撃力を1.5倍
+description: 司馬懿の次男で、権謀術数の才を色濃く受け継いだ俊士。反乱の首謀者のみ処刑し、他は赦免するなど、武威と徳義とを併せる人心掌握術に長けていた。

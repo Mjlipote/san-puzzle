@@ -1,0 +1,34 @@
+number: 980
+preName:
+name: 【遠大なる謀】大虎
+rarity: 6
+group: 呉
+arm: 鬼謀
+maxLevel: 99
+capability: 22
+initHp: 437
+initAttack: 318
+initRecovery: 81
+finalHp: 1093
+finalAttack: 795
+finalRecovery: 243
+breakHp: 2493
+breakAttack: 1675
+breakRecovery: 283
+skills:
+  -
+    name: 速‧超劇毒計
+    turnMax: 17
+    turnMin: 6
+    statements:
+      -
+        content: 敵全体を自分の攻撃力20倍ダメージの毒状態にする
+strategies:
+  -
+    name: 密約の影法師
+    statements:
+      -
+        content: 味方の「剣・弓・鬼謀・神算」武将の攻撃力を2.2倍
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 孫権と步夫人の娘で、名は魯班。大虎は字である。若くして権謀に長け、イタズラで周囲を困惑させる困った娘。その胸には、人知れずある決意を秘めている。

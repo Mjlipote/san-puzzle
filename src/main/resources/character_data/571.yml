@@ -1,0 +1,30 @@
+number: 571
+preName: 【なりきりガチャ】槍兵
+name: 【なりきりガチャ】上級槍兵
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 30
+capability: 5
+initHp: 160
+initAttack: 175
+initRecovery: 30
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ガチャピン直伝槍術
+    turnMax: 28
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力10倍の攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 

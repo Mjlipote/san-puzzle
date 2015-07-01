@@ -1,0 +1,34 @@
+number: 906
+preName: 【天姿秀出】曹叡
+name: 【繋がれぬ手】曹叡
+rarity: 5
+group: 魏
+arm: 弓兵
+maxLevel: 70
+capability: 16
+initHp: 956
+initAttack: 615
+initRecovery: 145
+finalHp: 2391
+finalAttack: 1169
+finalRecovery: 262
+breakHp: 2671
+breakAttack: 1329
+breakRecovery: 382
+skills:
+  -
+    name: 呉群よりの誘致
+    turnMax: 21
+    turnMin: 17
+    statements:
+      -
+        content: ユニットの「呉」を「魏」に、「群」を「桃」に変換
+strategies:
+  -
+    name: 寂寥の想い
+    statements:
+      -
+        content: 味方の「弓兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 曹丕と甄姫の間に生まれた長子。冷遇の日々を送った母‧甄姫は、父‧曹丕によって死を賜る。悲嘆にくれる曹叡が手を伸ばす先には愛する母の温もりはない。

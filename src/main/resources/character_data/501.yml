@@ -1,0 +1,32 @@
+number: 501
+preName: 【若き豪傑】張苞
+name: 【地喰らう獅子】張苞
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 16
+initHp: 724
+initAttack: 660
+initRecovery: 82
+finalHp: 1447
+finalAttack: 1453
+finalRecovery: 163
+breakHp: 1727
+breakAttack: 1613
+breakRecovery: 283
+skills:
+  -
+    name: 蜀の攻勢
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「蜀」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 獅子の咆哮
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 猛将張飛の実子。父と同じ蛇矛をよく使い、弓術に優れる。呉征伐の際に、劉備の仲介で関興と義兄弟の契りを結ぶが、年上であった張苞が兄となった。

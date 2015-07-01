@@ -1,0 +1,30 @@
+number: 265
+preName: 関平
+name: 【若武者】関平
+rarity: 3
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 8
+initHp: 291
+initAttack: 169
+initRecovery: 26
+finalHp: 582
+finalAttack: 337
+finalRecovery: 39
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 父の名にかけて！
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 2ターンの間、「蜀」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 軍神・関羽の養子。将来有望な武勇に優れる若者で、劉備の養子である劉封とともに、岐阜の名前に恥じない立派な活躍を見せる。

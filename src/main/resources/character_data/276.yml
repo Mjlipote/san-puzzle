@@ -1,0 +1,32 @@
+number: 276
+preName:
+name: 【博学多才】田豊
+rarity: 4
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 8
+initHp: 241
+initAttack: 244
+initRecovery: 64
+finalHp: 603
+finalAttack: 512
+finalRecovery: 134
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 機略縦横
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「蜀」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 持久戦論
+    statements:
+      -
+        content: 味方の「漢」武将のHPを1.5倍にする
+description: 袁紹配下の軍師。若いころから博学多才の士として朝廷に仕えた。宦官・十常侍の専横を嫌い郷里の冀州に戻って隠棲、自身の才を活かす大器を待つ。

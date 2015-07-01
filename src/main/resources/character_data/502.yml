@@ -1,0 +1,32 @@
+number: 502
+preName:
+name: 【技巧随一】顔良
+rarity: 4
+group: 漢
+arm: 槍兵
+maxLevel: 35
+capability: 11
+initHp: 422
+initAttack: 251
+initRecovery: 51
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢の攻勢
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 巧妙なる防衛
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを減少させる
+description: 文醜と並び、袁家の双璧と賞された勇将。歩兵を主力とした軍を率いる。本人の武勇のみならず、軍の指揮能力も卓越している。

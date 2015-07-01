@@ -1,0 +1,32 @@
+number: 628
+preName: 【孝行息子】劉備－今日ぱず
+name: 【旅立ち】劉備
+rarity: 4
+group: 蜀
+arm: 剣兵
+maxLevel: 35
+capability: 6
+initHp: 291
+initAttack: 303
+initRecovery: 58
+finalHp: 874
+finalAttack: 606
+finalRecovery: 116
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 大器の目覚め
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 義侠の仁心
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2倍にする
+description: 中山靖王劉勝の末裔である三国志の主人公の１人。関羽・張飛と義兄弟の契りを結んだことから、運命の歯車は激動の時代へと回り始める。

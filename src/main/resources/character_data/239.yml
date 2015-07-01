@@ -1,0 +1,32 @@
+number: 239
+preName: 周倉
+name: 【怪力千斤】周倉
+rarity: 3
+group: 群
+arm: 槍兵
+maxLevel: 50
+capability: 7
+initHp: 164
+initAttack: 258
+initRecovery: 38
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 怪力の狂乱
+    turnMax: 17
+    turnMin: 
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: 黄巾の猛者
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを少し減少させる
+description: 後に関羽の片腕となる怪力自慢の黄巾の将。両腕の力は一千斤はあると言われた。また、水練習も得意で、後にホウ徳を水中で生け捕るなどの活躍を見せる。

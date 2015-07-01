@@ -1,0 +1,32 @@
+number: 744
+preName:
+name: 【若き矜持心】朱桓
+rarity: 5
+group: 呉
+arm: 騎兵
+maxLevel: 50
+capability: 20
+initHp: 455
+initAttack: 338
+initRecovery: 98
+finalHp: 1593
+finalAttack: 1014
+finalRecovery: 196
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉軍への転換
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「魏」と「蜀」ユニットを「呉」ユニットに変換
+strategies:
+  -
+    name: 若武者の指揮
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力と回復力を2倍にする
+description: 自尊心が高く偏狭だが、それを補って余る程、有能で勇敢な呉の武将。濡須での戦いでは少数を逆手に曹仁の油断を誘い、王双を捉えるの武勲をあげた。

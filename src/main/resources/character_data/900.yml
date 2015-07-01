@@ -1,0 +1,34 @@
+number: 900
+preName:
+name: 【騎豚戦？】何進
+rarity: 6
+group: 漢
+arm: 剣兵
+maxLevel: 99
+capability: 27
+initHp: 695
+initAttack: 496
+initRecovery: 84
+finalHp: 2780
+finalAttack: 1488
+finalRecovery: 252
+breakHp: 3100
+breakAttack: 1688
+breakRecovery: 372
+skills:
+  -
+    name: 凡庸の戦略
+    turnMax: 11
+    turnMin: 7
+    statements:
+      -
+        content: 5ターンの間、低確率で受けるダメージを0にする
+strategies:
+  -
+    name: 桃色の豚隊
+    statements:
+      -
+        content: 味方の「剣兵」武将の回復力を2倍にする
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値2倍の再攻撃
+description: 元肉屋の大将軍。運動会の花形競技、騎馬戦に、颯爽と現れた何進。人馬ではなく豚の群れを意のままに操り、敵のハチマキを次々と奪いなから疾走する。

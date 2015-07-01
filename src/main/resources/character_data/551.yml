@@ -1,0 +1,32 @@
+number: 551
+preName: 【雌伏の時】劉備
+name: 【明日への逃走】劉備
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 16
+initHp: 1447
+initAttack: 432
+initRecovery: 62
+finalHp: 2894
+finalAttack: 865
+finalRecovery: 124
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 民革の希望
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 決死の逃亡
+    statements:
+      -
+        content: HPが最大の時、受けるダメージを大幅に減少させる(70%)
+description: 中山靖王劉勝の末裔である三国志の主人公の１人。その義俠心故に荊州を奪わず、逆に離れた劉備の背後に曹操が迫る。難民を連れた劉備は逃げ切れるのか。

@@ -1,0 +1,32 @@
+number: 659
+preName: 【三顧の礼】諸葛亮
+name: 【天下三分の計】諸葛亮
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 1088
+initAttack: 1050
+initRecovery: 210
+finalHp: 1904
+finalAttack: 1575
+finalRecovery: 462
+breakHp: 2224
+breakAttack: 1775
+breakRecovery: 582
+skills:
+  -
+    name: 奇門遁甲
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「魏」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 八卦の絶陣
+    statements:
+      -
+        content: 味方の「蜀」武将のHPを2倍、攻撃力を1.8倍にする
+description: 技能

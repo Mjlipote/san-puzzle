@@ -1,0 +1,32 @@
+number: 277
+preName: 【博学多才】田豊
+name: 【先見の献策】田豊
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 16
+initHp: 512
+initAttack: 487
+initRecovery: 128
+finalHp: 1075
+finalAttack: 1022
+finalRecovery: 268
+breakHp: 1355
+breakAttack: 1182
+breakRecovery: 388
+skills:
+  -
+    name: 機略縦横
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「蜀」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 巧緻なる持久戦
+    statements:
+      -
+        content: 味方の「漢」武将のHPを2倍にする
+description: 袁紹配下の軍師。袁紹が冀州を支配すると、彼の参謀役として仕えることになる。対立する公孫サンの無能を説き、河北一帯を支配するよう薦める。

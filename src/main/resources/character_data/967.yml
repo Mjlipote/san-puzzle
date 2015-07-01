@@ -1,0 +1,34 @@
+number: 967
+preName:
+name: 【龍鳳呈祥】樊氏
+rarity: 6
+group: 漢
+arm: 剣兵
+maxLevel: 99
+capability: 35
+initHp: 698
+initAttack: 601
+initRecovery: 156
+finalHp: 2652
+finalAttack: 1683
+finalRecovery: 437
+breakHp: 2972
+breakAttack: 1883
+breakRecovery: 557
+skills:
+  -
+    name: 漢の誘い（魏）糧食確保（毒）
+    turnMax: 27
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「魏」を「漢」へ「毒」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 想い籠める一撃
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2.2倍にする
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: 桂陽太守・趙範の義姉。趙雲に恋い焦がれた樊氏には、女武者「樊玉鳳」を名乗り、戦に出たという伝説が残る。腕前は趙雲にも引けを取らなかったという。

@@ -1,0 +1,32 @@
+number: 43
+preName: 朱儁
+name: 【黄巾討伐】朱儁
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 30
+capability: 3
+initHp: 119
+initAttack: 154
+initRecovery: 43
+finalHp: 209
+finalAttack: 425
+finalRecovery: 65
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 忠国の烈士
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「漢」攻撃
+strategies:
+  -
+    name: 黄巾賊掃討
+    statements:
+      -
+        content: 攻撃の後、弱い再攻撃を行う
+description: 黄巾討伐で活躍した名将。幼くして父を亡くし、母の内職だけで育った苦労人。親孝行の為に努力し、今では交州刺史として各地の乱を平定している。

@@ -1,0 +1,30 @@
+number: 312
+preName:
+name: 張遼（ちょうりょう）
+rarity: 2
+group: 群
+arm: 騎兵
+maxLevel: 20
+capability: 4
+initHp: 100
+initAttack: 155
+initRecovery: 16
+finalHp: 220
+finalAttack: 372
+finalRecovery: 32
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 悍馬の攻勢
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 呂布配下の筆頭武将。高順と共に呂布軍の両翼を担う。漢王朝に忠誠を誓う武将ではあるが、丁原、董卓、呂布と真の主君を得られぬまま戦い続けている。

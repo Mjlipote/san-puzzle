@@ -1,0 +1,34 @@
+number: 774
+preName: 【夏色玉肌】王異
+name: 【夏色水斬撃】王異
+rarity: 5
+group: 魏
+arm: 騎兵
+maxLevel: 99
+capability: 16
+initHp: 1127
+initAttack: 724
+initRecovery: 213
+finalHp: 2029
+finalAttack: 1303
+finalRecovery: 319
+breakHp: 2269
+breakAttack: 1463
+breakRecovery: 399
+skills:
+  -
+    name: 魏への誘い（呉）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「呉」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 荒海より得た力を見よ！
+    statements:
+      -
+        content: 「騎兵」武将の攻撃力と回復力を1.8倍
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値2倍の再攻撃
+description: 『三国志』上で戦闘への参加が明確に描かれている唯一の女性。リゾートには不向きです。「大自然さえ組み伏せる私に敵はない！」

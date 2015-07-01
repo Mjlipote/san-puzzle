@@ -1,0 +1,34 @@
+number: 798
+preName:
+name: 【無垢なる風姿】甘皇后
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 50
+capability: 21
+initHp: 434
+initAttack: 257
+initRecovery: 154
+finalHp: 1302
+finalAttack: 771
+finalRecovery: 308
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀の超攻勢
+    turnMax: 25
+    turnMin: 19
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 美姫の獻身
+    statements:
+      -
+        content: 4連撃以上で「騎兵」の攻撃力があがり、最大4倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 劉備と最も長く連れ添った妻。身分の低さから正妻を麋夫人に讓り、側室のままであったが、奥向きのことは彼女が取り仕切っていた。

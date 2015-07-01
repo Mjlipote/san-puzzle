@@ -1,0 +1,30 @@
+number: 205
+preName:
+name: 黄巾槍兵
+rarity: 1
+group: 群
+arm: 槍兵
+maxLevel: 10
+capability: 1
+initHp: 15
+initAttack: 85
+initRecovery: 11
+finalHp: 23
+finalAttack: 128
+finalRecovery: 17
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾兵の狂熱
+    turnMax: 4
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「群」勢力の300ダメージ 
+strategies:
+  -
+    name: なし
+    statements:
+description: 黄巾党の兵士。太平道の教えに惹かれ、大賢良師・張角の元に集まった黄巾党の信徒たち。その中でも戦える者が武器を持って立ち上がった。

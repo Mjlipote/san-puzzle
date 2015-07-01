@@ -1,0 +1,36 @@
+number: 796
+preName:
+name: 【錦帆賊】甘寧
+rarity: 5
+group: 呉
+arm: 蛮兵
+maxLevel: 50
+capability: 21
+initHp: 513
+initAttack: 337
+initRecovery: 15
+finalHp: 1539
+finalAttack: 1011
+finalRecovery: 30
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉の超攻勢
+    turnMax: 25
+    turnMin: 19
+    statements:
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 峻烈なる旋風
+    statements:
+      -
+        content: ユニット6つ以上同時に消すと攻撃力3倍
+      -
+        content: 最大で4.5倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 遊侠を好み、攻撃的な猛将であるが、書に親しむ一面もある。若き頃は徒党を組み、派手な裝いで闊歩し、役人を脅す反面、犯罪の摘発なども行っていた。

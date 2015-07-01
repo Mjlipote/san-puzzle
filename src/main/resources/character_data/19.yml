@@ -1,0 +1,32 @@
+number: 19
+preName: 【虎賁中郎将】袁術
+name: 【兵糧不送】袁術
+rarity: 4
+group: 群
+arm: 剣兵
+maxLevel: 35
+capability: 6
+initHp: 302
+initAttack: 260
+initRecovery: 69
+finalHp: 905
+finalAttack: 520
+finalRecovery: 137
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 名門の大攻勢
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 群雄の威信
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 皇帝を僭称した名門袁家の野心家。反董卓連合加入後は、旗下の孫堅を支援。一時的に情報が錯綜し、兵糧の輸送が滞るが、見事董卓の撃退に成功する。

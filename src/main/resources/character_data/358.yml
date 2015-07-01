@@ -1,0 +1,32 @@
+number: 358
+preName:
+name: 【征東将軍】馬騰
+rarity: 5
+group: 漢
+arm: 騎兵
+maxLevel: 50
+capability: 16
+initHp: 536
+initAttack: 236
+initRecovery: 70
+finalHp: 1340
+finalAttack: 590
+finalRecovery: 154
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 貫くべき意地
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 辺境の忠臣
+    statements:
+      -
+        content: 必殺技の威力を2.2倍にする
+description: 羌族の血を引き、精強な騎馬隊を率いる西涼の将。北方異民族からは絶大な信頼を得ており、征東将軍として、漢王朝の北に睨みをきかせた。

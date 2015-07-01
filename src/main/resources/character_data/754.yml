@@ -1,0 +1,32 @@
+number: 754
+preName:
+name: 【幻影妖術】張宝
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 588
+initAttack: 315
+initRecovery: 156
+finalHp: 1470
+finalAttack: 945
+finalRecovery: 312
+breakHp: 1710
+breakAttack: 1105
+breakRecovery: 392
+skills:
+  -
+    name: 強烈な威圧
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+strategies:
+  -
+    name: 奇怪なる攻め
+    statements:
+      -
+        content: 味方の「鬼謀」武将の攻撃力を2倍にする
+description: 大賢良師‧張角の次弟。妖術使いとして知られ、また、蜂起直後に病に倒れた兄に代わり、実質的な指揮官を務める等、黄巾党の頭脳として活躍する。

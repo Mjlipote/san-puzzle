@@ -1,0 +1,32 @@
+number: 856
+preName: 【道教の巫術師】張母
+name: 【米神様への祈り】張母
+rarity: 5
+group: 群
+arm: 神算
+maxLevel: 70
+capability: 16
+initHp: 897
+initAttack: 809
+initRecovery: 178
+finalHp: 1345
+finalAttack: 971
+finalRecovery: 267
+breakHp: 1825
+breakAttack: 1251
+breakRecovery: 387
+skills:
+  -
+    name: 群軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「漢」と「桃」を、「群」に変化させる
+strategies:
+  -
+    name: お米を讚えよ！
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2.5倍にする
+description: 五斗米道の前身教団の巫女で、張魯の母。教団の名は、五斗の米を寄進させる教義に由来する。信徒たちは米を愛し、張母と共に大地の恵みを讚えた。

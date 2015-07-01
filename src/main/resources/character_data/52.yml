@@ -1,0 +1,30 @@
+number: 52
+preName:
+name: 趙忠
+rarity: 1
+group: 漢
+arm: 鬼謀
+maxLevel: 10
+capability: 2
+initHp: 26
+initAttack: 24
+initRecovery: 23
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 十常侍の強権
+    turnMax: 8
+    turnMin: 
+    statements:
+      -
+        content: HPを500回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 十常侍の中心人物で、霊帝に心の母とまで言われた宦官。帝からの信頼を武器に、邪魔な清流派を追放・弾圧（党錮の禁）して宮中での権力を手に入れた。

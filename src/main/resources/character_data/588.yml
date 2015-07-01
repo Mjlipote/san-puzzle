@@ -1,0 +1,32 @@
+number: 588
+preName:
+name: 【新時代の智将】姜維
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 19
+initHp: 281
+initAttack: 200
+initRecovery: 92
+finalHp: 843
+finalAttack: 600
+finalRecovery: 120
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀の超攻勢
+    turnMax: 37
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 勇ましき剛槍
+    statements:
+      -
+        content: 味方の「槍兵」武将のHPと攻撃力を2倍にする
+description: 文武両道に優れたの武将。『天水の麒麟児』の異名を持つ。魏の役人であったが、孔明がその才を高く評価、自らの後継とするため計略を用いて蜀に降らせた。

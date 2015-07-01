@@ -1,0 +1,30 @@
+number: 240
+preName:
+name: 廖化
+rarity: 1
+group: 群
+arm: 槍兵
+maxLevel: 10
+capability: 1
+initHp: 67
+initAttack: 41
+initRecovery: 22
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 歴戦の勇士
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを少し減少させる
+description: 後の蜀漢を支え続けることになる黄巾の将。腐敗した国を正すために黄巾党へ入ったが、結果として民を苦しめていることに苦悩している。

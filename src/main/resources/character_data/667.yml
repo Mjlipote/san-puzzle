@@ -1,0 +1,32 @@
+number: 667
+preName: 【泰然自若】李典
+name: 【協力の誓い】李典
+rarity: 5
+group: 魏
+arm: 弓兵
+maxLevel: 99
+capability: 16
+initHp: 693
+initAttack: 496
+initRecovery: 74
+finalHp: 1248
+finalAttack: 893
+finalRecovery: 132
+breakHp: 2048
+breakAttack: 1613
+breakRecovery: 372
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 泰然なる指揮
+    statements:
+      -
+        content: 味方の「魏」武将のHPと回復力を1.8倍にする
+description: 沈着冷静な曹操軍の知将。合肥の戦いの折、国家の危機に瀕し、個人的な恨みは忘れると張遼に宣言。張遼の突撃隊に加わり、共に孫権軍に大打撃を与えた。

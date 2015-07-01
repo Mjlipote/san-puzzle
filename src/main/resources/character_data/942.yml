@@ -1,0 +1,34 @@
+number: 942
+preName:
+name: 【聖夜の祝宴】劉備
+rarity: 6
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 27
+initHp: 1225
+initAttack: 342
+initRecovery: 88
+finalHp: 2450
+finalAttack: 1197
+finalRecovery: 352
+breakHp: 2730
+breakAttack: 1397
+breakRecovery: 472
+skills:
+  -
+    name: 蜀軍への転換
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「魏」と「呉」ユニットを「蜀」ユニットに変換
+strategies:
+  -
+    name: 蜀の祝祭
+    statements:
+      -
+        content: 味方の「蜀」武将の回復力を2倍にする
+      -
+        content: 最大HPまで回復した時、余剰値2倍の再攻撃
+description: 中山靖王劉勝の末裔である三国志の主人公の1人。元・ムシロ織りは、宴の準備に大張り切り？「甘よ、飾り付けが足りない。どこかに残ってないか？」

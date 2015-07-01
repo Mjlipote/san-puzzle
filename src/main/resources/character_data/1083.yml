@@ -1,0 +1,34 @@
+number: 1083
+preName: 【趙雲の愛弟子】関銀屏
+name: 【気高き武の血統】関銀屏
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 27
+initHp: 1519
+initAttack: 1336
+initRecovery: 131
+finalHp: 2127
+finalAttack: 1603
+finalRecovery: 393
+breakHp: 2447
+breakAttack: 1803
+breakRecovery: 513
+skills:
+  -
+    name: 趙雲の教え
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 武の血の目覚め
+    statements:
+      -
+        content: 味方の「槍兵」武将の攻撃力を1.8倍にする
+      -
+        content: 敵の「呉」武将から受けるダメージを半減させる
+description: 稀代の英傑・関羽の娘。趙雲との修業を経て、強力な武芸を体得した関銀屏は、諸葛亮の南征に参加するなど、蜀軍の若き支柱として大いに活躍した。

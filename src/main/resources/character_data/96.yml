@@ -1,0 +1,30 @@
+number: 96
+preName:
+name: 張曼成
+rarity: 1
+group: 群
+arm: 蛮兵
+maxLevel: 15
+capability: 5
+initHp: 60
+initAttack: 76
+initRecovery: 20
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾の武勇
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間、敵の防御力がダウン 
+strategies:
+  -
+    name: なし
+    statements:
+description: 張角に呼応して挙兵した黄巾党の指揮官。南陽の黄巾党の指導者で、武勇と統率力に優れていたので「神上使」（神のつかい）と呼ばれている。

@@ -1,0 +1,30 @@
+number: 50
+preName: 
+name: 糜竺
+rarity: 1
+group: 蜀
+arm: 神算
+maxLevel: 10
+capability: 2
+initHp: 40
+initAttack: 20
+initRecovery: 22
+finalHp: 200
+finalAttack: 50
+finalRecovery: 73
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 富豪の援助
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: HPを500回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 莫大な資産家でもある劉備軍の文官。先祖代々から受け継がれた資産で、資金や下僕の工面など数多くの援助を劉備に行っている。

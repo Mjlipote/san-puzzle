@@ -1,0 +1,30 @@
+number: 56
+preName:
+name: 程イク
+rarity: 2
+group: 魏
+arm: 神算
+maxLevel: 15
+capability: 3
+initHp: 45
+initAttack: 55
+initRecovery: 24
+finalHp: 270
+finalAttack: 179
+finalRecovery: 100
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 老滑な策略
+    turnMax: 14
+    turnMin: 7
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操軍の名参謀。身の丈は八尺三寸（約１９１ｃｍ）で、肝が座っている老軍師。例え相手が呂布であろうとも的確な判断で戦況を支えることができる。

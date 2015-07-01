@@ -1,0 +1,34 @@
+number: 961
+preName:
+name: 【新年の祝い】張飛
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 20
+initHp: 1212
+initAttack: 416
+initRecovery: -71
+finalHp: 3394
+finalAttack: 1664
+finalRecovery: -128
+breakHp: 3674
+breakAttack: 1824
+breakRecovery: -8
+skills:
+  -
+    name: 蜀の速攻勢
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 待望の酒宴
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと攻撃力を1.8倍にする
+      -
+        content: 必殺技の威力を2倍にする
+description: 劉備・関羽と義兄弟の契りを交わした猛将。新年の祝いの酒宴で、いつも以上に大酒を喰らう張飛。もう誰にも止められない。「さあさあ、酒だ酒だ！」

@@ -1,0 +1,32 @@
+number: 251
+preName: 【夏色水華】呂姫
+name: 【夏色水恋華】呂姫
+rarity: 5
+group: 群
+arm: 弓兵
+maxLevel: 99
+capability: 14
+initHp: 578
+initAttack: 472
+initRecovery: 67
+finalHp: 1271
+finalAttack: 1133
+finalRecovery: 133
+breakHp: 1551
+breakAttack: 1293
+breakRecovery: 253
+skills:
+  -
+    name: 純朴な遊び心
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「群」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: ここまでおいで！
+    statements:
+      -
+        content: 進軍時に応援を送り、部隊の回復力の３倍のHPを回復
+description: 三国志最強と言われた呂布の娘。父親譲りの勇猛なわんぱく姫。「一刀両断、はじけろーっ！！やったぁ、まっぷたつー★ねっ、一緒に食べよっ♪」

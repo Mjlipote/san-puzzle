@@ -1,0 +1,30 @@
+number: 298
+preName:
+name: 管亥
+rarity: 2
+group: 群
+arm: 蛮兵
+maxLevel: 20
+capability: 3
+initHp: 120
+initAttack: 139
+initRecovery: 10
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 命知らずの突撃
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を1.2倍にする
+description: 

@@ -1,0 +1,32 @@
+number: 533
+preName: 【甘い旋律】蔡文姫
+name: 【彼方への贈り物】蔡文姫
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 908
+initAttack: 516
+initRecovery: 331
+finalHp: 1816
+finalAttack: 1032
+finalRecovery: 661
+breakHp: 2096
+breakAttack: 1232
+breakRecovery: 781
+skills:
+  -
+    name: 愛詩恋歌
+    turnMax: 13
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、使用した武将の回復力5倍のHPを回復
+strategies:
+  -
+    name: 蔡文姫式料理術
+    statements:
+      -
+        content: 連撃時、一定HPまでは上限を超えていても回復する(回復量は回復力の3倍、HPの上限は1.5倍)
+description: 数奇な運命をたどった才女。照れ隠しのうんちくに、甘い告白を込めて。「これ、愛の形を示しているんですよ？」

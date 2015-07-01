@@ -1,0 +1,32 @@
+number: 369
+preName:
+name: 閻圃
+rarity: 2
+group: 群
+arm: 神算
+maxLevel: 20
+capability: 6
+initHp: 164
+initAttack: 241
+initRecovery: 36
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 師君への諫言
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: 意味ある抗戦
+    statements:
+      -
+        content: ダメージを受けると、確率で反撃をする
+description: 五斗米道にて教主・張魯を補佐した文官。冷静で張魯の信用も篤かった。張魯が漢寧王を名乗ろうとした際には、無用の乱を呼ぶものだとこれを諌めている。

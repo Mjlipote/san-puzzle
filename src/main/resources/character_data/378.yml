@@ -1,0 +1,30 @@
+number: 378
+preName:
+name: 黄蓋よしお（こうがいよしお）
+rarity: 2
+group: 呉
+arm: 蛮兵
+maxLevel: 15
+capability: 5
+initHp: 412
+initAttack: 206
+initRecovery: 0
+finalHp: 824
+finalAttack: 412
+finalRecovery: 0
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 隊列、関係ねぇ！
+    turnMax: 17
+    turnMin: 
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: なし
+    statements:
+description: 鍛え抜いた肉体を誇示するため、常に海パン一丁の猛将。防御力には難アリ。「敵兵いっぱい！　でもそんなの関係ねぇ！」

@@ -1,0 +1,36 @@
+number: 996
+preName:
+name: 【贈る想いの形】孫氏
+rarity: 6
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 919
+initAttack: 374
+initRecovery: 214
+finalHp: 2757
+finalAttack: 1608
+finalRecovery: 458
+breakHp: 3037
+breakAttack: 1808
+breakRecovery: 578
+skills:
+  -
+    name: 呉の誘い（群）呉の攻勢
+    turnMax: 11
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「呉」ユニットに変化させる
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: こ、こうやって贈るのが正しいって...
+    statements:
+      -
+        content: 「弓兵」武将のHPと攻撃力を1.8倍、回復力を1.5倍
+      -
+        content: 必殺技発動に必要なチャージ数が3減少する
+description: 孫策と大喬の娘。愛する陸遜に想いをぶつけることにした孫氏。無二の親友・周姫と相談のもと、いよいよチョコをプレゼント！これで落ちない男はいない？

@@ -1,0 +1,32 @@
+number: 791
+preName:
+name: 【曹三女】曹華
+rarity: 4
+group: 漢
+arm: 神算
+maxLevel: 25
+capability: 11
+initHp: 266
+initAttack: 188
+initRecovery: 61
+finalHp: 479
+finalAttack: 338
+finalRecovery: 92
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 超越の回復
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: HPが上限値を超えて回復する
+strategies:
+  -
+    name: 天真爛漫少女
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力と回復力を1.8倍にする
+description: 曹操の娘で、二人の姉と共に、献帝に嫁いだ。しかし、彼女はあまりにも幼かったため、後宮入りはせずに、国許でそのまま育てられた。

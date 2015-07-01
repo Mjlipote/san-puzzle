@@ -1,0 +1,34 @@
+number: 1048
+preName:
+name: 【花にも勝る色香】鄒氏
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 888
+initAttack: 387
+initRecovery: 458
+finalHp: 2220
+finalAttack: 1355
+finalRecovery: 916
+breakHp: 2500
+breakAttack: 1555
+breakRecovery: 1036
+skills:
+  -
+    name: 意志高揚の誘因
+    turnMax: 5
+    turnMin: 
+    statements:
+      -
+        content: HPを少しと回復禁止・ユニット封じ状態を2ターン回復する
+strategies:
+  -
+    name: 生得の魅力
+    statements:
+      -
+        content: 「鬼謀」武将の攻撃力を2倍、回復力を2倍
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値3倍の再攻撃
+description: 曹操を虜にした絶世の美女。夫を喪った若い未亡人の色香は、春を彩る花の美しさにも引けを取らず、その艶然なる表情は、数多くの男性を虜にしている。

@@ -1,0 +1,30 @@
+number: 253
+preName: 曹軍兵長
+name: 【上級】曹軍兵長
+rarity: 3
+group: 魏
+arm: 騎兵
+maxLevel: 30
+capability: 5
+initHp: 80
+initAttack: 227
+initRecovery: 10
+finalHp: 161
+finalAttack: 455
+finalRecovery: 21
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 曹軍兵の剛剣
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「魏」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操軍兵卒の長。５人程度の兵を率いている。訓練と実戦とを重ねた歴戦の兵でもあり、少人数の隊であっても侮れない強さを持っている。

@@ -1,0 +1,36 @@
+number: 1002
+preName: 【泰平の祈り】敬哀皇后
+name: 【劉禅正室】敬哀皇后
+rarity: 6
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 28
+initHp: 1025
+initAttack: 752
+initRecovery: 296
+finalHp: 2460
+finalAttack: 1655
+finalRecovery: 593
+breakHp: 2780
+breakAttack: 1855
+breakRecovery: 713
+skills:
+  -
+    name: 呉蜀漢同盟‧呉蜀漢招集
+    turnMax: 21
+    turnMin: 15
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「漢」ユニットに変化
+      -
+        content: 1ターンの間、「呉・蜀・漢・桃」ユニットのみ出現
+strategies:
+  -
+    name: 幼き慈愛の抱擁
+    statements:
+      -
+        content: 5連撃以上で、「弓兵」武将の攻撃力を3倍
+      -
+        content: 「蜀」武将のHPを1.8倍にする
+description: 蜀の猛将・張飛の娘で、張姫の姉に当たる女性。夷陵の戦いで敗れた劉備が白帝城に崩御し、劉禅がその位を継ぐと、彼女も「敬哀皇后」として立てられた。

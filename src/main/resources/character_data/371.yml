@@ -1,0 +1,32 @@
+number: 371
+preName:
+name: 【受流】張コウ勝山（【うけながす】ちょうこうかつやま）
+rarity: 5
+group: 魏
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 564
+initAttack: 321
+initRecovery: 93
+finalHp: 1805
+finalAttack: 963
+finalRecovery: 186
+breakHp: 2045
+breakAttack: 1123
+breakRecovery: 266
+skills:
+  -
+    name: 受け流しの極意
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 5ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 受け流し体勢
+    statements:
+      -
+        content: 受けるダメージを右から左に受け流す(20%減傷)
+description: 知略兼ね備えた勇将だが、突然歌いだすので奇襲が出来ない。あと、割と寂しがり屋。「中華全土に轟くムーディソング、お楽しみあれ！」

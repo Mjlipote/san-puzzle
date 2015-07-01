@@ -1,0 +1,34 @@
+number: 595
+preName: 【美しき白刃】王異
+name: 【涼州の月光】王異
+rarity: 6
+group: 魏
+arm: 騎兵
+maxLevel: 99
+capability: 23
+initHp: 1247
+initAttack: 681
+initRecovery: 11
+finalHp: 3117
+finalAttack: 1703
+finalRecovery: 17
+breakHp: 3397
+breakAttack: 1903
+breakRecovery: 137
+skills:
+  -
+    name: 魏への誘い（呉）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「呉」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 辺境を照らす光
+    statements:
+      -
+        content: 全勢力で編成した時、全武将の攻撃力と回復力1.5倍
+      -
+        content: 「魏」と「漢」で攻撃した時、全武将の攻撃力2.5倍
+description: 『三国志』上で戦闘への参加が明確に描かれている唯一の女性。馬超に息子を人質に取られていたが、朝廷への義を優先し、幾つもの策を練り、戦い続けた。

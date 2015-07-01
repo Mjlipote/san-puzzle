@@ -1,0 +1,32 @@
+number: 448
+preName: 【双子鏡奏】鏡音リン
+name: 【愛恋なる歌】鏡音リン
+rarity: 4
+group: 群
+arm: 弓兵
+maxLevel: 70
+capability: 10
+initHp: 522
+initAttack: 461
+initRecovery: 150
+finalHp: 1986
+finalAttack: 678
+finalRecovery: 175
+breakHp: 2146
+breakAttack: 838
+breakRecovery: 255
+skills:
+  -
+    name: もう一人の私へ
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 攻撃後、部隊で最も攻撃が高いレンの攻撃力２倍で回復
+strategies:
+  -
+    name: 二人ならできるコト
+    statements:
+      -
+        content: 毎ターン、部隊に居るレンの攻撃力2倍の回復
+description: 終南山に舞い降りた天女の一人。元気いっばい、アップテンポな歌を好き、今日もみんなのな間を飛び跳ねる！「リンちゃんにおまかせっ！」

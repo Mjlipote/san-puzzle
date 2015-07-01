@@ -1,0 +1,30 @@
+number: 74
+preName:
+name: 徐栄
+rarity: 2
+group: 群
+arm: 剣兵
+maxLevel: 15
+capability: 5
+initHp: 98
+initAttack: 45
+initRecovery: 24
+finalHp: 490
+finalAttack: 169
+finalRecovery: 114
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 董卓軍の精鋭
+    turnMax: 28
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力10倍の攻撃 
+strategies:
+  -
+    name: なし
+    statements:
+description: 董卓軍幕下の勇将。董卓が信頼する将の1人で、反董卓連合軍制圧の任を受ける。戦功者な将で、連合軍相手に幾度も善戦し、戦果をあげる。

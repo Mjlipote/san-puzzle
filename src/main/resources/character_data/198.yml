@@ -1,0 +1,30 @@
+number: 198
+preName: 劉軍槍兵
+name: 【上級】劉軍槍兵
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 20
+capability: 3
+initHp: 14
+initAttack: 128
+initRecovery: 13
+finalHp: 21
+finalAttack: 192
+finalRecovery: 19
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 劉軍兵の槍撃
+    turnMax: 4
+    turnMin: 2
+    statements:
+      -
+        content: 敵全体に「蜀」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備軍の兵卒。長槍の扱いが巧く、熟練の域に達している。また、劉備の人徳に惚れ込んでおり、主君のためなら命を投げ出すほどの覚悟がある。

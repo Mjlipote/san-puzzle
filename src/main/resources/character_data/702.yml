@@ -1,0 +1,30 @@
+number: 702
+preName:
+name: 【期待の末子】袁尚
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 15
+capability: 6
+initHp: 145
+initAttack: 148
+initRecovery: 11
+finalHp: 725
+finalAttack: 296
+finalRecovery: 22
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 乱撃一突破
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵単体に1倍から攻撃力の5倍までのランダムダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹の三男。武勇に優れ、容姿にも優れていたため、父母に寵愛され、一節によると袁紹は長男の袁譚を差し置いて、袁尚を後継ぎに考えていたとされる。

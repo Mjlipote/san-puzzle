@@ -1,0 +1,32 @@
+number: 412
+preName: 【天子奉戴】曹操
+name: 【官渡決戦】曹操
+rarity: 6
+group: 魏
+arm: 騎兵
+maxLevel: 99
+capability: 22
+initHp: 1009
+initAttack: 541
+initRecovery: 147
+finalHp: 2523
+finalAttack: 1462
+finalRecovery: 176
+breakHp: 2803
+breakAttack: 1662
+breakRecovery: 296
+skills:
+  -
+    name: 竜虎断割
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 「漢」勢力の敵に使用した武将の攻撃力100倍の攻撃
+strategies:
+  -
+    name: 覇道を往く者
+    statements:
+      -
+        content: 味方の「魏」勢力の武将の攻撃力を2.2倍にする
+description: 中原の覇者となった三国志の主人公の１人。前年までに呂布、袁術、劉備ら、強敵との激闘を制し、満を持して、河北の大雄、宿敵袁紹との決戦に挑む！

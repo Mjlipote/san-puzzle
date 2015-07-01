@@ -1,0 +1,34 @@
+number: 964
+preName:
+name: 【九天を越えて】王異
+rarity: 6
+group: 魏
+arm: 弓兵
+maxLevel: 99
+capability: 35
+initHp: 792
+initAttack: 592
+initRecovery: 94
+finalHp: 3010
+finalAttack: 1658
+finalRecovery: 263
+breakHp: 3330
+breakAttack: 1858
+breakRecovery: 383
+skills:
+  -
+    name: 魏の誘い（群）糧食確保（毒）
+    turnMax: 27
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「群」を「魏」へ「毒」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 奇計実行
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2.2倍にする
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 涼州参軍・趙昂の妻で、智勇と意志の強さを持ち合わせた女傑。馬超に攻められた折、自ら具足を纏って出陣、馬超と互角以上に渡り合うほどの烈女である。

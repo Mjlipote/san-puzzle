@@ -1,0 +1,32 @@
+number: 337
+preName:
+name: 【虎痴】許チョ
+rarity: 6
+group: 魏
+arm: 蛮兵
+maxLevel: 99
+capability: 40
+initHp: 615
+initAttack: 317
+initRecovery: 71
+finalHp: 3075
+finalAttack: 1268
+finalRecovery: 142
+breakHp: 3355
+breakAttack: 1468
+breakRecovery: 262
+skills:
+  -
+    name: 親衛隊長の覚悟
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 忠烈なる虎士
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2倍にする
+description: 曹操の親衛隊長。腰周り10囲（約120cm）という巨漢。愚鈍だが虎の如き怪力で虎痴の異名を持つ。潼関では馬超相手に一歩も譲らぬ戦いを見せた。

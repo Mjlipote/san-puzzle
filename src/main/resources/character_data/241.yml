@@ -1,0 +1,32 @@
+number: 241
+preName: 廖化
+name: 【義心の芽】廖化
+rarity: 2
+group: 群
+arm: 槍兵
+maxLevel: 30
+capability: 3
+initHp: 242
+initAttack: 97
+initRecovery: 68
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 流転の強者
+    turnMax: 17
+    turnMin: 
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える 
+strategies:
+  -
+    name: 歴戦の勇士
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを少し減少させる
+description: 後の蜀漢を支え続けることになる黄巾の将。劉備率いる義勇兵と戦ったことで、その義心を目の当たりにして、いつか共に戦うことを心に決めている。

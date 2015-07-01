@@ -1,0 +1,32 @@
+number: 118
+preName: 
+name: 【献帝妃】伏皇后
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 25
+capability: 5
+initHp: 22
+initAttack: 35
+initRecovery: 23
+finalHp: 275
+finalAttack: 219
+finalRecovery: 191
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 暴室の呪詛
+    turnMax: 22
+    turnMin: 9
+    statements:
+      -
+        content: 敵全体に部隊の「漢」攻撃力５倍の攻撃
+strategies:
+  -
+    name: 報復の刃
+    statements:
+      -
+        content: ダメージを受けると、たまに反撃する
+description: 献帝の皇后。董卓が長安に献帝を連れ去ったっ頃に后妃となり、その後皇后となっている。献帝とは仲が良く、洛陽への逃避行にも付き添って彼を支えた。

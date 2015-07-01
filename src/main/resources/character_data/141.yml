@@ -1,0 +1,32 @@
+number: 141
+preName: 【武勇姫】呂姫
+name: 【飛将姫】呂姫
+rarity: 5
+group: 群
+arm: 弓兵
+maxLevel: 99
+capability: 13
+initHp: 677
+initAttack: 562
+initRecovery: 61
+finalHp: 1922
+finalAttack: 1539
+finalRecovery: 164
+breakHp: 2162
+breakAttack: 1699
+breakRecovery: 244
+skills:
+  -
+    name: 飛将姫降臨
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「群」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 方天戟の一閃
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を２倍にする
+description: 三国志最強と言われた呂布の娘。袁術の息子と政略結婚をするように命じられるが、猿の子に嫁ぐくらいなら自分が敵を追い払う、と言ってこれを断った。

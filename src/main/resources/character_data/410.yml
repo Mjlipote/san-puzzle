@@ -1,0 +1,32 @@
+number: 410
+preName: 【囮の策】荀攸
+name: 【寝返支持】荀攸
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 15
+initHp: 703
+initAttack: 363
+initRecovery: 245
+finalHp: 1758
+finalAttack: 1089
+finalRecovery: 367
+breakHp: 1918
+breakAttack: 1209
+breakRecovery: 437
+skills:
+  -
+    name: 熟考の果て
+    turnMax: 12
+    turnMin: 9
+    statements:
+      -
+        content: 「漢」勢力の敵に対して「魏」勢力の特大ダメージ
+strategies:
+  -
+    name: 高枕無憂の才
+    statements:
+      -
+        content: 味方の「魏」勢力の武将のHPを2.2倍にする
+description: 荀イクの甥で、彼の推挙により曹操の軍師として仕える。重要情報を携えた許攸の降伏を「罠ではなく、真である」と見抜き、官渡の戦いを勝利に導く。

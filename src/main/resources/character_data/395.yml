@@ -1,0 +1,32 @@
+number: 395
+preName: 【名門の謀臣】沮授
+name: 【漢朝復興の計】沮授
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 14
+initHp: 799
+initAttack: 544
+initRecovery: 272
+finalHp: 1598
+finalAttack: 1089
+finalRecovery: 489
+breakHp: 1838
+breakAttack: 1249
+breakRecovery: 569
+skills:
+  -
+    name: 袁家軍の指揮権
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 持久戦論
+    statements:
+      -
+        content: 「漢」勢力のHPと回復力を1.8倍にする
+description: 袁紹軍の監軍（総司令官）。曹操陣営の危うさを見抜き、今は起兵せず、国力の充実を計りつつ曹操陣営の自壊を待つべしと主張したが容れられなかった。

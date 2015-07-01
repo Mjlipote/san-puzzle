@@ -1,0 +1,32 @@
+number: 812
+preName:
+name: 【覇業の立役者】荀イク
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 50
+capability: 22
+initHp: 244
+initAttack: 234
+initRecovery: 101
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏漢同盟
+    turnMax: 28
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「魏」「漢」「桃」ユニットに変化させる
+strategies:
+  -
+    name: 幽玄なる兵略
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を3倍にする
+description: 儒学に通じる名家出身の政治家。後漢末期の混迷を平定しうる覇者を求め袁紹に目通りするも、その器の小ささに失望すると、次に東郡の曹操の元へと赴く。

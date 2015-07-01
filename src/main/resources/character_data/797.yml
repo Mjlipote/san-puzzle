@@ -1,0 +1,36 @@
+number: 797
+preName: 【錦帆賊】甘寧
+name: 【鈴の音の進撃】甘寧
+rarity: 6
+group: 呉
+arm: 蛮兵
+maxLevel: 99
+capability: 26
+initHp: 1308
+initAttack: 960
+initRecovery: 29
+finalHp: 2616
+finalAttack: 1921
+finalRecovery: 43
+breakHp: 2896
+breakAttack: 2121
+breakRecovery: 163
+skills:
+  -
+    name: 呉の超攻勢
+    turnMax: 25
+    turnMin: 19
+    statements:
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 峻烈なる旋風
+    statements:
+      -
+        content: ユニット6つ以上同時に消すと攻撃力3倍
+      -
+        content: 最大で4.5倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 遊侠を好み、攻撃的な猛将であるが、書に親しむ一面もある。孫権に仕えて後は、少数の手勢での奇襲や強襲を数多くこなし、その勇猛さを大いに発揮した。

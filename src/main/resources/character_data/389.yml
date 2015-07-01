@@ -1,0 +1,30 @@
+number: 389
+preName: 虞翻
+name: 【直言の相】虞翻
+rarity: 3
+group: 呉
+arm: 神算
+maxLevel: 50
+capability: 8
+initHp: 464
+initAttack: 397
+initRecovery: 73
+finalHp: 1021
+finalAttack: 793
+finalRecovery: 146
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 気高き暴言
+    turnMax: 26
+    turnMin: 19
+    statements:
+      -
+        content: 敵の攻撃を1ターン遅らせる
+strategies:
+  -
+    name: なし
+    statements:
+description: 鋭い知性と狂直（正しいことを貫く様）の性格で知られる官吏。孫策の招聘に応じると、旧職である会稽郡の事務を担当しつつ、幕僚としても仕えた。

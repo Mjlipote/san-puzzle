@@ -1,0 +1,32 @@
+number: 953
+preName:
+name: 【道中記馬編】董白
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 666
+initAttack: 222
+initRecovery: 6
+finalHp: 3996
+finalAttack: 666
+finalRecovery: 18
+breakHp: 4236
+breakAttack: 826
+breakRecovery: 98
+skills:
+  -
+    name: 魏漢群同盟
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「魏」「漢」「群」ユニットに変化
+strategies:
+  -
+    name: うら若き乙女になにしてくれるのよ！
+    statements:
+      -
+        content: 味方の「魏」「群」武将のHPと攻撃力を1.5倍にする
+description: 道士‧左慈の仕掛けたイタズラによって、董白は道連れの馬と一体化してしまった...。「もう死んだ方がマジだわ！笑うなら笑いなさいよ！！」

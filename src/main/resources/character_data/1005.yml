@@ -1,0 +1,34 @@
+number: 1005
+preName: 【忠義の烈将】馬騰
+name: 【忠魂燦爛】馬騰
+rarity: 7
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 2421
+initAttack: 1331
+initRecovery: 306
+finalHp: 3147
+finalAttack: 1797
+finalRecovery: 398
+breakHp: 3507
+breakAttack: 1997
+breakRecovery: 518
+skills:
+  -
+    name: 貫くべき意地
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 覚悟の義士
+    statements:
+      -
+        content: 必殺技の威力を2.5倍にする
+      -
+        content: 必殺発動時に必要なチャージ数が4減少する
+description: 西涼の将。馬騰の西涼兵を継承した馬超は、雍州で乱を起こす。息子の反乱の咎として捕らわれた馬騰は、雄々しく歩む息子を誇りながら、最後の時を待つ。

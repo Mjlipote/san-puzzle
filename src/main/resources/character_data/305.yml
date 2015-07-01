@@ -1,0 +1,30 @@
+number: 305
+preName: 劉ヨウ
+name: 【揚州牧】劉ヨウ
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 50
+capability: 7
+initHp: 188
+initAttack: 259
+initRecovery: 94
+finalHp: 339
+finalAttack: 570
+finalRecovery: 207
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 揚州刺史の力
+    statements:
+      -
+        content: 受けるダメージを少し減少させる
+description: 前漢高祖の血を引く名門の出。人材を集めて勢力を広げ、朝廷から揚州牧に任ぜられる。だが太史慈の器量を見抜けなかったことが後に痛恨事に繋がった。

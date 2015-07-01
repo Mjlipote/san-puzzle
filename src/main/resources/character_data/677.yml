@@ -1,0 +1,32 @@
+number: 677
+preName: 【孔明の兄】諸葛瑾
+name: 【温厚篤実】諸葛瑾
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 23
+initHp: 649
+initAttack: 726
+initRecovery: 238
+finalHp: 2273
+finalAttack: 1089
+finalRecovery: 523
+breakHp: 2553
+breakAttack: 1289
+breakRecovery: 643
+skills:
+  -
+    name: 呉軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「魏」と「桃」を、「呉」に変化させる
+strategies:
+  -
+    name: 堅実なる用兵
+    statements:
+      -
+        content: 味方の「呉」武将のHPと回復力を2倍にする
+description: 諸葛亮の実兄で、呉の政治家。孫権の性格を良く把握しており、また、孫権と不仲になった家臣の間をよく取り持った為、周囲の評判は非常に良かった。

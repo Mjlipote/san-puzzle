@@ -1,0 +1,32 @@
+number: 279
+preName: 【洛陽逃亡】陳宮
+name: 【飛将邂逅】陳宮
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 16
+initHp: 674
+initAttack: 547
+initRecovery: 28
+finalHp: 1415
+finalAttack: 1148
+finalRecovery: 59
+breakHp: 1695
+breakAttack: 1308
+breakRecovery: 179
+skills:
+  -
+    name: 掎角之計
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「呉」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 戦鬼の扶翼
+    statements:
+      -
+        content: 味方の「群」武将のHPを２倍にする
+description: 呂布配下の軍師。冷酷な曹操と袂を分かち、陳留太守の張バクを頼る。この時出逢った呂布を荒々しいが純朴な志を持つ武人と見込み、彼の軍師となる。

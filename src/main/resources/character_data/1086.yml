@@ -1,0 +1,36 @@
+number: 1086
+preName:
+name: 【狂乱の焔】陸遜
+rarity: 7
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 55
+initHp: 1336
+initAttack: 476
+initRecovery: 80
+finalHp: 4008
+finalAttack: 2047
+finalRecovery: 160
+breakHp: 4408
+breakAttack: 2247
+breakRecovery: 280
+skills:
+  -
+    name: 呉の誘い（蜀）呉の超大攻勢
+    turnMax: 24
+    turnMin: 14
+    statements:
+      -
+        content: 「蜀」ユニットを「呉」ユニットに変化させる
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を2.5倍にする
+strategies:
+  -
+    name: 解き放たれし凶獣
+    statements:
+      -
+        content: HPが最大の時、受けるダメージを大幅に減少させる
+      -
+        content: ユニットを横7つ繋げて消すと全武将の攻撃力3倍
+description: 呉の四姓と呼ばれる名家の出身で、深慮遠謀の智将、政治家。復讐の鬼となり押し寄せる劉備。迎え撃つ陸遜に驕りの色はなく、猛る灼炎は全力の証左であった。

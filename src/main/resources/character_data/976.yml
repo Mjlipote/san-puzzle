@@ -1,0 +1,32 @@
+number: 976
+preName:
+name: 【新進気鋭】陸抗
+rarity: 5
+group: 呉
+arm: 神算
+maxLevel: 50
+capability: 24
+initHp: 479
+initAttack: 299
+initRecovery: 55
+finalHp: 1437
+finalAttack: 897
+finalRecovery: 110
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉の誘い（蜀）糧食確保（毒）
+    turnMax: 25
+    turnMin: 10
+    statements:
+      -
+        content: ユニットの「蜀」を「呉」へ「毒」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 陸の家風
+    statements:
+      -
+        content: 5連撃以上で、「呉」武将の攻撃力を3倍
+description: 陸遜と孫氏の息子で呉の晚年を支えた武将。弱冠二十歳にして陸遜の後を継ぐと、彈劾された父の疑惑のすべてを理路整然と釈明し、その名誉を回復させた。

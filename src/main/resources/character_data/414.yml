@@ -1,0 +1,32 @@
+number: 414
+preName: 【急先鋒】楽進
+name: 【剛毅苛烈】楽進
+rarity: 5
+group: 魏
+arm: 騎兵
+maxLevel: 70
+capability: 14
+initHp: 1150
+initAttack: 776
+initRecovery: 31
+finalHp: 2645
+finalAttack: 1164
+finalRecovery: 47
+breakHp: 2885
+breakAttack: 1324
+breakRecovery: 127
+skills:
+  -
+    name: 確乎不動
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 勇往邁進
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力を2倍にする
+description: 反董卓の頃より曹操軍で戦う、叩き上げの将。記録係から武将へ、さらに将軍の位を得ても、常に前線での戦いを望み、出撃のたびに、大きな戦功を挙げた。

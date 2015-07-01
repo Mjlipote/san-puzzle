@@ -1,0 +1,32 @@
+number: 363
+preName: 【一字千金】架純姫
+name: 【癒国之舞姫】架純姫
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 70
+capability: 10
+initHp: 793
+initAttack: 334
+initRecovery: 169
+finalHp: 1993
+finalAttack: 787
+finalRecovery: 389
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 癒国の舞
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「群」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 漢王室の希望
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: その出自をはじめとする生涯が謎に包まれた献帝の寵姫。異国の舞を得意とした容姿端麗ながら、なぜか董卓の目には留まらなかった。

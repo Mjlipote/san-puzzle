@@ -1,0 +1,32 @@
+number: 647
+preName:
+name: 【異国孃】クロエ・ルメール
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 50
+capability: 17
+initHp: 167
+initAttack: 86
+initRecovery: 49
+finalHp: 1420
+finalAttack: 1032
+finalRecovery: 245
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ワタシが応援してますヨ～！
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: HP全回復と技能封じ‧回復禁止状態を2ターン回復する
+strategies:
+  -
+    name: 勝利を目指しましょ～
+    statements:
+      -
+        content: 「GF(仮)コラボ」武将の攻擊力を2.2倍にする
+description: 終南山に新たに現れた、謎の天女？の一人。金髮碧眼の好奇心旺盛な少女。「大迫力ですネ～、映画の撮影でしょか？」

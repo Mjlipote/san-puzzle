@@ -1,0 +1,32 @@
+number: 5
+preName:
+name: 【碧眼児】孫権
+rarity: 2
+group: 呉
+arm: 剣兵
+maxLevel: 5
+capability: 2
+initHp: 77
+initAttack: 41
+initRecovery: 16
+finalHp: 154
+finalAttack: 82
+finalRecovery: 32
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 碧眼の若獅子
+    turnMax: 12
+    turnMin: 10
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを入れ替える
+strategies:
+  -
+    name: 孫呉の烈
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を1.5倍にする
+description: 孫呉覇業の遺志を継いだ三国志の主人公の1人。至高の面相と言われる「碧眼紫髯」(蒼い目と赤毛)の持ち主で、父・孫堅から将来を期待されている。

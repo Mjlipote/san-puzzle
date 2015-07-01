@@ -1,0 +1,30 @@
+number: 269
+preName: 馬岱
+name: 【馬超の片腕】馬岱
+rarity: 3
+group: 群
+arm: 騎兵
+maxLevel: 50
+capability: 6
+initHp: 279
+initAttack: 152
+initRecovery: 82
+finalHp: 558
+finalAttack: 304
+finalRecovery: 163
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 任務断行
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「群」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 馬超の族弟にして、若い頃からの片腕的存在。馬超・韓遂らと共に反旗をひるがえすが、離間の策により韓遂と決別。敗戦後一族は放浪を余儀なくされる。

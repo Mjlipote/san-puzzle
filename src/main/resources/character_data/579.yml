@@ -1,0 +1,32 @@
+number: 579
+preName: 【戸惑いの阿蒙】呂蒙
+name: 【巨虎進呈】呂蒙
+rarity: 6
+group: 呉
+arm: 鬼謀
+maxLevel: 99
+capability: 22
+initHp: 894
+initAttack: 549
+initRecovery: 257
+finalHp: 1913
+finalAttack: 1175
+finalRecovery: 549
+breakHp: 2193
+breakAttack: 1375
+breakRecovery: 669
+skills:
+  -
+    name: 軍師からの返礼
+    turnMax: 3
+    turnMin: 2
+    statements:
+      -
+        content: 使用した武将の回復力の3.14倍のHPを回復させる
+strategies:
+  -
+    name: 実直なる采配
+    statements:
+      -
+        content: 「呉」武将のHPと攻撃力と回復力を1.5倍にする
+description: 孫権配下の軍師。勇敢な武人が心機一転、勉学に励み、女性の心の機微にも挑戦します。「贈り物の真意...書物には書いとらん！」

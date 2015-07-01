@@ -1,0 +1,28 @@
+number: 268
+preName:
+name: 馬岱
+rarity: 2
+group: 群
+arm: 騎兵
+maxLevel: 20
+capability: 3
+initHp: 164
+initAttack: 80
+initRecovery: 43
+finalHp: 328
+finalAttack: 160
+finalRecovery: 86
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 馬超の族弟にして、若い頃からの片腕的存在。曹操に一族郎党が誅殺されたときに、ただ１人脱出に成功、西涼まで辿りつき馬超に一族誅殺の報を告げる。

@@ -1,0 +1,32 @@
+number: 525
+preName: 【軍神の娘】関銀屏
+name: 【趙雲の愛弟子】関銀屏
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 14
+initHp: 749
+initAttack: 846
+initRecovery: 104
+finalHp: 1787
+finalAttack: 1406
+finalRecovery: 138
+breakHp: 2027
+breakAttack: 1566
+breakRecovery: 218
+skills:
+  -
+    name: 趙雲の教え
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: うら若き傑物
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを減少させる
+description: 稀代の英傑・関羽の娘。荒刷りな己の武芸に磨きをかける為に、趙雲に弟子入りを志願。最高の師の元、さらなる研鑽を積み、今日も蜀漢の為に戦場にでる。

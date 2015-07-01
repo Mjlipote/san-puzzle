@@ -1,0 +1,32 @@
+number: 644
+preName: 【薄幸の予感】袁姫
+name: 【冥界への黒い糸】袁姫
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 24
+initHp: 742
+initAttack: 584
+initRecovery: -353
+finalHp: 1633
+finalAttack: 1285
+finalRecovery: -884
+breakHp: 4433
+breakAttack: 2165
+breakRecovery: -884
+skills:
+  -
+    name: 群の超攻勢
+    turnMax: 37
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、「群」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 厄災の華
+    statements:
+      -
+        content: 味方の「鬼謀」武将のHPと攻撃力を2倍にする
+description: 偽帝袁術の幸薄い娘。孫権の側室となるが、世継に惠まれず養育を任された子供も、全て夭逝させてしまい、最後は讒言を受けて処刑されてしまう。

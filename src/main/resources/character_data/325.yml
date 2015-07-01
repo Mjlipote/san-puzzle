@@ -1,0 +1,32 @@
+number: 325
+preName: 【官渡武勇】徐晃
+name: 【不敗の将】徐晃
+rarity: 5
+group: 魏
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 2255
+initAttack: 668
+initRecovery: 34
+finalHp: 3157
+finalAttack: 868
+finalRecovery: 41
+breakHp: 3397
+breakAttack: 1028
+breakRecovery: 121
+skills:
+  -
+    name: 不敗の名将
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ３ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 無敗たる所為
+    statements:
+      -
+        content: ダメージを受けると、高確率で反撃をする
+description: 不敗の名将。馬超・韓遂が反乱を起こすと、精鋭を率いて黄河を迂回して渡河。潼関の背後に陣を築き、馬超の副将・梁興を撃破。戦いを勝利へと導いた。

@@ -1,0 +1,30 @@
+number: 207
+preName:
+name: 黄巾兵長
+rarity: 2
+group: 群
+arm: 騎兵
+maxLevel: 15
+capability: 2
+initHp: 45
+initAttack: 107
+initRecovery: 8
+finalHp: 113
+finalAttack: 225
+finalRecovery: 17
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾兵の狂乱
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 黄巾着党兵士の長。5人程度の兵を率いている。元々兵長経験のあった者や、山賊の頭目など、兵を率いた経験のある者が兵長を任されている。

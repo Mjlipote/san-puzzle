@@ -1,0 +1,32 @@
+number: 394
+preName:
+name: 【名門の謀臣】沮授
+rarity: 4
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 7
+initHp: 376
+initAttack: 191
+initRecovery: 143
+finalHp: 940
+finalAttack: 573
+finalRecovery: 286
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家軍の指揮権
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 持久戦論
+    statements:
+      -
+        content: 「漢」勢力のHPと回復力を1.8倍にする
+description: 袁紹軍の監軍（総司令官）。権謀術数に優れ、広い視野と優れた洞察力を持つ戦略家。冀・青・幽・并の４州平定を構想し、その実現に貢献した。

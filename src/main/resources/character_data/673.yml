@@ -1,0 +1,32 @@
+number: 673
+preName:
+name: 【こども】孫尚香
+rarity: 4
+group: 呉
+arm: 弓兵
+maxLevel: 60
+capability: 10
+initHp: 279
+initAttack: 160
+initRecovery: 103
+finalHp: 781
+finalAttack: 448
+finalRecovery: 96
+breakHp: 1781
+breakAttack: 1048
+breakRecovery: 296
+skills:
+  -
+    name: しょこたんだぞー！
+    turnMax: 15
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間「こども」武将の攻撃力1.5倍
+strategies:
+  -
+    name: だいしょうぐんのちからー！
+    statements:
+      -
+        content: 味方の「こども」武将の攻擊力を3倍にする
+description: どこかで見た様な、お転婆娘。ホントにとっかで見た事あるが、どうしても思い出せない。「大‧大‧大‧将‧軍！しょこたんだぞ～っ！」

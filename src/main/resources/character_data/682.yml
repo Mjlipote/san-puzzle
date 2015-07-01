@@ -1,0 +1,32 @@
+number: 682
+preName:
+name: 【純真な羞恥】樊氏
+rarity: 5
+group: 群
+arm: 神算
+maxLevel: 50
+capability: 18
+initHp: 300
+initAttack: 280
+initRecovery: 158
+finalHp: 600
+finalAttack: 560
+finalRecovery: 316
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「漢」と「桃」を、「群」に変化させる
+strategies:
+  -
+    name: 一途な想い
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力と回復力を2倍にする
+description: 桂陽太守・趙範の義姉。義弟の趙範が、荊州南部に侵攻して来た劉備軍に降伏した際、趙雲と同姓（同郷）のよしみで親交を深め、樊氏を紹介した。

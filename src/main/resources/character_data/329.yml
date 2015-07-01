@@ -1,0 +1,32 @@
+number: 329
+preName: 【鎮西将軍】韓遂
+name: 【乱の華】韓遂
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 1669
+initAttack: 879
+initRecovery: 48
+finalHp: 2670
+finalAttack: 1055
+finalRecovery: 58
+breakHp: 2910
+breakAttack: 1335
+breakRecovery: 138
+skills:
+  -
+    name: 反逆の暴風雨
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 的単体に攻撃力の最大１００倍までのランダムダメージ
+strategies:
+  -
+    name: 勝負師の逆転劇
+    statements:
+      -
+        content: ダメージを受けると、ごく稀に超強力な反撃をする
+description: ３０年間中央政権に対して反乱を続けた男。馬超の挙兵に呼応、曹操軍に対して攻撃を仕掛ける。曹操の離間策で馬超と決別した後も、涼州一体で抗戦した。

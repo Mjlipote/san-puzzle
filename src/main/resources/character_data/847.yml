@@ -1,0 +1,34 @@
+number: 847
+preName: 【高貴なる血筋】劉虞
+name: 【野心無き皇族】劉虞
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 26
+initHp: 1573
+initAttack: 713
+initRecovery: 131
+finalHp: 3304
+finalAttack: 1425
+finalRecovery: 197
+breakHp: 3624
+breakAttack: 1625
+breakRecovery: 317
+skills:
+  -
+    name: 凡庸の戦略
+    turnMax: 11
+    turnMin: 7
+    statements:
+      -
+        content: 5ターンの間、低確率で受けるダメージを0にする
+strategies:
+  -
+    name: 正道を往く
+    statements:
+      -
+        content: 5兵種以上で編成した時、全武将の攻撃力3倍
+      -
+        content: 3勢力以上で編成した時、全武将のHP1.5倍
+description: 光武帝の末裔にあたる皇族。董卓により宮中が混乱すると、袁紹らによって新帝に擁立する動きがあったが、劉虞自身に拒絶され、沙汰止みとなった。

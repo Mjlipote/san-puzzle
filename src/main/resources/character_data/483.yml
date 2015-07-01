@@ -1,0 +1,32 @@
+number: 483
+preName: 【暴虐非道】董卓
+name: 【魔王】董卓
+rarity: 7
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 40
+initHp: 1698
+initAttack: 693
+initRecovery: 0
+finalHp: 4416
+finalAttack: 1524
+finalRecovery: 0
+breakHp: 4816
+breakAttack: 1724
+breakRecovery: 120
+skills:
+  -
+    name: 残虐なる搾取
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 敵単体に大ダメージを与え、HPを大回復する
+strategies:
+  -
+    name: 暴虐の王
+    statements:
+      -
+        content: 4兵種で同時に攻撃した時、全武将の攻撃力2.5倍
+description: 悪逆非道な暴雄。子飼いの猛将華雄‧呂布らは、各地で反董卓連合軍を擊破せしめる。そして、決戦の日...反逆者の生き血を求め、ついに魔王自らが出陣する！

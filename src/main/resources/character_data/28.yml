@@ -1,0 +1,32 @@
+number: 28
+preName: 【名外交官】伊籍
+name: 【的盧指摘】伊籍
+rarity: 3
+group: 蜀
+arm: 神算
+maxLevel: 25
+capability: 5
+initHp: 62
+initAttack: 105
+initRecovery: 105
+finalHp: 281
+finalAttack: 235
+finalRecovery: 157
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 巧妙な外交
+    turnMax: 22
+    turnMin: 15
+    statements:
+      -
+        content: 部隊の回復力の2倍のHPを回復させる
+strategies:
+  -
+    name: 的確な忠言
+    statements:
+      -
+        content: 敵の｢蜀｣武将から受けるダメージを少し減少させる
+description: 劉備軍の有能な文官。送られた馬を「的盧」という凶馬だと指摘し、さらに、蔡瑁の劉備暗殺計画を見破るなど劉表勢との謀略戦で活躍する。

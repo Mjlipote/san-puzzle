@@ -1,0 +1,32 @@
+number: 521
+preName: 【曹操寵愛】曹植
+name: 【八斗の才】曹植
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 70
+capability: 14
+initHp: 848
+initAttack: 746
+initRecovery: 178
+finalHp: 2085
+finalAttack: 1200
+finalRecovery: 221
+breakHp: 2325
+breakAttack: 1360
+breakRecovery: 301
+skills:
+  -
+    name: 魏の寡兵
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 防人の詩
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: 曹丕と母を同じくする曹操の五男。曹操、曹丕と共に建安文学の『三曹』と呼ばれるが、その中で最も才に溢れ、世の詩才の八割を持つと称えられた。

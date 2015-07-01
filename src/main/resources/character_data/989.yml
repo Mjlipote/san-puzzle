@@ -1,0 +1,34 @@
+number: 989
+preName:
+name: 【恋多き男】曹操
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 27
+initHp: 1595
+initAttack: 485
+initRecovery: 214
+finalHp: 3190
+finalAttack: 970
+finalRecovery: 321
+breakHp: 3470
+breakAttack: 1170
+breakRecovery: 441
+skills:
+  -
+    name: 魏軍への転換
+    turnMax: 27
+    turnMin: 15
+    statements:
+      -
+        content: 「呉」と「蜀」ユニットを「魏」ユニットに変換
+strategies:
+  -
+    name: 君も、何か贈り物かな？
+    statements:
+      -
+        content: 味方の「剣兵」武将のHPと回復力を1.5倍にする
+      -
+        content: 「回復封じ・技能封じ・ユニット封じ」を確率で無効
+description: 三国志の主人公の1人。北部尉を勤めていた頃、巷では意中の男性にチョコを贈る風習が流行していた。女性からの贈り物に鬼の北部尉もすっかりご満悦？

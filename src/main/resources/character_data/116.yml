@@ -1,0 +1,32 @@
+number: 116
+preName:
+name: 【才知の姫】黄月英
+rarity: 3
+group: 蜀
+arm: 神算
+maxLevel: 25
+capability: 5
+initHp: 23
+initAttack: 29
+initRecovery: 26
+finalHp: 288
+finalAttack: 181
+finalRecovery: 216
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: からくり人形兵
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: 木牛流馬
+    statements:
+      -
+        content: ユニットを消したときにHPを回復
+description: 稀代の天才軍師・諸葛亮の妻。天文や地理、兵法など多くの学問に精通している。色黒で醜いと評判だが、実は絶世の美女という噂。

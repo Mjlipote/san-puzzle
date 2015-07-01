@@ -1,0 +1,30 @@
+number: 254
+preName: 孫軍兵長
+name: 【上級】孫軍兵長
+rarity: 3
+group: 呉
+arm: 騎兵
+maxLevel: 30
+capability: 5
+initHp: 83
+initAttack: 190
+initRecovery: 23
+finalHp: 183
+finalAttack: 323
+finalRecovery: 50
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 孫軍兵の剛弓
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「呉」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫家軍兵卒の長。１０人程度の兵を率いている。弓矢の扱いに長けており、水上戦のみならず陸戦においても大活躍を見せる武勇の士である。

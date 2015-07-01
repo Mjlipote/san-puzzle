@@ -1,0 +1,32 @@
+number: 520
+preName:
+name: 【曹操寵愛】曹植
+rarity: 4
+group: 魏
+arm: 神算
+maxLevel: 25
+capability: 7
+initHp: 292
+initAttack: 264
+initRecovery: 72
+finalHp: 998
+finalAttack: 786
+finalRecovery: 188
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏の寡兵
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 防人の詩
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: 曹丕と母を同じくする曹操の五男。礼法に拘泥せず、華美を嫌う奔放な性格だが、文才に惠まれ、幼き頃から詩を数十万諳んじ、曹操に寵愛された。

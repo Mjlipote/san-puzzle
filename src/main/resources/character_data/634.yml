@@ -1,0 +1,32 @@
+number: 634
+preName:
+name: 【袁家の血】袁術
+rarity: 2
+group: 群
+arm: 剣兵
+maxLevel: 5
+capability: 2
+initHp: 87
+initAttack: 36
+initRecovery: 19
+finalHp: 174
+finalAttack: 72
+finalRecovery: 38
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 名門の力
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: ５連撃可能な状態にユニットを入れ替える
+strategies:
+  -
+    name: 群雄の矜持
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を1.5倍にする
+description: ここどこ？

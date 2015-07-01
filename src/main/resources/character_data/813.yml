@@ -1,0 +1,32 @@
+number: 813
+preName: 【覇業の立役者】荀イク
+name: 【我が子房】荀イク
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 830
+initAttack: 667
+initRecovery: 192
+finalHp: 1493
+finalAttack: 1000
+finalRecovery: 288
+breakHp: 3093
+breakAttack: 1960
+breakRecovery: 688
+skills:
+  -
+    name: 魏漢同盟
+    turnMax: 28
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「魏」「漢」「桃」ユニットに変化させる
+strategies:
+  -
+    name: 幽玄なる兵略
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を3倍にする
+description: 儒学に通じる名家出身の政治家。荀イクと邂逅した曹操は、彼を古の軍師‧張良になそらえ「我が子房が来た！」と歓喜し、司馬として常に随行させた。

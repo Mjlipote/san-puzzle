@@ -1,0 +1,28 @@
+number: 402
+preName:
+name: 【魏軍超指南】于吉
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 500
+initAttack: 60
+initRecovery: 15
+finalHp: 500
+finalAttack: 60
+finalRecovery: 15
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 民から信仰を受けた仙人。民衆の病を治し、祈祷で雨を降らせたりと多くの奇跡を起こす。孫策はこれを怪しみ処刑するが、以降干吉の呪いに悩まされる。

@@ -1,0 +1,32 @@
+number: 1
+preName:
+name: 【阿瞞】曹操 
+rarity: 2
+group: 魏
+arm: 剣兵
+maxLevel: 5
+capability: 2
+initHp: 76
+initAttack: 44
+initRecovery: 15
+finalHp: 152
+finalAttack: 88
+finalRecovery: 30
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 治世の能臣
+    turnMax: 12
+    turnMin: 10
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを入れ替える
+strategies:
+  -
+    name: 魏武の強
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を1.5倍にする
+description: 中原の覇者となった三国志の主人公の１人。とても利発だがイタズラ好きな少年で、阿瞞（嘘つき）と呼ばれながら多くの大人達を日々困らせている

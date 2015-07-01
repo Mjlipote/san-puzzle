@@ -1,0 +1,34 @@
+number: 772
+preName: 【夏色水恋華】呂姫
+name: 【夏色百連撃】呂姫
+rarity: 6
+group: 群
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 1080
+initAttack: 1076
+initRecovery: 126
+finalHp: 1836
+finalAttack: 1937
+finalRecovery: 315
+breakHp: 2116
+breakAttack: 2137
+breakRecovery: 435
+skills:
+  -
+    name: 純朴な遊び心
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「群」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: いっぱい斬るぞ～！
+    statements:
+      -
+        content: 進軍時には応援を送り、部隊回復力8倍のHP回復
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値4倍の再攻撃
+description: 三国志最強と言われた呂布の娘。今年も、夏の日差しより、熱く熱くヒートアップしまくります。「あついぜぇ、今年の夏もガンガン燃えるぜぇ。」

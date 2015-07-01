@@ -1,0 +1,30 @@
+number: 541
+preName: 【蜀兵感嘆】ミクファン
+name: 【蜀兵超感嘆】ミクファン
+rarity: 3
+group: 蜀
+arm: 槍兵
+maxLevel: 39
+capability: 3
+initHp: 33
+initAttack: 150
+initRecovery: 29
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 感情溢れる独奏曲
+    turnMax: 39
+    turnMin: 
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 

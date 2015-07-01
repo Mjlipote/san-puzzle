@@ -1,0 +1,32 @@
+number: 23
+preName: 【張繍の懐刀】賈ク
+name: 【深謀遠慮】賈ク
+rarity: 4
+group: 魏
+arm: 鬼謀
+maxLevel: 70
+capability: 11
+initHp: 271
+initAttack: 534
+initRecovery: 101
+finalHp: 814
+finalAttack: 1069
+finalRecovery: 172
+breakHp: 1014
+breakAttack: 1229
+breakRecovery: 252
+skills:
+  -
+    name: 謀士の奇襲
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 混乱させて、敵自身を攻撃させる
+strategies:
+  -
+    name: 冷酷無比な謀略
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを減少させる
+description: 曹操軍随一の謀士。宛城の奇襲や、その後の攻防戦で2度も曹操を追い詰めた程の謀略家。その智謀は「前漢の張良や陳平に次ぐ」と称されている。

@@ -1,0 +1,34 @@
+number: 853
+preName:
+name: 【純潔の慈母】張玉蘭
+rarity: 6
+group: 群
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 539
+initAttack: 421
+initRecovery: 182
+finalHp: 2156
+finalAttack: 1053
+finalRecovery: 328
+breakHp: 3036
+breakAttack: 1733
+breakRecovery: 728
+skills:
+  -
+    name: 魏呉変転‧糧食確保（蜀）
+    turnMax: 30
+    turnMin: 15
+    statements:
+      -
+        content: ユニットの「魏」「呉」を「群」へ「蜀」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 不可侵娘子
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を3倍にする
+      -
+        content: 「回復封じ‧技能封じ‧ユニット封じ」を確率で無効
+description: 張母の娘、張魯の妹。ある日、赤い光が口に飛び込む夢を見ると未婚のまま子を宿す。その夢を吉兆と信じた彼女は、我が子との出会いを心待ちにしている。

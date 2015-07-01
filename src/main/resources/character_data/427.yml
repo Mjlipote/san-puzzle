@@ -1,0 +1,32 @@
+number: 427
+preName:
+name: 【呂布正妻】厳氏
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 25
+capability: 7
+initHp: 284
+initAttack: 211
+initRecovery: 93
+finalHp: 852
+finalAttack: 633
+finalRecovery: 233
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 高尚と高慢の狭間
+    turnMax: 17
+    turnMin: 12
+    statements:
+      -
+        content: 敵単体にHPが低いほど、強力な攻撃を行う
+strategies:
+  -
+    name: そばにいてほしい
+    statements:
+      -
+        content: 味方の「群」武将のHPと回復力を1.8倍にする
+description: 呂布の正妻。荒々しい気性の夫とは対照的に、臆病で内向的な性格。武一つで出世した夫の強さを知りつつ、いつか戦で命を落とすのでは、と案じている。

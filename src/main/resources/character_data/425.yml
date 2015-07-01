@@ -1,0 +1,32 @@
+number: 425
+preName:
+name: 【毒舌詭弁】禰衡
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 25
+capability: 7
+initHp: 316
+initAttack: 320
+initRecovery: 73
+finalHp: 924
+finalAttack: 715
+finalRecovery: 163
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 過剰なる毒舌
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: 敵全体を猛毒状態にする
+strategies:
+  -
+    name: 天下鳴動の舌戦
+    statements:
+      -
+        content: 味方の「鬼謀」武将のHPと攻撃力を1.8倍にする
+description: 荊州北部の群雄。出身は西涼であり、叔父の張済と共に有力者である董卓に仕えていた。董卓死後、叔父と共に李カク・郭シらと袂を分かつ。

@@ -1,0 +1,30 @@
+number: 201
+preName:
+name: 群雄弓兵
+rarity: 1
+group: 群
+arm: 弓兵
+maxLevel: 10
+capability: 1
+initHp: 10
+initAttack: 92
+initRecovery: 9
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群兵の奇襲
+    turnMax: 4
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「群」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 群雄軍の兵卒。山賊上がりの兵や、辺境出身の荒くれ者たちが集まっているのが特徴。そのため、一度勢いに乗ると手がつけられない。

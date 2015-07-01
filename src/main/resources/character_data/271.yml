@@ -1,0 +1,32 @@
+number: 271
+preName: 【才器明察】郭嘉
+name: 【類稀なる慧眼】郭嘉
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 16
+initHp: 742
+initAttack: 577
+initRecovery: 20
+finalHp: 1557
+finalAttack: 1211
+finalRecovery: 42
+breakHp: 1837
+breakAttack: 1371
+breakRecovery: 162
+skills:
+  -
+    name: 千変万化
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 類稀な才覚
+    statements:
+      -
+        content: 味方の「魏」武将のHPを2倍にする
+description: 曹操配下の軍師。謀士・戯志才の後継者として荀イクから推挙される。曹操の大器を見抜き、また曹操も郭嘉の才を見抜いて軍祭酒の地位を与えた。

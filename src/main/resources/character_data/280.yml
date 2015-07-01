@@ -1,0 +1,30 @@
+number: 280
+preName:
+name: 麋芳
+rarity: 1
+group: 蜀
+arm: 鬼謀
+maxLevel: 15
+capability: 2
+initHp: 90
+initAttack: 51
+initRecovery: 11
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 信義無き転進
+    turnMax: 17
+    turnMin: 
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備軍の武関。徐州刺史の陶謙に仕えていたが、兄である麋竺と共に劉備に仕える。地味な武人だが、曹操から官位を与えらたことがある。

@@ -1,0 +1,30 @@
+number: 166
+preName:
+name: 簡雍
+rarity: 1
+group: 蜀
+arm: 鬼謀
+maxLevel: 10
+capability: 2
+initHp: 52
+initAttack: 36
+initRecovery: 60
+finalHp: 130
+finalAttack: 90
+finalRecovery: 150
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 憎めない人柄
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを少し減少させる
+description: 劉備の同郷の友。劉備とは若い頃からの旧知の仲で、旗揚げから付き従い苦楽を共にした。憎めない人柄で劉備の良き相談役である。

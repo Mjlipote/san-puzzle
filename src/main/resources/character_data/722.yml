@@ -1,0 +1,32 @@
+number: 722
+preName:
+name: 【漢中の要】魏延
+rarity: 6
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 50
+initHp: 1946
+initAttack: 838
+initRecovery: 20
+finalHp: 3892
+finalAttack: 1508
+finalRecovery: 28
+breakHp: 4212
+breakAttack: 1708
+breakRecovery: 148
+skills:
+  -
+    name: 蜀の絕技
+    turnMax: 30
+    turnMin: 15
+    statements:
+      -
+        content: 使用した武将の攻撃力30倍の「蜀」攻撃
+strategies:
+  -
+    name: 一心なる攻勢
+    statements:
+      -
+        content: 味方の「騎兵」と「蛮兵」武将の攻撃力を2倍にする
+description: 誇り高く、また、それに見合う武勇を持つ蜀の武将。北伐に際し、少数の精鋭による拠点の奇襲確保という勇壮で困難な策を、何度も提案している。

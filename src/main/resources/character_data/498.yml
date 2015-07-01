@@ -1,0 +1,32 @@
+number: 498
+preName:
+name: 【若き英傑】関興
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 35
+capability: 11
+initHp: 518
+initAttack: 248
+initRecovery: 32
+finalHp: 1289
+finalAttack: 546
+finalRecovery: 70
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 絶対なる衝撃
+    turnMax: 27
+    turnMin: 17
+    statements:
+      -
+        content: 敵のHPを20%減少させる
+strategies:
+  -
+    name: 猛き血の扇動
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2倍にする
+description: 軍神関羽の実子で、その薰陶を正しく受け、後继者として活躍した。吳征伐に際して、張飛の息子である張苞と先鋒争いを演じ、義兄弟の契りを結んだ。

@@ -1,0 +1,32 @@
+number: 951
+preName: 【道中記断罪編】董白
+name: 【道中記旅人編】董白
+rarity: 4
+group: 群
+arm: 騎兵
+maxLevel: 35
+capability: 15
+initHp: 890
+initAttack: 385
+initRecovery: 84
+finalHp: 1602
+finalAttack: 693
+finalRecovery: 127
+breakHp: 1802
+breakAttack: 853
+breakRecovery: 207
+skills:
+  -
+    name: 超越の回復
+    turnMax: 30
+    turnMin: 
+    statements:
+      -
+        content: HPが上限値を超えて回復する
+strategies:
+  -
+    name: アンタ！
+    statements:
+      -
+        content: 私に仕えなさいよ！
+description: 貂蝉の手引きによって、一命を取り留めた董白。かつての豪奢な生活を取り戻し、天下に返り咲くため、董白の旅が始まる...。「アンタ、私に仕えなさいよ！」

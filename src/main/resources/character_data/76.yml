@@ -1,0 +1,30 @@
+number: 76
+preName:
+name: 夏侯惇
+rarity: 2
+group: 魏
+arm: 剣兵
+maxLevel: 15
+capability: 5
+initHp: 42
+initAttack: 107
+initRecovery: 17
+finalHp: 74
+finalAttack: 187
+finalRecovery: 36
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 烈火の一撃
+    turnMax: 12
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「魏」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操軍を代表する勇将。隻眼将として有名な人物だが、左目を失うのはまだ先の話。若い頃は曹操や従弟たちと、荒くれ者たちを引き連れて暴れまわった。

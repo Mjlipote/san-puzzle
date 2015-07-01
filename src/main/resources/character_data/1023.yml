@@ -1,0 +1,30 @@
+number: 1023
+preName:
+name: 【点下の軍勢】孫軍剣兵
+rarity: 2
+group: 呉
+arm: 剣兵
+maxLevel: 1
+capability: 1
+initHp: 41
+initAttack: 41
+initRecovery: 41
+finalHp: 41
+finalAttack: 41
+finalRecovery: 41
+breakHp: 521
+breakAttack: 281
+breakRecovery: 201
+skills:
+  -
+    name: 糧食確保（呉）
+    turnMax: 18
+    turnMin: 
+    statements:
+      -
+        content: 「呉」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 「そんけんぐんのへいし」けっき　さかんな　もさ

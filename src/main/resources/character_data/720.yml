@@ -1,0 +1,32 @@
+number: 720
+preName:
+name: 【黄鬚】曹彰
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 50
+initHp: 1670
+initAttack: 860
+initRecovery: 101
+finalHp: 3340
+finalAttack: 1548
+finalRecovery: 141
+breakHp: 3660
+breakAttack: 1748
+breakRecovery: 261
+skills:
+  -
+    name: 魏の絕技
+    turnMax: 30
+    turnMin: 15
+    statements:
+      -
+        content: 使用した武将の攻撃力30倍の「魏」攻撃
+strategies:
+  -
+    name: 峻烈なる攻勢
+    statements:
+      -
+        content: 味方の「剣兵」と「蛮兵」武将の攻撃力を2倍にする
+description: 猛獣と格鬪する程武勇に長けた曹操の四男。異民族の反乱鎮圧で活躍し、曹操から、虎鬚を生やした（ような勇猛果敢な）勇者─『黄鬚』と呼ばれた。

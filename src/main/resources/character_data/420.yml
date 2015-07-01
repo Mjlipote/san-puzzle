@@ -1,0 +1,32 @@
+number: 420
+preName: 【麋竺の妹】糜夫人
+name: 【純真慈母】糜夫人
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 70
+capability: 14
+initHp: 876
+initAttack: 513
+initRecovery: 264
+finalHp: 2190
+finalAttack: 923
+finalRecovery: 369
+breakHp: 2430
+breakAttack: 1083
+breakRecovery: 449
+skills:
+  -
+    name: 不屈の献身
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 慈愛の優母
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと回復力を1.8倍にする
+description: 箱入りのお嬢様でありながら、芯の強い劉備の第一夫人。子宝には恵まれなかったが、甘夫人との仲は睦まじく、その子阿斗を我が子の様に可愛がっている。

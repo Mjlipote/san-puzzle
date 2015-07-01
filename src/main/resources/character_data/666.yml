@@ -1,0 +1,32 @@
+number: 666
+preName:
+name: 【泰然自若】李典
+rarity: 4
+group: 魏
+arm: 弓兵
+maxLevel: 50
+capability: 8
+initHp: 453
+initAttack: 290
+initRecovery: 43
+finalHp: 815
+finalAttack: 522
+finalRecovery: 77
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 泰然なる指揮
+    statements:
+      -
+        content: 味方の「魏」武将のHPと回復力を1.8倍にする
+description: 沈着冷静な曹操軍の知将。合肥防衛の任に就いていた時の上司、張遼とは、伯父が張遼のかつての主、呂布に殺された事もあり、折り合いは決して良くなかった。

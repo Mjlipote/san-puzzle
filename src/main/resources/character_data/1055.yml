@@ -1,0 +1,36 @@
+number: 1055
+preName: 【無双の将星】夏侯惇
+name: 【覇道支える隻眼】夏侯惇
+rarity: 7
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 25
+initHp: 1270
+initAttack: 1402
+initRecovery: 282
+finalHp: 2541
+finalAttack: 2103
+finalRecovery: 508
+breakHp: 2941
+breakAttack: 2303
+breakRecovery: 628
+skills:
+  -
+    name: 覇道拓く爪牙
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2倍にする
+      -
+        content: 使用した武将の回復力の5倍のHPを回復させる
+strategies:
+  -
+    name: 隻眼の蒼炎
+    statements:
+      -
+        content: HPが80%以上の時、全武将の攻撃力を3.594倍
+      -
+        content: ユニットを動かせる時間が延びる
+description: 曹操の腹心で「真の三國無双」と称される英傑のひとり。曹操とは深い信頼関係にある。覇道を征く彼の支えとなるため、隻眼の将星は戦場に咆哮する！

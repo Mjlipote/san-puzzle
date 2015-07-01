@@ -1,0 +1,32 @@
+number: 648
+preName: 【異国孃】クロエ・ルメール
+name: 【美玉姫】クロエ・ルメール
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1207
+initAttack: 980
+initRecovery: 233
+finalHp: 1973
+finalAttack: 1569
+finalRecovery: 308
+breakHp: 2253
+breakAttack: 1769
+breakRecovery: 428
+skills:
+  -
+    name: ワタシが応援してますヨ～！
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: HP全回復と技能封じ‧回復禁止状態を2ターン回復する
+strategies:
+  -
+    name: 勝利を目指しましょ～
+    statements:
+      -
+        content: 「GF(仮)コラボ」武将の攻擊力を2.2倍にする
+description: 終南山に新たに現れた、謎の天女？の一人。現地の文化に興味津々だが、なにか勘違いしている風も...「ニンジャ！サムライ！」

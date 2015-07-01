@@ -1,0 +1,32 @@
+number: 954
+preName:
+name: 【道中記邂逅編】司馬懿
+rarity: 2
+group: 魏
+arm: 鬼謀
+maxLevel: 5
+capability: 5
+initHp: 164
+initAttack: 107
+initRecovery: 44
+finalHp: 410
+finalAttack: 235
+finalRecovery: 97
+breakHp: 530
+breakAttack: 315
+breakRecovery: 137
+skills:
+  -
+    name: 魏への誘い（桃）
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 「桃」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 帰っていいですか？
+    statements:
+      -
+        content: 味方の「魏」武将の回復力を1.5倍にする
+description: 周囲から高い評価を受けながら、司馬懿は働くのを拒んでいた。なぜなら、めんどくさいから。「えー、なにそれ･･･。働くのはやだなぁ…。」

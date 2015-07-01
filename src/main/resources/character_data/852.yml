@@ -1,0 +1,32 @@
+number: 852
+preName:
+name: 【建安の七子】王粲
+rarity: 6
+group: 漢
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1301
+initAttack: 671
+initRecovery: 170
+finalHp: 2602
+finalAttack: 1342
+finalRecovery: 255
+breakHp: 2882
+breakAttack: 1542
+breakRecovery: 375
+skills:
+  -
+    name: 魏漢群召集
+    turnMax: 12
+    turnMin: 6
+    statements:
+      -
+        content: 2ターンの間、「魏、漢、群、桃」ユニットのみ出現するようになる
+strategies:
+  -
+    name: 絶対予想
+    statements:
+      -
+        content: 「回復封じ」を確実に無効にする
+description: 後漢の宮廷に仕えた若き能吏。大学者の蔡ヨウに目をかけられ蔵書を預かるも、蔡ヨウは刑死。王粲は混沌の魔都‧長安を離れ、主君を求めて荊州へと流れ着く。

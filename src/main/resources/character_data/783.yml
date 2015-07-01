@@ -1,0 +1,34 @@
+number: 783
+preName:
+name: 【夏色白水着】袁氏
+rarity: 5
+group: 漢
+arm: 弓兵
+maxLevel: 50
+capability: 20
+initHp: 453
+initAttack: 245
+initRecovery: 200
+finalHp: 1359
+finalAttack: 735
+finalRecovery: 400
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 戦意沸騰
+    turnMax: 5
+    turnMin: 3
+    statements:
+      -
+        content: 使用した武将の回復力の5倍のHPを回復させる
+strategies:
+  -
+    name: 海も制覇だ～っ！
+    statements:
+      -
+        content: 「漢」武将の攻撃力を2.2倍、回復力を1.5倍
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値3倍の再攻撃
+description: 名門袁家の御曹司‧袁紹の末娘。初めて見る海に、我を忘れて大はしゃぎです。「楽しいーなー、にゃんこ共一っ！」

@@ -1,0 +1,28 @@
+number: 260
+preName:
+name: 于禁
+rarity: 2
+group: 魏
+arm: 弓兵
+maxLevel: 20
+capability: 3
+initHp: 145
+initAttack: 96
+initRecovery: 31
+finalHp: 290
+finalAttack: 192
+finalRecovery: 62
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操配下の清廉厳格な将。曹操から厚く信頼された武将の一人。宛城の戦いでは混乱の中整然と軍を動かし「その節義、古代の名将に勝る」と激賞された。

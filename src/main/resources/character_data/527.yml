@@ -1,0 +1,32 @@
+number: 527
+preName: 【霊帝側室】王美人
+name: 【献帝生母】王美人
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 14
+initHp: 760
+initAttack: 507
+initRecovery: 208
+finalHp: 1722
+finalAttack: 940
+finalRecovery: 488
+breakHp: 1962
+breakAttack: 1100
+breakRecovery: 568
+skills:
+  -
+    name: 心願成就
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、受けるダメージを大きく減少させる
+strategies:
+  -
+    name: 切なる願望
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 後宮の暗闇に巻き込まれた、悲運の少女。劉協（後の献帝）を産んだ際に何皇后の嫉妬を買い、毒殺されてしまったと言われている。

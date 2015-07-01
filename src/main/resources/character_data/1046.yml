@@ -1,0 +1,36 @@
+number: 1046
+preName:
+name: 【動乱の予感】花鬘
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 50
+capability: 19
+initHp: 500
+initAttack: 300
+initRecovery: 96
+finalHp: 1500
+finalAttack: 900
+finalRecovery: 288
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確固たる防備・糧食確保（蜀）
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+      -
+        content: 「蜀」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 南蛮王の娘
+    statements:
+      -
+        content: 3連撃以上で「蛮兵」の攻撃力があがり、最大3.5倍
+      -
+        content: ユニットを動かせる時間が延びる
+description: 南蛮王・孟獲と妻・祝融の娘。父と母、そして親友である白き獣とともに過ごす日々は、突如終わりを告げる。蜀軍の侵攻に瀕し、幼き胸は不安に晒された。

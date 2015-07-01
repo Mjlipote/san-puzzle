@@ -1,0 +1,30 @@
+number: 432
+preName: 逢紀
+name: 【遺言偽装】逢紀
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 6
+initHp: 288
+initAttack: 357
+initRecovery: 113
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 振幅の一撃
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵単体に攻撃力の最大3倍までのランダムダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹の旧知で、かつ、最古参の参謀で、彼の信頼が篤かった。国政の私物化は年々酷くなり、袁紹の死後、遺言を捏造し三男を擁立、お家騷動を起こした。

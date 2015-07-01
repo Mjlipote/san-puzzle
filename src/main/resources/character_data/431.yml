@@ -1,0 +1,30 @@
+number: 431
+preName:
+name: 逢紀
+rarity: 2
+group: 漢
+arm: 鬼謀
+maxLevel: 20
+capability: 3
+initHp: 
+initAttack: 
+initRecovery: 
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 振幅の一撃
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵単体に攻撃力の最大3倍までのランダムダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹の旧知で、かつ、最古参の参謀で、彼の信頼が篤かった。政権の基盤を築く等、有能ではあるが、袁紹との交誼を利用した公私混同な行動も多かった。

@@ -1,0 +1,32 @@
+number: 724
+preName:
+name: 【千軍万馬の将】紀霊
+rarity: 6
+group: 群
+arm: 槍兵
+maxLevel: 99
+capability: 50
+initHp: 1833
+initAttack: 811
+initRecovery: 89
+finalHp: 3666
+finalAttack: 1460
+finalRecovery: 125
+breakHp: 3986
+breakAttack: 1660
+breakRecovery: 245
+skills:
+  -
+    name: 群の絕技
+    turnMax: 30
+    turnMin: 15
+    statements:
+      -
+        content: 使用した武将の攻撃力30倍の「群」攻撃
+strategies:
+  -
+    name: 熾烈なる攻勢
+    statements:
+      -
+        content: 味方の「槍兵」と「騎兵」武将の攻撃力を2倍にする
+description: 袁術配下の豪将。袁術軍內で随一の力を誇るが、愚鈍でもなく、袁術に呂布との政略結婚を献策する等している。忠にも篤く、最後まで袁術に付き従う。

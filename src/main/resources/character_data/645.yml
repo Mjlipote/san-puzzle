@@ -1,0 +1,32 @@
+number: 645
+preName:
+name: 【大将軍】張勲
+rarity: 4
+group: 群
+arm: 剣兵
+maxLevel: 25
+capability: 7
+initHp: 290
+initAttack: 245
+initRecovery: 31
+finalHp: 870
+finalAttack: 613
+finalRecovery: 62
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 震撼の攻め
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 虚栄の誇り
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力と回復力を1.8倍にする
+description: 袁術配下の武将。橋ズイと共に大将軍に任じられ、袁術が皇帝を名乗った際にも、少なくない家臣が離脱する中、袁術に最後まで付き従った。

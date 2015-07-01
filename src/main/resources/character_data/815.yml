@@ -1,0 +1,34 @@
+number: 815
+preName: 【権謀術数】程イク
+name: 【日輪の夢】程イク
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 70
+capability: 17
+initHp: 408
+initAttack: 374
+initRecovery: 154
+finalHp: 734
+finalAttack: 674
+finalRecovery: 231
+breakHp: 1934
+breakAttack: 1554
+breakRecovery: 471
+skills:
+  -
+    name: 魏軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「群」と「桃」を、「魏」に変化させる
+strategies:
+  -
+    name: 豪胆なる献策
+    statements:
+      -
+        content: 味方の「鬼謀」武将の攻撃力を2.2倍にする
+      -
+        content: さらにユニットを消したときにHPを回復
+description: 曹操軍の名参謀。呂布や袁紹との戦いでは、自ら軍を率いて勝利へと貢献。かつて夢に見た日輪のように、曹操を天高き覇者の座へと押し上げた。

@@ -1,0 +1,32 @@
+number: 178
+preName: 
+name: 【五将筆頭】張遼
+rarity: 6
+group: 魏
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 510
+initAttack: 322
+initRecovery: 53
+finalHp: 3167
+finalAttack: 1352
+finalRecovery: 145
+breakHp: 3487
+breakAttack: 1552
+breakRecovery: 265
+skills:
+  -
+    name: 遼来々
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 使用した武将の攻撃力５０倍の「魏」攻撃
+strategies:
+  -
+    name: 武人の覇気
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを半減させる
+description: 泣く子も黙る猛将軍。合肥の戦いでは孫権軍１０万の兵対して、わずか８００の兵で挑み、多くの敵将を討ち取りつつ孫権を捕縛寸前まで追い込む。

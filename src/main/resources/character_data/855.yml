@@ -1,0 +1,32 @@
+number: 855
+preName:
+name: 【道教の巫術師】張母
+rarity: 4
+group: 群
+arm: 神算
+maxLevel: 25
+capability: 8
+initHp: 422
+initAttack: 387
+initRecovery: 104
+finalHp: 1055
+finalAttack: 851
+finalRecovery: 187
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「漢」と「桃」を、「群」に変化させる
+strategies:
+  -
+    name: お米を讚えよ！
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2.5倍にする
+description: 五斗米道の前身教団の巫女で、張魯の母。生娘のように幼い容姿と巫術を用いて、益州刺史の劉焉に取り入ると、漢中を教団躍進の下地とする。

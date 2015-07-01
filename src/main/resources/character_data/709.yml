@@ -1,0 +1,32 @@
+number: 709
+preName: 【亡父の復讐】夏侯覇
+name: 【先鋒の窮地】夏侯覇
+rarity: 5
+group: 魏
+arm: 弓兵
+maxLevel: 70
+capability: 14
+initHp: 512
+initAttack: 403
+initRecovery: 51
+finalHp: 921
+finalAttack: 725
+finalRecovery: 77
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強化する鬪争心
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 相伝の弓技
+    statements:
+      -
+        content: 味方の「魏」武将の攻擊力と回復力を1.8倍にする
+description: 弓馬に優れた魏の勇将。定軍山の戦いで、父と弟の栄を共に失ってからは劉備を仇敵として意識し、蜀討伐に度々参加し、復仇の機会を伺った。

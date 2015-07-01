@@ -1,0 +1,32 @@
+number: 746
+preName:
+name: 【楽天家】劉禅
+rarity: 5
+group: 蜀
+arm: 剣兵
+maxLevel: 50
+capability: 20
+initHp: 581
+initAttack: 301
+initRecovery: 51
+finalHp: 2034
+finalAttack: 903
+finalRecovery: 102
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀軍への転換
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「魏」と「呉」ユニットを「蜀」ユニットに変換
+strategies:
+  -
+    name: 能臣の補佐
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力と回復力を2倍にする
+description: 劉備の息子で蜀漢の二代目皇帝。戦や争いを好まない性格だが、有能な臣を素直に登用する事は父讓りであり、三國鼎立時代の蜀漢の政権を長く存続させた。

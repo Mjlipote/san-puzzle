@@ -1,0 +1,30 @@
+number: 58
+preName:
+name: 朱治
+rarity: 2
+group: 呉
+arm: 神算
+maxLevel: 15
+capability: 3
+initHp: 70
+initAttack: 35
+initRecovery: 17
+finalHp: 280
+finalAttack: 140
+finalRecovery: 68
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 小覇王への進言
+    turnMax: 17
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策の覇業を支えた攻臣。孫堅の代からの側近で、孫堅亡き後、多くの武将が若い孫策に見切りをつけて離散していく中、ひたむきに彼を支え続けた。

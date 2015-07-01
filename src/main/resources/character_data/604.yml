@@ -1,0 +1,32 @@
+number: 604
+preName: 【孫呉の忠老】黄蓋
+name: 【仇敵砕く鉄鞭】黄蓋
+rarity: 5
+group: 呉
+arm: 蛮兵
+maxLevel: 99
+capability: 16
+initHp: 2774
+initAttack: 975
+initRecovery: 0
+finalHp: 5270
+finalAttack: 1365
+finalRecovery: 0
+breakHp: 5750
+breakAttack: 1525
+breakRecovery: 0
+skills:
+  -
+    name: 鉄鞭乱打
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 苦肉の策
+    statements:
+      -
+        content: HPが70%以上の時、HPが0になる攻撃を耐える
+description: 身を挺して孫家を支えた宿将。内政面でも、仕事を遅滞させず、人々の信頼を得た。また監督をわざと怠つた振りをし、役人達の不正を暴いた逸話もある。

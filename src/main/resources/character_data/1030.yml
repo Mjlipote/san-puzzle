@@ -1,0 +1,32 @@
+number: 1030
+preName:
+name: 【義将に惚れた男】周倉
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 70
+capability: 15
+initHp: 400
+initAttack: 201
+initRecovery: 15
+finalHp: 1000
+finalAttack: 704
+finalRecovery: 23
+breakHp: 2000
+breakAttack: 1304
+breakRecovery: 63
+skills:
+  -
+    name: 蜀の誘い（呉）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「呉」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 赤兎にも次ぐ
+    statements:
+      -
+        content: 味方の「槍兵」武将のHPを1.8倍にする
+description: 元・黄巾賊の将。黄巾の乱の後、夜盗として生活していた周倉はある時、憧れの武人・関羽との邂逅を果たす。以後、関羽の戦に生涯をかけて付き従った。

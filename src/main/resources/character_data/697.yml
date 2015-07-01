@@ -1,0 +1,34 @@
+number: 697
+preName: 【南蛮王】孟獲
+name: 【南中の獅子】孟獲
+rarity: 7
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 36
+initHp: 1543
+initAttack: 740
+initRecovery: 0
+finalHp: 4011
+finalAttack: 1850
+finalRecovery: 147
+breakHp: 4611
+breakAttack: 2330
+breakRecovery: 147
+skills:
+  -
+    name: 群雄への大変転
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: ユニットの「魏」「呉」「漢」を「群」に変化させる
+strategies:
+  -
+    name: 不屈の南蛮王
+    statements:
+      -
+        content: 毎ターンHPを極小減少させ、全武将の攻撃力を3.5倍
+      -
+        content: 味方の「蛮兵」武将の回復力を2倍にする（最大HPの4%の固定ダメージを受ける）
+description: 諸葛亮の指揮する蜀漢の南征に立ちはだかった南方の有力豪族。諸葛亮の侵攻に抵抗し、何度も敗れ捕縛されるが、南中自立のため、不屈の闘志で戦い続ける。

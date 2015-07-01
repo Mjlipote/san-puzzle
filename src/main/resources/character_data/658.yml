@@ -1,0 +1,32 @@
+number: 658
+preName: 【名将の片鱗】呂蒙
+name: 【呉下の名将】呂蒙
+rarity: 6
+group: 呉
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1083
+initAttack: 1061
+initRecovery: 14
+finalHp: 2274
+finalAttack: 1592
+finalRecovery: 336
+breakHp: 2594
+breakAttack: 1792
+breakRecovery: 456
+skills:
+  -
+    name: 大器刮目
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「漢」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 孫呉の重鎮
+    statements:
+      -
+        content: 味方の「呉」武将のHPを2倍、攻撃力を1.8倍にする
+description: 孫権配下の軍師。蜀と呉の係争地となった荊州で、関羽の対応をする事が多く、ある時は戦い、ある時は友好関係を結びながら、最終的に関羽を討ちとっている。

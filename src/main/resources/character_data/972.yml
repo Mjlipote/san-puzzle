@@ -1,0 +1,30 @@
+number: 972
+preName:
+name: 南蛮兵
+rarity: 2
+group: 群
+arm: 蛮兵
+maxLevel: 
+capability: 1
+initHp: 55
+initAttack: 311
+initRecovery: 0
+finalHp: 66
+finalAttack: 373
+finalRecovery: 0
+breakHp: 226
+breakAttack: 453
+breakRecovery: 40
+skills:
+  -
+    name: 猛撃
+    turnMax: 12
+    turnMin: 4
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力15倍の攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 蜀の遙か南・南中の豪族・孟獲の下に集った兵卒。孟獲こそが、南中を統べる王であると信じて疑わない熱狂的な性格であり、その戦いぶりは非常に荒々しい。

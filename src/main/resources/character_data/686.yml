@@ -1,0 +1,32 @@
+number: 686
+preName:
+name: 【才色兼備】周姫
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 50
+capability: 19
+initHp: 407
+initAttack: 338
+initRecovery: 155
+finalHp: 1221
+finalAttack: 913
+finalRecovery: 233
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 精良の戦略
+    turnMax: 8
+    turnMin: 4
+    statements:
+      -
+        content: 2ターンの間、確率で受けるダメージを0にする
+strategies:
+  -
+    name: 俊傑の血脈
+    statements:
+      -
+        content: 4連撃以上で「弓兵」の攻撃力上昇、最大4倍になる
+description: 孫呉の頭脳‧周瑜と、その美を称えられた二喬の妹‧小喬との間に生まれた娘。見目麗しさで知られる両親を持ち、本人も絶世の美女として知られた。

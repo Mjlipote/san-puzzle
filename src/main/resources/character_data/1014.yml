@@ -1,0 +1,36 @@
+number: 1014
+preName:
+name: 【返す想いの形】司馬懿
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 744
+initAttack: 477
+initRecovery: 314
+finalHp: 2083
+finalAttack: 1670
+finalRecovery: 471
+breakHp: 2323
+breakAttack: 1830
+breakRecovery: 551
+skills:
+  -
+    name: 魏の誘い（桃）強化する闘争心
+    turnMax: 14
+    turnMin: 8
+    statements:
+      -
+        content: 「桃」ユニットを「魏」ユニットに変化させる
+      -
+        content: ２ターンの間、使用した武将の攻撃力が1.5倍になる
+strategies:
+  -
+    name: お前の喜ぶ物など、全て読めている
+    statements:
+      -
+        content: 「鬼謀」武将の攻撃力と回復力を1.8倍
+      -
+        content: 毒ユニットがかなり出現しにくくなる
+description: 多方面に才幹を発揮する魏の臣。張春華から、天下の形を模ったチョコレートをもらった司馬懿。返礼に彼が贈ったのは、清濁を併せ持つと評判の銘酒であった。

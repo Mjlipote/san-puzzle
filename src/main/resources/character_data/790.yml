@@ -1,0 +1,32 @@
+number: 790
+preName: 【曹長女】曹憲
+name: 【金玉満堂】曹憲
+rarity: 5
+group: 漢
+arm: 鬼謀
+maxLevel: 70
+capability: 14
+initHp: 587
+initAttack: 420
+initRecovery: 79
+finalHp: 1174
+finalAttack: 840
+finalRecovery: 159
+breakHp: 1734
+breakAttack: 1160
+breakRecovery: 319
+skills:
+  -
+    name: 糧食確保（群）
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「群」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 栄華の証明
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力と回復力を1.5倍にする
+description: 曹操の娘で、二人の妹と共に、献帝に嫁いだ。献帝の最後の皇后である献穆曹皇后は、妹の曹節であるというのが定説だが、実は曹憲であったという説も。

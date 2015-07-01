@@ -1,0 +1,32 @@
+number: 747
+preName: 【楽天家】劉禅
+name: 【魚遊釜中】劉禅
+rarity: 6
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 25
+initHp: 1728
+initAttack: 858
+initRecovery: 97
+finalHp: 3457
+finalAttack: 1287
+finalRecovery: 145
+breakHp: 3737
+breakAttack: 1487
+breakRecovery: 265
+skills:
+  -
+    name: 蜀軍への転換
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「魏」と「呉」ユニットを「蜀」ユニットに変換
+strategies:
+  -
+    name: 能臣の補佐
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力と回復力を2倍にする
+description: 劉備の息子で蜀漢の二代目皇帝。諸葛亮や、董允等の能吏の死後、奸臣黃皓に取り入られてしまい、魏の侵攻に対し満足な対応が出來ぬまま降伏をしてしまった。

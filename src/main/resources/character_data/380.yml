@@ -1,0 +1,30 @@
+number: 380
+preName:
+name: 【糜兄弟】ジョイマン（【びきょうだい】じょいまん）
+rarity: 2
+group: 蜀
+arm: 蛮兵
+maxLevel: 15
+capability: 5
+initHp: 182
+initAttack: 2070
+initRecovery: 64
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: スキルやりきる
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 2ターンの間、低確率で受けるダメージを0にする
+strategies:
+  -
+    name: なし
+    statements:
+description: （プロフィール）

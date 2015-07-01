@@ -1,0 +1,32 @@
+number: 244
+preName:
+name: 【夏色水撃】孫尚香
+rarity: 4
+group: 呉
+arm: 弓兵
+maxLevel: 50
+capability: 7
+initHp: 317
+initAttack: 142
+initRecovery: 76
+finalHp: 761
+finalAttack: 312
+finalRecovery: 152
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 太陽の笑顔
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「呉」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 一緒に走ろう！
+    statements:
+      -
+        content: 進軍時に応援を送り、部隊の回復力の3倍のHPを回復
+description: 江東の虎と呼ばれた孫堅の末娘。水遊びも、もちろん得意。「ばばーん★　どう？この夏一番の水辺の衣装♪　玄徳さまもメロメロよーっ♪」

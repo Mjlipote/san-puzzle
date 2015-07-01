@@ -1,0 +1,30 @@
+number: 238
+preName: 
+name: 周倉
+rarity: 2
+group: 群
+arm: 槍兵
+maxLevel: 15
+capability: 4
+initHp: 110
+initAttack: 155
+initRecovery: 20
+finalHp: 193
+finalAttack: 271
+finalRecovery: 40
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 黄巾の猛者
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを少し減少させる
+description: 後に関羽の片腕となる怪力自慢の黄巾の将。黄巾党の幹部から怪力を買われて隊長格となるが、民を犠牲にしている黄巾党にどこか疑問を抱いている。

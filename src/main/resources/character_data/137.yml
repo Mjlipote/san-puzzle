@@ -1,0 +1,32 @@
+number: 137
+preName: 【燕人の娘】張姫
+name: 【蛇矛娘々】張姫
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 13
+initHp: 818
+initAttack: 472
+initRecovery: 83
+finalHp: 2045
+finalAttack: 1416
+finalRecovery: 202
+breakHp: 2285
+breakAttack: 1576
+breakRecovery: 282
+skills:
+  -
+    name: 蛇矛宴舞
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「蜀」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 闘姫の励まし
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を２倍にする
+description: 蜀の猛将・張飛の次女。絶世の美貌を持つが、天真爛漫で武芸を好む。父親譲りの武勇と特製の蛇矛を持って、今日も蜀漢の為に戦場に出る。

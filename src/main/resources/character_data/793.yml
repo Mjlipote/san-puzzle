@@ -1,0 +1,32 @@
+number: 793
+preName:
+name: 【貓耳メイド】董白
+rarity: 5
+group: 群
+arm: 騎兵
+maxLevel: 86
+capability: 15
+initHp: 974
+initAttack: 459
+initRecovery: 141
+finalHp: 2014
+finalAttack: 815
+finalRecovery: 325
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: あんたの為じゃないんだから！
+    turnMax: 2
+    turnMin: 
+    statements:
+      -
+        content: HPを1089回復させる
+strategies:
+  -
+    name: コミケ特製ネコミミメイド
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力を2.22倍にする
+description: 魔王・董卓の孫娘。天衣無縫のわがままの娘も、今日はメイド服に身を包んでご奉仕です♪「飲み物が欲しい？唾液でも飲んでなさいよ！」

@@ -1,0 +1,34 @@
+number: 1032
+preName:
+name: 【桃園の誓い】劉備三兄弟
+rarity: 7
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 27
+initHp: 1540
+initAttack: 711
+initRecovery: 99
+finalHp: 3850
+finalAttack: 2133
+finalRecovery: 297
+breakHp: 4250
+breakAttack: 2333
+breakRecovery: 417
+skills:
+  -
+    name: 絶対なる超衝撃
+    turnMax: 34
+    turnMin: 15
+    statements:
+      -
+        content: 敵のHPを50%減少させる
+strategies:
+  -
+    name: 義兄弟の絆
+    statements:
+      -
+        content: 全武将の攻撃力が6.5倍になる
+      -
+        content: 必殺技が発動しなくなる
+description: 大義のために立ち上がった三人の義兄弟。生まれた時は違えど死す時は同じと誓い合った若者達は、天下が安んじる日を夢見、乱世へと羽ばたいていく――！

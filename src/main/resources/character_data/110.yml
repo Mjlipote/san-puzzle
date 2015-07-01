@@ -1,0 +1,32 @@
+number: 110
+preName: 
+name: 【西方の乱雄】韓遂
+rarity: 3
+group: 群
+arm: 蛮兵
+maxLevel: 25
+capability: 6
+initHp: 118
+initAttack: 109
+initRecovery: 7
+finalHp: 722
+finalAttack: 354
+finalRecovery: 30
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 暴威上等
+    turnMax: 20
+    turnMin: 10
+    statements:
+      -
+        content: ３ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: 叛意連合
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: ３０年間中央政権に対して反乱を続けた男。腐敗した漢王朝に不満を持ち、涼州で羌族をまとめ上げて反乱を起こす。これが反乱人生の始まりだった。

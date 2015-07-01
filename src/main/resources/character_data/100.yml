@@ -1,0 +1,30 @@
+number: 100
+preName:
+name: 郭シ
+rarity: 1
+group: 群
+arm: 鬼謀
+maxLevel: 15
+capability: 5
+initHp: 60
+initAttack: 72
+initRecovery: 23
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 非道な強襲
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃 
+strategies:
+  -
+    name: なし
+    statements:
+description: 董卓配下の残忍な将。董卓が長安へ遷都すると、その後詰の任として洛陽に留まる。そして、朱儁などの追撃を防ぎつつ、近隣の領民への虐殺を繰り返した。

@@ -1,0 +1,32 @@
+number: 328
+preName: 【白馬戦】顔良
+name: 【決死の槍撃】顔良
+rarity: 5
+group: 漢
+arm: 槍兵
+maxLevel: 99
+capability: 20
+initHp: 1542
+initAttack: 936
+initRecovery: 34
+finalHp: 2313
+finalAttack: 1310
+finalRecovery: 41
+breakHp: 2553
+breakAttack: 1470
+breakRecovery: 121
+skills:
+  -
+    name: 閃光の槍撃
+    turnMax: 13
+    turnMin: 
+    statements:
+      -
+        content: １ターンの間、使用した武将の攻撃力が2倍になる
+strategies:
+  -
+    name: 必殺への布石
+    statements:
+      -
+        content: ダメージを受けると、ごく稀に超強力な反撃をする
+description: 文醜と並び、袁家の双璧と賞された勇将。白馬の津に押し寄せる曹操軍を単独、押し止める。そしてその前に、長ヒゲの将が圧倒的な闘気と共に現れた。

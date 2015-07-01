@@ -1,0 +1,30 @@
+number: 33
+preName:
+name: 【忠義の士】高順
+rarity: 2
+group: 群
+arm: 騎兵
+maxLevel: 15
+capability: 2
+initHp: 30
+initAttack: 44
+initRecovery: 9
+finalHp: 105
+finalAttack: 220
+finalRecovery: 45
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 忠義の諌言
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを少し減少させる
+description: 呂布配下の筆頭武将。張遼と並び、呂布配下で多くの戦績をあげた勇将。性格は義に篤く清廉。兵士の武具の手入れを徹底させるなど優秀な指揮官だった。

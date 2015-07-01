@@ -1,0 +1,32 @@
+number: 341
+preName:
+name: 【覚悟の武人】ホウ徳
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 40
+initHp: 526
+initAttack: 335
+initRecovery: 82
+finalHp: 2104
+finalAttack: 1675
+finalRecovery: 164
+breakHp: 2384
+breakAttack: 1875
+breakRecovery: 284
+skills:
+  -
+    name: 乾坤一擲
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 叩き上げの武勇
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 涼州出身、知勇兼ね備えた猛将。馬騰の下で、異民族討伐において数多の戦功を上げる。馬騰が都に上った後は馬超に仕えるが漢中の地で馬超と袂を分かつ。

@@ -1,0 +1,28 @@
+number: 537
+preName:
+name: 【呉軍鬼指南】于吉
+rarity: 5
+group: 呉
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 500
+initAttack: 60
+initRecovery: １5
+finalHp: 500
+finalAttack: 60
+finalRecovery: １5
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 民から信仰を受けた仙人の成れの果てとも、この世の厄災が魔物と化けしたものとも噂される。年一回、春に先駆け現れ、倒せば知恵と悪運を授かるという。

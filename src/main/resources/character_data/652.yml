@@ -1,0 +1,32 @@
+number: 652
+preName: 【誘引の音色】黒川凪子
+name: 【荒々しき奏者】黒川凪子
+rarity: 4
+group: 魏
+arm: 騎兵
+maxLevel: 70
+capability: 16
+initHp: 806
+initAttack: 525
+initRecovery: 137
+finalHp: 1289
+finalAttack: 841
+finalRecovery: 202
+breakHp: 1489
+breakAttack: 1001
+breakRecovery: 282
+skills:
+  -
+    name: この音色に醉いしれな！
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 天下に響かせろっ！
+    statements:
+      -
+        content: 味方の「魏」武将のHPと攻撃力を1.5倍にする
+description: 終南山に新たに現れた、謎の天女？の一人。普段は物静かだが、腕に抱えた洋琴について尋ねると、途端に元気になる。「一曲ブっぱなすぞ、オラ！」

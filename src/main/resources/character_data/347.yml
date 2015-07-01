@@ -1,0 +1,30 @@
+number: 347
+preName: 魏延
+name: 【牙門将軍】魏延
+rarity: 3
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 8
+initHp: 223
+initAttack: 333
+initRecovery: 76
+finalHp: 445
+finalAttack: 700
+finalRecovery: 152
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強硬な烈攻
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 使用した武将の攻撃力50倍の「蜀」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 剛情な処があるものの、勇猛で誇り高い叩き上げの将。入蜀の戦いで功があり、また兵の育成に長けた点を評価されて最前線である漢中の守りを任された。

@@ -1,0 +1,36 @@
+number: 778
+preName: 【確かな肉体】黄忠
+name: 【輝きの流汗】黄忠
+rarity: 5
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 16
+initHp: 1306
+initAttack: 556
+initRecovery: 80
+finalHp: 2611
+finalAttack: 1000
+finalRecovery: 120
+breakHp: 2851
+breakAttack: 1160
+breakRecovery: 200
+skills:
+  -
+    name: 堅牢なる守り
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、受けるダメージを大きく減少させる
+strategies:
+  -
+    name: 見よ！この技の映え！
+    statements:
+      -
+        content: 「弓兵」武将の攻撃力を2倍にする
+      -
+        content: さらに、受けるダメージを減少させる
+      -
+        content: (20%)
+description: 老将軍の名で知られる、老いて益々盛んな勇将。その鋼の肉体は、荒海に揉まれ鈍く光ります。「お前の敗因はたっだ一つ.......筋肉が足りんっ！」

@@ -1,0 +1,34 @@
+number: 940
+preName:
+name: 【聖夜の贈り物】樊氏
+rarity: 6
+group: 群
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 1225
+initAttack: 514
+initRecovery: 142
+finalHp: 2818
+finalAttack: 1542
+finalRecovery: 426
+breakHp: 3098
+breakAttack: 1742
+breakRecovery: 546
+skills:
+  -
+    name: 戦意高揚の煽動
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止・ユニット封じ状態を5ターン回復する
+strategies:
+  -
+    name: 愛的告白？
+    statements:
+      -
+        content: 5兵種以上で編成時、全武将の攻撃力と回復力2倍
+      -
+        content: 最大HPまで回復した時、余剰値3倍の再攻撃
+description: 桂陽太守‧趙範の義姉。聖なる夜、一味違う装束に身を包み、ついに趙雲にアタック...！？「ゆ、勇気を振りしぼ...む、無理ですぅ～...」

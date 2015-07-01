@@ -1,0 +1,36 @@
+number: 1043
+preName:
+name: 【七縦七擒】諸葛亮
+rarity: 7
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 40
+initHp: 453
+initAttack: 571
+initRecovery: 301
+finalHp: 1812
+finalAttack: 2284
+finalRecovery: 602
+breakHp: 2172
+breakAttack: 2484
+breakRecovery: 722
+skills:
+  -
+    name: 蜀の進攻・糧食確保（毒）
+    turnMax: 40
+    turnMin: 14
+    statements:
+      -
+        content: 7ターンの間、「蜀」武将の攻撃力を1.2倍にする
+      -
+        content: 「毒」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 南中征する神算
+    statements:
+      -
+        content: 5連撃以上で全武将の攻撃力2倍
+      -
+        content: さらに「神算」武将のHPと攻撃力と回復力を1.5倍
+description: 劉備が建国した蜀漢の丞相。物産豊富な南中で勃発した乱は、国力拡充を急務とする諸葛亮にとって朗報であった。自ら兵を率いて南征、孟獲と対峙する。

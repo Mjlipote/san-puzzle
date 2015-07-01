@@ -1,0 +1,32 @@
+number: 613
+preName: 【いざや一杯】簡雍
+name: 【陽気な演舞】簡雍
+rarity: 6
+group: 蜀
+arm: 鬼謀
+maxLevel: 99
+capability: 23
+initHp: 1127
+initAttack: 455
+initRecovery: 174
+finalHp: 2930
+finalAttack: 1182
+finalRecovery: 313
+breakHp: 3210
+breakAttack: 1382
+breakRecovery: 433
+skills:
+  -
+    name: 漢吳よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「漢」を「蜀」に、「呉」を「桃」に変換
+strategies:
+  -
+    name: 愉快なる舞踏
+    statements:
+      -
+        content: 「鬼謀」武将のHPと攻撃力を回復力を1.8倍にする
+description: 劉備の同郷の友。春の美しさに酒が進み、踊り出します。「さぁさ、あんたも手拍子、手拍子！」

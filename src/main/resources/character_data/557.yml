@@ -1,0 +1,32 @@
+number: 557
+preName: 【弓の達人】ガチャピン
+name: 【疾風弓】ガチャピン
+rarity: 3
+group: 魏
+arm: 弓兵
+maxLevel: 50
+capability: 8
+initHp: 542
+initAttack: 265
+initRecovery: 48
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: いっくよ～！
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 「呉」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: バーリア！
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを減少させる
+description: 

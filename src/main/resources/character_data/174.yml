@@ -1,0 +1,32 @@
+number: 174
+preName:
+name: 【鉄鞭駆使】黄蓋
+rarity: 3
+group: 呉
+arm: 蛮兵
+maxLevel: 25
+capability: 7
+initHp: 80
+initAttack: 90
+initRecovery: 1
+finalHp: 960
+finalAttack: 540
+finalRecovery: 8
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 鉄鞭乱打
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 苦肉の策
+    statements:
+      -
+        content: HPが70%以上の時、HPが0になる攻撃を耐える
+description: 身を挺して孫家を支えた宿将。程普・韓当に並ぶ歴戦の将で、孫堅四天王の一人。山賊討伐や、董卓との戦いでは得意の鉄鞭を振るって活躍している。

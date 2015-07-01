@@ -1,0 +1,32 @@
+number: 77
+preName: 夏侯惇
+name: 【裨将軍】夏侯惇
+rarity: 3
+group: 魏
+arm: 剣兵
+maxLevel: 50
+capability: 10
+initHp: 62
+initAttack: 178
+initRecovery: 34
+finalHp: 281
+finalAttack: 712
+finalRecovery: 71
+breakHp: 441
+breakAttack: 832
+breakRecovery: 151
+skills:
+  -
+    name: 剛烈の一撃
+    turnMax: 24
+    turnMin: 14
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「魏」攻撃
+strategies:
+  -
+    name: 覇道支えし者
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを少し減少させる
+description: 曹操軍を代表する勇将。隻眼将として有名な人物だが、左目を失うのはまだ先の話。曹操の副将として、黄巾討伐や反董卓連合で華々しい活躍をしている。

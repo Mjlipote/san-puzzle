@@ -1,0 +1,32 @@
+number: 716
+preName:
+name: 【夷陵堅守】陸遜
+rarity: 5
+group: 呉
+arm: 神算
+maxLevel: 50
+capability: 17
+initHp: 541
+initAttack: 254
+initRecovery: 66
+finalHp: 1623
+finalAttack: 762
+finalRecovery: 198
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 絕対なる激衝撃
+    turnMax: 30
+    turnMin: 18
+    statements:
+      -
+        content: 敵のHPを30%減少させる
+strategies:
+  -
+    name: 俊英の統率
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を2.2倍にする
+description: 呉の四姓と呼ばれる名家の出身で、深慮遠謀の智将、政治家。劉備の復讐戦に備え、大都督に抜擢されるが、防備を固めるのみで動かず部下の反感を買う。

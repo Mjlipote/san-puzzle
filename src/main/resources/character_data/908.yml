@@ -1,0 +1,34 @@
+number: 908
+preName: 【大将軍に足る】于禁
+name: 【軍規の番人】于禁
+rarity: 5
+group: 魏
+arm: 槍兵
+maxLevel: 70
+capability: 16
+initHp: 1312
+initAttack: 619
+initRecovery: 68
+finalHp: 2624
+finalAttack: 1115
+finalRecovery: 123
+breakHp: 2904
+breakAttack: 1275
+breakRecovery: 243
+skills:
+  -
+    name: 震撼の大攻勢
+    turnMax: 25
+    turnMin: 20
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が0になる
+strategies:
+  -
+    name: 規律高き進軍
+    statements:
+      -
+        content: 味方の「槍兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 曹操配下の清廉厳格な将。反乱を起こした旧知の将が投降した際、「包囲後の降伏は赦さず」という慣例に従い処断するなど、軍規に厳格な名将であった。

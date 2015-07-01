@@ -1,0 +1,32 @@
+number: 356
+preName:
+name: 【流浪の賢士】徐庶
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 50
+capability: 16
+initHp: 365
+initAttack: 301
+initRecovery: 94
+finalHp: 1022
+finalAttack: 662
+finalRecovery: 207
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 洒脱なふるまい
+    turnMax: 8
+    turnMin: 5
+    statements:
+      -
+        content: 2ターンの間、確率で受けるダメージを0にする
+strategies:
+  -
+    name: 流れ者の機知
+    statements:
+      -
+        content: 3勢力以上で攻撃した時、全武将の攻撃力を2.2倍
+description: 武にも優れた義侠心溢れる異色の軍師。撃剣の使い手で、友の仇討ちをしたこともある。流浪の後、剣を捨てて学問を志し、司馬徽の門下生となった。

@@ -1,0 +1,32 @@
+number: 327
+preName: 【張飛心服】厳顔
+name: 【老功将】厳顔
+rarity: 5
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 20
+initHp: 2361
+initAttack: 621
+initRecovery: 41
+finalHp: 3305
+finalAttack: 807
+finalRecovery: 49
+breakHp: 3545
+breakAttack: 967
+breakRecovery: 129
+skills:
+  -
+    name: 忠臣の覚悟
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ３ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 不屈なる矜持
+    statements:
+      -
+        content: ダメージを受けると、高確率で反撃をする
+description: 誇り高き老将。漢中攻めでは、同じく古強者の黄忠と共に軍を率いる。張コウの軍勢を翻弄、救援の夏侯尚・夏侯徳を破って天蕩山を奪う功績を挙げた。

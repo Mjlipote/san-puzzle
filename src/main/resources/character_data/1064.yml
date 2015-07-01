@@ -1,0 +1,32 @@
+number: 1064
+preName:
+name: 【入蜀の功労者】ホウ統
+rarity: 6
+group: 蜀
+arm: 鬼謀
+maxLevel: 99
+capability: 30
+initHp: 722
+initAttack: 414
+initRecovery: 107
+finalHp: 2527
+finalAttack: 1656
+finalRecovery: 321
+breakHp: 2807
+breakAttack: 1856
+breakRecovery: 441
+skills:
+  -
+    name: 確然たる短戦術・蜀の攻勢
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、確実に「回復封じ」「ユニット封じ」を無効にし、「蜀」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 奇策妙計
+    statements:
+      -
+        content: 5兵種以上で編成した時、全武将の攻撃力と回復力を2.2倍
+description: 諸葛亮と並び賞された智謀の士。鳳雛（鳳凰のひな）と称される奇才の士。劉備に上・中・下と三つの策を提示し、巴蜀の地を奪取するため尽力した。

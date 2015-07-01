@@ -1,0 +1,32 @@
+number: 679
+preName: 【誠実なる士】馬良
+name: 【白眉】馬良
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 23
+initHp: 1017
+initAttack: 623
+initRecovery: 137
+finalHp: 2337
+finalAttack: 1246
+finalRecovery: 479
+breakHp: 2657
+breakAttack: 1446
+breakRecovery: 599
+skills:
+  -
+    name: 蜀軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「呉」と「桃」を、「蜀」に変化させる
+strategies:
+  -
+    name: 賢良方正
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと回復力を2倍にする
+description: 馬謖の実兄で、蜀の政治家。弟の馬謖と同様、諸葛亮を尊兄と呼んで師事した。また、関羽が麻醉無しで手術を受けた時、碁の相手をさせられた逸話も。

@@ -1,0 +1,32 @@
+number: 355
+preName: 【孫家の誇り】孫策
+name: 【小覇王】孫策
+rarity: 6
+group: 呉
+arm: 剣兵
+maxLevel: 99
+capability: 22
+initHp: 1056
+initAttack: 653
+initRecovery: 145
+finalHp: 2323
+finalAttack: 1633
+finalRecovery: 320
+breakHp: 2643
+breakAttack: 1833
+breakRecovery: 440
+skills:
+  -
+    name: 驚異的な電撃戦
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が0になる
+strategies:
+  -
+    name: 猛き虎の急襲
+    statements:
+      -
+        content: 6連撃以上で攻撃した場合、全武将の攻撃力を2.5倍
+description: 袁術の下で雌伏の少年期を経た後に、疾風の勢いで江東を平定した英雄。来たるべき曹操との決戦を睨み、その瞳は虎視眈々と中原の地を見据えている。

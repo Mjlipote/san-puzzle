@@ -1,0 +1,32 @@
+number: 242
+preName:
+name: 【夏色羞恥】丁夫人
+rarity: 4
+group: 魏
+arm: 神算
+maxLevel: 50
+capability: 7
+initHp: 310
+initAttack: 102
+initRecovery: 108
+finalHp: 744
+finalAttack: 245
+finalRecovery: 216
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 高鳴る胸の鼓動
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: お疲れですか？
+    statements:
+      -
+        content: 進軍時に応援を送り、部隊の回復力の3倍のHPを回復
+description: 曹操の正室。優艶で奥ゆかしい慈愛に満ちた美女。「あの…孟徳さま？　お土産は嬉しいん、ですけど…こんなカッコ、恥ずかしいです…」

@@ -1,0 +1,34 @@
+number: 768
+preName: 【夏色上機嫌】丁夫人
+name: 【夏色休憩中】丁夫人
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 1290
+initAttack: 530
+initRecovery: 390
+finalHp: 2322
+finalAttack: 1060
+finalRecovery: 702
+breakHp: 2602
+breakAttack: 1260
+breakRecovery: 822
+skills:
+  -
+    name: 高鳴る胸の鼓動
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: お休みしましょ？
+    statements:
+      -
+        content: 進軍時には応援を送り、部隊回復力8倍のHP回復
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値4倍の再攻撃
+description: 曹操の正室。賑やかな浜辺にちょっと当惑気味。「こ、こういう格好にはやっぱり慣れないもので...」

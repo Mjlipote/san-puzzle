@@ -1,0 +1,31 @@
+number: 195
+preName:
+name: 孫軍弓兵
+rarity: 1
+group: 呉
+arm: 弓兵
+maxLevel: 10
+capability: 1
+initHp: 13
+initAttack: 88
+initRecovery: 13
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 孫軍兵の弓撃
+    turnMax: 4
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「呉」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫軍家の兵卒。孫家の君主を慕い、江東のみならず大陸各地から集まった。弓の腕前や操船技術、水練に長けた者が多いのが特徴。
+

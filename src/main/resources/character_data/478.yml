@@ -1,0 +1,32 @@
+number: 478
+preName:
+name: 【水着の小悪魔】董白
+rarity: 5
+group: 群
+arm: 騎兵
+maxLevel: 50
+capability: 16
+initHp: 444
+initAttack: 173
+initRecovery: 43
+finalHp: 1322
+finalAttack: 519
+finalRecovery: 129
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 早熟な自尊心
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: HPが上限値を超えて回復する
+strategies:
+  -
+    name: じろじろ見るなぁ！
+    statements:
+      -
+        content: 最大HPまで回復した時、余剰値の5倍で再攻撃を行う
+description: 魔王・董卓の孫娘。寒空のもと水着を要求されたので、いつになく不機嫌。「こっち見んな！目つきがやらしーのよ！」

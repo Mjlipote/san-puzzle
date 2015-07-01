@@ -1,0 +1,32 @@
+number: 840
+preName:
+name: 【司馬懿正室】張春華
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 50
+capability: 21
+initHp: 481
+initAttack: 290
+initRecovery: 94
+finalHp: 1443
+finalAttack: 870
+finalRecovery: 188
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏漢群同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「魏」「漢」「群」ユニットに変化させる
+strategies:
+  -
+    name: 壮烈なる女傑
+    statements:
+      -
+        content: 「魏」「漢」「群」を含んだ編成の時、全武将のHP1.8倍、攻撃力2.5倍
+description: 粟邑県令の張汪と山氏の娘で、魏の功臣‧司馬懿の正室。幼少の頃から大人顔負けの知識を持ち、徳行（道義に叶う行い）に秀でると評判の才女であった。

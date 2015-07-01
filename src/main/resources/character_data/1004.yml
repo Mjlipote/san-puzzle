@@ -1,0 +1,32 @@
+number: 1004
+preName: 【先見之明】荀イク
+name: 【興国の賢者】荀イク
+rarity: 7
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 1767
+initAttack: 1293
+initRecovery: 577
+finalHp: 2297
+finalAttack: 1681
+finalRecovery: 750
+breakHp: 2657
+breakAttack: 1881
+breakRecovery: 870
+skills:
+  -
+    name: 清廉なる神君
+    turnMax: 5
+    turnMin: 3
+    statements:
+      -
+        content: 使用した武将の回復力の5倍のHPを回復させる
+strategies:
+  -
+    name: 怜悧なる賢者
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力と回復力を2.5倍にする
+description: 儒学に通じる学者名門の出で、幼い頃から高い評価を得ていた。覇権を目指す英傑・曹操の最大の理解者であり、最大の信頼を置く賢臣であり、同志であった。

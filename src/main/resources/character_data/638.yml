@@ -1,0 +1,32 @@
+number: 638
+preName:
+name: 【西涼無双】馬騰
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 40
+initHp: 1229
+initAttack: 1165
+initRecovery: 114
+finalHp: 3564
+finalAttack: 1573
+finalRecovery: 235
+breakHp: 3884
+breakAttack: 1773
+breakRecovery: 355
+skills:
+  -
+    name: 絕対なる強衝撃
+    turnMax: 34
+    turnMin: 20
+    statements:
+      -
+        content: 敵のHPを35%減少させる
+strategies:
+  -
+    name: 比類なき西涼の雄
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力を2.5倍にする
+description: 羌族の血を引き、精強な騎馬隊を率いる西涼の将。北方の異民族と強い結びつきが有り、ある時は彼らの反乱に加わり、ある時は、その反乱を鎮圧した。

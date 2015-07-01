@@ -1,0 +1,32 @@
+number: 373
+preName:
+name: 【糜兄弟甘鯛】ジョイマン
+rarity: 5
+group: 蜀
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 452
+initAttack: 347
+initRecovery: 110
+finalHp: 1582
+finalAttack: 1110
+finalRecovery: 231
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: スキル生きる
+    turnMax: 8
+    turnMin: 5
+    statements:
+      -
+        content: 2ターンの間、確率で受けるダメージを0にする
+strategies:
+  -
+    name: バクチらくちん
+    statements:
+      -
+        content: 連撃数が偶数時に攻撃力2.2倍、奇数時に攻撃力半減
+description: 温厚で忠義に篤い兄と、腰抜けな弟のコンビ武将。あと、兄は誠実だが影が薄い。「寝返っちゃってごメーン、　誠にすいまメーン。」

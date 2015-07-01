@@ -1,0 +1,34 @@
+number: 984
+preName:
+name: 【撃滅の一矢】夏侯淵
+rarity: 7
+group: 魏
+arm: 弓兵
+maxLevel: 99
+capability: 40
+initHp: 689
+initAttack: 441
+initRecovery: 224
+finalHp: 2756
+finalAttack: 1764
+finalRecovery: 448
+breakHp: 3156
+breakAttack: 1964
+breakRecovery: 568
+skills:
+  -
+    name: 魏軍召集
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「魏」「桃」ユニットに変化させる
+strategies:
+  -
+    name: 激闘の果て
+    statements:
+      -
+        content: 5連撃以上で全武将の攻撃力2倍
+      -
+        content: さらに、「弓兵」武将のHPと攻撃力と回復力を1.5倍にする
+description: 速戦に長けた名将で弓の名手。要地・漢中を任された夏侯淵は、曹操の生涯の宿敵である劉備と、定軍山の地に激突。穿たれる矢は、乱世に風塵を巻き起こす！

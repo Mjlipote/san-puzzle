@@ -1,0 +1,32 @@
+number: 926
+preName: 【無双の智勇】陸遜
+name: 【燃え盛る灼炎】陸遜
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 1517
+initAttack: 1159
+initRecovery: 154
+finalHp: 3035
+finalAttack: 1739
+finalRecovery: 277
+breakHp: 3355
+breakAttack: 1939
+breakRecovery: 397
+skills:
+  -
+    name: 焦熱の火種
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「漢」ユニットに変化
+strategies:
+  -
+    name: 新星の機略
+    statements:
+      -
+        content: 5連撃以上で、「神算」武将の攻撃力を3倍
+description: 軍略

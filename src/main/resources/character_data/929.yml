@@ -1,0 +1,34 @@
+number: 929
+preName:
+name: 【無双の豪傑】典韋
+rarity: 7
+group: 魏
+arm: 蛮兵
+maxLevel: 99
+capability: 40
+initHp: 1610
+initAttack: 666
+initRecovery: 72
+finalHp: 4025
+finalAttack: 1665
+finalRecovery: 108
+breakHp: 4425
+breakAttack: 1865
+breakRecovery: 228
+skills:
+  -
+    name: 悪来旋風
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 5ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 武人の豪気
+    statements:
+      -
+        content: HPが80％以上の時、全武将の攻撃力を2.5倍にする
+      -
+        content: 全勢力で編成した時、全武将の攻撃力1.5倍
+description: 技能

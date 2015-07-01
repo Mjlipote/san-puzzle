@@ -1,0 +1,36 @@
+number: 1084
+preName:
+name: 【魏公推挙騒動】荀イク
+rarity: 5
+group: 漢
+arm: 弓兵
+maxLevel: 50
+capability: 24
+initHp: 393
+initAttack: 299
+initRecovery: 149
+finalHp: 1376
+finalAttack: 1196
+finalRecovery: 447
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢軍への変転・確然たる短戦術
+    turnMax: 11
+    turnMin: 6
+    statements:
+      -
+        content: 「魏」と「桃」ユニットを、「漢」ユニットに変化させる
+      -
+        content: 1ターンの間、確実に「回復・ユニット封じ」を無効にする
+strategies:
+  -
+    name: 空白の心
+    statements:
+      -
+        content: 「剣・弓・神算」武将のHPを1.8倍、攻撃力を2.5倍
+      -
+        content: ユニットを横5つ繋げて消すと全武将の攻撃力2倍
+description: 儒学に通じる名家出身の政治家。漢室復興を目指し、曹操の覇業を支えてきた荀イクだが、曹操を魏公に推す声が上がり始め、二つの忠義の狭間で苦悩する。

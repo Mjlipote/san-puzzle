@@ -1,0 +1,28 @@
+number: 364
+preName:
+name: 【舞姫の扇子】左慈
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 1
+capability: 
+initHp: 1
+initAttack: 1
+initRecovery: １
+finalHp: 1
+finalAttack: 1
+finalRecovery: １
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description:

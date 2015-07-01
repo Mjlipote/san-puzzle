@@ -1,0 +1,34 @@
+number: 1012
+preName:
+name: 【愛の伝道師】関索
+rarity: 6
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 27
+initHp: 1375
+initAttack: 585
+initRecovery: 222
+finalHp: 2750
+finalAttack: 1170
+finalRecovery: 333
+breakHp: 3030
+breakAttack: 1370
+breakRecovery: 453
+skills:
+  -
+    name: 蜀群の速攻勢
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 1ターンの間、「蜀」「群」武将の攻撃力を1.5倍
+strategies:
+  -
+    name: 安心して。僕の愛は、無限大だから。ね？
+    statements:
+      -
+        content: 必殺技発動に必要なチャージ数が5減少する
+      -
+        content: ユニットを動かせる時間が延びる
+description: 軍神・関羽の息子。信義の武人の子として、受けた恩には必ず報いなければならない。チョコをくれたすべての女性にお返しするため、花関索が駆ける！

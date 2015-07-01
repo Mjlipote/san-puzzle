@@ -1,0 +1,32 @@
+number: 834
+preName:
+name: 【関羽挟撃】司馬懿
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 50
+capability: 19
+initHp: 370
+initAttack: 396
+initRecovery: 109
+finalHp: 1110
+finalAttack: 1188
+finalRecovery: 218
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉群よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「呉」を「魏」に、「群」を「桃」に変換
+strategies:
+  -
+    name: 運於掌上の策略
+    statements:
+      -
+        content: 4連撃以上で「魏」の攻撃力があがり、最大4倍
+description: 多方面に才幹を発揮する魏の臣。関羽の樊城攻撃に難儀し、遷都すら議論される中で、司馬懿は「呉の孫権に関羽を討たせよ」という遠大な献策を行う。

@@ -1,0 +1,30 @@
+number: 562
+preName:
+name: 【勇猛果敢】ガチャピン
+rarity: 2
+group: 蜀
+arm: 騎兵
+maxLevel: 20
+capability: 5
+initHp: 189
+initAttack: 198
+initRecovery: 20
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: いっぽもひかないよ！
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: 今日、ガチャピンがチャレンジするのは、三国志の有名な武将です！　さて、だれかな？　「この錦（にしき）にかけて負けられぬ！　なんてねー」

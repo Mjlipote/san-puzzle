@@ -1,0 +1,32 @@
+number: 927
+preName:
+name: 【無双の旋律】蔡文姫
+rarity: 5
+group: 漢
+arm: 騎兵
+maxLevel: 50
+capability: 15
+initHp: 451
+initAttack: 289
+initRecovery: 99
+finalHp: 1579
+finalAttack: 1156
+finalRecovery: 297
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 天下渡る旋律
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「魏」「漢」「群」ユニットに変化
+strategies:
+  -
+    name: 心奮わす音色
+    statements:
+      -
+        content: 5連撃以上で、「騎兵」武将の攻撃力を3倍
+description: 軍略

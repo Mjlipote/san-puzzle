@@ -1,0 +1,34 @@
+number: 882
+preName: 【軍神の血脈】関索
+name: 【鮮やかなる美技】関索
+rarity: 6
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 26
+initHp: 1344
+initAttack: 818
+initRecovery: 97
+finalHp: 2688
+finalAttack: 1636
+finalRecovery: 194
+breakHp: 2948
+breakAttack: 1836
+breakRecovery: 314
+skills:
+  -
+    name: 絕対なる激衝撃
+    turnMax: 30
+    turnMin: 18
+    statements:
+      -
+        content: 敵のHPを30%減少させる
+strategies:
+  -
+    name: 鮮美透涼
+    statements:
+      -
+        content: 4連撃以上で「蜀」の攻撃力があがり、最大4倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 軍神‧関羽の息子。彼の行先には、運命の糸に手繰り寄せられるかのように個性豊かな少女達が集まる。今日もまた、新たな運命を求め、彼の旅は続く。

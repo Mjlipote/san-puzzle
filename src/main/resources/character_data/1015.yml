@@ -1,0 +1,36 @@
+number: 1015
+preName:
+name: 【返す想いの形】陸遜
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 975
+initAttack: 388
+initRecovery: 314
+finalHp: 2925
+finalAttack: 1668
+finalRecovery: 393
+breakHp: 3205
+breakAttack: 1868
+breakRecovery: 513
+skills:
+  -
+    name: 漢蜀誘致（呉桃）燃上る闘志
+    turnMax: 18
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「漢」を「呉」に、「蜀」を「桃」に変換
+      -
+        content: 1ターンの間、使用した武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 何を贈れば喜ぶかな
+    statements:
+      -
+        content: 「神算」と「弓兵」武将の攻撃力と回復力を1.8倍
+      -
+        content: 必殺技の威力が1.8倍になる
+description: 呉の四姓と呼ばれる名家の出身で、深慮遠謀の智将、政治家。孫氏への返礼に、プレゼントを見う陸遜。彼にしては珍しく、表情に面映ゆさを浮かべていた。

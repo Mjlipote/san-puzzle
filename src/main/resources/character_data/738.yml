@@ -1,0 +1,32 @@
+number: 738
+preName:
+name: 【唖然】呉国太
+rarity: 3
+group: 呉
+arm: 神算
+maxLevel: 25
+capability: 5
+initHp: 66
+initAttack: 36
+initRecovery: 16
+finalHp: 330
+finalAttack: 180
+finalRecovery: 80
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 若干の威圧
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 敵の攻撃を2ターン遅らせる
+strategies:
+  -
+    name: 賢母の忠言
+    statements:
+      -
+        content: 味方の「呉」武将のHPと攻撃力を1.2倍にする
+description: 孫堅の第二夫人で、第一夫人呉夫人の実妹。端午節で行われる龍船競争を楽しみにしているが、不穏な気配を察知したのか不満けな表情を見せる。

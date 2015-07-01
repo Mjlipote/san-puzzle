@@ -1,0 +1,34 @@
+number: 901
+preName:
+name: 【牛飲馬食】許チョ
+rarity: 6
+group: 魏
+arm: 蛮兵
+maxLevel: 99
+capability: 27
+initHp: 766
+initAttack: 444
+initRecovery: 101
+finalHp: 3064
+finalAttack: 1332
+finalRecovery: 303
+breakHp: 3384
+breakAttack: 1532
+breakRecovery: 423
+skills:
+  -
+    name: 強烈な威圧
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+strategies:
+  -
+    name: 運動会の晚餐
+    statements:
+      -
+        content: HPが45%以上の時、全武将の攻撃力を2倍にする
+      -
+        content: HPが55%以下の時、全武将の攻撃力を2倍にする
+description: 曹操の親衛隊長。腰周り10囲（約120cm）という巨漢。お昼休み。午後の部に向けて、許チョは弁当でエネルギー充填。目指すは「優勝」、ただ１つ！

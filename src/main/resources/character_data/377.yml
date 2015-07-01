@@ -1,0 +1,30 @@
+number: 377
+preName: 張コウ勝山
+name: 張コウ勝山（ちょうこうかつやま）
+rarity: 3
+group: 魏
+arm: 蛮兵
+maxLevel: 50
+capability: 8
+initHp: 449
+initAttack: 344
+initRecovery: 101
+finalHp: 808
+finalAttack: 619
+finalRecovery: 181
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ア・カペラ熱唱
+    turnMax: 14
+    turnMin: 7
+    statements:
+      -
+        content: 3ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 知略兼ね備えた勇将だが、突然歌いだすので奇襲が出来ない。あと、割と寂しがり屋。「百万人、兵を、貰えたら、　もの凄く、うれしいのー」

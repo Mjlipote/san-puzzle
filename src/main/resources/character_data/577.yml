@@ -1,0 +1,32 @@
+number: 577
+preName: 【放蕩者の余裕】郭嘉
+name: 【軍祭酒の誠意】郭嘉
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 22
+initHp: 750
+initAttack: 597
+initRecovery: 274
+finalHp: 1605
+finalAttack: 1277
+finalRecovery: 587
+breakHp: 1885
+breakAttack: 1477
+breakRecovery: 707
+skills:
+  -
+    name: 軍師からの返礼
+    turnMax: 3
+    turnMin: 2
+    statements:
+      -
+        content: 使用した武将の回復力の3.14倍のHPを回復させる
+strategies:
+  -
+    name: 不遜なる采配
+    statements:
+      -
+        content: 「魏」武将のHPと攻撃力と回復力を1.5倍にする
+description: 曹操配下の軍師。奇才の名をほしいままにし、軽薄そうに見える彼も、きちんとお返しはするようです。「お返しだ、くれてやる。」

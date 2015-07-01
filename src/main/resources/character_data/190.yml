@@ -1,0 +1,32 @@
+number: 190
+preName: 【檄文公知】袁紹
+name: 【官渡決戦】袁紹
+rarity: 7
+group: 漢
+arm: 剣兵
+maxLevel: 99
+capability: 40
+initHp: 1479
+initAttack: 693
+initRecovery: 165
+finalHp: 3402
+finalAttack: 1316
+finalRecovery: 397
+breakHp: 3762
+breakAttack: 1516
+breakRecovery: 517
+skills:
+  -
+    name: 大地を覆う大軍勢
+    turnMax: 34
+    turnMin: 20
+    statements:
+      -
+        content: 敵のHPを35％減少させる
+strategies:
+  -
+    name: 河北の巨人
+    statements:
+      -
+        content: HPが80％以上の時、全武将の攻撃力を2.5倍にする
+description: 河北を統一した名門袁家の当主。白馬・延津の戦いで曹操に出鼻を挫かれるも、総勢約10万の大軍で官渡を包囲。今、決戦の火蓋が切って落とされる。

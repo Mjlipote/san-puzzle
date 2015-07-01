@@ -1,0 +1,32 @@
+number: 331
+preName: 【狙い射ち】孫尚香
+name: 【弓腰姫】孫尚香
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 15
+initHp: 930
+initAttack: 533
+initRecovery: 344
+finalHp: 1302
+finalAttack: 746
+finalRecovery: 482
+breakHp: 1542
+breakAttack: 906
+breakRecovery: 562
+skills:
+  -
+    name: 弓腰姫
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 敵の攻撃を2ターン遅らせる
+strategies:
+  -
+    name: 弓腰姫の鼓舞
+    statements:
+      -
+        content: 味方の「呉」武将のHPと攻撃力を1.5倍にする
+description: 技能

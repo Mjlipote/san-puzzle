@@ -1,0 +1,34 @@
+number: 155
+preName: 【小覇王盟友】周瑜
+name: 【孫呉の明星】周瑜
+rarity: 6
+group: 呉
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 1088
+initAttack: 968
+initRecovery: 231
+finalHp: 2220
+finalAttack: 1355
+finalRecovery: 347
+breakHp: 2860
+breakAttack: 1755
+breakRecovery: 587
+skills:
+  -
+    name: 孫呉の業火
+    turnMax: 28
+    turnMin: 15
+    statements:
+      -
+        content: 敵全体に部隊の「呉」攻撃力８倍の攻撃
+strategies:
+  -
+    name: 借刀殺人の計
+    statements:
+      -
+        content: 攻撃の後、とてもすさまじい再攻撃を行う
+      -
+        content: 味方の「鬼謀」武将の攻撃力を2.2倍にする
+description: 孫家を支えた若き天才軍師。孫策亡き後は孫権を盛り立て、黄祖征伐や山越の平定など数々の成果をあげる。まるで、孫策が彼の背中を押したかのように。

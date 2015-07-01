@@ -1,0 +1,32 @@
+number: 931
+preName:
+name: 【無双の怪力】関銀屏
+rarity: 6
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 861
+initAttack: 440
+initRecovery: 88
+finalHp: 2927
+finalAttack: 1496
+finalRecovery: 176
+breakHp: 3247
+breakAttack: 1696
+breakRecovery: 296
+skills:
+  -
+    name: 無自覚な怪腕
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+strategies:
+  -
+    name: 誇り高き血筋
+    statements:
+      -
+        content: 「騎兵」武将のHPを1.5倍、攻撃力を2倍
+description: 技能

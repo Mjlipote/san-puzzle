@@ -1,0 +1,30 @@
+number: 304
+preName:
+name: 劉ヨウ
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 20
+capability: 4
+initHp: 123
+initAttack: 124
+initRecovery: 45
+finalHp: 221
+finalAttack: 273
+finalRecovery: 99
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 揚州刺史の力
+    statements:
+      -
+        content: 受けるダメージを少し減少させる
+description: 前漢高祖の血を引く名門の出。江南の地で隠棲していたときに揚州刺史に任じられ、揚州を狙う袁術と対峙する事になる。能吏だが戦には疎かった。

@@ -1,0 +1,32 @@
+number: 787
+preName:
+name: 【曹次女】曹節
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 22
+initHp: 264
+initAttack: 214
+initRecovery: 91
+finalHp: 792
+finalAttack: 535
+finalRecovery: 137
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢の超攻勢
+    turnMax: 37
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 漢王朝の憂い
+    statements:
+      -
+        content: 味方の「神算」武将のHPと攻撃力を2倍にする
+description: 曹操の娘で、姉、妹と共に、献帝に嫁いだ。帝室への支配強化の一環であったが、しかし、皇后に立てられた彼女は、献帝に心から同情し尽くす事となる。

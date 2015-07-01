@@ -1,0 +1,28 @@
+number: 292
+preName:
+name: 郭図
+rarity: 2
+group: 漢
+arm: 鬼謀
+maxLevel: 20
+capability: 3
+initHp: 91
+initAttack: 132
+initRecovery: 52
+finalHp: 200
+finalAttack: 264
+finalRecovery: 94
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹に仕えた謀士。計吏（文官の一つ）として群の推挙を受けていたが、地位を捨てて袁紹の謀士となる。使者として献帝の元へ派遣されたこともあった。

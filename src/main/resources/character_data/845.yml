@@ -1,0 +1,32 @@
+number: 845
+preName: 【ふわふわ水辺】夏侯月姫
+name: 【しゅばば弓名人】夏侯月姫
+rarity: 6
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 26
+initHp: 1051
+initAttack: 798
+initRecovery: 293
+finalHp: 2101
+finalAttack: 1596
+finalRecovery: 439
+breakHp: 2421
+breakAttack: 1796
+breakRecovery: 559
+skills:
+  -
+    name: 魏蜀漢同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「魏」「蜀」「漢」ユニットに変化させる
+strategies:
+  -
+    name: 天然乙女？
+    statements:
+      -
+        content: 「魏」「蜀」「漢」を含んだ編成の時、全武将のHP1.8倍、攻撃力2.5倍
+description: 張飛の妻で、魏の将‧夏侯淵の姪にあたる女性。叔父の血筋なのか、弓術に天賦の才がある。張飛との間に子を成すが、その中の一人が張姫である。

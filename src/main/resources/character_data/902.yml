@@ -1,0 +1,34 @@
+number: 902
+preName:
+name: 【もう一つの可能性】袁紹
+rarity: 7
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 40
+initHp: 1479
+initAttack: 693
+initRecovery: 165
+finalHp: 3698
+finalAttack: 1733
+finalRecovery: 248
+breakHp: 4098
+breakAttack: 1933
+breakRecovery: 368
+skills:
+  -
+    name: 漢の超大攻勢
+    turnMax: 27
+    turnMin: 17
+    statements:
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を2.5倍にする
+strategies:
+  -
+    name: 慢心なき巨人
+    statements:
+      -
+        content: HPが80％以上の時、全武将の攻撃力を3倍にする
+      -
+        content: 全勢力で編成した時、全武将の攻撃力1.5倍
+description: 官渡で曹操に敗れた袁家当主のもう一つの可能性。恥も外聞も捨てて、不退転の決意で決戦に臨む袁紹の目に慢心の色はなく、ただただ勝利を渇望していた。

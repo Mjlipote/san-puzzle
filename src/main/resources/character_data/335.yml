@@ -1,0 +1,30 @@
+number: 335
+preName:
+name: 【袁家校尉】張コウ
+rarity: 2
+group: 漢
+arm: 槍兵
+maxLevel: 15
+capability: 4
+initHp: 106
+initAttack: 57
+initRecovery: 28
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 手堅き攻勢
+    turnMax: 22
+    turnMin: 
+    statements:
+      -
+        content: ３ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 生涯を戦場で過ごした歴戦の勇将。黄巾討伐の際の寡兵に応じ韓馥、その後は袁紹に仕える。公孫サンとの長き戦いの中で功績を挙げて校尉に任ぜられた。

@@ -1,0 +1,30 @@
+number: 354
+preName:
+name: 【孫家の誇り】孫策（【そんけのほこり】そんさく
+rarity: 5
+group: 呉
+arm: 剣兵
+maxLevel: 50
+capability: 16
+initHp: 414
+initAttack: 275
+initRecovery: 51
+finalHp: 1242
+finalAttack: 688
+finalRecovery: 153
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 驚異的な電撃戦
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が0になる
+strategies:
+  -
+    name: 6連撃以上で攻撃した場合、全武将の攻撃力を2.2倍
+    statements:
+description: 袁術の下で雌伏の少年期を経た後に、疾風の勢いで江東を平定した英雄。挙兵の後は快進撃を重ねて江東を平定し、父祖の地である呉郡を手中に収めた。

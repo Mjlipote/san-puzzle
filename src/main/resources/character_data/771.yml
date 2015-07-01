@@ -1,0 +1,34 @@
+number: 771
+preName: 【夏色艶媚肌】何皇后
+name: 【夏色妖艶姫】何皇后
+rarity: 6
+group: 漢
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1357
+initAttack: 624
+initRecovery: 303
+finalHp: 2443
+finalAttack: 1248
+finalRecovery: 545
+breakHp: 2723
+breakAttack: 1448
+breakRecovery: 665
+skills:
+  -
+    name: とろける熱視線
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 慌てちゃ、だ‧め‧よ
+    statements:
+      -
+        content: 進軍時には応援を送り、部隊回復力8倍のHP回復
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値4倍の再攻撃
+description: 大将軍何進の異母妹。大胆な水着姿で、今年も浜辺の視線を一身に集めます。「わたしが居なきゃ、始まらないでしょ？」

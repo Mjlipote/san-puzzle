@@ -1,0 +1,34 @@
+number: 818
+preName:
+name: 【夏色鹵獲】張姫
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 20
+initHp: 440
+initAttack: 295
+initRecovery: 170
+finalHp: 1320
+finalAttack: 885
+finalRecovery: 340
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢吳よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「漢」を「蜀」に、「呉」を「桃」に変換
+strategies:
+  -
+    name: 誰も私を止められない！
+    statements:
+      -
+        content: 「槍兵」武将の攻撃力を2.2倍、回復力を1.5倍
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値3倍の再攻撃
+description: 蜀の猛将・張飛の次女。水着の美女たちの楽園となった浜辺に、満を持しての登場です。「おっまたせー♪　夏の海でも華麗に舞い飛ぶよ！」

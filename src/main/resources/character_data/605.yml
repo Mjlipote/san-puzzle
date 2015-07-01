@@ -1,0 +1,32 @@
+number: 605
+preName: 【洛陽蹂躙】董卓
+name: 【長安遷都】董卓
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 16
+initHp: 1457
+initAttack: 1023
+initRecovery: 303
+finalHp: 2768
+finalAttack: 1329
+finalRecovery: 363
+breakHp: 3048
+breakAttack: 1489
+breakRecovery: 483
+skills:
+  -
+    name: 酒池肉林
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 魔王の精鋭
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 悪逆非道な暴雄。反董卓連合が結成されると、禍根を断つため廃帝の弘農王を毒殺。歴代皇帝の陵墓を暴いて財宝を奪うや、強引に長安への遷都を進めた。

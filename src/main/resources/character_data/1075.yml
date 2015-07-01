@@ -1,0 +1,36 @@
+number: 1075
+preName:
+name: 【月雪花】趙雪
+rarity: 5
+group: 蜀
+arm: 弓兵
+maxLevel: 50
+capability: 15
+initHp: 421
+initAttack: 320
+initRecovery: 90
+finalHp: 1474
+finalAttack: 1280
+finalRecovery: 270
+breakHp: 1754
+breakAttack: 1440
+breakRecovery: 390
+skills:
+  -
+    name: 蜀の誘い（群）蜀の攻勢
+    turnMax: 11
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「蜀」ユニットに変化させる
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 雲よりいづる雪
+    statements:
+      -
+        content: 「弓兵」武将のHPと攻撃力を2倍、回復力を1.2倍
+      -
+        content: さらに、6連撃以上で、全武将の攻撃力を1.8倍
+description: 趙雲と孫軟児の間に生まれた娘。趙統・趙広の妹にあたる。父に劣らぬ武の才を持ち、特に弓に秀でる。関羽の息子・関平とは互いに気心が知れた間柄である。

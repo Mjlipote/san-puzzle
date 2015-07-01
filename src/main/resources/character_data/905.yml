@@ -1,0 +1,34 @@
+number: 905
+preName:
+name: 【天姿秀出】曹叡
+rarity: 4
+group: 魏
+arm: 弓兵
+maxLevel: 25
+capability: 11
+initHp: 375
+initAttack: 259
+initRecovery: 51
+finalHp: 1125
+finalAttack: 648
+finalRecovery: 153
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉群よりの誘致
+    turnMax: 21
+    turnMin: 17
+    statements:
+      -
+        content: ユニットの「呉」を「魏」に、「群」を「桃」に変換
+strategies:
+  -
+    name: 寂寥の想い
+    statements:
+      -
+        content: 味方の「弓兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 曹丕と甄姫の間に生まれた長子。幼い頃から極めて優れた美貌の貴人で「天姿秀出」と評された。また非常に聡明であり、祖父の曹操からも深く愛されたという。

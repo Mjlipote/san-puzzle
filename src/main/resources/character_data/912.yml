@@ -1,0 +1,34 @@
+number: 912
+preName: 【美貌の女傑】鮑三娘
+name: 【愛に捧ぐ武】鮑三娘
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 70
+capability: 16
+initHp: 1020
+initAttack: 744
+initRecovery: 145
+finalHp: 2040
+finalAttack: 1339
+finalRecovery: 262
+breakHp: 2320
+breakAttack: 1499
+breakRecovery: 382
+skills:
+  -
+    name: 漢吳よりの誘致
+    turnMax: 21
+    turnMin: 17
+    statements:
+      -
+        content: ユニットの「漢」を「蜀」に、「呉」を「桃」に変換
+strategies:
+  -
+    name: 才幹壮大にして、氣勢良く
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 鮑家荘を治める地主‧鮑凱の娘。ある時、鮑家荘を訪れた旅の男と戦い、鮑三娘は敗れてしまう。彼こそが、父と再会するために旅をする青年‧関索であった。

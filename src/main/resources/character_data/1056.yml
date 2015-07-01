@@ -1,0 +1,36 @@
+number: 1056
+preName:
+name: 【無双の撃剣】徐庶
+rarity: 5
+group: 蜀
+arm: 剣兵
+maxLevel: 50
+capability: 15
+initHp: 354
+initAttack: 318
+initRecovery: 105
+finalHp: 1239
+finalAttack: 1272
+finalRecovery: 315
+breakHp: 1519
+breakAttack: 1432
+breakRecovery: 435
+skills:
+  -
+    name: 雷光が描く軌跡
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「魏」「蜀」「漢」ユニットに変化
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 懊悩を照らす光明
+    statements:
+      -
+        content: 全武将のHP、攻撃力、回復力を1.3倍
+      -
+        content: 4連撃以上で、全武将の攻撃力を2倍
+description: 優れた軍師で「真の三國無双」と称される英傑のひとり。軍師ながら撃剣の使い手であり、知人の敵討ちに手を貸してしまったという過去を持つ。

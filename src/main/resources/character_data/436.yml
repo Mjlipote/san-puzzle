@@ -1,0 +1,32 @@
+number: 436
+preName: 【持てない】はちゅね
+name: 【振れない】はちゅね
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 70
+capability: 16
+initHp: 949
+initAttack: 192
+initRecovery: 97
+finalHp: 2008
+finalAttack: 373
+finalRecovery: 142
+breakHp: 2368
+breakAttack: 453
+breakRecovery: 222
+skills:
+  -
+    name: ネギ一閃
+    turnMax: 27
+    turnMin: 24
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力39倍の攻撃
+strategies:
+  -
+    name: お腹すいた音譜
+    statements:
+      -
+        content: はちゅねの攻撃力を3.9倍にする
+description: なぞのいきもの？

@@ -1,0 +1,32 @@
+number: 334
+preName: 【傾国の美女】鄒氏
+name: 【享楽への誘い】鄒氏
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 15
+initHp: 867
+initAttack: 495
+initRecovery: 371
+finalHp: 1387
+finalAttack: 594
+finalRecovery: 594
+breakHp: 1627
+breakAttack: 754
+breakRecovery: 674
+skills:
+  -
+    name: 妖艶な美貌
+    turnMax: 14
+    turnMin: 5
+    statements:
+      -
+        content: 敵全体を毒状態にする
+strategies:
+  -
+    name: 奈落の饗宴
+    statements:
+      -
+        content: 味方の「鬼謀」武将の攻撃力と回復力を1.5倍にする
+description: 曹操を虜にした絶世の美女。張繍が曹操に降伏したことで曹操の目に留まった。曹操は彼女の元へと昼夜入り浸るが、それは痛恨の敗北へと繋がる。

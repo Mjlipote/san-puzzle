@@ -1,0 +1,32 @@
+number: 332
+preName: 【諸葛夫人】黄月英
+name: 【人形兵突撃】黄月英
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 15
+initHp: 831
+initAttack: 368
+initRecovery: 467
+finalHp: 1330
+finalAttack: 442
+finalRecovery: 747
+breakHp: 1570
+breakAttack: 602
+breakRecovery: 827
+skills:
+  -
+    name: からくり人形兵
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: お手製戦闘部隊
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力と回復力を1.5倍にする
+description: 稀代の天才軍師・諸葛亮の妻。劉備の軍師となった夫・諸葛亮を得意の発明で陰から支えた。歴史に残る「木牛」「流馬」ももちろん彼女の考案したモノ？

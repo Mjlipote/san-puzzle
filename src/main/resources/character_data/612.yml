@@ -1,0 +1,32 @@
+number: 612
+preName:
+name: 【いざや一杯】簡雍
+rarity: 5
+group: 蜀
+arm: 鬼謀
+maxLevel: 50
+capability: 18
+initHp: 491
+initAttack: 165
+initRecovery: 122
+finalHp: 1326
+finalAttack: 479
+finalRecovery: 183
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢吳よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「漢」を「蜀」に、「呉」を「桃」に変換
+strategies:
+  -
+    name: 愉快なる舞踏
+    statements:
+      -
+        content: 「鬼謀」武将のHPと攻撃力と回復力を1.8倍にする
+description: 劉備の同郷の友。花を肴に、ひとり風流を樂しんでいる様子。「良い花に、良い酒。幸せだねぇ。」

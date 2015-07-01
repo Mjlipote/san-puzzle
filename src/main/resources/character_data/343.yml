@@ -1,0 +1,30 @@
+number: 343
+preName: 曹洪
+name: 【潼関守備】曹洪
+rarity: 3
+group: 魏
+arm: 槍兵
+maxLevel: 50
+capability: 8
+initHp: 412
+initAttack: 211
+initRecovery: 42
+finalHp: 866
+finalAttack: 422
+finalRecovery: 84
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 命がけの突破
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 使用した武将の攻撃力50倍の「魏」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操の従弟で、彼の覇業を支え続けた宿将。多くの戦いで功績を挙げた。潼関の戦いでは先鋒の将として出陣、不手際もあるが曹操の危難を救い賞された。

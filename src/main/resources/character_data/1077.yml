@@ -1,0 +1,36 @@
+number: 1077
+preName:
+name: 【医術の髄】華佗
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 15
+initHp: 378
+initAttack: 300
+initRecovery: 145
+finalHp: 1323
+finalAttack: 1200
+finalRecovery: 435
+breakHp: 1603
+breakAttack: 1360
+breakRecovery: 555
+skills:
+  -
+    name: 漢の誘い（魏）漢の攻勢
+    turnMax: 11
+    turnMin: 5
+    statements:
+      -
+        content: 「魏」ユニットを「漢」ユニットに変化させる
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 医の頂に在りて
+    statements:
+      -
+        content: 「漢」武将のHPと攻撃力を2倍、回復力を1.2倍
+      -
+        content: 必殺技発動に必要なチャージ数が2減少する
+description: 後漢末期に活躍した伝説の医師。世界最古の麻酔薬『麻沸散』を考案したと伝わる。健康的で若々しい見た目をしているが、齢は百歳を数えると噂される。

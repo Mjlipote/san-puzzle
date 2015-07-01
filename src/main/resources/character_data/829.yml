@@ -1,0 +1,34 @@
+number: 829
+preName: 【腹心の進言】審配
+name: 【我君在北】審配
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 1304
+initAttack: 1293
+initRecovery: 334
+finalHp: 2021
+finalAttack: 1707
+finalRecovery: 501
+breakHp: 2301
+breakAttack: 1907
+breakRecovery: 621
+skills:
+  -
+    name: 毅然たる行軍
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 敵のHPを20％減少させる
+strategies:
+  -
+    name: 忠義の証明
+    statements:
+      -
+        content: 必殺技発動に必要なチャージ数が2減少する
+      -
+        content: さらに必殺技の威力が２倍になる
+description: 篤い忠義心と厳格な性格で知られる袁紹軍の軍師。袁紹の死後、三男・袁尚を擁立して、曹操に徹底抗戦。最期は甥の裏切りにより捕えられ、処刑された。

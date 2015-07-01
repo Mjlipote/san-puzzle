@@ -1,0 +1,34 @@
+number: 582
+preName:
+name: 【破賊都尉】凌統
+rarity: 5
+group: 呉
+arm: 槍兵
+maxLevel: 50
+capability: 18
+initHp: 410
+initAttack: 246
+initRecovery: 46
+finalHp: 1230
+finalAttack: 738
+finalRecovery: 69
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 激化する闘争心
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 烈攻突破
+    statements:
+      -
+        content: 全勢力で編成した時、全武将の攻撃力と回復力1.5倍
+      -
+        content: 「呉」と「群」で攻撃した時、全武将の攻撃力2.5倍
+description: 謹厳実直な剛将。父親の戦死により、十五歳で後を継いだ。山賊討伐の際、父を侮辱した督に斬りかかり、死んで詫びるべく猛突撃をかけ勝利を收めた。

@@ -1,0 +1,32 @@
+number: 550
+preName:
+name: 【雌伏の時】劉備
+rarity: 4
+group: 蜀
+arm: 騎兵
+maxLevel: 50
+capability: 8
+initHp: 681
+initAttack: 182
+initRecovery: 26
+finalHp: 1703
+finalAttack: 455
+finalRecovery: 65
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 民革の希望
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 決死の逃亡
+    statements:
+      -
+        content: HPが最大の時、受けるダメージを大幅に減少させる
+description: 中山靖王劉勝の末裔である三国志の主人公の1人。客将として荊州を支えるが、劉表没後のお家騒動と曹操の南下により宛て無き逃避行へと追い込まれる。

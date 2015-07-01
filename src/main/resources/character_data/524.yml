@@ -1,0 +1,32 @@
+number: 524
+preName:
+name: 【軍神の娘】関銀屏
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 35
+capability: 7
+initHp: 640
+initAttack: 679
+initRecovery: 85
+finalHp: 882
+finalAttack: 891
+finalRecovery: 110
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 趙雲の教え
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: うら若き傑物
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを減少させる
+description: 稀代の英傑・関羽の娘。父讓りの浅黒い肌で、毅然とした性格。張飛の娘‧張姬とは幼なじみだが、意見が合わずケンカも多いため、お互いに生傷が絕えない。

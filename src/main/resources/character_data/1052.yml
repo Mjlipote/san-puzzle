@@ -1,0 +1,30 @@
+number: 1052
+preName:
+name: 【袁譚の腹心】王脩
+rarity: 3
+group: 漢
+arm: 神算
+maxLevel: 25
+capability: 5
+initHp: 151
+initAttack: 184
+initRecovery: 75
+finalHp: 604
+finalAttack: 460
+finalRecovery: 188
+breakHp: 764
+breakAttack: 540
+breakRecovery: 228
+skills:
+  -
+    name: 戦意沸騰五連
+    turnMax: 5
+    turnMin: 3
+    statements:
+      -
+        content: 使用した武将の回復力の5倍のHPを回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁譚の腹心。主・袁譚が戦に敗れると、文官ながらに青州兵を率いて救援に駆けつけるなど、武人顔負けの剛毅果断な性格で、その忠勤は曹操にも賞賛された。

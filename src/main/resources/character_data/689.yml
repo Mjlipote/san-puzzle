@@ -1,0 +1,32 @@
+number: 689
+preName: 【文武の素養】李厳
+name: 【軍糧輸送】李厳
+rarity: 6
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 24
+initHp: 1176
+initAttack: 893
+initRecovery: 130
+finalHp: 2704
+finalAttack: 1339
+finalRecovery: 195
+breakHp: 2984
+breakAttack: 1539
+breakRecovery: 315
+skills:
+  -
+    name: 震撼の攻め
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 流暢なる作配
+    statements:
+      -
+        content: 味方の「剣兵」武将の攻撃力を2.5倍にする
+description: 文官的素養に優れた蜀の武将。北伐の際、諸葛亮に後方を託されたが、困難な補給任務の中で部下の損害を看過できず、嘘の報告をあげ、後に罷免される。

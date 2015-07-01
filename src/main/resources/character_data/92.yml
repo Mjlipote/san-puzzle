@@ -1,0 +1,30 @@
+number: 92
+preName:
+name: 劉表
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 15
+capability: 7
+initHp: 46
+initAttack: 63
+initRecovery: 50
+finalHp: 81
+finalAttack: 110
+finalRecovery: 100
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 儒教の教え
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「漢」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 荊州の統治者。名門劉家の出身で、若いころは儒学に励み「八俊」の１人に数えられた。勅命により荊州刺史に命じられ、人材と財力で見事に統治する。

@@ -1,0 +1,32 @@
+number: 554
+preName:
+name: 【ムク兎馬】ガチャピン
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 50
+capability: 15
+initHp: 679
+initAttack: 132
+initRecovery: 0
+finalHp: 2037
+finalAttack: 528
+finalRecovery: 0
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: かけぬけるよ～！
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 10秒間、自由にユニットを動かせる
+strategies:
+  -
+    name: ガチャピンチャレンジ！
+    statements:
+      -
+        content: 7連撃以上で攻撃した時、全武将の攻撃力2.5倍
+description: 今日はガチャピン・ムック、二人一緒に、三国志中、一番の仲良しさんにチャレンジ！「うん、まさに人馬一体！」「…何か納得いきませんぞ！」

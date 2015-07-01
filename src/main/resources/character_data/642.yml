@@ -1,0 +1,34 @@
+number: 642
+preName: 【大戦前夜】周瑜
+name: 【赤壁の劫火】周瑜
+rarity: 7
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 38
+initHp: 1197
+initAttack: 1140
+initRecovery: 219
+finalHp: 2633
+finalAttack: 1859
+finalRecovery: 437
+breakHp: 2993
+breakAttack: 2059
+breakRecovery: 557
+skills:
+  -
+    name: 呉蜀の大攻勢
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 1ターンの間、「呉」と「蜀」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 親友との誓い
+    statements:
+      -
+        content: 4勢力以上で攻撃した時、全武将の攻撃力を4倍
+      -
+        content: 必殺技発動に必要なチャージ数が2減少する
+description: 孫家を支えた若き天才軍師。周瑜が連綿と張り巡らした計は、曹操の大船団を焼き尽くした。業火が照らす夜の先に、親友と共に抱いた夢の続きが見えた。

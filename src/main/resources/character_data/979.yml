@@ -1,0 +1,34 @@
+number: 979
+preName: 【若き志の炎】姜維
+name: 【天水の麒麟児】姜維
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 28
+initHp: 1367
+initAttack: 784
+initRecovery: 82
+finalHp: 3349
+finalAttack: 1724
+finalRecovery: 163
+breakHp: 3669
+breakAttack: 1924
+breakRecovery: 283
+skills:
+  -
+    name: 蜀の誘い（呉）糧食確保（毒）
+    turnMax: 25
+    turnMin: 10
+    statements:
+      -
+        content: ユニットの「呉」を「蜀」へ「毒」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 臥龍の意志を継ぐ者
+    statements:
+      -
+        content: 5連撃以上で、「蜀」武将の攻撃力を3倍
+      -
+        content: 毒ユニットがかなり出現しにくくなる
+description: 文武両道に優れた武将。『天水の麒麟児』の異名を持つ。知略と軍才に優れ、槍を取れば無敗の達人。晚年の諸葛亮や趙雲にとっては、期待の新星であった。

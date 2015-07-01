@@ -1,0 +1,32 @@
+number: 949
+preName:
+name: 【道中記栄華編】董白
+rarity: 2
+group: 群
+arm: 騎兵
+maxLevel: 5
+capability: 5
+initHp: 224
+initAttack: 97
+initRecovery: 26
+finalHp: 560
+finalAttack: 213
+finalRecovery: 52
+breakHp: 680
+breakAttack: 293
+breakRecovery: 92
+skills:
+  -
+    name: 群への誘い（桃）
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 「桃」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: あーやりたい放題したーい
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を1.5倍にする
+description: 魔王‧董卓の孫娘として寵愛を一身に受け、我が世の春を謳歌する董白。だが、そんな日々も、もうすぐ終わろうとしていた...。「まだまだ贅沢し足りないわ！」

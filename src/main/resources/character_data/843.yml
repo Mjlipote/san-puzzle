@@ -1,0 +1,32 @@
+number: 843
+preName: 【荊州への使者】魯粛
+name: 【単刀赴会】魯粛
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 26
+initHp: 1076
+initAttack: 855
+initRecovery: 217
+finalHp: 2152
+finalAttack: 1710
+finalRecovery: 325
+breakHp: 2472
+breakAttack: 1910
+breakRecovery: 445
+skills:
+  -
+    name: 呉蜀漢同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「漢」ユニットに変化させる
+strategies:
+  -
+    name: 剛毅なる合議
+    statements:
+      -
+        content: 「呉」「蜀」「漢」を含んだ編成の時、全武将のHP1.8倍、攻撃力2.5倍
+description: 孫家の名参謀。赤壁の戦い以降、劉備に力を与え曹操に対抗する方針を提言。一方、寛厳自在の豪胆な弁舌で、関羽から荊州の領有権の一部を勝ち取っている。

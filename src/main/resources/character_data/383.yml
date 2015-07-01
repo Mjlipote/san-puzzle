@@ -1,0 +1,30 @@
+number: 383
+preName: 【肉屋宦官】髭男爵
+name: 【将軍宦官】髭男爵（【しょうぐんかんがん】ひげだんしゃく
+rarity: 2
+group: 漢
+arm: 蛮兵
+maxLevel: 50
+capability: 8
+initHp: 417
+initAttack: 310
+initRecovery: 194
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ルネッサンス！
+    turnMax: 6
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の回復力の1倍のHPを回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 

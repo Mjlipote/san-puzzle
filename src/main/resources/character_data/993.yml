@@ -1,0 +1,36 @@
+number: 993
+preName:
+name: 【贈る想いの形】黄月英
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 735
+initAttack: 376
+initRecovery: 214
+finalHp: 2058
+finalAttack: 1316
+finalRecovery: 728
+breakHp: 2298
+breakAttack: 1476
+breakRecovery: 808
+skills:
+  -
+    name: 糧食確保（呉）継戦幇助
+    turnMax: 9
+    turnMin: 5
+    statements:
+      -
+        content: 「呉」ユニットを「桃」ユニットに変化させる
+      -
+        content: 2ターンの間、使用した武将の回復力3倍のHPを回復
+strategies:
+  -
+    name: 言葉にするのは、恥ずかしいよぉ･･･
+    statements:
+      -
+        content: 味方の「蜀」武将の回復力を2.5倍にする
+      -
+        content: 「回復封じ・技能封じ・ユニット封じ」を中確率で無効
+description: 稀代の天才軍師・諸葛亮の妻。諸葛亮へチョコを渡そうとした黄月英だが、夫を愛する気持ちを口に出して伝えたことがないと気が付いて、激しく動揺する。

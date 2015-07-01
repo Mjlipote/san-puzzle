@@ -1,0 +1,32 @@
+number: 561
+preName: 【考える人】ムック
+name: 【非凡なる一計】ムック
+rarity: 3
+group: 呉
+arm: 神算
+maxLevel: 50
+capability: 8
+initHp: 364
+initAttack: 420
+initRecovery: 86
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: さいこうのけいりゃく、です！
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: みえています！
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを減少させる
+description: ムックも中々サマになってきましたね？いつもは応援だけだから、とっても楽しそう！「ところて、あなたは、火は好きですか？」

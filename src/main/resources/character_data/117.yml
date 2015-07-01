@@ -1,0 +1,32 @@
+number: 117
+preName: 【才知の姫】黄月英
+name: 【諸葛夫人】黄月英
+rarity: 4
+group: 蜀
+arm: 神算
+maxLevel: 70
+capability: 8
+initHp: 244
+initAttack: 172
+initRecovery: 205
+finalHp: 978
+finalAttack: 387
+finalRecovery: 492
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: からくり人形兵
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: 木牛流馬
+    statements:
+      -
+        content: ユニットを消したときにHPを回復
+description: 稀代の天才軍師・諸葛亮の妻。発明が得意で「火を吹く木獣」や「カラクリ人形」など様々なカラクリを発明しては孔明を驚かせている。

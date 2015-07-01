@@ -1,0 +1,32 @@
+number: 177
+preName: 【梟雄】董卓
+name: 【洛陽蹂躙】董卓
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 70
+capability: 10
+initHp: 612
+initAttack: 359
+initRecovery: 114
+finalHp: 1714
+finalAttack: 1077
+finalRecovery: 319
+breakHp: 1954
+breakAttack: 1237
+breakRecovery: 399
+skills:
+  -
+    name: 酒池肉林
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 魔王の精鋭
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 悪逆非道な暴雄。献帝を擁立して権力を掌握した董卓は、邪魔者や罪の無い民衆を残虐な刑罰で大量に虐殺。洛陽を一転して阿鼻叫喚の地獄に変えた。

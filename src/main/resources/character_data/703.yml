@@ -1,0 +1,30 @@
+number: 703
+preName: 【期待の末子】袁尚
+name: 【名家の末路】袁尚
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 30
+capability: 9
+initHp: 616
+initAttack: 281
+initRecovery: 21
+finalHp: 1417
+finalAttack: 703
+finalRecovery: 63
+breakHp: 1577
+breakAttack: 783
+breakRecovery: 103
+skills:
+  -
+    name: 乱撃一突破
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵単体に1倍から攻撃力の5倍までのランダムダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹の三男。袁紹の死後、家臣は袁譚派と袁尚派に別れ激しく争い、袁尚もそれに乗り、後継を一方的に宣言。兄‧袁譚との対立は決定的になった。

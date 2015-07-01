@@ -1,0 +1,32 @@
+number: 320
+preName: 【疾風弓】夏侯淵
+name: 【急襲の射手】夏侯淵
+rarity: 5
+group: 魏
+arm: 弓兵
+maxLevel: 99
+capability: 20
+initHp: 1301
+initAttack: 542
+initRecovery: 351
+finalHp: 1952
+finalAttack: 867
+finalRecovery: 421
+breakHp: 2232
+breakAttack: 1027
+breakRecovery: 541
+skills:
+  -
+    name: 疾風の勇将
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「蜀」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 絶え間なき矢雨
+    statements:
+      -
+        content: 味方の「弓兵」武将の攻撃力を2.2倍にする
+description: 急襲や奇襲を得意とした名将。涼州平定後は曹操の命を受けて朧西・武都を鎮圧。その武勇は曹操が羌族との交渉時に夏候淵の名を出して脅したという。

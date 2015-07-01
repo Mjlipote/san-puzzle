@@ -1,0 +1,28 @@
+number: 451
+preName:
+name: 【アイス】左慈
+rarity: 3
+group: 魏
+arm: 鬼謀
+maxLevel: 1
+capability: 1
+initHp: 1
+initAttack: 1
+initRecovery: 1
+finalHp: 1
+finalAttack: 1
+finalRecovery: 1
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description:

@@ -1,0 +1,32 @@
+number: 534
+preName:
+name: 【鬼神】関羽
+rarity: 6
+group: 魏
+arm: 騎兵
+maxLevel: 50
+capability: 25
+initHp: 242
+initAttack: 336
+initRecovery: 6
+finalHp: 1331
+finalAttack: 1008
+finalRecovery: 9
+breakHp: 1611
+breakAttack: 1208
+breakRecovery: 129
+skills:
+  -
+    name: 鬼神彷徨
+    turnMax: 34
+    turnMin: 20
+    statements:
+      -
+        content: 敵のHPを35%減少させる
+strategies:
+  -
+    name: 修羅道に堕ちし龍
+    statements:
+      -
+        content: 7連撃以上で攻撃した時、全武将の攻撃力を3倍
+description: 劉備・張飛と義兄弟の契りを交わした英傑。曹操に降ってからは、劉備のもとに戻る日を信じ、心を閉ざした鬼神となって、一心不乱に、敵将を斬り続ける。

@@ -1,0 +1,32 @@
+number: 585
+preName: 【気骨ある勇士】丁奉
+name: 【飛礫の名手】丁奉
+rarity: 5
+group: 呉
+arm: 蛮兵
+maxLevel: 70
+capability: 14
+initHp: 627
+initAttack: 523
+initRecovery: 106
+finalHp: 1882
+finalAttack: 1306
+finalRecovery: 213
+breakHp: 2122
+breakAttack: 1466
+breakRecovery: 293
+skills:
+  -
+    name: 震撼の攻め
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 後背からの擁護
+    statements:
+      -
+        content: 味方の「蛮兵」武将の攻撃力と回復力を1.8倍にする
+description: 孫権の時代から呉に仕えた猛将。孫権の亡き後は、軍の中核となり、曹魏と度々刃を交えた。弓の名手であったが、伝承によると礫投げの名人でもあった。

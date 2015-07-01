@@ -1,0 +1,30 @@
+number: 204
+preName: 群雄兵長
+name: 【上級】群雄兵長
+rarity: 3
+group: 群
+arm: 騎兵
+maxLevel: 30
+capability: 5
+initHp: 104
+initAttack: 211
+initRecovery: 20
+finalHp: 208
+finalAttack: 317
+finalRecovery: 42
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群兵の強襲
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 群雄軍兵卒の長。10人程度の兵卒を率いている。並の将兵より武勇に秀でているので、兵卒たちはその勇猛さに惹かれて好んで付き従っている。

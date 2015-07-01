@@ -1,0 +1,30 @@
+number: 64
+preName:
+name: 張梁
+rarity: 2
+group: 群
+arm: 剣兵
+maxLevel: 15
+capability: 3
+initHp: 57
+initAttack: 51
+initRecovery: 13
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾の暴威
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン 
+strategies:
+  -
+    name: なし
+    statements:
+description: 大賢良師・張角の末弟。民を苦しめる漢王朝を倒すため、兄達と共に黄巾の乱を起こす。人公将軍を名乗り、民を率いて官軍と戦った。

@@ -1,0 +1,32 @@
+number: 523
+preName: 【凶兆察知】韓当
+name: 【叱咤激励】韓当
+rarity: 5
+group: 呉
+arm: 槍兵
+maxLevel: 99
+capability: 14
+initHp: 743
+initAttack: 789
+initRecovery: 118
+finalHp: 1821
+finalAttack: 1371
+finalRecovery: 142
+breakHp: 2061
+breakAttack: 1531
+breakRecovery: 222
+skills:
+  -
+    name: 孫呉の屋台骨
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「漢」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 志の道標
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを減少させる
+description: 生涯戦場に立ち続けた孫呉の宿将。孫呉の関わる殆どの戦に参加し、実直な軍人として、陸続と加わる新たな才能の開花を下支えし続けた。

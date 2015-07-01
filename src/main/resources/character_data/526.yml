@@ -1,0 +1,32 @@
+number: 526
+preName:
+name: 【霊帝側室】王美人
+rarity: 4
+group: 漢
+arm: 神算
+maxLevel: 35
+capability: 7
+initHp: 402
+initAttack: 292
+initRecovery: 95
+finalHp: 894
+finalAttack: 534
+finalRecovery: 219
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 心願成就
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、受けるダメージを大きく減少させる
+strategies:
+  -
+    name: 切なる願望
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 後宮の暗闇に巻き込まれた、悲運の少女。『美人』とは後宮での地位を示す呼称であり、本来は女官であったが、霊帝に献じられ、その寵愛を受けた。

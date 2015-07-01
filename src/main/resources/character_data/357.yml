@@ -1,0 +1,32 @@
+number: 357
+preName: 【流浪の賢士】徐庶
+name: 【叡智参陣】徐庶
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 869
+initAttack: 629
+initRecovery: 196
+finalHp: 2432
+finalAttack: 1384
+finalRecovery: 432
+breakHp: 2752
+breakAttack: 1584
+breakRecovery: 552
+skills:
+  -
+    name: 洒脱なふるまい
+    turnMax: 8
+    turnMin: 5
+    statements:
+      -
+        content: 2ターンの間、確率で受けるダメージを0にする
+strategies:
+  -
+    name: 鋭利なる機略
+    statements:
+      -
+        content: 3勢力以上で攻撃した時、全武将の攻撃力を2.5倍
+description: 武にも優れた義侠心溢れる異色の軍師。長らく仕官せず各地を流浪していた。荊州新野に駐屯する劉備と意気投合し、劉備の軍師として仕えることになる。

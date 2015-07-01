@@ -1,0 +1,32 @@
+number: 1018
+preName:
+name: 【点下の英雄】孫権
+rarity: 3
+group: 呉
+arm: 剣兵
+maxLevel: 1
+capability: 1
+initHp: 41
+initAttack: 41
+initRecovery: 41
+finalHp: 41
+finalAttack: 41
+finalRecovery: 41
+breakHp: 521
+breakAttack: 281
+breakRecovery: 201
+skills:
+  -
+    name: 呉の誘い（漢）
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 「漢」を「呉」ユニットに変化させる
+strategies:
+  -
+    name: 点下の英傑
+    statements:
+      -
+        content: 「点」武将の攻撃力を4.1倍にする
+description: 「そんごのわかきとら」うけついだ　とちと　しんかを　まとめあげ　てんかを　めざす

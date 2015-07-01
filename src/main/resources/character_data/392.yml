@@ -1,0 +1,30 @@
+number: 392
+preName:
+name: 許貢
+rarity: 2
+group: 群
+arm: 剣兵
+maxLevel: 15
+capability: 5
+initHp: 207
+initAttack: 159
+initRecovery: 33
+finalHp: 455
+finalAttack: 318
+finalRecovery: 66
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 古き者の主張
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: HPを2000回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 野心家で知略に長けた呉郡太守。前太守の盛憲を攻め、追い出し太守となる。偽帝・袁術に味方した郷里が逃げ帰った際はこれを処刑して忠誠を示した。

@@ -1,0 +1,30 @@
+number: 317
+preName: 臧覇
+name: 【奴寇】臧覇（【どこう】ぞうは）
+rarity: 3
+group: 群
+arm: 槍兵
+maxLevel: 50
+capability: 7
+initHp: 365
+initAttack: 294
+initRecovery: 6
+finalHp: 802
+finalAttack: 647
+finalRecovery: 13
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 義賊の雄声
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「群」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 徐州の地方豪族で、若い時から勇猛、剛毅で知られていた。黄巾残党の討伐を命じられ官位を得ると開陽の地で勢力を保つ。呂布とは同盟関係にあった。

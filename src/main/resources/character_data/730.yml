@@ -1,0 +1,32 @@
+number: 730
+preName: 【後宮の毒蛇】何皇后
+name: 【毒婦の蠱惑】何皇后
+rarity: 6
+group: 漢
+arm: 鬼謀
+maxLevel: 99
+capability: 27
+initHp: 1850
+initAttack: 1044
+initRecovery: 359
+finalHp: 2589
+finalAttack: 1357
+finalRecovery: 431
+breakHp: 2869
+breakAttack: 1557
+breakRecovery: 551
+skills:
+  -
+    name: 寵妃の色香
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 美麗妃の蠱惑
+    statements:
+      -
+        content: 「漢」武将の攻撃力を2.2倍、回復力を1.5倍にする
+description: 大将軍何進の異母妹。実子の弁王子を帝位に即位させ、十常侍をも意のままに操る悪女。漢王朝、事実上の主として我が世の春を謳歌していたが──

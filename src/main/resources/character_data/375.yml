@@ -1,0 +1,32 @@
+number: 375
+preName:
+name: 【蒼天既獲得】黄巾坂野
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 333
+initAttack: 387
+initRecovery: 11
+finalHp: 1132
+finalAttack: 1355
+finalRecovery: 46
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 体力ゲッツ&ターン
+    turnMax: 5
+    turnMin: 3
+    statements:
+      -
+        content: 使用した武将の回復力の5倍のHPを回復させる
+strategies:
+  -
+    name: リバーサルゲッツ
+    statements:
+      -
+        content: HPが75%以上の時、HPが0になる攻撃を耐える
+description: 未だ衰えない勢いでしぶとく戦場を駆け巡る、ネオンカラースーツの伊達男。今日も世界を駆け巡る。「ゲッツ＆ターン＆リバース！」

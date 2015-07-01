@@ -1,0 +1,32 @@
+number: 10
+preName: 【楼桑村】劉備
+name: 【孝行息子】劉備
+rarity: 3
+group: 蜀
+arm: 剣兵
+maxLevel: 15
+capability: 4
+initHp: 143
+initAttack: 80
+initRecovery: 30
+finalHp: 343
+finalAttack: 319
+finalRecovery: 61
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 大器の片鱗
+    turnMax: 12
+    turnMin: 10
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを入れ替える
+strategies:
+  -
+    name: 義侠の心
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を1.5倍にする
+description: 中山靖王劉勝の末裔である三国志の主人公の１人。家で待つ母親のために懸命に毎日働いている。いつか天下のために勇躍する決意を心に秘めながら。

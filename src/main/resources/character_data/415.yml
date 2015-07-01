@@ -1,0 +1,32 @@
+number: 415
+preName:
+name: 【博学の将】李典
+rarity: 4
+group: 魏
+arm: 弓兵
+maxLevel: 25
+capability: 7
+initHp: 401
+initAttack: 197
+initRecovery: 42
+finalHp: 1203
+finalAttack: 552
+finalRecovery: 105
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 洞察の妙
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 思索生知の才
+    statements:
+      -
+        content: 受けるダメージを大きく減少させる
+description: 沈着冷静な曹操軍の知将。若い頃から学問に通じ、完成された判断力を持つ。河北の覇権を懸けた袁紹との戦いにおいても大いに活躍し、勝利に貢献した。

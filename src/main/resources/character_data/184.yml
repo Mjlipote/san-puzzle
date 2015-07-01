@@ -1,0 +1,28 @@
+number: 184
+preName:
+name: 【群雄大指南】司馬徽
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 250
+initAttack: 40
+initRecovery: 10
+finalHp: 250
+finalAttack: 40
+finalRecovery: 10
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 

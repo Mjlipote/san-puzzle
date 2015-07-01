@@ -1,0 +1,32 @@
+number: 718
+preName:
+name: 【袁紹嫡子】袁譚
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 25
+capability: 8
+initHp: 377
+initAttack: 160
+initRecovery: 0
+finalHp: 1320
+finalAttack: 480
+finalRecovery: 0
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 士気高揚の煽惑
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: HPを半分回復させる
+strategies:
+  -
+    name: 名家の七光り
+    statements:
+      -
+        content: HPが70%以上の時、HPが0になる攻撃を耐える
+description: 袁紹の長男。識者を良く招いたが、趣味的な蒐集に留まり、その意見を聞き入れることはほとんど無く、奸臣の言葉にばかり耳を貸していた。

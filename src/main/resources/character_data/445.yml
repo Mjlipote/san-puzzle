@@ -1,0 +1,32 @@
+number: 445
+preName:
+name: 【流麗美歌】巡音ルカ
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 25
+capability: 6
+initHp: 162
+initAttack: 45
+initRecovery: 20
+finalHp: 972
+finalAttack: 360
+finalRecovery: 320
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 逡巡の誘い
+    turnMax: 24
+    turnMin: 19
+    statements:
+      -
+        content: 敵の攻撃を1ターン遅らせる
+strategies:
+  -
+    name: 流れ香る音色
+    statements:
+      -
+        content: ユニットを動かせる時間が延びる
+description: 終南山に舞い降りた天女の一人。クールな歌声で、ハイテンポな曲からしっとり聴かせる曲までハードに歌い上げる。「いくわよ！　準備は良い？」

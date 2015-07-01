@@ -1,0 +1,32 @@
+number: 895
+preName:
+name: 【幼き豪勇】孫権
+rarity: 4
+group: 呉
+arm: 剣兵
+maxLevel: 50
+capability: 19
+initHp: 419
+initAttack: 259
+initRecovery: 51
+finalHp: 838
+finalAttack: 518
+finalRecovery: 102
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 超激化する闘争心
+    turnMax: 20
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.5倍にする
+strategies:
+  -
+    name: 秘めたる英姿
+    statements:
+      -
+        content: 味方の「呉」武将のHPと攻撃力を1.8倍にする
+description: 孫呉覇業の遺志を継いだ三国志の主人公の１人。孫堅の死後、複雑に変化する時世の荒波に翻弄される少年期を乗り越えた幼き虎は逞しい成長を遂げる。

@@ -1,0 +1,32 @@
+number: 422
+preName: 【二喬の姉】大喬
+name: 【麗しき月】大喬
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 70
+capability: 14
+initHp: 878
+initAttack: 633
+initRecovery: 159
+finalHp: 1843
+finalAttack: 1139
+finalRecovery: 318
+breakHp: 2083
+breakAttack: 1299
+breakRecovery: 398
+skills:
+  -
+    name: 月満ちる奏楽
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: あまねく穏和の音
+    statements:
+      -
+        content: 味方の「呉」武将のHPと回復力を1.8倍にする
+description: 名士・喬公の上の娘。妹と共に「月も光を消し花も恥じらう」ほどの美人と謳われた。江東平定を進める若き英雄・孫策に見初められて彼の妻となった。

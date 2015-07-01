@@ -1,0 +1,32 @@
+number: 752
+preName:
+name: 【天公将軍】張角
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 50
+capability: 30
+initHp: 588
+initAttack: 214
+initRecovery: 116
+finalHp: 1764
+finalAttack: 642
+finalRecovery: 209
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 超越の回復
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: HPが上限値を超えて回復する
+strategies:
+  -
+    name: 黃天への祈り
+    statements:
+      -
+        content: 6兵種で同時に攻撃した時、全武将の攻撃力3.5倍
+description: 太平道の教祖。挙兵に先立ち、密かに都に間者を送り込み、不満分子を組織化、內外からの一斉武裝蜂起を画策して、漢室に大きな衝撃をもたらした。

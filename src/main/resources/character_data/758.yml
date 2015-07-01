@@ -1,0 +1,32 @@
+number: 758
+preName:
+name: 【老練たる英雄】皇甫嵩
+rarity: 4
+group: 漢
+arm: 剣兵
+maxLevel: 50
+capability: 8
+initHp: 500
+initAttack: 255
+initRecovery: 47
+finalHp: 1000
+finalAttack: 510
+finalRecovery: 94
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強力な威圧
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 敵の攻撃を2ターン遅らせる
+strategies:
+  -
+    name: 熟練の指揮
+    statements:
+      -
+        content: 味方の「漢」武将のHPと回復力を1.8倍にする
+description: 黄巾討伐で活躍した漢の名将。潁川方面を始めとし、広宗、曲陽と、主だった黄巾賊との戦闘に殆ど参加し、尚且つ、それぞれで大きな戦功を上げた。

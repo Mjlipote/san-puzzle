@@ -1,0 +1,30 @@
+number: 99
+preName: 李カク
+name: 【悪逆の将】李カク
+rarity: 2
+group: 群
+arm: 剣兵
+maxLevel: 50
+capability: 10
+initHp: 70
+initAttack: 114
+initRecovery: 29
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 非道な急襲
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃 
+strategies:
+  -
+    name: なし
+    statements:
+description: 董卓配下の非道な将。董卓亡き後は長安を奇襲し、呂布を追い払う。しかし、長安の統治は一切せず、略奪を繰り返したため、街には飢民と死体が溢れた。

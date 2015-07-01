@@ -1,0 +1,28 @@
+number: 187
+preName:
+name: 【漢軍大指南】司馬徽
+rarity: 4
+group: 漢
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 250
+initAttack: 40
+initRecovery: 10
+finalHp: 250
+finalAttack: 40
+finalRecovery: 10
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 水鏡先生の名で知られる人物鑑定家。司馬徽に認められた者は天下に名を轟かせると言われている。また、劉備を高く評価し、臥龍と鳳雛の存在を教えた。

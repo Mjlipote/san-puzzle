@@ -1,0 +1,32 @@
+number: 751
+preName: 【匈奴の貴公子】劉豹
+name: 【左賢王】劉豹
+rarity: 6
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 25
+initHp: 1348
+initAttack: 1029
+initRecovery: 148
+finalHp: 2695
+finalAttack: 1543
+finalRecovery: 222
+breakHp: 2975
+breakAttack: 1743
+breakRecovery: 342
+skills:
+  -
+    name: 群の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「群」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 絶え間なき進撃
+    statements:
+      -
+        content: 味方の「蛮兵」武将の攻撃力と回復力を2倍にする
+description: 南匈奴の単于‧於夫羅の息子であり、蔡文姫の夫である。当初漢人を憎んでいたが、蔡文姫の仲介で漢に帰順、劉姓を名乗り、改めて匈奴左賢王に任じられた。

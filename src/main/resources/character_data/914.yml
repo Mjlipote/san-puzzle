@@ -1,0 +1,34 @@
+number: 914
+preName:
+name: 【おどおど盗賊】王悦
+rarity: 5
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 17
+initHp: 352
+initAttack: 201
+initRecovery: 44
+finalHp: 880
+finalAttack: 503
+finalRecovery: 132
+breakHp: 1680
+breakAttack: 1143
+breakRecovery: 452
+skills:
+  -
+    name: 絶対なる中衝撃
+    turnMax: 24
+    turnMin: 14
+    statements:
+      -
+        content: 敵のHPを25%減少させる
+strategies:
+  -
+    name: 女盜賊の手業
+    statements:
+      -
+        content: 味方の「剣・槍・弓兵」武将の回復力を2倍
+      -
+        content: 「回復封じ・技能封じ・ユニット封じ」を低確率で無効
+description: 蘆塘寨の盜賊頭領‧王桃の妹。父をたずねて旅する青年‧関索と戦い敗れる。奪うことを生業としてきた王悦は、その鮮やかな生き様に自らの心を奪われた。

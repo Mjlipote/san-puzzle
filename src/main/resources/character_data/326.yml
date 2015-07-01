@@ -1,0 +1,32 @@
+number: 326
+preName: 【黄祖討伐】周泰
+name: 【挺身の守護者】周泰
+rarity: 5
+group: 呉
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 2374
+initAttack: 621
+initRecovery: 34
+finalHp: 3324
+finalAttack: 807
+finalRecovery: 41
+breakHp: 3564
+breakAttack: 967
+breakRecovery: 121
+skills:
+  -
+    name: 名誉の戦傷
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 守護者の咆哮
+    statements:
+      -
+        content: ダメージを受けると、高確率で反撃をする
+description: 体に無数の傷がある歴戦の勇将。赤壁の戦いでは、韓当とともに先陣を務めた。213年の濡須口の戦いでは堅守して活躍。戦後に濡須の督となった。

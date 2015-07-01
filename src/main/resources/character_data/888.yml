@@ -1,0 +1,34 @@
+number: 888
+preName:
+name: 【王表の巫女】紡績
+rarity: 6
+group: 呉
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1301
+initAttack: 671
+initRecovery: 170
+finalHp: 2264
+finalAttack: 1007
+finalRecovery: 340
+breakHp: 2584
+breakAttack: 1207
+breakRecovery: 460
+skills:
+  -
+    name: 呉漢群招集
+    turnMax: 12
+    turnMin: 6
+    statements:
+      -
+        content: 2ターンの間、「呉・漢・群・桃」ユニットのみ出現するようになる
+strategies:
+  -
+    name: 神威の霊能
+    statements:
+      -
+        content: 「呉」勢力の武将の攻撃力1.8倍にする
+      -
+        content: 「技能封じ」を確実に無効にする
+description: 「神」を自称する不可視の男‧王表に侍えた巫女。王表の言葉を代弁し、日照りや水害などを予言し見事的中させ、孫権に篤くもてなされた。

@@ -1,0 +1,32 @@
+number: 352
+preName:
+name: 【王佐の才】荀イク
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 50
+capability: 16
+initHp: 403
+initAttack: 353
+initRecovery: 157
+finalHp: 874
+finalAttack: 651
+finalRecovery: 290
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 清廉なる神君
+    turnMax: 5
+    turnMin: 3
+    statements:
+      -
+        content: 使用した武将の回復力の5倍のHPを回復させる
+strategies:
+  -
+    name: 王佐の片鱗
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力と回復力を1.5倍にする
+description: 儒学に通じる学者名門の出で、幼い頃から高い評価を得ていた。曹操に仕えてからは、彼を覇者とすべく政軍ともに次々と献策。『王佐の才』と賞された。

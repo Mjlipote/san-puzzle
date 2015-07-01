@@ -1,0 +1,32 @@
+number: 547
+preName: 【天下の大豪傑】張飛
+name: 【橋上の仁王】張飛
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 22
+initHp: 1515
+initAttack: 715
+initRecovery: 91
+finalHp: 3029
+finalAttack: 1431
+finalRecovery: 182
+breakHp: 3309
+breakAttack: 1631
+breakRecovery: 302
+skills:
+  -
+    name: 蛮勇憤然
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 仁王立ち
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2.2倍にする
+description: 劉備・関羽と義兄弟の契りを交わした猛将。長坂の地では、僅か十数騎で曹操軍に対峙し、その気迫・気合いだけで落馬してしまう将兵すら出たという。

@@ -1,0 +1,32 @@
+number: 1063
+preName:
+name: 【君臣の絆】諸葛瑾
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 30
+initHp: 633
+initAttack: 398
+initRecovery: 180
+finalHp: 2216
+finalAttack: 1592
+finalRecovery: 540
+breakHp: 2496
+breakAttack: 1792
+breakRecovery: 660
+skills:
+  -
+    name: 確然たる短戦術・呉の攻勢
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、確実に「回復封じ」「ユニット封じ」を無効にし、「呉」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 温和怜悧
+    statements:
+      -
+        content: 5兵種以上で編成した時、全武将の攻撃力と回復力を2.2倍
+description: 諸葛亮の実兄で、呉の政治家。諸葛亮を配下にできないか孫権に問われ、「私が主を裏切らないように、弟も主を裏切らない」と言い、孫権を喜ばせたという。

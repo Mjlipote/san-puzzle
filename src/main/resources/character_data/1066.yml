@@ -1,0 +1,32 @@
+number: 1066
+preName:
+name: 【砂塵の智者】成公英
+rarity: 6
+group: 群
+arm: 神算
+maxLevel: 99
+capability: 30
+initHp: 814
+initAttack: 429
+initRecovery: 73
+finalHp: 2849
+finalAttack: 1716
+finalRecovery: 219
+breakHp: 3129
+breakAttack: 1916
+breakRecovery: 339
+skills:
+  -
+    name: 確然たる短戦術
+    turnMax: 32
+    turnMin: 18
+    statements:
+      -
+        content: 2ターンの間、確実に「回復封じ」「ユニット封じ」を無効にする
+strategies:
+  -
+    name: 柔能制剛
+    statements:
+      -
+        content: 5兵種以上で編成した時、全武将の攻撃力と回復力を2.2倍
+description: 知略に長けた涼州の武将。北方異民族の出といわれる。中平年間（184～189年）の末期に韓遂に仕え、戦に明け暮れた彼の生涯を支えた。

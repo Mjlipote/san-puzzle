@@ -1,0 +1,32 @@
+number: 128
+preName:
+name: 【袁家猛将】文醜
+rarity: 3
+group: 漢
+arm: 騎兵
+maxLevel: 25
+capability: 6
+initHp: 97
+initAttack: 35
+initRecovery: 14
+finalHp: 1213
+finalAttack: 219
+finalRecovery: 116
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家筆頭
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 袁家の豪勇
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 顔良と並び、袁家の双璧と賞された猛将。体躯と筋力に優れ、獣のような面構え。公孫サンとの戦いでは趙雲と互角の戦いをしたほどの武勇の持ち主。

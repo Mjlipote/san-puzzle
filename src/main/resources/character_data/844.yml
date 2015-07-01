@@ -1,0 +1,32 @@
+number: 844
+preName:
+name: 【ふわふわ水辺】夏侯月姫
+rarity: 5
+group: 蜀
+arm: 弓兵
+maxLevel: 50
+capability: 21
+initHp: 412
+initAttack: 280
+initRecovery: 154
+finalHp: 1236
+finalAttack: 840
+finalRecovery: 308
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏蜀漢同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「魏」「蜀」「漢」ユニットに変化させる
+strategies:
+  -
+    name: 天然乙女？
+    statements:
+      -
+        content: 「魏」「蜀」「漢」を含んだ編成の時、全武将のHP1.8倍、攻撃力2.5倍
+description: 張飛の妻で、魏の将‧夏侯淵の姪にあたる女性。劉備や関羽と離れ離れになった頃の張飛が、汝南の水辺のほとりで遊ぶ月姫と出会い、自らの妻とした。

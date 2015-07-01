@@ -1,0 +1,30 @@
+number: 27
+preName:
+name: 【名外交官】伊籍
+rarity: 2
+group: 蜀
+arm: 神算
+maxLevel: 15
+capability: 2
+initHp: 21
+initAttack: 22
+initRecovery: 22
+finalHp: 74
+finalAttack: 110
+finalRecovery: 110
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 的確な忠言
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを少し減少させる
+description: 劉備軍の有能な文官。孫権への使者の役目でその卓越した外交手腕を存分に発揮し、見事孫権を感心させ外交を成功させている。

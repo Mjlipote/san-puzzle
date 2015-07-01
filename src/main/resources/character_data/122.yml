@@ -1,0 +1,32 @@
+number: 122
+preName:
+name: 【弓の達人】夏侯淵
+rarity: 3
+group: 魏
+arm: 弓兵
+maxLevel: 25
+capability: 6
+initHp: 60
+initAttack: 40
+initRecovery: 18
+finalHp: 750
+finalAttack: 250
+finalRecovery: 149
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 疾風の勇将
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「蜀」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 将器の覚醒
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを減少させる
+description: 急襲や奇襲を得意とした武将。若い頃から文武に長けていて、曹操や従弟たちが、血気盛んな若者を集めて徒党を組むと、その参謀役として活躍した。

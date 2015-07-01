@@ -1,0 +1,32 @@
+number: 531
+preName: 【創作料理】董白
+name: 【一言の勇気】董白
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 22
+initHp: 1051
+initAttack: 693
+initRecovery: 198
+finalHp: 2101
+finalAttack: 1385
+finalRecovery: 395
+breakHp: 2381
+breakAttack: 1585
+breakRecovery: 515
+skills:
+  -
+    name: ほら、食べなさいよ！
+    turnMax: 5
+    turnMin: 
+    statements:
+      -
+        content: 何が起こるかわからない
+strategies:
+  -
+    name: 董白式料理術
+    statements:
+      -
+        content: 毎ターンHPを減少させ、全武将の攻撃力を2.5倍（HPの18%のダメージを受ける）
+description: 魔王・董卓の孫娘。台所を潰滅させ、やっと完成したチョコ。果たしてちゃんと渡せるのか？　「は、はいっ！　あげる！　ありがたく思いなさい！」

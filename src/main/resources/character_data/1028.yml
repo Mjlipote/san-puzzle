@@ -1,0 +1,36 @@
+number: 1028
+preName:
+name: 【千里を行く】関羽
+rarity: 6
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 718
+initAttack: 315
+initRecovery: 104
+finalHp: 1795
+finalAttack: 1134
+finalRecovery: 156
+breakHp: 3035
+breakAttack: 1814
+breakRecovery: 316
+skills:
+  -
+    name: 蜀の大速攻勢・蜀の誘い（桃）
+    turnMax: 20
+    turnMin: 6
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.8倍にする
+      -
+        content: 「桃」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 義将進行
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと攻撃力を1.8倍にする
+      -
+        content: 必殺技の威力を2倍にする
+description: 劉備・張飛と義兄弟の契りを交わした英傑。曹操からの恩義を戦功で返した関羽は、劉備との再会のために曹操の下を出奔。義姉達と、遥か千里の道を行く。

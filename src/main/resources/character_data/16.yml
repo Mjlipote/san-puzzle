@@ -1,0 +1,32 @@
+number: 16
+preName: 【遊侠奔走】袁紹
+name: 【反董卓の盟主】袁紹
+rarity: 5
+group: 漢
+arm: 剣兵
+maxLevel: 99
+capability: 10
+initHp: 707
+initAttack: 508
+initRecovery: 130
+finalHp: 2122
+finalAttack: 863
+finalRecovery: 261
+breakHp: 2362
+breakAttack: 1023
+breakRecovery: 341
+skills:
+  -
+    name: 袁家の大攻勢
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 漢王朝の威光
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: 後に河北の雄となる名門袁家の御曹司。宦官勢力を一掃して名を挙げるが、董卓との抗争に敗れ敗走。しかし、諸侯の推薦により反董卓連合の盟主となる。

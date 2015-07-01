@@ -1,0 +1,32 @@
+number: 165
+preName: 陳武
+name: 【合肥奮戦】陳武
+rarity: 2
+group: 呉
+arm: 槍兵
+maxLevel: 30
+capability: 5
+initHp: 81
+initAttack: 176
+initRecovery: 62
+finalHp: 194
+finalAttack: 615
+finalRecovery: 124
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 武人の心根
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 異形の風貌
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを少し減少させる
+description: 黄色い顔に赤い瞳という独特の風貌を持つ将。劉ヨウとの戦いや、赤壁の戦いで活躍。合肥の戦いでは、魏の将軍・ホウ徳と一騎打ちで死闘を繰り広げる。

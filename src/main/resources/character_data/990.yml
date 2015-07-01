@@ -1,0 +1,34 @@
+number: 990
+preName:
+name: 【如月の嫉妬心】丁夫人
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 869
+initAttack: 447
+initRecovery: 495
+finalHp: 1738
+finalAttack: 894
+finalRecovery: 743
+breakHp: 2018
+breakAttack: 1094
+breakRecovery: 863
+skills:
+  -
+    name: 糧食への変転
+    turnMax: 27
+    turnMin: 15
+    statements:
+      -
+        content: 「漢」と「群」ユニットを「桃」ユニットに変換
+strategies:
+  -
+    name: 私の気持ち、受け取ってください！
+    statements:
+      -
+        content: 味方の「神算」武将の回復力を2.2倍にする
+      -
+        content: 「回復封じ・技能封じ・ユニット封じ」を確率で無効
+description: 丁家の娘。意中の男性・曹操は他の女性たちから次々とチョコを贈られていた。弱気に陥った彼女だが、次第に頬を緩ませた曹操に悋気を起こし始める･･･。

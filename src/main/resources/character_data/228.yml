@@ -1,0 +1,28 @@
+number: 228
+preName:
+name: 【赤色霊薬】左慈
+rarity: 2
+group: 呉
+arm: 神算
+maxLevel: 1
+capability: 999
+initHp: 1
+initAttack: 1
+initRecovery: 1
+finalHp: 1
+finalAttack: 1
+finalRecovery: 1
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description:

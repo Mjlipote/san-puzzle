@@ -1,0 +1,34 @@
+number: 1061
+preName:
+name: 【無双の舞姫】貂蝉
+rarity: 6
+group: 群
+arm: 神算
+maxLevel: 99
+capability: 40
+initHp: 590
+initAttack: 484
+initRecovery: 359
+finalHp: 2124
+finalAttack: 1452
+finalRecovery: 718
+breakHp: 2404
+breakAttack: 1652
+breakRecovery: 838
+skills:
+  -
+    name: 妖艶なる闇の舞踏
+    turnMax: 21
+    turnMin: 15
+    statements:
+      -
+        content: 「漢」ユニットを「群」ユニットに変化させる
+      -
+        content: 1ターンの間、「群」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 華麗なる舞姫の覚悟
+    statements:
+      -
+        content: 「群」武将のHPを1.5倍、攻撃力を2倍
+description: 董卓の専横を憂う王允の養女で「真の三國無双」と称される英傑のひとり。その美貌を用い、董卓と呂布の仲を引き裂く計を実行、歴史の裏にその名を刻む。

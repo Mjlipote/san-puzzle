@@ -1,0 +1,30 @@
+number: 540
+preName: 【呉兵熱狂】ミクファン
+name: 【呉兵超熱狂】ミクファン
+rarity: 3
+group: 呉
+arm: 弓兵
+maxLevel: 39
+capability: 3
+initHp: 33
+initAttack: 150
+initRecovery: 29
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 情熱を現す円舞曲
+    turnMax: 39
+    turnMin: 
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 元孫家軍の兵卒。弓矢の扱いが巧く、熟練の域に達している。生まれて初めて雪を見る者が多く、雪集め中に遭難する兵が続出した。

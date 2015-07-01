@@ -1,0 +1,30 @@
+number: 603
+preName: 許児
+name: 【孫策襲撃】許児
+rarity: 3
+group: 群
+arm: 弓兵
+maxLevel: 50
+capability: 7
+initHp: 312
+initAttack: 201
+initRecovery: 127
+finalHp: 517
+finalAttack: 313
+finalRecovery: 208
+breakHp: 667
+breakAttack: 393
+breakRecovery: 248
+skills:
+  -
+    name: 群雄の一擊
+    turnMax: 13
+    turnMin: 10
+    statements:
+      -
+        content: 敵全体に「群」勢力の1500ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 呉郡太守であり、孫策に処刑された許貢の息子。彼の孫策暗殺劇は、曹操や劉表あるいは陳登等の敵対勢力が裏で系を引いていたという説もある。

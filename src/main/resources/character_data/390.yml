@@ -1,0 +1,30 @@
+number: 390
+preName:
+name: 厳白虎
+rarity: 2
+group: 群
+arm: 蛮兵
+maxLevel: 15
+capability: 5
+initHp: 222
+initAttack: 111
+initRecovery: 14
+finalHp: 666
+finalAttack: 278
+finalRecovery: 31
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強奪王
+    turnMax: 18
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 呉郡の豪族で『東呉の徳王』を自称する。混乱する揚州で勢力を保ち、許貢や王朗とも交流があった。孫策の江東襲撃に対し、許貢らと強調して対抗した。

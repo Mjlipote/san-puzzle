@@ -1,0 +1,28 @@
+number: 887
+preName:
+name: 【六百万記念指南】于吉
+rarity: 5
+group: 漢
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 500
+initAttack: 60
+initRecovery: 15
+finalHp: 500
+finalAttack: 60
+finalRecovery: 15
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 異国の紳士衣装に身を包む仙人。天下に輝く「六百万人」を超す英雄たちに、感謝と賛辞の声を送っている。その声は、聞く者の才を一気に開花させるという。

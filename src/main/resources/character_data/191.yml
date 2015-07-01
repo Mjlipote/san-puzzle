@@ -1,0 +1,32 @@
+number: 191
+preName:
+name: 【戦鬼】呂布
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 50
+capability: 40
+initHp: 341
+initAttack: 277
+initRecovery: 22
+finalHp: 1705
+finalAttack: 970
+finalRecovery: 176
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 天下無双
+    turnMax: 35
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力30倍防御無視攻撃
+strategies:
+  -
+    name: 吠虎の猛勇
+    statements:
+      -
+        content: HPが最大の時、全武将の攻撃力を3.5倍にする
+description: 三国志最強の武将。凄まじい腕力と卓越した弓術・馬術を持ち、戦場で多くの敵を撃破したことから、敵兵からは戦鬼の如く恐れられている。

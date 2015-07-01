@@ -1,0 +1,32 @@
+number: 614
+preName:
+name: 【蟒蛇】何皇后
+rarity: 5
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 18
+initHp: 416
+initAttack: 216
+initRecovery: 146
+finalHp: 1123
+finalAttack: 518
+finalRecovery: 219
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群蜀よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「群」を「漢」に、「蜀」を「桃」に変換
+strategies:
+  -
+    name: 蟒蛇の誘い酒
+    statements:
+      -
+        content: 「漢」武将のHPと攻撃力と回復力を1.8倍にする
+description: 大将軍何進の異母妹。後宮の庭で、贅を尽くしての大宴会の最中です。「ぼさっとしないの、注いで、注いで。」

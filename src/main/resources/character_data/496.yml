@@ -1,0 +1,32 @@
+number: 496
+preName:
+name: 【実直なる智】張紘
+rarity: 4
+group: 呉
+arm: 神算
+maxLevel: 35
+capability: 11
+initHp: 414
+initAttack: 260
+initRecovery: 49
+finalHp: 890
+finalAttack: 579
+finalRecovery: 122
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 囯策の名手
+    turnMax: 12
+    turnMin: 4
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力15倍の攻撃
+strategies:
+  -
+    name: 二張の攻め手
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を2倍にする
+description: その俊才から『呉の二張』と呼ばれた参謀の一人。孫策が拳兵した時に直々に口説かれる。張紘はその熱心さに心動かされ、仕官する事になった。

@@ -1,0 +1,30 @@
+number: 376
+preName:
+name: 張コウ勝山（ちょうこうかつやま）
+rarity: 2
+group: 魏
+arm: 蛮兵
+maxLevel: 15
+capability: 5
+initHp: 264
+initAttack: 181
+initRecovery: 53
+finalHp: 528
+finalAttack: 362
+finalRecovery: 106
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ア・カペラ熱唱
+    turnMax: 14
+    turnMin: 7
+    statements:
+      -
+        content: 3ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 知略兼ね備えた勇将だが、突然歌いだすので奇襲が出来ない。あと、割と寂しがり屋。「右から…　右から…！　劉備が、来てるー！」

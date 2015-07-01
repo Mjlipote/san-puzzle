@@ -1,0 +1,32 @@
+number: 546
+preName:
+name: 【天下の大豪傑】張飛
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 16
+initHp: 594
+initAttack: 251
+initRecovery: 32
+finalHp: 1782
+finalAttack: 753
+finalRecovery: 96
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蛮勇憤然
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 仁王立ち
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2.2倍にする
+description: 劉備・関羽と義兄弟の契りを交わした猛将。義兄弟の中で、戦闘に関わる能力は最も高く、劉備もあえて州群を任せず、切り札として常に手元い置いた。

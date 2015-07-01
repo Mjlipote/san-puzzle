@@ -1,0 +1,28 @@
+number: 30
+preName:
+name: 【清流士大夫】盧植
+rarity: 2
+group: 漢
+arm: 神算
+maxLevel: 15
+capability: 2
+initHp: 51
+initAttack: 28
+initRecovery: 13
+finalHp: 179 
+finalAttack: 140
+finalRecovery: 65
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 憂国の士
+    statements:
+description: 知勇兼備の憂国の将軍。古今の学問に精通した儒学者で、宦官に対して批判的な清流派の士大夫。博識で礼儀正しく常に世の中を救う大志を持っている。

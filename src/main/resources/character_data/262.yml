@@ -1,0 +1,28 @@
+number: 262
+preName:
+name: 凌操
+rarity: 2
+group: 呉
+arm: 蛮兵
+maxLevel: 20
+capability: 3
+initHp: 97
+initAttack: 143
+initRecovery: 20
+finalHp: 204 
+finalAttack: 315
+finalRecovery: 36
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策に仕えた勇猛果敢な武将。呉郡出身で義侠心に富む武人として知られていた。孫策の挙兵に参じると、戦場では常に先鋒として敵を破ったという。

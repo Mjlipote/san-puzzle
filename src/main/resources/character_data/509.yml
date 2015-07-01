@@ -1,0 +1,32 @@
+number: 509
+preName: 【慧眼の士】賈ク
+name: 【降機の瞬断】賈ク
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 16
+initHp: 732
+initAttack: 565
+initRecovery: 213
+finalHp: 1862
+finalAttack: 1204
+finalRecovery: 305
+breakHp: 2142
+breakAttack: 1364
+breakRecovery: 425
+skills:
+  -
+    name: 鬼門の見極め
+    turnMax: 27
+    turnMin: 17
+    statements:
+      -
+        content: 敵のHPを20%減少させる
+strategies:
+  -
+    name: 巧みなる策謀
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを減少させる
+description: 西涼出身の謀士。曹操と袁紹の間で緊張が高まった頃、賈クは仇敵・曹操への降伏を張繍に進言。曹操の性格や当時の時勢を読み切った、適格な判断だった。

@@ -1,0 +1,34 @@
+number: 583
+preName: 【破賊都尉】凌統
+name: 【先鋒一本槍】凌統
+rarity: 6
+group: 呉
+arm: 槍兵
+maxLevel: 99
+capability: 23
+initHp: 1046
+initAttack: 701
+initRecovery: 66
+finalHp: 2614
+finalAttack: 1753
+finalRecovery: 98
+breakHp: 2894
+breakAttack: 1953
+breakRecovery: 218
+skills:
+  -
+    name: 激化する闘争心
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 烈攻突破
+    statements:
+      -
+        content: 全勢力で編成した時、全武将の攻撃力と回復力1.5倍
+      -
+        content: 「呉」と「群」で攻撃した時、全武将の攻撃力2.5倍
+description: 謹厳実直な剛将。父親の戦死により、十五歳で後を継いだ。夏口攻略戦では、董襲と共に先鋒を務め、敵将・張碩を斬るという武功を挙げた。

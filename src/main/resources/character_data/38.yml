@@ -1,0 +1,30 @@
+number: 38
+preName:
+name: 祖茂
+rarity: 1
+group: 呉
+arm: 剣兵
+maxLevel: 15
+capability: 2
+initHp: 30
+initAttack: 77
+initRecovery: 10
+finalHp: 128
+finalAttack: 193
+finalRecovery: 33
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 孫家の忠臣
+    statements:
+      -
+        content: 受けるダメージを少し減少させる
+description: 主君の身代わりとなった忠義の将。孫堅の旗揚げから付き従う宿将で、「孫堅四天王」の1人。二刀流の使い手としても知られる。

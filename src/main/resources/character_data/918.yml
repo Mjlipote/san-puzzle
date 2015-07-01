@@ -1,0 +1,34 @@
+number: 918
+preName: 【無双の勇将】趙雲
+name: 【戦地貫く龍】趙雲
+rarity: 7
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 25
+initHp: 1830
+initAttack: 1208
+initRecovery: 120
+finalHp: 3659
+finalAttack: 1813
+finalRecovery: 215
+breakHp: 4059
+breakAttack: 2013
+breakRecovery: 335
+skills:
+  -
+    name: 龍の咆哮
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 仁の槍の穂先
+    statements:
+      -
+        content: HPが80%以上の時、全武将の攻撃力を3.594倍にする
+      -
+        content: 全ての武将から受けるダメージを減少させる
+description: 忠烈の勇将で「真の三國無双」と称される英傑のひとり。劉備と出会い深く感銘を受けた若き龍は、大志を貫く槍になることを誓い、戦場に勇躍する！

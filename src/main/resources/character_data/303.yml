@@ -1,0 +1,32 @@
+number: 303
+preName: 【少帝弑逆】李儒
+name: 【遷都の遠謀】李儒
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 70
+capability: 10
+initHp: 274
+initAttack: 510
+initRecovery: 109
+finalHp: 547
+finalAttack: 1122
+finalRecovery: 219
+breakHp: 747
+breakAttack: 1282
+breakRecovery: 299
+skills:
+  -
+    name: 暗澹たる謀略
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: 素早く混乱させて、敵自身を攻撃させる
+strategies:
+  -
+    name: 宮内洗浄
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 董卓配下の謀士。董卓の軍師役として悪政に加担した。呂布が反董卓連合軍に敗れて狼狽する董卓に、洛陽の放棄と長安への遷都を薦めた。

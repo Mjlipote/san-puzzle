@@ -1,0 +1,32 @@
+number: 749
+preName: 【白き稲妻】公孫姫
+name: 【煌きの白馬姫】公孫姫
+rarity: 6
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 1202
+initAttack: 1023
+initRecovery: 211
+finalHp: 2404
+finalAttack: 1535
+finalRecovery: 316
+breakHp: 2684
+breakAttack: 1735
+breakRecovery: 436
+skills:
+  -
+    name: 漢の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 迅雷の如き攻め
+    statements:
+      -
+        content: 味方の「騎兵」武将のHPと攻撃力を2倍にする
+description: 公孫サンの娘。父親讓りの美貌と馬術の才に恵まれる。父親の義兄弟で、彼の軍閥を北匈貿易で支えた大商人‧楽何当の息子に嫁いだ。

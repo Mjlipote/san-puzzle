@@ -1,0 +1,30 @@
+number: 258
+preName:
+name: 漢軍兵長
+rarity: 2
+group: 漢
+arm: 騎兵
+maxLevel: 15
+capability: 2
+initHp: 50
+initAttack: 95
+initRecovery: 16
+finalHp: 105
+finalAttack: 200
+finalRecovery: 34
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢軍兵の剣閃
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「漢」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 漢軍兵卒の長。5人程度の兵を率いている。最小単位の集団の長ではあるが、教養ある兵たちをうまく取りまとめている熟練の戦士である。

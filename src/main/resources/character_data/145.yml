@@ -1,0 +1,34 @@
+number: 145
+preName: 【江東の虎】孫堅
+name: 【帝都奪回】孫堅
+rarity: 6
+group: 呉
+arm: 剣兵
+maxLevel: 99
+capability: 20
+initHp: 1255
+initAttack: 901
+initRecovery: 106
+finalHp: 2823
+finalAttack: 1577
+finalRecovery: 255
+breakHp: 3103
+breakAttack: 1777
+breakRecovery: 375
+skills:
+  -
+    name: 猛虎疾風撃
+    turnMax: 12
+    turnMin: 4
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力15倍の攻撃
+strategies:
+  -
+    name: 孫呉の始祖
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを半減させる
+      -
+        content: 味方の「呉」武将の攻撃力を2倍にする
+description: 孫呉の始祖。董卓との戦いでも「江東の虎」の名に恥じない攻めは健在。諸侯が苦戦する中ただ一人善戦し、ついには洛陽を董卓から奪い返した。

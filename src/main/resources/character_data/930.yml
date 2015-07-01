@@ -1,0 +1,32 @@
+number: 930
+preName:
+name: 【無双の尚武】孫尚香
+rarity: 6
+group: 呉
+arm: 剣兵
+maxLevel: 99
+capability: 25
+initHp: 871
+initAttack: 436
+initRecovery: 120
+finalHp: 3136
+finalAttack: 1308
+finalRecovery: 240
+breakHp: 3456
+breakAttack: 1508
+breakRecovery: 360
+skills:
+  -
+    name: 先陣切る戦姫
+    turnMax: 30
+    turnMin: 18
+    statements:
+      -
+        content: 敵のHPを30%減少させる
+strategies:
+  -
+    name: 猛虎の闘志
+    statements:
+      -
+        content: 「剣兵」武将のHPを1.5倍、攻撃力を2倍
+description: 技能

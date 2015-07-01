@@ -1,0 +1,32 @@
+number: 131
+preName: 【豪傑】華雄
+name: 【シ水関守将】華雄
+rarity: 4
+group: 群
+arm: 蛮兵
+maxLevel: 70
+capability: 9
+initHp: 584
+initAttack: 374
+initRecovery: 79
+finalHp: 1403
+finalAttack: 898
+finalRecovery: 205
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: シ水関の悪魔
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 暴将の猛威
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 董卓軍配下の勇猛さで知られる猛将。シ水関では連合軍の名だたる勇将をことごとく討ち取る活躍を見せ、反董卓連合軍の諸侯を震撼させた。

@@ -1,0 +1,32 @@
+number: 411
+preName:
+name: 【天子奉戴】曹操
+rarity: 5
+group: 魏
+arm: 騎兵
+maxLevel: 50
+capability: 16
+initHp: 475
+initAttack: 259
+initRecovery: 103
+finalHp: 1188
+finalAttack: 570
+finalRecovery: 155
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 竜虎断割
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 「漢」勢力の敵に使用した武将の攻撃力100倍の攻撃
+strategies:
+  -
+    name: 覇道を往く者
+    statements:
+      -
+        content: 味方の「魏」勢力の武将の攻撃力を2.2倍にする
+description: 中原の覇者となった三国志の主人公の１人。自ら作った許昌に献帝を迎え、新たな都と成し、実質的に勅命を発令する事の出来る、丞相に就任した。

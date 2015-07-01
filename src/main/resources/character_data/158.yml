@@ -1,0 +1,32 @@
+number: 158
+preName:
+name: 【数奇の才女】蔡文姫
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 15
+initHp: 310
+initAttack: 218
+initRecovery: 52
+finalHp: 1395
+finalAttack: 763
+finalRecovery: 234
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 運命の音律
+    turnMax: 35
+    turnMin: 25
+    statements:
+      -
+        content: HPが上限値を超えて大回復する
+strategies:
+  -
+    name: 優詩愛吟
+    statements:
+      -
+        content: ユニットを消したときにHPを回復(回復量 = 自身回復量x2)
+description: 数奇な運命をたどった才女。書家として有名な蔡ヨウの娘で詩の才能があった。戦乱の中、若くして異民族の匈奴に連れ去られ12年もの間辺境で過ごす。

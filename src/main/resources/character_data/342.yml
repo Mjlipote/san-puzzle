@@ -1,0 +1,30 @@
+number: 342
+preName:
+name: 曹洪
+rarity: 2
+group: 魏
+arm: 槍兵
+maxLevel: 15
+capability: 5
+initHp: 231
+initAttack: 111
+initRecovery: 22
+finalHp: 485
+finalAttack: 222
+finalRecovery: 44
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 敵中突破
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「魏」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操の従兄弟で、彼の覇業を支え続けた宿将。榮陽の戦いで徐栄に破れて敗走する曹操に対して、天下にとっては自分より貴方が必要と、自分の馬を譲った。

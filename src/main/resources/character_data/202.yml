@@ -1,0 +1,30 @@
+number: 202
+preName: 群雄弓兵
+name: 【上級】群雄弓兵
+rarity: 2
+group: 群
+arm: 弓兵
+maxLevel: 20
+capability: 3
+initHp: 13
+initAttack: 131
+initRecovery: 13
+finalHp: 19
+finalAttack: 197
+finalRecovery: 19
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群兵の奇襲
+    turnMax: 4
+    turnMin: 2
+    statements:
+      -
+        content: 敵全体に「群」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 群雄軍の兵卒。弓矢の扱いが巧く、熟練の域に達している。また、火矢の扱いにも非常に長けており、火攻めの際には大活躍を見せる。

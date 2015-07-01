@@ -1,0 +1,32 @@
+number: 270
+preName:
+name: 【才器明察】郭嘉
+rarity: 4
+group: 魏
+arm: 鬼謀
+maxLevel: 50
+capability: 8
+initHp: 349
+initAttack: 289
+initRecovery: 10
+finalHp: 873
+finalAttack: 607
+finalRecovery: 21
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 千変万化
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 若き才覚
+    statements:
+      -
+        content: 味方の「魏」武将のHPを1.5倍にする
+description: 曹操配下の軍師。若いころから洞察力に優れていたが、名前を隠し俗世から離れていた。一度は袁紹の元を訪れたが、大器にあらずと見抜き去っている。

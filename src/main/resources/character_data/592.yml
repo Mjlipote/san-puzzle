@@ -1,0 +1,32 @@
+number: 592
+preName:
+name: 【若き才】馬謖
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 50
+capability: 15
+initHp: 471
+initAttack: 287
+initRecovery: 145
+finalHp: 1036
+finalAttack: 718
+finalRecovery: 218
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 無作為の策
+    turnMax: 5
+    turnMin: 
+    statements:
+      -
+        content: 何が起こるかわからない
+strategies:
+  -
+    name: 俊英の機知
+    statements:
+      -
+        content: 味方の全武将の攻撃力を2倍にする
+description: 名家の出であり、軍才に溢れた蜀の武将。軍略を論じることを好み、孔明に高く評価された。が、劉備は「彼は口だけだ」と重用しないよう釘を刺している。

@@ -1,0 +1,30 @@
+number: 387
+preName: 楽進
+name: 【叩き上げ】楽進
+rarity: 3
+group: 魏
+arm: 騎兵
+maxLevel: 50
+capability: 8
+initHp: 515
+initAttack: 292
+initRecovery: 31
+finalHp: 1288
+finalAttack: 584
+finalRecovery: 63
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 不屈の闘争心
+    statements:
+      -
+        content: HPが50%以下の時、受けるダメージを減少させる
+description: 半島拓の頃より曹操軍で戦う、叩き上げの将。陥陣都尉に任命されると曹操に従って最前線で従軍する。度々一番乗りの軍功を挙げて討寇校尉に昇格した。

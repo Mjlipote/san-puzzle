@@ -1,0 +1,30 @@
+number: 282
+preName:
+name: 麹義
+rarity: 2
+group: 漢
+arm: 弓兵
+maxLevel: 20
+capability: 4
+initHp: 52
+initAttack: 73
+initRecovery: 17
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強弩隊の猛攻
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「漢」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹配下の将。涼州出身であり騎兵との戦い方を熟知している武に長けた人物。もとは韓馥の配下であったが、彼を見限って袁紹につくことになる。

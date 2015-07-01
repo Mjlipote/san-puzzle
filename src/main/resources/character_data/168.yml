@@ -1,0 +1,30 @@
+number: 168
+preName:
+name: 張コウ
+rarity: 2
+group: 魏
+arm: 槍兵
+maxLevel: 15
+capability: 4
+initHp: 106
+initAttack: 57
+initRecovery: 28
+finalHp: 318
+finalAttack: 171
+finalRecovery: 84
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏武の名将
+    turnMax: 14
+    turnMin: 6
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 生涯を戦場で過ごした歴戦の勇将。袁紹配下として多くの功績を挙げたが郭図の讒言によって曹操軍へ投降。しかし、ここから張コウの真の勇躍が始まる。

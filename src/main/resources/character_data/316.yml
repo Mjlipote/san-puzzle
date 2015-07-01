@@ -1,0 +1,30 @@
+number: 316
+preName:
+name: 臧覇（ぞうは）
+rarity: 2
+group: 群
+arm: 槍兵
+maxLevel: 20
+capability: 4
+initHp: 195
+initAttack: 129
+initRecovery: 3
+finalHp: 429
+finalAttack: 310
+finalRecovery: 7
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 義賊の吠え声
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 徐州の地方豪族で、若い時から勇猛、剛毅で知られていた。県の役人であった父親が太守の不正を訴えて逆に捕らわれた時には、食客を率いて奪還した。

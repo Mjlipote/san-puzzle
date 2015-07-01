@@ -1,0 +1,30 @@
+number: 601
+preName: 陳琳
+name: 【筆の迸り】陳琳
+rarity: 3
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 6
+initHp: 274
+initAttack: 155
+initRecovery: 214
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 混乱の諫言
+    turnMax: 24
+    turnMin: 
+    statements:
+      -
+        content: 混乱させて、敵自身を攻撃させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 

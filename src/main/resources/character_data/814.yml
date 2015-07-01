@@ -1,0 +1,34 @@
+number: 814
+preName:
+name: 【権謀術数】程イク
+rarity: 4
+group: 魏
+arm: 鬼謀
+maxLevel: 25
+capability: 12
+initHp: 240
+initAttack: 197
+initRecovery: 90
+finalHp: 480
+finalAttack: 394
+finalRecovery: 162
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「群」と「桃」を、「魏」に変化させる
+strategies:
+  -
+    name: 豪胆なる献策
+    statements:
+      -
+        content: 味方の「鬼謀」武将の攻撃力を2.2倍にする
+      -
+        content: さらにユニットを消したときにHPを回復
+description: 曹操軍の名参謀。曹操の下に身を寄せていた劉備を殺すよう、幾度となく進言とている。後の劉備の躍進劇を考えれば、まさに慧眼のなせる業であった。

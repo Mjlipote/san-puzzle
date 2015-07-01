@@ -1,0 +1,36 @@
+number: 1053
+preName:
+name: 【無双の守り手】星彩
+rarity: 5
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 25
+initHp: 842
+initAttack: 466
+initRecovery: 78
+finalHp: 1516
+finalAttack: 839
+finalRecovery: 117
+breakHp: 2316
+breakAttack: 1359
+breakRecovery: 437
+skills:
+  -
+    name: 躊躇いなき前進
+    turnMax: 22
+    turnMin: 8
+    statements:
+      -
+        content: 敵の攻撃を1ターン遅らせる
+      -
+        content: HPを少しと回復禁止・ユニット封じ状態を2ターン回復する
+strategies:
+  -
+    name: 絶えなき意志の光
+    statements:
+      -
+        content: 全武将の攻撃力と回復力を1.8倍にする
+      -
+        content: 「技能封じ」を確実に無効
+description: 張飛の娘で「真の三國無双」と称される英傑のひとり。蜀漢の未来のために戦うことを決めた意志の強い少女は、父讓りの武勇を発揮し戦場を駆け抜ける。

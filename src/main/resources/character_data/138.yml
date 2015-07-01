@@ -1,0 +1,32 @@
+number: 138
+preName:
+name: 【賄賂姫】何皇后
+rarity: 4
+group: 漢
+arm: 鬼謀
+maxLevel: 35
+capability: 7
+initHp: 128
+initAttack: 66
+initRecovery: 34
+finalHp: 1024
+finalAttack: 289
+finalRecovery: 175
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 寵妃の色香
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 寵妃の誘惑
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を1.5倍にする
+description: 大将軍何進の異母妹。肉屋を営む庶民の出だが、役人に賄賂を贈り後宮に入ることに成功する。そして、その妖艶な美貌で霊帝の心を鷲づかみにした。

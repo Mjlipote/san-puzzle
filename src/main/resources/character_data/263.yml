@@ -1,0 +1,30 @@
+number: 263
+preName: 凌操
+name: 【破賊校尉】凌操
+rarity: 3
+group: 呉
+arm: 蛮兵
+maxLevel: 50
+capability: 5
+initHp: 173
+initAttack: 299
+initRecovery: 34
+finalHp: 364
+finalAttack: 658
+finalRecovery: 68
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 孫家の先陣
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「呉」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策に仕えた勇猛果敢な武将。先鋒での活躍と、山越討伐の功により孫策から破賊校尉（賊徒を破る高級武官の意味）の位を与えられた。

@@ -1,0 +1,34 @@
+number: 959
+preName:
+name: 【新年の祝い】曹丕
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 20
+initHp: 942
+initAttack: 421
+initRecovery: 124
+finalHp: 2826
+finalAttack: 1810
+finalRecovery: 248
+breakHp: 3146
+breakAttack: 2010
+breakRecovery: 368
+skills:
+  -
+    name: 魏の大速攻勢
+    turnMax: 12
+    turnMin: 6
+    statements:
+      -
+        content: 1ターンの間、「魏」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 経国大業、不朽之盛事
+    statements:
+      -
+        content: 味方の「魏」武将のHPと攻撃力を1.8倍にする
+      -
+        content: 必殺技の威力を2.5倍にする
+description: 曹操の三男。新年の行事で書き初めをする曹丕。流麗な筆遣いで書き上げだ漢詩は、三曹と謳われるに足る文人の作である。「情念が溢れて止まらん！」

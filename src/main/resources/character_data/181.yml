@@ -1,0 +1,32 @@
+number: 181
+preName:
+name: 【乱世帝】献帝
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 25
+initHp: 540
+initAttack: 240
+initRecovery: 100
+finalHp: 3272
+finalAttack: 1001
+finalRecovery: 304
+breakHp: 3592
+breakAttack: 1201
+breakRecovery: 424
+skills:
+  -
+    name: 決死の勅
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 使用した武将の攻撃力50倍の「漢」攻撃
+strategies:
+  -
+    name: 漢王朝の光
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを半減させる
+description: 後漢王朝最後の皇帝。何進が暗殺され、宮中が混乱している時に、董卓によって保護される。暴将・董卓の前でも毅然と話す姿に帝としての片鱗を見せた。

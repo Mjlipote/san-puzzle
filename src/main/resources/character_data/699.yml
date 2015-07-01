@@ -1,0 +1,30 @@
+number: 699
+preName: 【并州刺史】高幹
+name: 【平陽の激戦】高幹
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 30
+capability: 9
+initHp: 139
+initAttack: 692
+initRecovery: 78
+finalHp: 251
+finalAttack: 1245
+finalRecovery: 140
+breakHp: 411
+breakAttack: 1325
+breakRecovery: 180
+skills:
+  -
+    name: 少しの鬪争心
+    turnMax: 18
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 野心あふれる袁紹配下の武将。袁紹の死後、袁尚との同盟を断る等、袁家から独立した勢力として、曹操に対し、反乱を繰り返すが、力及ばなかった。

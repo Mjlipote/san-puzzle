@@ -1,0 +1,32 @@
+number: 119
+preName: 【献帝妃】伏皇后
+name: 【曹操排除】伏皇后
+rarity: 4
+group: 漢
+arm: 鬼謀
+maxLevel: 70
+capability: 8
+initHp: 234
+initAttack: 208
+initRecovery: 181
+finalHp: 935
+finalAttack: 468
+finalRecovery: 435
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 暴室の呪詛
+    turnMax: 22
+    turnMin: 9
+    statements:
+      -
+        content: 敵全体に部隊の「漢」攻撃力５倍の攻撃
+strategies:
+  -
+    name: 報復の刃
+    statements:
+      -
+        content: ダメージを受けると、たまに反撃する
+description: 献帝の皇后。曹操暗殺に失敗して一族皆殺しにされた董承を見て、父へ曹操排斥を願う手紙を書いてしまう。その手紙が事件の火種になるとも知らずに。

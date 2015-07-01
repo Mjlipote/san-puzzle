@@ -1,0 +1,32 @@
+number: 593
+preName: 【若き才】馬謖
+name: 【自信家】馬謖
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 881
+initAttack: 682
+initRecovery: 207
+finalHp: 1762
+finalAttack: 1500
+finalRecovery: 310
+breakHp: 2042
+breakAttack: 1700
+breakRecovery: 430
+skills:
+  -
+    name: 無作為の策
+    turnMax: 5
+    turnMin: 
+    statements:
+      -
+        content: 何が起こるかわからない
+strategies:
+  -
+    name: 俊英の機知
+    statements:
+      -
+        content: 味方の全武将の攻撃力を2倍にする
+description: 名家の出であり、軍才に溢れた蜀の武将。孔明は彼を幕僚とし、昼夜軍略を語り合った。天賦の才故か自分を過信する処があり、それが致命的な失敗に繋がる。

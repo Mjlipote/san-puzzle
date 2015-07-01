@@ -1,0 +1,34 @@
+number: 1035
+preName: 【平原の相】劉備－今日ぱず
+name: 【徐州領主】劉備
+rarity: 6
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 30
+initHp: 1895
+initAttack: 930
+initRecovery: 208
+finalHp: 3610
+finalAttack: 1525
+finalRecovery: 342
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 大器の目覚め
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 不易なる仁
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2.5倍にする
+      -
+        content: 全ての武将から受けるダメージを減少させる
+description: 

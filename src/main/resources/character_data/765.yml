@@ -1,0 +1,30 @@
+number: 765
+preName: 【温和なる姫君】小虎
+name: 【朱公主】小虎
+rarity: 4
+group: 呉
+arm: 神算
+maxLevel: 70
+capability: 12
+initHp: 571
+initAttack: 319
+initRecovery: 179
+finalHp: 1714
+finalAttack: 638
+finalRecovery: 357
+breakHp: 1914
+breakAttack: 798
+breakRecovery: 437
+skills:
+  -
+    name: 士気高揚の煽惑
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止状態を3ターン回復
+strategies:
+  -
+    name: 姫君の慈愛  味方の「神算」武将の攻撃力と回復力を1.5倍にする。さらにユニットを消したときにHPを回復
+    statements:
+description: 孫権と步夫人の娘で、名は孫魯育。小虎は字である。夫の朱拠は『二宮の変』で失脚し、本人も、孫英の反乱に際し、姉の讒言を受け処刑されてしまう。

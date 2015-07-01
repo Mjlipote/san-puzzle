@@ -1,0 +1,32 @@
+number: 120
+preName:
+name: 【未亡人】鄒氏
+rarity: 3
+group: 群
+arm: 鬼謀
+maxLevel: 25
+capability: 5
+initHp: 24
+initAttack: 39
+initRecovery: 23
+finalHp: 300
+finalAttack: 244
+finalRecovery: 191
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 妖艶な美貌
+    turnMax: 14
+    turnMin: 5
+    statements:
+      -
+        content: 敵全体を毒状態にする
+strategies:
+  -
+    name: 快楽の檻
+    statements:
+      -
+        content: ユニットを動かせる時間が少し延びる
+description: 曹操を虜にした絶世の美女。元張済の妻で、夫が南陽攻略戦で死亡すると、甥の張繍の下へと身を寄せる。その稀有なる色香は、隣国でも噂になるほど。

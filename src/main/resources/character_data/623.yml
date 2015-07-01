@@ -1,0 +1,32 @@
+number: 623
+preName: 【碧眼児】孫権－今日ぱず
+name: 【無邪気な狩】孫権
+rarity: 3
+group: 呉
+arm: 剣兵
+maxLevel: 15
+capability: 4
+initHp: 131
+initAttack: 78
+initRecovery: 30
+finalHp: 314
+finalAttack: 312
+finalRecovery: 61
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 碧眼の若獅子
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを入れ替える
+strategies:
+  -
+    name: 孫呉の烈
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を1.5倍にする
+description: 虎、居るかな？

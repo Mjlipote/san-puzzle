@@ -1,0 +1,32 @@
+number: 485
+preName: 【董卓宿敵】孫堅
+name: 【虎牢関決戦】孫堅
+rarity: 6
+group: 呉
+arm: 騎兵
+maxLevel: 99
+capability: 22
+initHp: 999
+initAttack: 885
+initRecovery: 114
+finalHp: 2097
+finalAttack: 1771
+finalRecovery: 205
+breakHp: 2417
+breakAttack: 1971
+breakRecovery: 325
+skills:
+  -
+    name: 虎眼一瞥
+    turnMax: 24
+    turnMin: 19
+    statements:
+      -
+        content: 敵の攻撃を5ターン遅らせる
+strategies:
+  -
+    name: 虎群連牙
+    statements:
+      -
+        content: 「呉」武将の攻撃力を2.2倍にする
+description: 孫呉の始祖。虎牢関を目指す間、孫堅は無謀とも取れる勇戦で、次々と戦勝を重ねていく。残虐を尽くし、魔王と呼ばれた男に、猛き虎の牙を突き立てるために！

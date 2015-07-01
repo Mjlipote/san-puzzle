@@ -1,0 +1,32 @@
+number: 505
+preName: 【怪力一番】文醜
+name: 【恐るべき剛力】文醜
+rarity: 5
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 16
+initHp: 1235
+initAttack: 407
+initRecovery: 11
+finalHp: 2676
+finalAttack: 895
+finalRecovery: 65
+breakHp: 2996
+breakAttack: 1055
+breakRecovery: 145
+skills:
+  -
+    name: 勇将の大喝
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 勇猛なる指揮
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: 顏良と並び、袁家の双璧と賞された勇将。顏良共々、袁紹の信頼が篤く、袁紹軍の先鋒は常にこの二将が交代で務めたと言われている。

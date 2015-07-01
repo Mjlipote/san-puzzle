@@ -1,0 +1,32 @@
+number: 103
+preName: 【大斧】徐晃
+name: 【官渡武勇】徐晃
+rarity: 4
+group: 魏
+arm: 蛮兵
+maxLevel: 70
+capability: 9
+initHp: 884
+initAttack: 256
+initRecovery: 20
+finalHp: 2653
+finalAttack: 753
+finalRecovery: 36
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 不敗の名将
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 斥候展開
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 不敗の名将。官渡の戦いでは、白馬と延津の戦いで武将を圧倒し、さらに、荀攸の進言にて袁紹軍の輸送隊を攻撃するなど獅子奮迅の働きを見せている。

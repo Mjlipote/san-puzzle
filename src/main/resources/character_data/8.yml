@@ -1,0 +1,32 @@
+number: 8
+preName: 【若獅子】孫権
+name: 【孫呉当主】孫権
+rarity: 5
+group: 呉
+arm: 剣兵
+maxLevel: 99
+capability: 10
+initHp: 681
+initAttack: 562
+initRecovery: 110
+finalHp: 2043
+finalAttack: 956
+finalRecovery: 219
+breakHp: 2283
+breakAttack: 1116
+breakRecovery: 299
+skills:
+  -
+    name: 孫呉の若獅子
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 孫呉の勇烈
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を2倍にする
+description: 孫呉覇業の遺志を継いだ三国志の主人公の１人。若いながらに家臣団をまとめ、さらに積極的に人材を集めるなど、新たな孫家の基盤を見事に築く。

@@ -1,0 +1,30 @@
+number: 197
+preName:
+name: 劉軍槍兵
+rarity: 1
+group: 蜀
+arm: 槍兵
+maxLevel: 10
+capability: 1
+initHp: 11
+initAttack: 90
+initRecovery: 9
+finalHp: 17
+finalAttack: 135
+finalRecovery: 14
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 劉軍兵の槍撃
+    turnMax: 4
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「蜀」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備軍の兵卒。劉備の人徳に惹かれて集まった者たち。劉備の旗揚げから付き添った叩き上げの兵、元々農民だった志願兵なども多い。

@@ -1,0 +1,28 @@
+number: 266
+preName:
+name: 董承
+rarity: 2
+group: 漢
+arm: 鬼謀
+maxLevel: 20
+capability: 3
+initHp: 144
+initAttack: 84
+initRecovery: 60
+finalHp: 288
+finalAttack: 168
+finalRecovery: 120
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 献帝に付き従った、後漢最後の忠臣。董卓の死後、権力闘争の駒として蔑ろにされた皇帝を擁して、洛陽へ脱出行を敢行した。

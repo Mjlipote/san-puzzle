@@ -1,0 +1,36 @@
+number: 1010
+preName:
+name: 【征西参陣】王異
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 50
+capability: 19
+initHp: 531
+initAttack: 314
+initRecovery: 51
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 燃え上がる闘志・僅かな衝撃
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力が1.8倍になる
+      -
+        content: 敵のHPを10%減少させる
+strategies:
+  -
+    name: 流麗なる剣戟
+    statements:
+      -
+        content: 3連撃以上で「剣兵」の攻撃力があがり、最大3倍
+      -
+        content: HPが80%以上の時、全武将の攻撃力を1.5倍
+description: 涼州参軍・趙昴の妻。馬超の乱に大義を見出すことができず、自ら曹操の陣営へと参加する。剣の腕に自負を持つ女傑であり、その参陣を曹操も喜んだという。

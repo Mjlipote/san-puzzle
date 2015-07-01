@@ -1,0 +1,32 @@
+number: 671
+preName:
+name: 【こども】袁紹
+rarity: 4
+group: 漢
+arm: 剣兵
+maxLevel: 60
+capability: 10
+initHp: 177
+initAttack: 127
+initRecovery: 83
+finalHp: 1194
+finalAttack: 518
+finalRecovery: 7
+breakHp: 1354
+breakAttack: 638
+breakRecovery: 247
+skills:
+  -
+    name: えんけのだいこうせい
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: かんおうちょうのいこう
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: どこかで見た様な成金トラ息...いや、気品溢れるお坊ちゃん。「僕の気品を怖れなくても良い。」

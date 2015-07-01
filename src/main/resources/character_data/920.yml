@@ -1,0 +1,32 @@
+number: 920
+preName: 【無双の慧眼】王元姫
+name: 【未来への道標】王元姫
+rarity: 6
+group: 魏
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 1550
+initAttack: 1079
+initRecovery: 205
+finalHp: 3100
+finalAttack: 1619
+finalRecovery: 369
+breakHp: 3420
+breakAttack: 1819
+breakRecovery: 489
+skills:
+  -
+    name: 勝利へと至る深慮
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「魏」「呉」「漢」ユニットに変化
+strategies:
+  -
+    name: 託された責任
+    statements:
+      -
+        content: 5連撃以上で、「弓兵」武将の攻撃力を3倍
+description: 軍略

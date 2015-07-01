@@ -1,0 +1,34 @@
+number: 1060
+preName:
+name: 【無双の名族】袁紹
+rarity: 6
+group: 漢
+arm: 剣兵
+maxLevel: 99
+capability: 40
+initHp: 758
+initAttack: 510
+initRecovery: 159
+finalHp: 2729
+finalAttack: 1530
+finalRecovery: 318
+breakHp: 3009
+breakAttack: 1730
+breakRecovery: 438
+skills:
+  -
+    name: 輝かしき大進撃
+    turnMax: 21
+    turnMin: 15
+    statements:
+      -
+        content: 「魏」ユニットを「漢」ユニットに変化させる
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 栄えある名族の矜持
+    statements:
+      -
+        content: 「漢」武将のHPを1.5倍、攻撃力を2倍
+description: 四代に渡り三公を輩出した名門袁家の出身で「真の三國無双」と称される英傑のひとり。暴君董卓に対抗する連合軍の盟主として、歴史に名を刻む戦に挑む。

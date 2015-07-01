@@ -1,0 +1,34 @@
+number: 762
+preName:
+name: 【気丈なる姫君】大虎
+rarity: 3
+group: 呉
+arm: 鬼謀
+maxLevel: 25
+capability: 8
+initHp: 121
+initAttack: 112
+initRecovery: 25
+finalHp: 726
+finalAttack: 448
+finalRecovery: 100
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 劇毒計
+    turnMax: 22
+    turnMin: 13
+    statements:
+      -
+        content: 敵全体を超猛毒状態にする
+strategies:
+  -
+    name: 姫君の刺戟
+    statements:
+      -
+        content: 味方の「鬼謀」武将のHPと攻撃力を1.5倍にする
+      -
+        content: さらにHPが満タンの時、全武将の攻撃力1.5倍
+description: 孫権と步夫人の娘で、名は孫魯班。大虎は字である。権謀術数に優れ、讒言や虚偽告を駆使し、孫呉の帝室を裏から牛耳った。

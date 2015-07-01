@@ -1,0 +1,32 @@
+number: 1031
+preName:
+name: 【囚われの寵姫】甘皇后
+rarity: 4
+group: 蜀
+arm: 騎兵
+maxLevel: 70
+capability: 15
+initHp: 341
+initAttack: 194
+initRecovery: 111
+finalHp: 853
+finalAttack: 679
+finalRecovery: 222
+breakHp: 1653
+breakAttack: 1199
+breakRecovery: 542
+skills:
+  -
+    name: 蜀の誘い（漢）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 美姫の憂事
+    statements:
+      -
+        content: 味方の「騎兵」武将のHPを1.8倍にする
+description: 劉備と最も長く連れ添った妻。劉備が治める小沛が曹操に攻撃された際、捕虜となる。彼女を守る為に投降した関羽と共に、今は遠き劉備に想いを馳せる。

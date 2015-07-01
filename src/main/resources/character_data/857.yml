@@ -1,0 +1,34 @@
+number: 857
+preName: 【東郡太守】曹操
+name: 【徐州侵略】曹操
+rarity: 6
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 30
+initHp: 1714
+initAttack: 975
+initRecovery: 196
+finalHp: 3384
+finalAttack: 1754
+finalRecovery: 272
+breakHp: 3704
+breakAttack: 1954
+breakRecovery: 392
+skills:
+  -
+    name: 乱世の奸雄
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 精強なる武
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2.5倍にする
+      -
+        content: 全ての武将から受けるダメージを減少させる
+description: 中原の覇者となった三国志の主人公の１人。黄巾党の降兵らを選抜して「青州兵」を組織した曹操は、父を殺害した陶謙への報復のため、徐州へと侵攻する。

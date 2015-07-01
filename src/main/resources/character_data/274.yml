@@ -1,0 +1,32 @@
+number: 274
+preName:
+name: 【臥龍雌伏】諸葛亮
+rarity: 4
+group: 蜀
+arm: 神算
+maxLevel: 50
+capability: 5
+initHp: 287
+initAttack: 264
+initRecovery: 53
+finalHp: 718
+finalAttack: 554
+finalRecovery: 111
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 奇門遁甲
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「魏」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 八卦陣
+    statements:
+      -
+        content: 味方の「蜀」武将のHPを1.5倍にする
+description: 技能

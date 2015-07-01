@@ -1,0 +1,34 @@
+number: 904
+preName: 【黄門侍郎】曹純
+name: 【虎豹騎】曹純
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 70
+capability: 16
+initHp: 1020
+initAttack: 694
+initRecovery: 125
+finalHp: 2244
+finalAttack: 1250
+finalRecovery: 226
+breakHp: 2524
+breakAttack: 1410
+breakRecovery: 346
+skills:
+  -
+    name: 魏軍への変転
+    turnMax: 19
+    turnMin: 14
+    statements:
+      -
+        content: ユニットの「群」と「桃」を、「魏」に変化させる
+strategies:
+  -
+    name: 熱き咆哮
+    statements:
+      -
+        content: 味方の「剣兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 曹仁の実弟で優秀な指揮官として知られる魏の武将。精鋭騎兵隊『虎豹騎』を任されると部下を可愛がり、よく統率した為、部隊の戦力は一層増した。

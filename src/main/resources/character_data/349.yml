@@ -1,0 +1,30 @@
+number: 349
+preName: 公孫越
+name: 【袁家従軍】公孫越
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 50
+capability: 8
+initHp: 305
+initAttack: 243
+initRecovery: 84
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 窮鼠反攻の強撃
+    turnMax: 30
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力50倍の「漢」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 

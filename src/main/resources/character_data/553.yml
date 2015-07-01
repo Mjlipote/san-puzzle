@@ -1,0 +1,32 @@
+number: 553
+preName: 【孫呉の二雄】ガチャムク
+name: 【断金】ガチャムク
+rarity: 6
+group: 呉
+arm: 剣兵
+maxLevel: 99
+capability: 22
+initHp: 1545
+initAttack: 559
+initRecovery: 114
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 3371
+breakAttack: 1317
+breakRecovery: 348
+skills:
+  -
+    name: ぼくたちのちから！
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: だよ！
+strategies:
+  -
+    name: ちからをあわせて！
+    statements:
+      -
+        content: 「ガチャムクコラボ武将」の攻撃力を2.2倍にする
+description: 今日はガチャピン・ムック、二人一緒に、三国志中、一番の仲良しさんにチャレンジ！「ぼくたちも仲良しだもんね！」「二人は『断金』ですぞ！」

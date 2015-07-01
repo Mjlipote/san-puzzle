@@ -1,0 +1,32 @@
+number: 651
+preName:
+name: 【誘引の音色】黒川凪子
+rarity: 3
+group: 魏
+arm: 騎兵
+maxLevel: 25
+capability: 8
+initHp: 158
+initAttack: 79
+initRecovery: 48
+finalHp: 948
+finalAttack: 553
+finalRecovery: 144
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: この音色に醉いしれな！
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 天下に響かせろっ！
+    statements:
+      -
+        content: 味方の「魏」武将のHPと攻撃力を1.5倍にする
+description: 終南山に新たに現れた、謎の天女？の一人。謎の飲料を手放さず、トリップしている事も。「ふひひ、こリゃいい気分だねぇ。」

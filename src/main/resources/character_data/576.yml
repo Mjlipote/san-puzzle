@@ -1,0 +1,32 @@
+number: 576
+preName:
+name: 【放蕩者の余裕】郭嘉
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 50
+capability: 16
+initHp: 378
+initAttack: 269
+initRecovery: 124
+finalHp: 882
+finalAttack: 628
+finalRecovery: 289
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 軍師からの返礼
+    turnMax: 3
+    turnMin: 2
+    statements:
+      -
+        content: 使用した武将の回復力の3.14倍のHPを回復させる
+strategies:
+  -
+    name: 不遜なる采配
+    statements:
+      -
+        content: 「魏」武将のHPと攻撃力と回復力を1.5倍にする
+description: 曹操配下の軍師。奇才の名をほしいままにし、他人を見下しがちな彼は、女性からの贈り物にも余裕の表情。「気持ちは受けとったぞ。」

@@ -1,0 +1,30 @@
+number: 296
+preName:
+name: 蘇飛
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 20
+capability: 3
+initHp: 152
+initAttack: 117
+initRecovery: 33
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 影からの援助
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: HPを1000回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉表配下の武将。江夏にて黄祖の指揮の下、都督（隊司令）として一群を率いていた。同僚である甘寧を高く評価しており、黄祖にたびたび推挙していた。

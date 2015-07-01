@@ -1,0 +1,30 @@
+number: 82
+preName:
+name: 曹仁
+rarity: 2
+group: 魏
+arm: 騎兵
+maxLevel: 15
+capability: 5
+initHp: 149
+initAttack: 59
+initRecovery: 15
+finalHp: 261
+finalAttack: 103
+finalRecovery: 32
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 闘将の守り
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 成長を重ねる曹操軍の勇将。若い頃は血気盛んで、千人あまりの若者を引き連れて、淮水・泗水の間で暴れまわったが、後に思慮深い知将へと成長していく。

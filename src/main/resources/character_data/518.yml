@@ -1,0 +1,32 @@
+number: 518
+preName:
+name: 【無類の勇将】高順
+rarity: 5
+group: 群
+arm: 騎兵
+maxLevel: 50
+capability: 16
+initHp: 165
+initAttack: 541
+initRecovery: 38
+finalHp: 315
+finalAttack: 1240
+finalRecovery: 63
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 進撃の雄叫び
+    turnMax: 28
+    turnMin: 15
+    statements:
+      -
+        content: 敵全体に部隊の「群」攻撃力8倍の攻撃
+strategies:
+  -
+    name: 突撃の緩急
+    statements:
+      -
+        content: 連撃数が偶数時に攻撃力3.5倍、奇数時に攻撃力0.5倍
+description: 呂布配下の筆頭武将。賄賂を拒否し、酒も一切飲まない清廉潔白な将であるが、曹操軍の猛将夏侯惇の軍を撃破するなど、武勇にも極めて秀でていた。

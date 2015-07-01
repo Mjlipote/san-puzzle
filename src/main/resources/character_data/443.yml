@@ -1,0 +1,32 @@
+number: 443
+preName:
+name: 【風花雪月】MEIKO
+rarity: 3
+group: 呉
+arm: 騎兵
+maxLevel: 25
+capability: 6
+initHp: 164
+initAttack: 480
+initRecovery: 22
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 酔えば酔うほど
+    turnMax: 24
+    turnMin: 
+    statements:
+      -
+        content: MEIKOの攻撃力を2ターンの間2倍にする
+strategies:
+  -
+    name: 始まりの音色
+    statements:
+      -
+        content: 攻撃後、最も攻撃力が高いMEIKOの攻撃力2倍で回復
+description: 雪の終わり南山に、新たに舞い降りた天女の一人。天女達のお姉さんらしいが、アップテンポの曲で今日も頑張っているらしい。「真打ち登場よ！」

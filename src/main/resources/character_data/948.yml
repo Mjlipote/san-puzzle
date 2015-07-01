@@ -1,0 +1,32 @@
+number: 948
+preName: 【諸葛の異端児】諸葛恪
+name: 【奔放なる野心】諸葛恪
+rarity: 6
+group: 呉
+arm: 鬼謀
+maxLevel: 70
+capability: 20
+initHp: 1144
+initAttack: 686
+initRecovery: 36
+finalHp: 2289
+finalAttack: 1510
+finalRecovery: 53
+breakHp: 2609
+breakAttack: 1710
+breakRecovery: 173
+skills:
+  -
+    name: 傲岸不遜の策
+    turnMax: 5
+    turnMin: 
+    statements:
+      -
+        content: 何が起こるかわからない
+strategies:
+  -
+    name: 俺って超天才！
+    statements:
+      -
+        content: 全武将のHPと攻撃力と回復力を1.8倍にする
+description: 呉の功臣・諸葛瑾の長子。周囲から性格の問題を指摘されるも、太子・孫登の側近という立場と持ち前の才知で功績を積み上げ、やがて大将軍の位へ登り詰める。

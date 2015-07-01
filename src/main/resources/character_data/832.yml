@@ -1,0 +1,30 @@
+number: 832
+preName:
+name: 【技能習熟】紫虚上人
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 1000
+initAttack: 1000
+initRecovery: 1000
+finalHp: 1000
+finalAttack: 1000
+finalRecovery: 1000
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 技能確定習熟
+    turnMax: 1
+    turnMin: 
+    statements:
+      -
+        content: 武將強化素材に選択した際、技能Lvが必ず「1」上昇
+strategies:
+  -
+    name: なし
+    statements:
+description: 益州の錦屏山に住む占術師で、ホウ統の戦死や、諸葛亮による益州平定を予言したという。この者に教えを受ければ、未来を照らす力を得るであろう。

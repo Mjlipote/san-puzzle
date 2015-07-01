@@ -1,0 +1,32 @@
+number: 1065
+preName:
+name: 【美女連環の計】王允
+rarity: 6
+group: 漢
+arm: 鬼謀
+maxLevel: 99
+capability: 30
+initHp: 600
+initAttack: 370
+initRecovery: 219
+finalHp: 2100
+finalAttack: 1480
+finalRecovery: 657
+breakHp: 2380
+breakAttack: 1680
+breakRecovery: 777
+skills:
+  -
+    name: 確然たる短戦術
+    turnMax: 32
+    turnMin: 18
+    statements:
+      -
+        content: 2ターンの間、確実に「回復封じ」「ユニット封じ」を無効にする
+strategies:
+  -
+    name: 頑迷固陋
+    statements:
+      -
+        content: 5兵種以上で編成した時、全武将の攻撃力と回復力を2.2倍
+description: 後漢王朝の司徒。実権を握った董卓の暴政に強い危惧を抱き、彼の暗殺を決意。侍女・貂蝉に、董卓と呂布の間を引き裂く計を授け、後漢の未来を託した。

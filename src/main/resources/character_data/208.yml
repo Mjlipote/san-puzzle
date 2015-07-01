@@ -1,0 +1,30 @@
+number: 208
+preName: 黄巾兵長
+name: 【上級】黄巾兵長
+rarity: 3
+group: 群
+arm: 騎兵
+maxLevel: 30
+capability: 5
+initHp: 96
+initAttack: 213
+initRecovery: 16
+finalHp: 191
+finalAttack: 320
+finalRecovery: 34
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 黄巾兵の狂乱
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「群」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 黄巾着党兵士の長。10人程度の兵を率いている。指揮能力に優れていて、数名の兵を1つの意志で動いているかのように自在に動かすことができる。

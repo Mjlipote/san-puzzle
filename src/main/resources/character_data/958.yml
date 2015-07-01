@@ -1,0 +1,32 @@
+number: 958
+preName:
+name: 【道中記布団編】司馬懿
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 296
+initAttack: 305
+initRecovery: 276
+finalHp: 1184
+finalAttack: 915
+finalRecovery: 828
+breakHp: 1424
+breakAttack: 1075
+breakRecovery: 908
+skills:
+  -
+    name: 魏漢群同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「魏」「漢」「群」ユニットに変化
+strategies:
+  -
+    name: 働くのは嫌だなぁ･･･
+    statements:
+      -
+        content: 味方の「魏」「群」武将の攻撃力と回復力を1.5倍にする
+description: 司馬懿が望む夢。働かないで、好きな本を読みながら、家の奥に引きこもり、絶対外に出ない。「シバチュー？行くわよー。」･･･人の夢を書いて、儚いと読む。

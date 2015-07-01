@@ -1,0 +1,32 @@
+number: 947
+preName:
+name: 【諸葛の異端児】諸葛恪
+rarity: 5
+group: 呉
+arm: 鬼謀
+maxLevel: 25
+capability: 21
+initHp: 612
+initAttack: 289
+initRecovery: 25
+finalHp: 1346
+finalAttack: 723
+finalRecovery: 38
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 傲岸不遜の策
+    turnMax: 5
+    turnMin: 
+    statements:
+      -
+        content: 何が起こるかわからない
+strategies:
+  -
+    name: 俺って天才！
+    statements:
+      -
+        content: 全武将の攻撃力と回復力を1.8倍にする
+description: 呉の功臣・諸葛瑾の長子。温厚で徳深い父と正反対の、他者を見下す野心的な性格。若くして才気に溢れていたが、父からはその将来を危ぶまれていた。

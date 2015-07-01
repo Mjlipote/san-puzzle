@@ -1,0 +1,32 @@
+number: 107
+preName: 【老将】厳顔
+name: 【張飛心服】厳顔
+rarity: 4
+group: 蜀
+arm: 剣兵
+maxLevel: 70
+capability: 9
+initHp: 926
+initAttack: 238
+initRecovery: 24
+finalHp: 2778
+finalAttack: 654
+finalRecovery: 43
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 忠臣の覚悟
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: ３ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 戦いの年季
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 誇り高き老将。劉備の蜀侵攻に抗戦し張飛に捕縛される。だが少しも臆さず「首を斬れ」と言い放ち、その気概を張飛に高く賞されて許された。

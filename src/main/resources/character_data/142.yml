@@ -1,0 +1,34 @@
+number: 142
+preName:
+name: 【隻眼将軍】夏侯惇
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 50
+capability: 15
+initHp: 306
+initAttack: 234
+initRecovery: 60
+finalHp: 1377
+finalAttack: 819
+finalRecovery: 210
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 盲夏侯の憤怒
+    turnMax: 40
+    turnMin: 25
+    statements:
+      -
+        content: 自分のHPを半分減少させ、敵単体にダメージを与える
+strategies:
+  -
+    name: 隻眼将の眼光
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを半減させる
+      -
+        content: 味方の「魏」武将の攻撃力を2倍にする
+description: 曹操軍古参の隻眼将軍。呂布との戦いで左目を敵将に射抜かれるが、目玉を矢ごと引き抜いて喰らい、即座にその敵将を討ち取るほどの剛気の持ち主。

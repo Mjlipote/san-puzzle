@@ -1,0 +1,32 @@
+number: 134
+preName:
+name: 【呉家の才女】呉夫人
+rarity: 4
+group: 呉
+arm: 神算
+maxLevel: 35
+capability: 7
+initHp: 63
+initAttack: 42
+initRecovery: 61
+finalHp: 551
+finalAttack: 273
+finalRecovery: 320
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 賢母の助言
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ２ターンの間、「呉」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 内助の功
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を1.5倍にする
+description: 孫堅の妻で、孫策・孫権の生みの親。才女として有名で、孫堅の求婚を呉家の一族が揃って反対したが、機転の効いた発言で説得し輿入れに成功する。

@@ -1,0 +1,32 @@
+number: 333
+preName: 【曹操排除】伏皇后
+name: 【幽囚の怨嗟】伏皇后
+rarity: 5
+group: 漢
+arm: 鬼謀
+maxLevel: 99
+capability: 15
+initHp: 795
+initAttack: 445
+initRecovery: 413
+finalHp: 1988
+finalAttack: 1113
+finalRecovery: 103
+breakHp: 2428
+breakAttack: 1313
+breakRecovery: 23
+skills:
+  -
+    name: 暴室の呪詛
+    turnMax: 22
+    turnMin: 9
+    statements:
+      -
+        content: 敵全体に部隊の「漢」攻撃力5倍の攻撃
+strategies:
+  -
+    name: 墨色の嘆き
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2.2倍
+description: 献帝の皇后。曹操排斥を願った父への手紙が見つかり、曹操の怒りを買う。陽も差さぬような一室に幽閉された彼女は、我が身を顧みて何を思うのか。

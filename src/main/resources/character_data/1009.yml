@@ -1,0 +1,36 @@
+number: 1009
+preName: 【怪力無双】許チョ
+name: 【覇者の守り人】許チョ
+rarity: 6
+group: 魏
+arm: 蛮兵
+maxLevel: 99
+capability: 25
+initHp: 1744
+initAttack: 781
+initRecovery: 71
+finalHp: 3488
+finalAttack: 1562
+finalRecovery: 143
+breakHp: 3808
+breakAttack: 1762
+breakRecovery: 263
+skills:
+  -
+    name: 確固たる防備‧凡庸の戦略
+    turnMax: 21
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+      -
+        content: 3ターンの間、低確率で受けるダメージを0にする
+strategies:
+  -
+    name: 射抜けぬ守護の盾
+    statements:
+      -
+        content: 3連撃以上で「蛮兵」の攻撃力があがり、最大3倍
+      -
+        content: 受けるダメージを大きく減少させる
+description: 曹操の親衛隊帳。腰回り10囲（約120cm）という巨漢。戦場で曹操に危機が迫ると、闘争心を剥き出しにして闘い、その命を幾度となく救った。

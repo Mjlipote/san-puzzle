@@ -1,0 +1,32 @@
+number: 323
+preName: 【袁家猛将】文醜
+name: 【仇討の突撃】文醜
+rarity: 5
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 20
+initHp: 1752
+initAttack: 542
+initRecovery: 183
+finalHp: 2453
+finalAttack: 921
+finalRecovery: 238
+breakHp: 2733
+breakAttack: 1081
+breakRecovery: 358
+skills:
+  -
+    name: 袁家筆頭
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 猛き将の勇躍
+    statements:
+      -
+        content: 味方の「漢」武将のHPと攻撃力を1.5倍にする
+description: 顔良と並び、袁家の双璧と賞された猛将。延津で孤立するも曹操軍に強烈な逆撃を加え、とうとう曹操の切り札、関羽を引きずり出し、これに挑む。

@@ -1,0 +1,30 @@
+number: 61
+preName: 孫乾
+name: 【助言役】孫乾
+rarity: 3
+group: 蜀
+arm: 神算
+maxLevel: 50
+capability: 6
+initHp: 135
+initAttack: 124
+initRecovery: 106
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 卓越した交渉術
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備軍の外交官。補佐役としても優秀で、同盟の使者・政略結婚のまとめ役・人材登用・逃避行の先導など、数々の功績を上げている。

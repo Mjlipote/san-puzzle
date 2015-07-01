@@ -1,0 +1,34 @@
+number: 1037
+preName: 【袁家対立】袁術－今日ぱず
+name: 【陽タク侯】袁術
+rarity: 6
+group: 群
+arm: 剣兵
+maxLevel: 99
+capability: 30
+initHp: 1962
+initAttack: 798
+initRecovery: 248
+finalHp: 3924
+finalAttack: 1404
+finalRecovery: 380
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 名門の大攻勢
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 群雄の自尊
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2.5倍にする
+      -
+        content: 全ての武将から受けるダメージを減少させる
+description: 

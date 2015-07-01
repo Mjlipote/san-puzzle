@@ -1,0 +1,34 @@
+number: 149
+preName: 【肉屋】何進
+name: 【大将軍】何進
+rarity: 6
+group: 漢
+arm: 剣兵
+maxLevel: 99
+capability: 20
+initHp: 1381
+initAttack: 735
+initRecovery: 150
+finalHp: 3107
+finalAttack: 1286
+finalRecovery: 359
+breakHp: 3387
+breakAttack: 1486
+breakRecovery: 479
+skills:
+  -
+    name: 毒豚大襲来
+    turnMax: 22
+    turnMin: 13
+    statements:
+      -
+        content: 敵全体を超猛毒状態にする
+strategies:
+  -
+    name: 大将軍の威光
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを半減させる
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: 元肉屋の大将軍。黄巾の乱が勃発すると、妹が皇后ということもあり、ついに大将軍に任命される。討伐軍を手配し、自らは黄巾密偵の捕縛で功を挙げた。

@@ -1,0 +1,32 @@
+number: 324
+preName: 【シ水関守将】華雄
+name: 【蛮勇奮迅】華雄
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 1193
+initAttack: 853
+initRecovery: 195
+finalHp: 1790
+finalAttack: 1280
+finalRecovery: 215
+breakHp: 2070
+breakAttack: 1440
+breakRecovery: 335
+skills:
+  -
+    name: シ水関の悪魔
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 抗い難き衝動
+    statements:
+      -
+        content: 味方の「蛮兵」武将の攻撃力を2.2倍にする
+description: 董卓軍配下の勇猛さで知られる猛将。シ水関では、電撃的な猛襲を敢行、反董卓連合を蹴散らし、その中にあった美髭の丈夫と刀鳴、相散らした。

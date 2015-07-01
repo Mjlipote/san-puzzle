@@ -1,0 +1,32 @@
+number: 739
+preName: 【唖然】呉国太
+name: 【誡めの言葉】呉国太
+rarity: 4
+group: 呉
+arm: 神算
+maxLevel: 70
+capability: 8
+initHp: 281
+initAttack: 171
+initRecovery: 76
+finalHp: 1122
+finalAttack: 513
+finalRecovery: 190
+breakHp: 1282
+breakAttack: 633
+breakRecovery: 270
+skills:
+  -
+    name: 若干の威圧
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 敵の攻撃を2ターン遅らせる
+strategies:
+  -
+    name: 賢母の忠言
+    statements:
+      -
+        content: 味方の「呉」武将のHPと攻撃力を1.2倍にする
+description: 孫堅の第二夫人で、第一夫人呉夫人の実妹。龍船競争の開催を前に、大荒れに荒れた端午節前夜。この大騷動を收拾すべく賢夫人が表舞台に現れる。

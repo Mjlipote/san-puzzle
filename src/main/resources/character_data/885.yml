@@ -1,0 +1,34 @@
+number: 885
+preName:
+name: 【警戒の眼】花鬘
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 50
+capability: 21
+initHp: 440
+initAttack: 301
+initRecovery: 54
+finalHp: 1320
+finalAttack: 903
+finalRecovery: 162
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 精良の戦略
+    turnMax: 8
+    turnMin: 4
+    statements:
+      -
+        content: 2ターンの間、確率で受けるダメージを0にする
+strategies:
+  -
+    name: 人犬一体
+    statements:
+      -
+        content: 4連撃以上で「群」の攻撃力があがり、最大4倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 南蛮王‧孟獲と妻‧祝融の娘。生まれ育った南蛮の地を征そうと現れた、蜀漢の軍勢に警戒心を露わにする。そこに運命の出会いがあるとは知らずにーー

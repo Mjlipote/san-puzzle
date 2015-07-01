@@ -1,0 +1,32 @@
+number: 321
+preName: 【孫呉の宿老】程普
+name: 【盪寇将軍】程普
+rarity: 5
+group: 呉
+arm: 槍兵
+maxLevel: 99
+capability: 20
+initHp: 1387
+initAttack: 515
+initRecovery: 371
+finalHp: 2081
+finalAttack: 824
+finalRecovery: 445
+breakHp: 2361
+breakAttack: 984
+breakRecovery: 565
+skills:
+  -
+    name: 程公の威厳
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「魏」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 信念貫く剛槍
+    statements:
+      -
+        content: 味方の「槍兵」武将の攻撃力を2.2倍にする
+description: 孫呉三代に仕えた宿老。赤壁の戦いでは、周瑜とともに都督として軍を指揮した。南郡太守として対曹操最前線を守り、その功績で盪寇将軍に任じられた。

@@ -1,0 +1,34 @@
+number: 760
+preName:
+name: 【盟主待望】周泰
+rarity: 4
+group: 呉
+arm: 槍兵
+maxLevel: 25
+capability: 11
+initHp: 429
+initAttack: 195
+initRecovery: 120
+finalHp: 1287
+finalAttack: 585
+finalRecovery: 150
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 血路拓く前進
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 体に無数の傷がある歴戦の勇将。孫堅が倒れた後の江東は荒れ、江を根城にする水賊が跋扈していた。周泰も親友の蒋欽と共に水賊として暴れ回っていた。

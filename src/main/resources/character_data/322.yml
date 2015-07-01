@@ -1,0 +1,32 @@
+number: 322
+preName: 【錦馬超】馬超
+name: 【長安猛襲】馬超
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 20
+initHp: 1106
+initAttack: 948
+initRecovery: 156
+finalHp: 1548
+finalAttack: 1422
+finalRecovery: 218
+breakHp: 1828
+breakAttack: 1582
+breakRecovery: 338
+skills:
+  -
+    name: 錦馬超
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「呉」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 信念貫く剛槍
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力を2.2倍にする
+description: 「錦馬超」「西涼の錦」と呼ばれている西方の英雄。父の仇である曹操に対して挙兵。潼関の戦いで渡河途中の曹操軍を襲い、あと一歩まで追い詰めた。

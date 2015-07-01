@@ -1,0 +1,32 @@
+number: 668
+preName:
+name: 【こども】曹操
+rarity: 4
+group: 魏
+arm: 剣兵
+maxLevel: 60
+capability: 10
+initHp: 168
+initAttack: 151
+initRecovery: 66
+finalHp: 1134
+finalAttack: 616
+finalRecovery: 132
+breakHp: 1294
+breakAttack: 736
+breakRecovery: 212
+skills:
+  -
+    name: らんせのかんゆう
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: ぎぶのしきょう
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2倍にする
+description: どこかで見た様なエロが...いや、好色そうなお坊ちゃん。「おねーさん以外、興味ないんだげど。」

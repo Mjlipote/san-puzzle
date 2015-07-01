@@ -1,0 +1,32 @@
+number: 491
+preName: 【重厚なる将】曹仁
+name: 【堅忍不抜】曹仁
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 16
+initHp: 998
+initAttack: 486
+initRecovery: 132
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 2665
+breakAttack: 1059
+breakRecovery: 366
+skills:
+  -
+    name: 一気呵成
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 不退転の将
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 成長を重ねる曹操軍の勇将。軍功を積むにつれ、曹操の信頼は厚くなり、潼関の戦いを初め、曹操が主隊を率いる際に根拠地の防御を任されるようになった。

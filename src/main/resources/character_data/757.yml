@@ -1,0 +1,32 @@
+number: 757
+preName: 【英傑の躍動】劉備
+name: 【未来拓く一矢】劉備
+rarity: 6
+group: 漢
+arm: 弓兵
+maxLevel: 99
+capability: 23
+initHp: 1459
+initAttack: 715
+initRecovery: 157
+finalHp: 2917
+finalAttack: 1431
+finalRecovery: 314
+breakHp: 3237
+breakAttack: 1631
+breakRecovery: 434
+skills:
+  -
+    name: 莫大なる癒し
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: HP3000と技能封じ・回復禁止状態を5ターン回復
+strategies:
+  -
+    name: 英傑の神風
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2.5倍にする
+description: 中山靖王劉勝の末裔である三国志の主人公の１人。硬直した官軍に翻弄されつつも、劉備の義勇軍は、その自由で大胆な行動力から、徐々に頭角を顕す。

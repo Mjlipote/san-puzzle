@@ -1,0 +1,32 @@
+number: 499
+preName: 【若き英傑】関興
+name: 【天目指す龍】関興
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 16
+initHp: 1101
+initAttack: 518
+initRecovery: 67
+finalHp: 2422
+finalAttack: 1037
+finalRecovery: 134
+breakHp: 2702
+breakAttack: 1197
+breakRecovery: 254
+skills:
+  -
+    name: 絶対なる衝撃
+    turnMax: 27
+    turnMin: 17
+    statements:
+      -
+        content: 敵のHPを20%減少させる
+strategies:
+  -
+    name: 猛き血の扇動
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2倍にする
+description: 軍神関羽の実子で、その薫陶を正しく受け、後継者として活躍した。孔明からも将来を嘱望されており、張苞と共に各地で武勲を上げている。

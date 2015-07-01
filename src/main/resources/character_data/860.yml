@@ -1,0 +1,34 @@
+number: 860
+preName: 【反董卓の盟主】袁紹
+name: 【冀州牧】袁紹
+rarity: 6
+group: 漢
+arm: 剣兵
+maxLevel: 99
+capability: 30
+initHp: 1804
+initAttack: 820
+initRecovery: 248
+finalHp: 3535
+finalAttack: 1489
+finalRecovery: 446
+breakHp: 3855
+breakAttack: 1689
+breakRecovery: 566
+skills:
+  -
+    name: 袁家の大攻勢
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 漢王朝の権能
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2.5倍にする
+      -
+        content: 全ての武将から受けるダメージを減少させる
+description: 後に河北の雄となる名門袁家の御曹司。長安の董卓征伐を早々に諦めると、冀州牧‧韓馥からを領地を騙し取り、自分が従える兵馬たちを養う本処地とした。

@@ -1,0 +1,34 @@
+number: 161
+preName: 【大賢良師】張角
+name: 【黄天當立】張角
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 850
+initAttack: 768
+initRecovery: 183
+finalHp: 2185
+finalAttack: 1383
+finalRecovery: 512
+breakHp: 2825
+breakAttack: 1783
+breakRecovery: 752
+skills:
+  -
+    name: 太平要術
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 10秒間、自由にユニットを動かせる
+strategies:
+  -
+    name: 道術の極地
+    statements:
+      -
+        content: ユニットを動かせる時間が大きく延びる
+      -
+        content: 受けるダメージを大きく減少させる
+description: 太平道の教祖。信者には漢王朝に不満を持つ民も加わり、総勢数十万人に膨れ上がる。信者を、万民を救うため、ついに黄巾を被りて漢室に反旗を翻す。

@@ -1,0 +1,32 @@
+number: 426
+preName: 【毒舌詭弁】禰衡
+name: 【破天荒】禰衡
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 70
+capability: 14
+initHp: 785
+initAttack: 679
+initRecovery: 154
+finalHp: 1649
+finalAttack: 1359
+finalRecovery: 232
+breakHp: 1889
+breakAttack: 1519
+breakRecovery: 312
+skills:
+  -
+    name: 過剰なる毒舌
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: 敵全体を猛毒状態にする
+strategies:
+  -
+    name: 天下鳴動の舌戦
+    statements:
+      -
+        content: 味方の「鬼謀」武将のHPと攻撃力を1.8倍にする
+description: 博覧強記の賢士だが、己の才に驕って傲慢な態度が多かった。毒舌が元で曹操の怒りを買って太鼓叩きを命じられると見事な演奏を行って逆に驚かれた。

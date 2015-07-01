@@ -1,0 +1,32 @@
+number: 1062
+preName:
+name: 【才子多病】戯志才
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 30
+initHp: 598
+initAttack: 451
+initRecovery: 158
+finalHp: 2093
+finalAttack: 1804
+finalRecovery: 474
+breakHp: 2373
+breakAttack: 2004
+breakRecovery: 594
+skills:
+  -
+    name: 確然たる短戦術・魏の攻勢
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、確実に「回復封じ」「ユニット封じ」を無効にし、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 眼光炯炯
+    statements:
+      -
+        content: 5兵種以上で編成した時、全武将の攻撃力と回復力を2.2倍
+description: 曹操に仕えた策略家。荀イクが策略に優れた人物として推薦し、曹操も尊重したが、若くして亡くなった。荀イクは彼の後任として、郭嘉を推挙したという。

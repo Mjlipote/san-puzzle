@@ -1,0 +1,32 @@
+number: 544
+preName:
+name: 【権威掌握】曹操
+rarity: 6
+group: 魏
+arm: 騎兵
+maxLevel: 50
+capability: 30
+initHp: 621
+initAttack: 247
+initRecovery: 51
+finalHp: 1987
+finalAttack: 741
+finalRecovery: 153
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 覇王進軍
+    turnMax: 24
+    turnMin: 19
+    statements:
+      -
+        content: 敵の行動を4ターン遅らせる
+strategies:
+  -
+    name: 倚天の剣
+    statements:
+      -
+        content: HPが半分以下の時、全武将の攻撃力を3倍にする
+description: 中原の覇者となった三国志の主人公の１人。宿敵‧袁紹を破り、長城を越えた遠征で北の憂いを拭い去ると、三公を廃止、新設の統率職‧丞相に就任した。

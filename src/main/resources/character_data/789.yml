@@ -1,0 +1,32 @@
+number: 789
+preName:
+name: 【曹長女】曹憲
+rarity: 4
+group: 漢
+arm: 鬼謀
+maxLevel: 25
+capability: 7
+initHp: 314
+initAttack: 201
+initRecovery: 38
+finalHp: 691
+finalAttack: 442
+finalRecovery: 84
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 糧食確保（群）
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「群」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 栄華の証明
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力と回復力を1.5倍にする
+description: 曹操の娘で、二人の妹と共に、献帝に嫁いだ。後宮生活を謳歌し、政治には興味が無かった様で、献帝の帝位禅讓時も、特に目立った動きはしなかった。

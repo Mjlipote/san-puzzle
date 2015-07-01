@@ -1,0 +1,30 @@
+number: 73
+preName: 黄祖
+name: 【孫家仇敵】黄祖
+rarity: 3
+group: 漢
+arm: 弓兵
+maxLevel: 50
+capability: 8
+initHp: 451
+initAttack: 203
+initRecovery: 81
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 伏兵戦法
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫家と戦い続けた江夏太守。孫堅撃退の功績により、劉表から江夏一帯の守備を任せられる。その後、十数年に渡って、孫策・孫権の侵攻を防ぎ続ける。

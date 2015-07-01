@@ -1,0 +1,32 @@
+number: 597
+preName: 【劉備の妻】孫尚香
+name: 【色褪せぬ武芸】孫尚香
+rarity: 6
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 23
+initHp: 1053
+initAttack: 558
+initRecovery: 194
+finalHp: 2633
+finalAttack: 1395
+finalRecovery: 388
+breakHp: 2913
+breakAttack: 1595
+breakRecovery: 508
+skills:
+  -
+    name: 蜀への誘い（群）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 政略を超えた絆
+    statements:
+      -
+        content: 「蜀」と「呉」で攻撃した時、全武将の攻撃力2.5倍
+description: 江東の虎と呼ばれた孫堅の末娘。夫となった劉備とは三十も歳が離れていたが、夫婦仲は良好であったと言われる。が、劉備の脅威であったという記録もある。

@@ -1,0 +1,32 @@
+number: 715
+preName: 【関羽捕縛】朱然
+name: 【火計部隊】朱然
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 16
+initHp: 713
+initAttack: 409
+initRecovery: 89
+finalHp: 1283
+finalAttack: 736
+finalRecovery: 160
+breakHp: 2323
+breakAttack: 1336
+breakRecovery: 240
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 若き鋭才
+    statements:
+      -
+        content: 味方の「呉」武将のHPと回復力を1.8倍にする
+description: 慎重で冷静な呉の名将。荊州侵攻時、呂蒙の指揮下で関羽を捕らえるという大手柄を上げる。その後、夷陵でも劉備軍の退路を断ち、これを潰走させた。

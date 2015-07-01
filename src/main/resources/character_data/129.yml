@@ -1,0 +1,32 @@
+number: 129
+preName: 【袁家猛将】文醜
+name: 【界橋突進】文醜
+rarity: 4
+group: 漢
+arm: 騎兵
+maxLevel: 70
+capability: 9
+initHp: 1031
+initAttack: 208
+initRecovery: 110
+finalHp: 2061
+finalAttack: 571
+finalRecovery: 193
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家筆頭
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 袁家の豪勇
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 顔良と並び、袁家の双璧と賞された猛将。延津の戦いでは、顔良の仇討ちとして奮い立ち、曹操軍の勇将・張遼を弓で馬から射落とすという活躍を見せる。

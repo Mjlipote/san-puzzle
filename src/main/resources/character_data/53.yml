@@ -1,0 +1,30 @@
+number: 53
+preName: 趙忠
+name: 【霊帝心の母】趙忠
+rarity: 2
+group: 漢
+arm: 鬼謀
+maxLevel: 30
+capability: 5
+initHp: 111
+initAttack: 57
+initRecovery: 72
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 十常侍の権勢
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: HPを800回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 十常侍の中心人物で、霊帝に心の母とまで言われた宦官。もはや宮中で逆らえる者はおらず、賄賂の要求や税の着服など、好きなように私腹を肥やす。

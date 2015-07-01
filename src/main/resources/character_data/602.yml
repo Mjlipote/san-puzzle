@@ -1,0 +1,30 @@
+number: 602
+preName:
+name: 許児
+rarity: 2
+group: 群
+arm: 弓兵
+maxLevel: 20
+capability: 3
+initHp: 150
+initAttack: 90
+initRecovery: 55
+finalHp: 368
+finalAttack: 212
+finalRecovery: 134
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群雄の一擊
+    turnMax: 13
+    turnMin: 10
+    statements:
+      -
+        content: 敵全体に「群」勢力の1500ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 呉郡太守であり、孫策に処刑された許貢の息子。父の無念を無晴らすため、父の恩を受けた食客を仲間とし、孫策の暗殺を実行、毒矢をもって一矢報いる。

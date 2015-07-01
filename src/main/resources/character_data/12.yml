@@ -1,0 +1,32 @@
+number: 12
+preName: 【旅立ち】劉備
+name: 【平原の相】劉備
+rarity: 5
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 10
+initHp: 743
+initAttack: 576
+initRecovery: 110
+finalHp: 2229 
+finalAttack: 979
+finalRecovery: 219
+breakHp: 2469 
+breakAttack: 1139
+breakRecovery: 299
+skills:
+  -
+    name: 大器の目覚め
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 義侠の仁心
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2倍にする
+description: 中山靖王劉勝の末裔である三国志の主人公の１人。反董卓連合の解散後に、公孫サンの推挙で平原の相となる。善政を行ない多くの民から慕われた。

@@ -1,0 +1,34 @@
+number: 943
+preName:
+name: 【聖夜決戦】袁紹
+rarity: 7
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 40
+initHp: 1279
+initAttack: 393
+initRecovery: 325
+finalHp: 3502
+finalAttack: 717
+finalRecovery: 821
+breakHp: 3902
+breakAttack: 917
+breakRecovery: 941
+skills:
+  -
+    name: 戦意高揚の煽惑
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止・ユニット封じ状態を3ターン回復する
+strategies:
+  -
+    name: 聖夜の巨人
+    statements:
+      -
+        content: 味方の「漢」武将のHPと回復力を1.8倍
+      -
+        content: HPが最大の時、全武将の攻撃力を2.5倍にする
+description: 名門袁家の御曹司。自身を西方の偉人に準え、贈り物を配って回ることにして袁紹。子ども達とともに、夜の街を疾走する！「この贈り物が欲しいのか？」

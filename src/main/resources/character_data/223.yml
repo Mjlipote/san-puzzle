@@ -1,0 +1,28 @@
+number: 223
+preName:
+name: 【赤色秘薬】左慈 
+rarity: 1
+group: 呉
+arm: 鬼謀
+maxLevel: 1
+capability: 999
+initHp: 1
+initAttack: 1
+initRecovery: 1
+finalHp: 1
+finalAttack: 1
+finalRecovery: 1
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 仙術を使う方士。峨眉山で修行をし、遁甲天書を読んだことから仙術を習得。酒や肉を自在に出現させたり、数百人に分身したりと多くの奇跡を起こす。

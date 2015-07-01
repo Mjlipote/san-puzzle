@@ -1,0 +1,32 @@
+number: 1040
+preName:
+name: 【慈母の誘惑】糜夫人
+rarity: 5
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 15
+initHp: 622
+initAttack: 360
+initRecovery: 119
+finalHp: 1555
+finalAttack: 900
+finalRecovery: 298
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀の誘い（毒）
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 「毒」を「蜀」ユニットに変化させる
+strategies:
+  -
+    name: こっちにいらっしゃーい
+    statements:
+      -
+        content: 味方の「蜀」武将の回復力を2倍にする
+description: はいはい、ごはんですはねー。

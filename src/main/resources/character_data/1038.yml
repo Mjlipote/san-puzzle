@@ -1,0 +1,32 @@
+number: 1038
+preName:
+name: 【微睡の中】卞皇后
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 15
+initHp: 579
+initAttack: 375
+initRecovery: 127
+finalHp: 1448
+finalAttack: 938
+finalRecovery: 318
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏の誘い（毒）
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 「毒」を「魏」ユニットに変化させる
+strategies:
+  -
+    name: むにゃむにゃ…。
+    statements:
+      -
+        content: 味方の「魏」武将の回復力を2倍にする
+description: ｚｚｚｚｚ…。

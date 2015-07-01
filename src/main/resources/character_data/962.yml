@@ -1,0 +1,34 @@
+number: 962
+preName:
+name: 【新年の祝い】曹節
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 920
+initAttack: 376
+initRecovery: 295
+finalHp: 2576
+finalAttack: 1504
+finalRecovery: 531
+breakHp: 2856
+breakAttack: 1664
+breakRecovery: 651
+skills:
+  -
+    name: 漢の速攻勢
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 微笑み浮かぶ幸せ
+    statements:
+      -
+        content: 味方の「漢」武将のHPと攻撃力を1.8倍にする
+      -
+        content: 必殺技の威力を2倍にする
+description: 曹操の娘で、姉、妹と共に、献帝に嫁いだ。お手製のおせちを献帝で振る舞うことになった曹節。その料理の腕やいかに？「つまみ食いは駄目ですよ？」

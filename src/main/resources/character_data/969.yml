@@ -1,0 +1,32 @@
+number: 969
+preName:
+name: 【孤独な羊娘】董白
+rarity: 4
+group: 群
+arm: 騎兵
+maxLevel: 25
+capability: 5
+initHp: 395
+initAttack: 177
+initRecovery: 154
+finalHp: 1185
+finalAttack: 531
+finalRecovery: 231
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群への誘い（魏）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「魏」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 寂しくないし
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2.015倍にする
+description: 魔王・董卓の孫娘。勝手気ままでわがまま言い放題の董白も、肌寒いのせいが、どこが歯切れが惡い。表情も寂しそうだ...。「何よ...別に寂しくないわよ。」

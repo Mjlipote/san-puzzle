@@ -1,0 +1,32 @@
+number: 310
+preName:
+name: 【三尖刀術】紀霊
+rarity: 3
+group: 群
+arm: 槍兵
+maxLevel: 25
+capability: 7
+initHp: 164
+initAttack: 202
+initRecovery: 49
+finalHp: 361
+finalAttack: 485
+finalRecovery: 98
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 大志なき剛勇
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力15倍の攻撃
+strategies:
+  -
+    name: 豪腕五十斤
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを減少させる
+description: 袁術配下の豪将。重さ５０斤に及ぶ三尖刀を愛用する。徐州で劉備軍と相対した際には、関羽と３０合余り打ちあって引き分けている。

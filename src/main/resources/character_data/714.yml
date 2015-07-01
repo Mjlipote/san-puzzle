@@ -1,0 +1,32 @@
+number: 714
+preName:
+name: 【関羽捕縛】朱然
+rarity: 4
+group: 呉
+arm: 弓兵
+maxLevel: 50
+capability: 8
+initHp: 466
+initAttack: 239
+initRecovery: 52
+finalHp: 839
+finalAttack: 430
+finalRecovery: 94
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 若き鋭才
+    statements:
+      -
+        content: 味方の「呉」武将のHPと回復力を1.8倍にする
+description: 慎重で冷静な呉の名将。朱治の養子であり、孫権とは机を並べ共に学んだ仲である。孫権が君主になると共に武官として出仕し、数々の武勲を上げだ、

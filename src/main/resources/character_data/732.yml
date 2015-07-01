@@ -1,0 +1,32 @@
+number: 732
+preName:
+name: 【望郷の旋律】蔡文姫
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 26
+initHp: 250
+initAttack: 245
+initRecovery: 180
+finalHp: 875
+finalAttack: 735
+finalRecovery: 450
+breakHp: 1195
+breakAttack: 935
+breakRecovery: 570
+skills:
+  -
+    name: 快癒再起
+    turnMax: 40
+    turnMin: 30
+    statements:
+      -
+        content: HPが上限値を超えて超回復する
+strategies:
+  -
+    name: 万象の調べ
+    statements:
+      -
+        content: 味方の全武将の攻撃力と回復力を2.5倍にする
+description: 数奇な運命をたどった才女。董卓死後、混乱の長安で危機に瀕した彼女を、若き匈奴が救う。彼女はそのまま北へ嫁ぐも、漢への鄉愁に苛まれる。

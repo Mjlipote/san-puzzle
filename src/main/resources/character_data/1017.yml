@@ -1,0 +1,32 @@
+number: 1017
+preName:
+name: 【点下の英雄】曹操
+rarity: 3
+group: 魏
+arm: 剣兵
+maxLevel: 1
+capability: 1
+initHp: 41
+initAttack: 41
+initRecovery: 41
+finalHp: 41
+finalAttack: 41
+finalRecovery: 41
+breakHp: 521
+breakAttack: 281
+breakRecovery: 201
+skills:
+  -
+    name: 魏の誘い（群）
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 「群」を「魏」ユニットに変化させる
+strategies:
+  -
+    name: 点下の英傑
+    statements:
+      -
+        content: 「点」武将の攻撃力を4.1倍にする
+description: 「らんせのかんゆう」すぐれた　じんざいを　ひろくつのり　てんかを　めざす

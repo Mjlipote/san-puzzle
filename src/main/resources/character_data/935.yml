@@ -1,0 +1,32 @@
+number: 935
+preName:
+name: 【もう一つの可能性】董卓
+rarity: 7
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 40
+initHp: 1698
+initAttack: 693
+initRecovery: -333
+finalHp: 6792
+finalAttack: 1733
+finalRecovery: -999
+breakHp: 7192
+breakAttack: 1933
+breakRecovery: -879
+skills:
+  -
+    name: 捨て身の強撃
+    turnMax: 40
+    turnMin: 25
+    statements:
+      -
+        content: 自分のHPを半分減少させ、敵単体にダメージを与える
+strategies:
+  -
+    name: 殲滅の魔王
+    statements:
+      -
+        content: 5兵種以上で編成した時、全武将の攻撃力4倍
+description: 連合軍との決戦を避け、長安に遷都した男のもう一つの可能性。洛陽は燃えていた。董卓は自ら退路を断ち、虎牢関の戦で全てを終わらせる覚悟を示した。

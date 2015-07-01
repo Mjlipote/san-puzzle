@@ -1,0 +1,32 @@
+number: 109
+preName: 【袁家勇将】顔良
+name: 【白馬戦】顔良
+rarity: 4
+group: 漢
+arm: 槍兵
+maxLevel: 70
+capability: 9
+initHp: 567
+initAttack: 358
+initRecovery: 20
+finalHp: 1814
+finalAttack: 985
+finalRecovery: 36
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家の先鋒
+    turnMax: 20
+    turnMin: 10
+    statements:
+      -
+        content: 3ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: 大軍の圧
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 文醜と並び、袁家の双璧と賞された勇将。白馬の戦いでは曹操軍の魏続・宋憲をまたたく間に討ち取り、徐晃とも互角以上の戦いをして退けたほどの豪傑。

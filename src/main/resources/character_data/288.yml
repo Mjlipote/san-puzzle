@@ -1,0 +1,32 @@
+number: 288
+preName:
+name: 【徐州刺史】陶謙
+rarity: 3
+group: 群
+arm: 剣兵
+maxLevel: 20
+capability: 6
+initHp: 165
+initAttack: 180
+initRecovery: 44
+finalHp: 578
+finalAttack: 396
+finalRecovery: 97
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 援兵の引き止め
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「蜀」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 徐州牧の指揮
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 徐州刺史。文武に才のある人物で、黄巾軍残党を討伐するため徐州刺史に任じられる。董卓の暴政を静観、洛陽の混乱を遠く眺めつつ力を蓄える。

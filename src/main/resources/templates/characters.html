@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta charset="UTF-8" />
+<title>San Puzzle War</title>
+<th:block th:include="head :: bootstrap" />
+<style type="text/css">
+</style>
+</head>
+<body>
+
+	<form method="get" th:action="@{/characters}">
+		勢力：
+		<select name="group">
+			<option value="">全</option>
+			<option value="魏">魏</option>
+			<option value="呉">呉</option>
+			<option value="蜀">蜀</option>
+			<option value="漢">漢</option>
+			<option value="群">群</option>
+		</select>
+		兵種：
+		<select name="arm">
+			<option value="">全</option>
+			<option value="剣兵">剣兵</option>
+			<option value="騎兵">騎兵</option>
+			<option value="槍兵">槍兵</option>
+			<option value="弓兵">弓兵</option>
+			<option value="蛮兵">蛮兵</option>
+			<option value="鬼謀">鬼謀</option>
+			<option value="神算">神算</option>
+		</select>
+		<input type="submit" value="検索"></input>
+	</form>
+
+	<th:block th:include="fragments :: character-detail(${chPage})"></th:block>
+
+</body>
+</html>

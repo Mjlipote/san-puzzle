@@ -1,0 +1,32 @@
+number: 104
+preName:
+name: 【江賊出身】周泰
+rarity: 3
+group: 呉
+arm: 蛮兵
+maxLevel: 25
+capability: 6
+initHp: 179
+initAttack: 80
+initRecovery: 5
+finalHp: 1095
+finalAttack: 250
+finalRecovery: 21
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 名誉の戦傷
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 親衛隊の心得
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 体に無数の傷がある歴戦の勇将。蒋欽と共に江賊をしていたが、孫堅の遺児・孫策が挙兵したと聞きつけ、江東制圧に付き従い多くの武勲を立てる。

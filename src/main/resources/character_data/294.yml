@@ -1,0 +1,28 @@
+number: 294
+preName: 
+name: 胡車児
+rarity: 2
+group: 群
+arm: 蛮兵
+maxLevel: 20
+capability: 3
+initHp: 93
+initAttack: 150
+initRecovery: 15
+finalHp: 195
+finalAttack: 330
+finalRecovery: 27
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 張繍配下の武将。西域の異民族出身の武勇の士。五百斤の荷を背負って一日七百里歩む豪傑。その武勇は曹操からも賞されて黄金を与えられたという。

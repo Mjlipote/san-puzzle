@@ -1,0 +1,32 @@
+number: 396
+preName:
+name: 【忠義の謀臣】審配
+rarity: 4
+group: 漢
+arm: 神算
+maxLevel: 50
+capability: 7
+initHp: 361
+initAttack: 217
+initRecovery: 103
+finalHp: 903
+finalAttack: 716
+finalRecovery: 206
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 毅然たる行軍
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 敵のHPを20%減少させる
+strategies:
+  -
+    name: 短期決戦論
+    statements:
+      -
+        content: 必殺技発動に必要なチャージ数が2減少する
+description: 篤い忠義心と厳格な性格で知られる袁紹軍の軍師。私心無しに袁家に誠心誠意仕えるが、それを他者にも求めるなど、融通の利かない面もあった。

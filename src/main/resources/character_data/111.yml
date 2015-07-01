@@ -1,0 +1,32 @@
+number: 111
+preName: 【西方の乱雄】韓遂
+name: 【鎮西将軍】韓遂
+rarity: 4
+group: 群
+arm: 蛮兵
+maxLevel: 70
+capability: 9
+initHp: 614
+initAttack: 337
+initRecovery: 28
+finalHp: 1964
+finalAttack: 925
+finalRecovery: 51
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 暴威上等
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: 叛意連合
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: ３０年間中央政権に対して反乱を続けた男。幾度も西涼から反乱を起こし、漢王朝が差し向けた皇甫嵩や董卓、孫堅などの名将と激戦を繰り広げている。

@@ -1,0 +1,32 @@
+number: 105
+preName: 【江賊出身】周泰
+name: 【黄祖討伐】周泰
+rarity: 4
+group: 呉
+arm: 蛮兵
+maxLevel: 70
+capability: 9
+initHp: 931
+initAttack: 238
+initRecovery: 20
+finalHp: 2793
+finalAttack: 654
+finalRecovery: 36
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 名誉の戦傷
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 親衛隊の心得
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 体に無数の傷がある歴戦の勇将。宣城で孫権が山賊に襲われて命を落としかけた時も、全身に12箇所の傷を負いながら身を挺して孫権を護りきる。

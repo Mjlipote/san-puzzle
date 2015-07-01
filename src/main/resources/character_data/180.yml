@@ -1,0 +1,32 @@
+number: 180
+preName:
+name: 【美髯公】関羽
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 25
+initHp: 520
+initAttack: 300
+initRecovery: 60
+finalHp: 3208
+finalAttack: 1230
+finalRecovery: 191
+breakHp: 3528
+breakAttack: 1430
+breakRecovery: 311
+skills:
+  -
+    name: 青龍咆哮
+    turnMax: 30
+    turnMin: 20
+    statements:
+      -
+        content: 使用した武将の攻撃力50倍の「蜀」攻撃
+strategies:
+  -
+    name: 義侠の武
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを半減させる
+description: 劉備・張飛の義兄弟で１万の敵に相当すると言われた稀代の英傑。その人並み外れた武勇と、見事な顎ヒゲから「美髯公」と称されている。

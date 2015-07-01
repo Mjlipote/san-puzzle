@@ -1,0 +1,32 @@
+number: 273
+preName: 【呉下阿蒙】呂蒙
+name: 【名将の片鱗】呂蒙
+rarity: 5
+group: 呉
+arm: 鬼謀
+maxLevel: 99
+capability: 16
+initHp: 638
+initAttack: 559
+initRecovery: 8
+finalHp: 1275
+finalAttack: 1117
+finalRecovery: 15
+breakHp: 1555
+breakAttack: 1277
+breakRecovery: 135
+skills:
+  -
+    name: 大器刮目
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「漢」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 孫呉の俊傑
+    statements:
+      -
+        content: 味方の「呉」武将のHPを２倍にする
+description: 孫権配下の軍師。勇敢な武人であったが孫権から諭されて勉学に励む。その才は周瑜の後継として呉全軍を指揮する魯粛をも驚かせる成長を見せていた。

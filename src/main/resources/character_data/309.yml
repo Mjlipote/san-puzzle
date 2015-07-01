@@ -1,0 +1,30 @@
+number: 309
+preName: 張勲
+name: 【陳国侵攻】張勲
+rarity: 3
+group: 群
+arm: 剣兵
+maxLevel: 50
+capability: 7
+initHp: 286
+initAttack: 200
+initRecovery: 42
+finalHp: 714
+finalAttack: 499
+finalRecovery: 105
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 混沌なる号令
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に攻撃力の最大40倍までのランダムダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁術配下の武将。曹操の袁術討伐軍に対し、他の将と共に陳国で殿軍を務めた。橋ズイらが戦死する中で脱出に成功、無事帰参を果たした。

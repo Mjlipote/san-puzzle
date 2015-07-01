@@ -1,0 +1,32 @@
+number: 416
+preName: 【博学の将】李典
+name: 【敵策看破】李典
+rarity: 5
+group: 魏
+arm: 弓兵
+maxLevel: 70
+capability: 14
+initHp: 1023
+initAttack: 524
+initRecovery: 100
+finalHp: 2147
+finalAttack: 1048
+finalRecovery: 219
+breakHp: 2387
+breakAttack: 1208
+breakRecovery: 299
+skills:
+  -
+    name: 洞察の妙
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 思索生知の才
+    statements:
+      -
+        content: 受けるダメージを大きく減少させる
+description: 冷静沈着な曹操軍の知将。新野で対峙する劉備の軍が、諸葛亮の策で不意の撤退を始めると、「策がある」と看破してみせ、後に曹操に高い賞賛を受けた。

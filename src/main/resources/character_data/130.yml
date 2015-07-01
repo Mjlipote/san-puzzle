@@ -1,0 +1,32 @@
+number: 130
+preName:
+name: 【豪傑】華雄
+rarity: 3
+group: 群
+arm: 蛮兵
+maxLevel: 25
+capability: 6
+initHp: 55
+initAttack: 63
+initRecovery: 10
+finalHp: 688
+finalAttack: 394
+finalRecovery: 83
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: シ水関の悪魔
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 暴将の猛威
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: 董卓軍配下の勇猛さで知られる猛将。身の丈九尺（約207cm）の豪傑で、体は虎、顔は豹のようだと例えられるほど恐ろしい風貌をしている。

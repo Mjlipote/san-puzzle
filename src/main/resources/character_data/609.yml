@@ -1,0 +1,32 @@
+number: 609
+preName: 【不満げな眼差し】丁夫人
+name: 【胸中発露】丁夫人
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 23
+initHp: 816
+initAttack: 426
+initRecovery: 332
+finalHp: 2286
+finalAttack: 1277
+finalRecovery: 663
+breakHp: 2566
+breakAttack: 1477
+breakRecovery: 783
+skills:
+  -
+    name: 呉群よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「呉」を「魏」に、「群」を「桃」に変換
+strategies:
+  -
+    name: 手作り愛妻弁当
+    statements:
+      -
+        content: 「神算」武将のHPと攻撃力を回復力を1.8倍にする
+description: 曹操の正室。今日はお弁当を作って、曹操とお花見。お酒過ぎて、泣き出しました。「私なんか、どうでも良いんでしょっ！」

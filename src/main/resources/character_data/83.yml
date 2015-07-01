@@ -1,0 +1,32 @@
+number: 83
+preName: 曹仁
+name: 【別部司馬】曹仁
+rarity: 3
+group: 魏
+arm: 騎兵
+maxLevel: 50
+capability: 10
+initHp: 222
+initAttack: 98
+initRecovery: 30
+finalHp: 997
+finalAttack: 392
+finalRecovery: 63
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 闘将の守り
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを減少させる
+strategies:
+  -
+    name: 決死の防衛
+    statements:
+      -
+        content: ダメージを受けると、ごく稀に反撃をする
+description: 成長を重ねる曹操軍の勇将。まだ気が荒く短慮な面もあるが、陶謙や呂布との戦いで騎兵を率いて別働隊として活躍し、着実に名将へと成長をしている。

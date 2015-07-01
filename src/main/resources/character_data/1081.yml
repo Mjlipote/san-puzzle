@@ -1,0 +1,32 @@
+number: 1081
+preName: 【英傑の片鱗】関平
+name: 【軍神の後継者】関平
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 27
+initHp: 2225
+initAttack: 1018
+initRecovery: 131
+finalHp: 2893
+finalAttack: 1324
+finalRecovery: 393
+breakHp: 3213
+breakAttack: 1524
+breakRecovery: 513
+skills:
+  -
+    name: 確かな研鑚
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 頂へ至る者
+    statements:
+      -
+        content: 味方の「槍兵」武将のHPを1.2倍、攻撃力と回復力を1.8倍にする
+description: 軍神・関羽の養子。益州の戦いでは、ホウ統の死を伝えるため荊州へと走り、樊城の戦いでも一軍を率いて奮戦。軍神の息子の名に恥じぬ活躍を見せた。

@@ -1,0 +1,32 @@
+number: 809
+preName:
+name: 【陥落の抜刀】高順
+rarity: 4
+group: 群
+arm: 騎兵
+maxLevel: 50
+capability: 10
+initHp: 338
+initAttack: 355
+initRecovery: 51
+finalHp: 676
+finalAttack: 710
+finalRecovery: 102
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 陥陣営
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、使用した武将の攻撃力が2倍になる
+strategies:
+  -
+    name: 飛将の先鋒
+    statements:
+      -
+        content: 味方の「騎兵」武将のHPと攻撃力を1.8倍にする
+description: 呂布配下の筆頭武将。呂布軍の精強さの一翼を担った猛将。『陥陣営』の異名を誇る彼は劉備の護る沛城を攻略し、救援に訪れた曹操軍にも平然と挑む。

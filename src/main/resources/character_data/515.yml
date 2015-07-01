@@ -1,0 +1,34 @@
+number: 515
+preName: 【不遇なる士】ホウ統
+name: 【秘めたる才】ホウ統
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 1087
+initAttack: 657
+initRecovery: 139
+finalHp: 2456
+finalAttack: 1465
+finalRecovery: 301
+breakHp: 3096
+breakAttack: 1865
+breakRecovery: 541
+skills:
+  -
+    name: 堅実なる三策
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 敵全体に使用した武将の攻撃力5倍防御無視攻撃
+strategies:
+  -
+    name: 放蕩の賢才
+    statements:
+      -
+        content: 合戦中ずっと、進軍するたびに攻撃力がすごく増加する
+      -
+        content: （1層毎に0.33ずつ倍率が上昇する）
+description: 諸葛亮と並び賞された智謀の士。来陽県令の職務怠慢を確かめにやってきた張飛の前で百日分の職務を半日で終わらせて、その大才の片鱗を見せつけた。

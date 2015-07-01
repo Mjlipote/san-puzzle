@@ -1,0 +1,32 @@
+number: 359
+preName: 【征東将軍】馬騰
+name: 【忠義の烈将】馬騰
+rarity: 6
+group: 漢
+arm: 騎兵
+maxLevel: 99
+capability: 22
+initHp: 1139
+initAttack: 561
+initRecovery: 146
+finalHp: 2848
+finalAttack: 1401
+finalRecovery: 322
+breakHp: 3168
+breakAttack: 1601
+breakRecovery: 442
+skills:
+  -
+    name: 貫くべき意地
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「漢」ユニットに変化させる
+strategies:
+  -
+    name: 尽忠報国の士
+    statements:
+      -
+        content: 必殺技の威力を2.5倍にする
+description: 羌族の血を引き、精強な騎馬隊を率いる西涼の将。朝廷を私物化しつつある曹操に召喚された馬騰は、息子の馬超に軍を託し、漢の威信を守るべく許都に赴く。

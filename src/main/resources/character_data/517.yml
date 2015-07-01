@@ -1,0 +1,34 @@
+number: 517
+preName: 【良家の娘】甄姫
+name: 【乱世の花】甄姫
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 967
+initAttack: 550
+initRecovery: 248
+finalHp: 2308
+finalAttack: 1012
+finalRecovery: 598
+breakHp: 2948
+breakAttack: 1412
+breakRecovery: 838
+skills:
+  -
+    name: 歌舞伎楽
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: HPを全回復させる
+strategies:
+  -
+    name: 才女の機知
+    statements:
+      -
+        content: 敵から受けるダメージを大きく減少させる
+      -
+        content: ユニットを消したときにHPを回復
+description: 三国志を代表する美女の1人。見目麗しく成長した彼女は、聡明さはそのままに、厳格だが慈悲深いと評判となり、袁紹の次男・袁煕に見初められた。

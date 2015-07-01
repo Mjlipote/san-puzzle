@@ -1,0 +1,32 @@
+number: 712
+preName:
+name: 【義弟喪失】劉備
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 30
+initHp: 521
+initAttack: 370
+initRecovery: -46
+finalHp: 1771
+finalAttack: 1110
+finalRecovery: -69
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀軍への大変転
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: ユニットの「魏」「呉」「桃」を「蜀」に変化させる
+strategies:
+  -
+    name: 拭えぬ怨嗟の力
+    statements:
+      -
+        content: 全武将の攻撃力を3倍にし、HPを半分にする
+description: 中山靖王劉勝の末裔である三国志の主人公の１人。荊州の奪回を狙った孫呉の裏切りにより、義弟‧関羽を失った劉備は復讐の念に燃え、征呉の兵を興す。

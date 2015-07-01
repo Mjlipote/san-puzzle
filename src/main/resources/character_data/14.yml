@@ -1,0 +1,32 @@
+number: 14
+preName: 【四世三公】袁紹
+name: 【濮陽県令】袁紹
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 15
+capability: 4
+initHp: 136
+initAttack: 70
+initRecovery: 36
+finalHp: 326
+finalAttack: 281
+finalRecovery: 72
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家の力
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを入れ替える
+strategies:
+  -
+    name: 漢王朝の威風
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を1.5倍にする
+description: 後に河北の雄となる名門袁家の御曹司。出世が早く、20歳の若さで濮陽の県令に任命される。また、謙虚で威風があったので多くの者から慕われている。

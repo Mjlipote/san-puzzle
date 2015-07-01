@@ -1,0 +1,34 @@
+number: 782
+preName: 【夏色紺水着】袁氏
+name: 【紺水着の得意顔】袁氏
+rarity: 6
+group: 漢
+arm: 弓兵
+maxLevel: 99
+capability: 27
+initHp: 1155
+initAttack: 698
+initRecovery: 380
+finalHp: 2079
+finalAttack: 1257
+finalRecovery: 570
+breakHp: 2359
+breakAttack: 1457
+breakRecovery: 690
+skills:
+  -
+    name: 士気高揚の煽惑
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止状態を3ターン回復
+strategies:
+  -
+    name: 袁家の威光をみよ～っ！
+    statements:
+      -
+        content: 「弓兵」武将の攻撃力を2.2倍、回復力を1.5倍
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値3倍の再攻撃
+description: 名門袁家の御曹司‧袁紹の末娘。浜辺に天下一の名城を築くべくにゃんこと一緒に奮戦中です。「にゃんこ兵っ！もっと！砂持ってこーいっ！」

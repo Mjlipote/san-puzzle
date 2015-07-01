@@ -1,0 +1,30 @@
+number: 286
+preName:
+name: 淳于瓊
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 20
+capability: 4
+initHp: 120
+initAttack: 129
+initRecovery: 12
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 鳥巣の死闘
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 自分のHPを少し減少させ、敵単体にダメージを与える
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹配下の将。霊帝の時代には袁紹や曹操と共に、西園八校尉に任命された若き武勇の士。霊帝死後に董卓が実権を握ると袁紹の元へ逃れる。

@@ -1,0 +1,30 @@
+number: 379
+preName: 黄蓋よしお
+name: 【無関係】黄蓋よしお（【かんけいねぇ】こうがいよしお）
+rarity: 3
+group: 呉
+arm: 蛮兵
+maxLevel: 50
+capability: 8
+initHp: 700
+initAttack: 391
+initRecovery: 0
+finalHp: 1261
+finalAttack: 705
+finalRecovery: 0
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 隊列、関係ねぇ！
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: なし
+    statements:
+description: 鍛え抜いた肉体を誇示するため、常に海パン一丁の猛将。防御力には難アリ。「曹操逃がした！？　でもそんなの関係ねぇ！」

@@ -1,0 +1,30 @@
+number: 84
+preName:
+name: 周瑜
+rarity: 2
+group: 呉
+arm: 鬼謀
+maxLevel: 15
+capability: 5
+initHp: 54
+initAttack: 120
+initRecovery: 56
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 美周郎の機知
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「呉」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策を支えた容姿麗しき盟友。後漢で三公を二人輩出した名家の出身。周瑜自身も若くして聡明で、知略や武芸、さらには、音楽にも精通している。

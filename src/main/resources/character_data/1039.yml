@@ -1,0 +1,32 @@
+number: 1039
+preName:
+name: 【守護する獣】歩夫人
+rarity: 5
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 15
+initHp: 667
+initAttack: 384
+initRecovery: 68
+finalHp: 1668
+finalAttack: 960
+finalRecovery: 170
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉の誘い（毒）
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 「毒」を「呉」ユニットに変化させる
+strategies:
+  -
+    name: まだまだ甘え盛りで。
+    statements:
+      -
+        content: 味方の「呉」武将の回復力を2倍にする
+description: 見て、可愛いでしょう？

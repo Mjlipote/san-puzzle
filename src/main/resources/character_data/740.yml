@@ -1,0 +1,32 @@
+number: 740
+preName:
+name: 【晴れの門出】孫尚香
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 50
+capability: 20
+initHp: 384
+initAttack: 354
+initRecovery: 182
+finalHp: 1344
+finalAttack: 1062
+finalRecovery: 273
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 呉蜀同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「桃」ユニットに変化させる
+strategies:
+  -
+    name: 呉蜀の架け橋
+    statements:
+      -
+        content: 味方の「呉」「蜀」武将の攻撃力を2.5倍にする
+description: 江東の虎と呼ばれた孫堅の末娘。劉備との婚礼を前に、おてんばな彼女も珍しく淑やかな表情。「玄德さまも、かわいいって言ってくれるかな...？」

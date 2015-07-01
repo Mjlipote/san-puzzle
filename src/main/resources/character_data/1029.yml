@@ -1,0 +1,36 @@
+number: 1029
+preName:
+name: 【奇妙な親交】張遼
+rarity: 5
+group: 魏
+arm: 騎兵
+maxLevel: 99
+capability: 20
+initHp: 644
+initAttack: 277
+initRecovery: 66
+finalHp: 1610
+finalAttack: 970
+finalRecovery: 99
+breakHp: 2290
+breakAttack: 1570
+breakRecovery: 259
+skills:
+  -
+    name: 強力な威圧・絶対なる衝撃
+    turnMax: 35
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を2ターン遅らせる
+      -
+        content: 敵のHPを20%減少させる
+strategies:
+  -
+    name: 神速の使い
+    statements:
+      -
+        content: 「騎兵」武将のHPと攻撃力と回復力を1.5倍にする
+      -
+        content: 必殺技のダメージを1.5倍にする
+description: 泣く子も黙る魏の猛将軍。関羽と親交があった。一時期曹操軍に身を置いた関羽が主・劉備を求め出奔すると、張遼は忠節の篤さに感銘、黙って見送った。

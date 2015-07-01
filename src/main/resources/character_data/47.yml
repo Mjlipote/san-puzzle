@@ -1,0 +1,30 @@
+number: 47
+preName: 王朗
+name: 【会稽太守】王朗
+rarity: 3
+group: 魏
+arm: 神算
+maxLevel: 30
+capability: 5
+initHp: 234
+initAttack: 71
+initRecovery: 47
+finalHp: 519
+finalAttack: 192
+finalRecovery: 114
+breakHp: 677
+breakAttack: 272
+breakRecovery: 154
+skills:
+  -
+    name: 大国の内政
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: HPを800回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 漢王朝への忠誠に篤い、儒学に通じた政治家。孫策の江東平定に対しては、勅任を受けた城を守るべきと抗戦し、惨敗。だが治政を評価されて赦された。

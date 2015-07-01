@@ -1,0 +1,34 @@
+number: 769
+preName: 【夏色水腰姫】孫尚香
+name: 【夏色超水撃】孫尚香
+rarity: 6
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 1319
+initAttack: 676
+initRecovery: 275
+finalHp: 2440
+finalAttack: 1352
+finalRecovery: 495
+breakHp: 2720
+breakAttack: 1552
+breakRecovery: 615
+skills:
+  -
+    name: 太陽の笑顔
+    turnMax: 12
+    turnMin: 8
+    statements:
+      -
+        content: 「呉」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: えーい、濡れちゃえー！
+    statements:
+      -
+        content: 進軍時には応援を送り、部隊回復力8倍のHP回復
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値4倍の再攻撃
+description: 江東の虎と呼ばれた孫堅の末娘。只でさえ元気な彼女は、文字通り水を得た魚の様です。「あははははーびしょ濡れだぁっ！」

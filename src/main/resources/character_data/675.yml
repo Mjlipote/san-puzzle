@@ -1,0 +1,32 @@
+number: 675
+preName: 【遺言遂行】劉曄
+name: 【発石車発案】劉曄
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 23
+initHp: 899
+initAttack: 523
+initRecovery: 167
+finalHp: 2698
+finalAttack: 941
+finalRecovery: 502
+breakHp: 3018
+breakAttack: 1141
+breakRecovery: 622
+skills:
+  -
+    name: 魏軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「群」と「桃」を、「魏」に変化させる
+strategies:
+  -
+    name: 朗々たる頭脳
+    statements:
+      -
+        content: 味方の「魏」武将のHPと回復力を2倍にする
+description: 魏の政治家。冷静で剛胆な事で知られる。友人の郭嘉に推挙されて曹操に仕官し、参謀として様々な献策をする。また、官渡の戦いの折、発石車を考案。

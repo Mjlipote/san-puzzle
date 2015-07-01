@@ -1,0 +1,34 @@
+number: 1007
+preName:
+name: 【反旗掲げる餓狼】馬超
+rarity: 7
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 40
+initHp: 649
+initAttack: 541
+initRecovery: 124
+finalHp: 2596
+finalAttack: 2164
+finalRecovery: 248
+breakHp: 2956
+breakAttack: 2364
+breakRecovery: 368
+skills:
+  -
+    name: 群雄召集
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「群」「桃」ユニットに変化させる
+strategies:
+  -
+    name: 錦、慟哭する
+    statements:
+      -
+        content: 5連撃以上で全武将の攻撃力2倍
+      -
+        content: さらに、「騎兵」武将のHPと攻撃力と回復力を1.5倍
+description: 「錦馬超」と呼ばれる西の英雄。雍・涼、二州の諸侯に推され、反乱の旗手として潼関に拠る。呂布に劣らぬと評された猛将が、乱の火蓋を自ら切って落とす！

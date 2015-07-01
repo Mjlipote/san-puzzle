@@ -1,0 +1,32 @@
+number: 489
+preName: 【猜疑心】袁術
+name: 【責任転嫁】袁術
+rarity: 5
+group: 群
+arm: 剣兵
+maxLevel: 99
+capability: 16
+initHp: 2323
+initAttack: 506
+initRecovery: -1667
+finalHp: 4645
+finalAttack: 1012
+finalRecovery: -1334
+breakHp: 4885
+breakAttack: 1172
+breakRecovery: -1254
+skills:
+  -
+    name: 侮蔑の瞳
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 8ターンの間、受けるダメージを少し減少させる
+strategies:
+  -
+    name: 後漢の名門・袁家
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 袁紹の従弟で名門袁家の野心家。肥沃な南陽の地を支配していたが、袁紹操の反董卓連合結成に呼応して拳兵。反董卓連合では全軍の糧秣を管理する。

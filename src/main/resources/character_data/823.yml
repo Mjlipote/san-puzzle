@@ -1,0 +1,34 @@
+number: 823
+preName: 【敵策看破】李典
+name: 【遊軍助く斉射】李典
+rarity: 6
+group: 魏
+arm: 弓兵
+maxLevel: 99
+capability: 27
+initHp: 1825
+initAttack: 996
+initRecovery: 208
+finalHp: 2884
+finalAttack: 1494
+finalRecovery: 312
+breakHp: 3164
+breakAttack: 1694
+breakRecovery: 432
+skills:
+  -
+    name: 洞察の妙
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 当機立断の将
+    statements:
+      -
+        content: 受けるダメージを大きく減少させる
+      -
+        content: さらに味方の「弓兵」武将の攻撃力を2.5倍にする
+description: 冷静沈着な曹操軍の知将。武勇のみならず明敏な知性を持つ李典は、曹操軍の頭脳として大きく貢献し、その覇道を邁進する原動力のひとつとなった。

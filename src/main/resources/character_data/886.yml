@@ -1,0 +1,34 @@
+number: 886
+preName: 【警戒の眼】花鬘
+name: 【幼き英姿】花鬘
+rarity: 6
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 26
+initHp: 1122
+initAttack: 858
+initRecovery: 154
+finalHp: 2244
+finalAttack: 1716
+finalRecovery: 308
+breakHp: 2524
+breakAttack: 1916
+breakRecovery: 428
+skills:
+  -
+    name: 精良の戦略
+    turnMax: 8
+    turnMin: 4
+    statements:
+      -
+        content: 2ターンの間、確率で受けるダメージを0にする
+strategies:
+  -
+    name: 人犬一体
+    statements:
+      -
+        content: 4連撃以上で「群」の攻撃力があがり、最大4倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 南蛮王‧孟獲と妻‧祝融の娘。幼き頃より共に育った白き獣と一緒に戦場を駆け巡る。楽しげな少女の胸には運命の人‧関索への淡い想いが息づいていた。

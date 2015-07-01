@@ -1,0 +1,32 @@
+number: 587
+preName: 【尊大不遜】徐盛
+name: 【長江勇躍】徐盛
+rarity: 5
+group: 呉
+arm: 蛮兵
+maxLevel: 70
+capability: 14
+initHp: 762
+initAttack: 572
+initRecovery: 16
+finalHp: 2287
+finalAttack: 1431
+finalRecovery: 24
+breakHp: 2527
+breakAttack: 1591
+breakRecovery: 104
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 蛮勇なる猛攻
+    statements:
+      -
+        content: 味方の「蛮兵」武将のHPと攻撃力を1.8倍にする
+description: 度胸と義に篤いことで知られる吳の勇将。数千人を率いる黃射を僅が数百の手勢で散々に打ちのめす等、少数で大部隊を撃破することが度々あった。

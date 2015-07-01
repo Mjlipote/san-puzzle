@@ -1,0 +1,28 @@
+number: 600
+preName:
+name: 陳琳
+rarity: 2
+group: 漢
+arm: 神算
+maxLevel: 20
+capability: 3
+initHp: 122
+initAttack: 72
+initRecovery: 106
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 袁紹の幕僚で書家、文学者。官渡の戦いに先立ち、袁紹の命により打倒曹操の檄文を書くが、当の曹操に「文中の曹操という人物に激怒した」と言わしめた。

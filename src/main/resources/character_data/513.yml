@@ -1,0 +1,34 @@
+number: 513
+preName: 【孫呉の母】呉国太
+name: 【赤壁への助言】呉国太
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 22
+initHp: 983
+initAttack: 487
+initRecovery: 251
+finalHp: 2270
+finalAttack: 910
+finalRecovery: 617
+breakHp: 2910
+breakAttack: 1310
+breakRecovery: 857
+skills:
+  -
+    name: 仕置きの一手
+    turnMax: 14
+    turnMin: 7
+    statements:
+      -
+        content: 使用した武将の回復力の10倍のHPを回復させる
+strategies:
+  -
+    name: 優母の口添え
+    statements:
+      -
+        content: 敵から受けるダメージを減少させる
+      -
+        content: HPが20%以下のとき、敵から受けるダメージを激減
+description: 孫堅の第二夫人で、第一夫人呉夫人の実妹。姉や孫堅の亡き後、永く呉の国を陰から支えた。孫尚香の実母であり、国の危機に瀕して度々有用な助言をする。

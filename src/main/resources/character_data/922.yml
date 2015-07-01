@@ -1,0 +1,32 @@
+number: 922
+preName: 【無双の戦姫】呂玲綺
+name: 【凛々しき勇戦】呂玲綺
+rarity: 6
+group: 群
+arm: 槍兵
+maxLevel: 99
+capability: 25
+initHp: 1609
+initAttack: 1148
+initRecovery: 94
+finalHp: 3219
+finalAttack: 1721
+finalRecovery: 169
+breakHp: 3539
+breakAttack: 1921
+breakRecovery: 289
+skills:
+  -
+    name: 凛乎たる勇武
+    turnMax: 24
+    turnMin: 10
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「群」ユニットに変化
+strategies:
+  -
+    name: 戦場摇るがす疾駆
+    statements:
+      -
+        content: 5連撃以上で、「槍兵」武将の攻撃力を3倍
+description: 軍略

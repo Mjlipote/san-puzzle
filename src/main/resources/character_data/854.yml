@@ -1,0 +1,34 @@
+number: 854
+preName:
+name: 【道教の女仙】張姜子
+rarity: 5
+group: 群
+arm: 神算
+maxLevel: 99
+capability: 20
+initHp: 432
+initAttack: 355
+initRecovery: 162
+finalHp: 1512
+finalAttack: 994
+finalRecovery: 243
+breakHp: 2512
+breakAttack: 1434
+breakRecovery: 363
+skills:
+  -
+    name: 凡庸の戦術
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 5ターンの間、低確率で「回復封じ」、「技能封じ」、「ユニット封じ」を無効
+strategies:
+  -
+    name: 米論宇宙論
+    statements:
+      -
+        content: 「群」武将の攻撃力を2.2倍、回復力を1.5倍
+      -
+        content: 「回復封じ‧技能封じ‧ユニット封じ」を低確率で無効
+description: 道教を信仰した女仙。張済の妹で、鄒氏の義理の姉にあたる。俗世との関わりを避け、漢中の山奥で、真理‧道（タオ）との一体化を目指し、修行を重ねる。

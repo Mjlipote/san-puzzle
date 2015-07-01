@@ -1,0 +1,34 @@
+number: 986
+preName: 【勇毅冠三軍】黄忠
+name: 【覇道阻む斬撃】黄忠
+rarity: 6
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 1362
+initAttack: 884
+initRecovery: 97
+finalHp: 2723
+finalAttack: 1767
+finalRecovery: 194
+breakHp: 3043
+breakAttack: 1967
+breakRecovery: 314
+skills:
+  -
+    name: 蜀の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 勇将、此処に在り
+    statements:
+      -
+        content: 3連撃以上で「騎兵」の攻撃力があがり、最大3倍
+      -
+        content: ユニットを縦4つ繋げて消すと全武将の攻撃力1.5倍
+description: 老将軍の名で知られる、老いて益々盛んな勇将。敵将・夏侯淵の背面を奪い、会心の逆落としを敢行。大薙刀に闘魂を乗せて、天下へ至る一本道を切り開く！

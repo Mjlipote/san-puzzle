@@ -1,0 +1,30 @@
+number: 93
+preName: 劉表
+name: 【荊州刺史】劉表
+rarity: 3
+group: 漢
+arm: 剣兵
+maxLevel: 50
+capability: 13
+initHp: 68
+initAttack: 105
+initRecovery: 95
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 儒教の教え
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力5倍の「漢」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 荊州の統治者。政治力に長けており、難民や人材を広く受け入れ荊州を発展させた。また、反董卓連合への参加など、軍事にも抜け目なく力を入れている。

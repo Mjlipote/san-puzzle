@@ -1,0 +1,30 @@
+number: 459
+preName:
+name: 【呉兵熱狂】ミクファン
+rarity: 2
+group: 呉
+arm: 弓兵
+maxLevel: 10
+capability: 1
+initHp: 16
+initAttack: 42
+initRecovery: 8
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 情熱を現す円舞曲
+    turnMax: 39
+    turnMin: 
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: （プロフィール）

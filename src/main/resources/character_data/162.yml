@@ -1,0 +1,30 @@
+number: 162
+preName:
+name: 鮑信
+rarity: 1
+group: 魏
+arm: 槍兵
+maxLevel: 10
+capability: 2
+initHp: 44
+initAttack: 40
+initRecovery: 58
+finalHp: 110
+finalAttack: 100
+finalRecovery: 145
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 無私の支援
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを少し減少させる
+description: 曹操の才能を見ぬいた人格者。董卓の野心を予見し、これを討つべく多くの兵を集めた。そして、その兵を連れて期待を寄せる曹操の元へと駆けつける。

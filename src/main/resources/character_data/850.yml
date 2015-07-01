@@ -1,0 +1,34 @@
+number: 850
+preName:
+name: 【奇襲の傷跡】孫策
+rarity: 6
+group: 呉
+arm: 剣兵
+maxLevel: 50
+capability: 26
+initHp: 291
+initAttack: 451
+initRecovery: -100
+finalHp: 1310
+finalAttack: 1804
+finalRecovery: -200
+breakHp: 1630
+breakAttack: 2004
+breakRecovery: -80
+skills:
+  -
+    name: 超激化する闘争心
+    turnMax: 20
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.5倍にする
+strategies:
+  -
+    name: 逆境の炎
+    statements:
+      -
+        content: 全武将のHPが0.3倍、攻撃力が2倍になる
+      -
+        content: 攻撃力は連撃数に応じ上昇し、7連撃で最大6倍になる
+description: 若くして江東を制した戦の天才。強引な快進撃が生んだ憎惡は、殺意となり孫策に襲い掛かった。だが、いまは友と見た夢の途中。倒れることは、できないーー！

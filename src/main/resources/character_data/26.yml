@@ -1,0 +1,32 @@
+number: 26
+preName: 【先見の明】魯粛
+name: 【周瑜推挙】魯粛
+rarity: 4
+group: 呉
+arm: 神算
+maxLevel: 70
+capability: 11
+initHp: 285
+initAttack: 520
+initRecovery: 101
+finalHp: 855 
+finalAttack: 1040
+finalRecovery: 172
+breakHp: 1055
+breakAttack: 1200
+breakRecovery: 252
+skills:
+  -
+    name: 孫呉の展望
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 豪胆の弁舌
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを減少させる
+description: 孫家の名参謀。冷静に天下の形勢を見通す独自の戦力眼を持っていた。周瑜から孫策へ紹介された時も、その非凡さを認められ一目置かれる。

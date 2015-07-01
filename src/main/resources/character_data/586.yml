@@ -1,0 +1,32 @@
+number: 586
+preName:
+name: 【尊大不遜】徐盛
+rarity: 4
+group: 呉
+arm: 蛮兵
+maxLevel: 25
+capability: 7
+initHp: 299
+initAttack: 241
+initRecovery: 11
+finalHp: 897
+finalAttack: 603
+finalRecovery: 17
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 確固たる防備
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 蛮勇なる猛攻
+    statements:
+      -
+        content: 味方の「蛮兵」武将のHPと攻撃力を1.8倍にする
+description: 度胸と義に篤いことで知られる吳の勇将。山東の出身であるが、戦乱を避け吳都に移住し、孫権に見いだされた。

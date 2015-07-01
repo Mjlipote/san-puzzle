@@ -1,0 +1,32 @@
+number: 435
+preName:
+name: 【持てない】はちゅね
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 25
+capability: 11
+initHp: 289
+initAttack: 64
+initRecovery: 28
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ネギ一閃！
+    turnMax: 27
+    turnMin: 24
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力39倍の攻撃
+strategies:
+  -
+    name: お腹すいた音頭
+    statements:
+      -
+        content: はちゅねの攻撃力を3.9倍にする
+description: よくわからない。

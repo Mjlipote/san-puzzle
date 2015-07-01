@@ -1,0 +1,32 @@
+number: 955
+preName: 【道中記邂逅編】司馬懿
+name: 【道中記仮病編】司馬懿
+rarity: 3
+group: 魏
+arm: 鬼謀
+maxLevel: 15
+capability: 10
+initHp: 349
+initAttack: 224
+initRecovery: 92
+finalHp: 767
+finalAttack: 447
+finalRecovery: 184
+breakHp: 927
+breakAttack: 567
+breakRecovery: 224
+skills:
+  -
+    name: 魏への誘い（群）
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 「群」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: ほら僕、体弱いですし…ごほごほ
+    statements:
+      -
+        content: 味方の「魏」武将の回復力を1.8倍にする
+description: 司馬懿の名声を耳にした董白が、彼を仲間にしようと尋ねてきた。仮病を使い逃げ切るつもりが…。「僕、身体弱いですし…ごほごほ･･･ほんとですよ？」

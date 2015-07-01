@@ -1,0 +1,34 @@
+number: 1003
+preName:
+name: 【ひなまつり】袁氏
+rarity: 6
+group: 漢
+arm: 弓兵
+maxLevel: 99
+capability: 33
+initHp: 1159
+initAttack: 567
+initRecovery: 295
+finalHp: 2318
+finalAttack: 1134
+finalRecovery: 443
+breakHp: 2598
+breakAttack: 1334
+breakRecovery: 563
+skills:
+  -
+    name: 糧食確保（魏）漢の攻勢
+    turnMax: 14
+    turnMin: 10
+    statements:
+      -
+        content: 「魏」ユニットを「桃」ユニットに変化させる
+      -
+        content: 1ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: ちょっと！見てないで手伝うの！
+    statements:
+      -
+        content: 味方の「弓兵」武将の回復力を2.5倍にする
+description: 名門袁家の御曹司‧袁紹の末娘。にゃんこ兵を雛人形に見立てる、斬新な雛飾りを思い付いた袁氏。ところが、肝心のにゃんこ兵が豪華な衣装に興奮してしまい･･･？

@@ -1,0 +1,32 @@
+number: 486
+preName:
+name: 【栄誉の帰陣】関羽
+rarity: 5
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 16
+initHp: 
+initAttack: 
+initRecovery: 
+finalHp: 2040
+finalAttack: 666
+finalRecovery: 102
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 誉れの杯
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 軍神の片鱗
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2.2倍にする
+description: 劉備・張飛と義兄弟の契りを交わした英傑。連合軍を苦しめた豪傑・華雄を、一騎打ちで斬り捨て帰陣する。出陣前に勧められた酒が覚める前の決着だった。

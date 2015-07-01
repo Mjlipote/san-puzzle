@@ -1,0 +1,32 @@
+number: 123
+preName: 【弓の達人】夏侯淵
+name: 【疾風弓】夏侯淵
+rarity: 4
+group: 魏
+arm: 弓兵
+maxLevel: 70
+capability: 9
+initHp: 638
+initAttack: 238
+initRecovery: 142
+finalHp: 1530 
+finalAttack: 570
+finalRecovery: 369
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 疾風の勇将
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「蜀」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 将器の覚醒
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを減少させる
+description: 急襲や奇襲を得意とした名将。その迅速な行軍は「三日で五百里、六日で千里」と言われ、広い涼州の反乱勢力を短期間でことごとく壊滅させている。

@@ -1,0 +1,30 @@
+number: 172
+preName:
+name: 周倉
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 15
+capability: 4
+initHp: 257
+initAttack: 110
+initRecovery: 1
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 関羽の片腕
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 関羽の片腕。黄巾の乱での関羽の勇姿に惚れ込み、自ら配下になった。両腕一千斤の怪力を持ち、常に関羽と共に戦場を駆ける。

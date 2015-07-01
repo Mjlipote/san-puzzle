@@ -1,0 +1,32 @@
+number: 606
+preName:
+name: 【晚冬の憂い】貂蝉
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 25
+capability: 5
+initHp: 419
+initAttack: 151
+initRecovery: 106
+finalHp: 1089
+finalAttack: 378
+finalRecovery: 212
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 混乱の諫言
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 混乱させて、敵自身を攻撃させる
+strategies:
+  -
+    name: 陽も明けし美玉
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 中国四大美女の１人。王允の朝廷への思いを汲み、我が身を武器に董卓らと戦った義俠の徒と、男二人を手玉に取った妖婦の二つの顏を持つ。

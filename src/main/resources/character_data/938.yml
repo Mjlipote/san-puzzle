@@ -1,0 +1,34 @@
+number: 938
+preName:
+name: 【聖夜の贈り物】甘皇后
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 20
+initHp: 1225
+initAttack: 401
+initRecovery: 121
+finalHp: 2573
+finalAttack: 1323
+finalRecovery: 363
+breakHp: 2813
+breakAttack: 1483
+breakRecovery: 443
+skills:
+  -
+    name: 戦意高揚の煽惑
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止・ユニット封じ状態を3ターン回復する
+strategies:
+  -
+    name: 愛情手料理
+    statements:
+      -
+        content: 4兵種以上で編成時、全武将の攻撃力と回復力1.8倍
+      -
+        content: 最大HPまで回復した時、余剰値2.5倍の再攻撃
+description: 劉備と最も長く連れ添った妻。聖夜の宴に、ごちそうは不可欠。日々鍛えた料理の腕が試される！「皆が笑顔でいられる聖夜の為、腕を振るいます！」

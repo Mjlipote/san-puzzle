@@ -1,0 +1,34 @@
+number: 795
+preName: 【賢良方正】王元姫
+name: 【麗しの才媛】王元姫
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 26
+initHp: 1051
+initAttack: 841
+initRecovery: 228
+finalHp: 2101
+finalAttack: 1682
+finalRecovery: 342
+breakHp: 2381
+breakAttack: 1882
+breakRecovery: 462
+skills:
+  -
+    name: 魏の超攻勢
+    turnMax: 25
+    turnMin: 19
+    statements:
+      -
+        content: 1ターンの間、「魏」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 才女の研鑽
+    statements:
+      -
+        content: 3連撃以上で「神算」の攻撃力があがり、最大3倍
+      -
+        content: ユニットを縦4つ繋げて消すと全武将の攻撃力1.5倍
+description: 司馬昭の妻で王朗の孫。嫁いだ後も目上目下問わず謙虚に接し、また、夫の為に数々の助言をした。皇后に立てられた後も日々の稼業と質素な生活を続けた。

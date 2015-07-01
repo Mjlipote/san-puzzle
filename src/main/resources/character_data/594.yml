@@ -1,0 +1,34 @@
+number: 594
+preName:
+name: 【美しき白刃】王異
+rarity: 5
+group: 魏
+arm: 騎兵
+maxLevel: 50
+capability: 18
+initHp: 489
+initAttack: 239
+initRecovery: 8
+finalHp: 1467
+finalAttack: 717
+finalRecovery: 12
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏への誘い
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「呉」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 辺境を照らす光
+    statements:
+      -
+        content: 全勢力で編成した時、全武将の攻撃力と回復力1.5倍
+      -
+        content: 「魏」と「漢」で攻撃した時、全武将の攻撃力2.5倍
+description: 『三国志』上で戦闘への参加が明確に描かれている唯一の女性。韓遂と離別し、放浪中の馬超が冀県を襲った際は、具足を纏い夫と共に応戦し、兵を鼓舞した。

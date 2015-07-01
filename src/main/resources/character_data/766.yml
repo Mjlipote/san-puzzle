@@ -1,0 +1,32 @@
+number: 766
+preName:
+name: 【槍術の名手】趙雲
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 50
+capability: 26
+initHp: 361
+initAttack: 281
+initRecovery: 110
+finalHp: 1264
+finalAttack: 843
+finalRecovery: 220
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀軍への大変転
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: ユニットの「魏」「呉」「桃」を「蜀」に変化させる
+strategies:
+  -
+    name: 勇猛なる英姿
+    statements:
+      -
+        content: ユニットを横7つ繋げて消すと全武将の攻撃力3.5倍
+description: 心・技・体の全てが揃った勇将。槍を得意とし『涯角槍』という長さ９尺もの槍を自在に操った。入蜀に際しては、留営司馬として後方支援に徹した。

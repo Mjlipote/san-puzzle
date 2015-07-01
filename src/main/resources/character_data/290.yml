@@ -1,0 +1,30 @@
+number: 290
+preName:
+name: 文聘
+rarity: 2
+group: 魏
+arm: 蛮兵
+maxLevel: 20
+capability: 3
+initHp: 178
+initAttack: 100
+initRecovery: 22
+finalHp: 392
+finalAttack: 180
+finalRecovery: 40
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 頑強なる布陣
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを少し減少させる
+description: 誠実果断な武勇の士。荊州出身で、当初は荊州刺史である劉表に仕えた。後継である劉ソウが降伏した際には、「洲を失った罰を待つ」と謹慎した。

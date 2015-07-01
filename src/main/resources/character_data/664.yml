@@ -1,0 +1,32 @@
+number: 664
+preName:
+name: 【精兵八百騎】張遼
+rarity: 5
+group: 魏
+arm: 騎兵
+maxLevel: 50
+capability: 16
+initHp: 400
+initAttack: 282
+initRecovery: 51
+finalHp: 1200
+finalAttack: 846
+finalRecovery: 153
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 燃え上がる鬪志
+    turnMax: 25
+    turnMin: 15
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力が1.8倍になる
+strategies:
+  -
+    name: 神速神攻
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2.2倍にする
+description: 泣く子も黙る魏の猛将軍。孫権の大軍が合肥に迫った時、彼は精鋭僅か八百騎を選抜すると、牛を潰して振る舞い、敢えて城から出ての、逆撃を敢行する。

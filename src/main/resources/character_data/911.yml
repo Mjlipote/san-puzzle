@@ -1,0 +1,34 @@
+number: 911
+preName:
+name: 【美貌の女傑】鮑三娘
+rarity: 4
+group: 蜀
+arm: 騎兵
+maxLevel: 25
+capability: 11
+initHp: 400
+initAttack: 261
+initRecovery: 51
+finalHp: 1200
+finalAttack: 783
+finalRecovery: 153
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢吳よりの誘致
+    turnMax: 21
+    turnMin: 17
+    statements:
+      -
+        content: ユニットの「漢」を「蜀」に、「呉」を「桃」に変換
+strategies:
+  -
+    name: 才幹壮大にして、氣勢良く
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 鮑家荘を治める地主・鮑凱の娘。求婚者が後を絶たない程の美貌の持ち主だが、優れた武芸者でもあり「強い男以外とは絶対に結婚しない」と豪語している。

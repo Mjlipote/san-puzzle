@@ -1,0 +1,32 @@
+number: 661
+preName: 【飛将邂逅】陳宮
+name: 【逡巡なき才腕】陳宮
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1202
+initAttack: 1090
+initRecovery: 56
+finalHp: 1743
+finalAttack: 1526
+finalRecovery: 392
+breakHp: 2063
+breakAttack: 1726
+breakRecovery: 512
+skills:
+  -
+    name: 掎角之計
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「呉」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 飛将の扶翼
+    statements:
+      -
+        content: 味方の「群」武将のHPを2倍、攻撃力を1.8倍にする
+description: 呂布配下の軍師。呂布を盟主に曹操に反旗を翻すも敗退、逆に追われる身となり、劉備を頼るが、この時に劉備を放逐して徐州を奪う様、進言している。

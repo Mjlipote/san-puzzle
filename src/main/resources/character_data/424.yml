@@ -1,0 +1,32 @@
+number: 424
+preName: 【二喬の妹】小喬
+name: 【風薫る花】小喬
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 70
+capability: 14
+initHp: 845
+initAttack: 670
+initRecovery: 116
+finalHp: 1774
+finalAttack: 1273
+finalRecovery: 233
+breakHp: 2014
+breakAttack: 1433
+breakRecovery: 313
+skills:
+  -
+    name: 風薫る舞踏
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「呉」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 蝶も舞う演舞
+    statements:
+      -
+        content: 味方の「弓兵」武将の攻撃力と回復力を1.8倍にする
+description: 名士・喬公の下の娘。姉の大喬と共に「月も光を消し恥らう」はどの美人だと謳われた。彼女が周瑜の妻となったため周瑜と孫策は義兄弟の関係となった。

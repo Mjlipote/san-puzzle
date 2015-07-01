@@ -1,0 +1,32 @@
+number: 163
+preName: 鮑信
+name: 【曹操救出】鮑信
+rarity: 2
+group: 魏
+arm: 槍兵
+maxLevel: 30
+capability: 5
+initHp: 94
+initAttack: 95
+initRecovery: 138
+finalHp: 224
+finalAttack: 333
+finalRecovery: 276
+breakHp: 344
+breakAttack: 413
+breakRecovery: 316
+skills:
+  -
+    name: 捨て身の身代わり
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「呉」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: 無私の支援
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを少し減少させる
+description: 曹操の才能を見ぬいた人格者。董卓死後も曹操への協力は惜しまず、共に黄巾残党の平定に尽力する。有事には自分が身代わりになると心に決めながら…。

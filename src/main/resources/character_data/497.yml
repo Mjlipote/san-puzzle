@@ -1,0 +1,32 @@
+number: 497
+preName: 【実直なる智】張紘
+name: 【遷都の進言】張紘
+rarity: 5
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 16
+initHp: 756
+initAttack: 550
+initRecovery: 115
+finalHp: 1625
+finalAttack: 1226
+finalRecovery: 287
+breakHp: 1905
+breakAttack: 1386
+breakRecovery: 407
+skills:
+  -
+    name: 囯策の名手
+    turnMax: 12
+    turnMin: 4
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力15倍の攻撃
+strategies:
+  -
+    name: 二張の攻め手
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を2倍にする
+description: その俊才から『呉の二張』と呼ばれた参謀の一人。都により相応しい秣陵への遷都を献策、推進するが、完遂間近、孫権の家族を迎える途中で病沒した。

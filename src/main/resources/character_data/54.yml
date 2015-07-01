@@ -1,0 +1,30 @@
+number: 54
+preName:
+name: 馬元義
+rarity: 1
+group: 群
+arm: 剣兵
+maxLevel: 10
+capability: 2
+initHp: 37
+initAttack: 25
+initRecovery: 21
+finalHp: 185
+finalAttack: 63
+finalRecovery: 69
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 調達の才能
+    turnMax: 8
+    turnMin: 
+    statements:
+      -
+        content: HPを500回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 黄巾党の幹部で張角の腹心。太平道の思想に感銘を受け、黄巾党の幹部となる。その後、荊州と揚州を回り、数万人もの信徒を集めて張角と合流する。

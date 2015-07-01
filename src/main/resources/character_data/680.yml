@@ -1,0 +1,32 @@
+number: 680
+preName:
+name: 【佞言】蔡夫人
+rarity: 5
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 18
+initHp: 420
+initAttack: 352
+initRecovery: 51
+finalHp: 840
+finalAttack: 704
+finalRecovery: 102
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「蜀」と「桃」を、「漢」に変化させる
+strategies:
+  -
+    name: 意外なる諫言
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力と回復力を2倍にする
+description: 荊州刺史‧劉表の後妻で、その重臣‧蔡瑁の実姉。前妻の子を廃し、実子を後継ぎに立てようと蔡瑁と共に画策し、劉表の信頼の厚い劉備を疎む。

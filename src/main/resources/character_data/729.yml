@@ -1,0 +1,32 @@
+number: 729
+preName: 【蛇矛娘々】張姫
+name: 【舞矛娘々】張姫
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 27
+initHp: 1738
+initAttack: 1345
+initRecovery: 192
+finalHp: 2520
+finalAttack: 1749
+finalRecovery: 230
+breakHp: 2800
+breakAttack: 1949
+breakRecovery: 350
+skills:
+  -
+    name: 蛇矛宴舞
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「蜀」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 武闘姫の激励
+    statements:
+      -
+        content: 「蜀」武将の攻撃力を2.2倍、回復力を1.5倍にする
+description: 蜀の猛将・張飛の次女。実戦でますます腕前を磨いた元気娘。戦場では可憐に舞う彼女だが、その武勇のせいか未だ色恋沙汰に縁がないのは、珠にキズ。

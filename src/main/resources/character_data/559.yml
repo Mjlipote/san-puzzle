@@ -1,0 +1,32 @@
+number: 559
+preName: 【馬子にも衣装】ムック
+name: 【七転八倒】ムック
+rarity: 3
+group: 魏
+arm: 鬼謀
+maxLevel: 50
+capability: 8
+initHp: 425
+initAttack: 389
+initRecovery: 73
+finalHp: 630
+finalAttack: 700
+finalRecovery: 132
+breakHp: 798
+breakAttack: 780
+breakRecovery: 172
+skills:
+  -
+    name: おいつめあすぞ～！
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 混乱させて、敵自身を攻撃させる
+strategies:
+  -
+    name: よめています！
+    statements:
+      -
+        content: 受けるダメージを減少させる
+description: 

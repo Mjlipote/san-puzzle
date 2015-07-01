@@ -1,0 +1,32 @@
+number: 41
+preName: 【黄巾改心】廖化
+name: 【歴戦の士】廖化
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 30
+capability: 3
+initHp: 242
+initAttack: 102
+initRecovery: 46
+finalHp: 424
+finalAttack: 281
+finalRecovery: 69
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 劉備軍転身
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: 歴戦の勇士
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを少し減少させる
+description: 元黄巾賊の歴戦の将。蜀攻略の際に関羽に同行を許され、その後も姜維の北伐にまで先鋒として参加するなど生涯を戦場で過ごしていく。

@@ -1,0 +1,32 @@
+number: 428
+preName: 【呂布正妻】厳氏
+name: 【依存する心】厳氏
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 70
+capability: 14
+initHp: 724
+initAttack: 601
+initRecovery: 221
+finalHp: 1811
+finalAttack: 1082
+finalRecovery: 309
+breakHp: 2051
+breakAttack: 1242
+breakRecovery: 389
+skills:
+  -
+    name: 高尚と高慢の狭間
+    turnMax: 17
+    turnMin: 12
+    statements:
+      -
+        content: 敵単体にHPが低いほど、強力な攻撃を行う
+strategies:
+  -
+    name: そばにいてほしい
+    statements:
+      -
+        content: 味方の「群」武将のHPと回復力を1.8倍にする
+description: 呂布の正妻。曹操との戦いで籠城した折、出陣を勧めた陳宮の妙策に猛反対する。家族と一緒にいたかっただけの厳氏の叫びは、結果、呂布の破滅を招いた。

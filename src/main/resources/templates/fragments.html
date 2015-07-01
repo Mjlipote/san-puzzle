@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+
+<div th:fragment="character-detail(chPage)" class="container-fluid">
+	<div class="row">
+		<th:block th:each="character : ${chPage}">
+			<div class="row">
+				<div class="col-xs-2 col-sm-2 col-md-2">
+					No.
+					<span th:text="${character.number}"></span>
+					<span th:text="${character.name}"></span>
+				</div>
+				<div class="col-xs-3 col-sm-3 col-md-3">
+					<div class="row">
+						<div class="col-xs-4 col-sm-4 col-md-4">Level</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">Max</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">限突</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-2 col-sm-2 col-md-2">
+					<img alt="#"
+						th:src="@{${ '/avatar/avatar-' + character.number + '.jpg' }}"></img>
+				</div>
+				<div class="col-xs-3 col-sm-3 col-md-3">
+					<div class="row">
+						<div class="col-xs-4 col-sm-4 col-md-4"></div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.maxLevel}"></span>
+						</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.maxLevel} + 40"></span>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-4 col-sm-4 col-md-4">HP</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.finalHp}"></span>
+						</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.breakHp}"></span>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-4 col-sm-4 col-md-4">攻撃</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.finalAttack}"></span>
+						</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.breakAttack}"></span>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-xs-4 col-sm-4 col-md-4">回復</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.finalRecovery}"></span>
+						</div>
+						<div class="col-xs-4 col-sm-4 col-md-4">
+							<span th:text="${character.breakRecovery}"></span>
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-1 col-sm-1 col-md-1">
+					<div class="row"></div>
+					<div class="row">技能</div>
+					<div class="row">軍略</div>
+				</div>
+				<div class="col-xs-6 col-sm-6 col-md-6">
+					<div class="row"></div>
+					<div class="row">
+						<div>
+							<th:block th:each="skill : ${character.skills}">
+								<span th:text="${skill.name}"></span>
+								<th:block th:each="statement : ${skill.statements}">
+									<span th:text="${statement.content}"></span>
+								</th:block>
+							</th:block>
+						</div>
+					</div>
+					<div class="row">
+						<div>
+							<th:block th:each="strategy : ${character.strategies}">
+								<span th:text="${strategy.name}"></span>
+								<th:block th:each="statement : ${strategy.statements}">
+									<span th:text="${statement.content}"></span>
+								</th:block>
+							</th:block>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-2 col-sm-2 col-md-2">
+					<th:block th:each="i : ${#numbers.sequence(1, character.rarity)}">
+						★
+						</th:block>
+					<th:block th:if="${character.finalRarity > character.rarity}"
+						th:each="i : ${#numbers.sequence(1, character.finalRarity - character.rarity)}">
+						☆
+						</th:block>
+				</div>
+				<div class="col-xs-3 col-sm-3 col-md-3">
+					戦力
+					<th:block th:text="${character.capability}"></th:block>
+				</div>
+			</div>
+		</th:block>
+	</div>
+</div>
+
+</html>

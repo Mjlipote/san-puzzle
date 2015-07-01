@@ -1,0 +1,32 @@
+number: 567
+preName: 【慧眼の士？】ムック
+name: 【周章狼狽】ムック
+rarity: 3
+group: 群
+arm: 鬼謀
+maxLevel: 50
+capability: 8
+initHp: 287
+initAttack: 420
+initRecovery: 117
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: あわわ…たいへん！
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 「蜀」ユニットを「桃」ユニットに変化させる
+strategies:
+  -
+    name: さくせんどおりですぞ～
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを減少させる
+description: ムックも中々サマになってきましたね？　いつもは応援だけだから、とっても楽しそう！「戦場のすべて、我が掌中に収めよう！」

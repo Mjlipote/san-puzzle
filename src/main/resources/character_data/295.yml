@@ -1,0 +1,30 @@
+number: 295
+preName: 胡車児
+name: 【鉄戟強奪】胡車児
+rarity: 3
+group: 群
+arm: 蛮兵
+maxLevel: 50
+capability: 6
+initHp: 166
+initAttack: 314
+initRecovery: 26
+finalHp: 349
+finalAttack: 690
+finalRecovery: 51
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 無音の暗殺術
+    turnMax: 28
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力１０倍の攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 張繍配下の武将。主君・張繍の命を受け、曹操の警護を務める典韋の鉄戟を盗み出す。その後典韋をしとめたとも、道連れに殺されたとも諸説ある。

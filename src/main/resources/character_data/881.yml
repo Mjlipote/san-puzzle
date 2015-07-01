@@ -1,0 +1,34 @@
+number: 881
+preName:
+name: 【軍神の血脈】関索
+rarity: 5
+group: 蜀
+arm: 剣兵
+maxLevel: 50
+capability: 21
+initHp: 527
+initAttack: 287
+initRecovery: 34
+finalHp: 1581
+finalAttack: 861
+finalRecovery: 102
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 絕対なる激衝撃
+    turnMax: 30
+    turnMin: 18
+    statements:
+      -
+        content: 敵のHPを30%減少させる
+strategies:
+  -
+    name: 鮮美透涼
+    statements:
+      -
+        content: 4連撃以上で「蜀」の攻撃力があがり、最大4倍
+      -
+        content: ユニットを動かせる時間がちょっと延びる
+description: 軍神‧関羽の息子。幼い時世に離別していた父の下へ、妻と母を伴い訪れる。その生い立ちは謎めいているが、多くの人心を得る程の確かな才覚を持つ。

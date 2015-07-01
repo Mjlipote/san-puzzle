@@ -1,0 +1,34 @@
+number: 898
+preName:
+name: 【パン食い競争】夏侯月姫
+rarity: 5
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 20
+initHp: 652
+initAttack: 501
+initRecovery: 88
+finalHp: 2282
+finalAttack: 1553
+finalRecovery: 264
+breakHp: 2562
+breakAttack: 1713
+breakRecovery: 384
+skills:
+  -
+    name: 蜀軍への転向
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「呉」と「群」ユニットを「蜀」ユニットに変換
+strategies:
+  -
+    name: どか～ん♪
+    statements:
+      -
+        content: 「呉」「蜀」「群」で攻撃した時、全武将の攻撃力2倍
+      -
+        content: 「魏」「蜀」「漢」で攻撃した時、全武将の攻撃力2倍
+description: 張飛の妻で、魏の将‧夏侯淵の姪にあたる女性。焼きたてパンの匂いに誘われた夏侯月姫は、ふらふらした足取りで參加。パンを咥えて、気分はご機嫌。

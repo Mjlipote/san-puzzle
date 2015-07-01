@@ -1,0 +1,32 @@
+number: 39
+preName: 祖茂
+name: 【囮役】祖茂
+rarity: 2
+group: 呉
+arm: 剣兵
+maxLevel: 30
+capability: 3
+initHp: 108
+initAttack: 183
+initRecovery: 31
+finalHp: 190
+finalAttack: 503
+finalRecovery: 46
+breakHp: 270
+breakAttack: 583
+breakRecovery: 86
+skills:
+  -
+    name: 決死の囮
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「桃」ユニットを「呉」ユニットに変化させる
+strategies:
+  -
+    name: 孫家の忠臣
+    statements:
+      -
+        content: 受けるダメージを少し減少させる
+description: 主君の身代わりとなった忠義の将。孫堅が董卓軍・華雄の追撃隊に追われた時に、彼の赤い頭巾を自ら被り、囮となって孫堅を逃している。

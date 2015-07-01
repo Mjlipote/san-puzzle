@@ -1,0 +1,32 @@
+number: 528
+preName:
+name: 【亡命単于】於夫羅
+rarity: 4
+group: 群
+arm: 剣兵
+maxLevel: 35
+capability: 7
+initHp: 398
+initAttack: 246
+initRecovery: 52
+finalHp: 950
+finalAttack: 642
+finalRecovery: 110
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 単于の矜持
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 3ターンの間、使用した武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 不屈なる蛮王
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 南匈奴の悲劇の単于（王）。霊帝に協力して国を離れた隙に、謀反が起き、単于である父が殺される。異郷で単于の座を継ぐが、帰国は遂に叶わなかった。

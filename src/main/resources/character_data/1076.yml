@@ -1,0 +1,36 @@
+number: 1076
+preName: 【月雪花】趙雪
+name: 【天駆ける龍】趙雪
+rarity: 6
+group: 蜀
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 1252
+initAttack: 1216
+initRecovery: 257
+finalHp: 2505
+finalAttack: 1824
+finalRecovery: 462
+breakHp: 2825
+breakAttack: 2024
+breakRecovery: 582
+skills:
+  -
+    name: 蜀の誘い（群）蜀の攻勢
+    turnMax: 11
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「蜀」ユニットに変化させる
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 雲よりいづる雪
+    statements:
+      -
+        content: 「弓兵」武将のHPと攻撃力を2倍、回復力を1.2倍
+      -
+        content: さらに、6連撃以上で、全武将の攻撃力を1.8倍
+description: 趙雲と孫軟児の間に生まれた娘。朗々でさっぱりとした性格だが、その胸の内には、蜀を背負って戦う覚悟と大志を秘めており、今日も関平と共に戦場を駆ける。

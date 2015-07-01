@@ -1,0 +1,32 @@
+number: 646
+preName: 【大将軍】張勲
+name: 【迸る動摇】張勲
+rarity: 5
+group: 群
+arm: 剣兵
+maxLevel: 70
+capability: 14
+initHp: 740
+initAttack: 582
+initRecovery: 59
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 2089
+breakAttack: 1440
+breakRecovery: 168
+skills:
+  -
+    name: 震撼の攻め
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 虚栄の誇り
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力と回復力を1.8倍にする
+description: 袁術配下の武将。袁術が没落して、死亡した後は、楊洪らと共に、以前、交友のあった孫策を頼ろうとしたが、その道中に劉勲に攻撃されて捕らえられた。

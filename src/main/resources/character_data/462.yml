@@ -1,0 +1,30 @@
+number: 462
+preName:
+name: 【群兵歓喜】ミクファン
+rarity: 2
+group: 群
+arm: 弓兵
+maxLevel: 10
+capability: 1
+initHp: 16
+initAttack: 42
+initRecovery: 8
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 歓声混じる交響曲
+    turnMax: 39
+    turnMin: 
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 

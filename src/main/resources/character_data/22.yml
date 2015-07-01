@@ -1,0 +1,32 @@
+number: 22
+preName: 【西涼の謀略家】賈ク
+name: 【張繍の懐刀】賈ク
+rarity: 3
+group: 魏
+arm: 鬼謀
+maxLevel: 25
+capability: 5
+initHp: 116
+initAttack: 176
+initRecovery: 48
+finalHp: 319
+finalAttack: 562
+finalRecovery: 102
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 謀士の奇襲
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 混乱させて、敵自身を攻撃させる
+strategies:
+  -
+    name: 冷酷なる謀略
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを少し減少させる
+description: 曹操軍随一の謀士。曹操軍に加わる前は張繍の懐刀として暗躍。宛城では典韋・曹昂を謀殺するなど曹操軍に対して甚大な被害を与える。

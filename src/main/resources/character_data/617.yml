@@ -1,0 +1,32 @@
+number: 617
+preName: 【花より団子】張母
+name: 【満腹】張母
+rarity: 6
+group: 群
+arm: 神算
+maxLevel: 99
+capability: 23
+initHp: 921
+initAttack: 349
+initRecovery: 361
+finalHp: 2578
+finalAttack: 1047
+finalRecovery: 722
+breakHp: 2858
+breakAttack: 1247
+breakRecovery: 842
+skills:
+  -
+    name: 魏漢よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「魏」を「群」に、「漢」を「桃」に変換に変換
+strategies:
+  -
+    name: お米の力
+    statements:
+      -
+        content: 「群」武将のHPと攻撃力と回復力を1.8倍にする
+description: 五米道の前身教団の美貌の女で張魯の母。食い気を満たし、お酒をみたい様ですが...「腹がくちくて一も飲めん...」

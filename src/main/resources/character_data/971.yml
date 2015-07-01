@@ -1,0 +1,34 @@
+number: 971
+preName:
+name: 【もう一つの可能性】曹操
+rarity: 7
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 40
+initHp: 943
+initAttack: 716
+initRecovery: 55
+finalHp: 3772
+finalAttack: 1790
+finalRecovery: 165
+breakHp: 4172
+breakAttack: 1990
+breakRecovery: 285
+skills:
+  -
+    name: 魏軍集結
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 倚天の剣・青紅の剣
+    statements:
+      -
+        content: HP26％以上の時、全武将の攻撃力2.5倍
+      -
+        content: HP25％以下の時、全武将の攻撃力を3.5倍
+description: 中原の覇者として、天下に手を伸ばした男のもう一つの可能性。長坂の地に、生涯の敵と認めた劉備を追う曹操は、若かりし頃と同じ苛烈な戦ぶりを見せた。

@@ -1,0 +1,34 @@
+number: 786
+preName: 【夏色魅惑】祝融
+name: 【夏色快活】祝融
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 16
+initHp: 1272
+initAttack: 638
+initRecovery: 222
+finalHp: 2290
+finalAttack: 1149
+finalRecovery: 333
+breakHp: 2530
+breakAttack: 1309
+breakRecovery: 413
+skills:
+  -
+    name: 群への誘い（漢）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 脱いじゃおうっかな～
+    statements:
+      -
+        content: 「蛮兵」武将の攻撃力と回復力を1.8倍
+      -
+        content: 戦闘中、最大HPまで回復した時、余剰値2倍の再攻撃
+description: 南方の有力豪族‧孟獲の妻。いつもと違う彼女に、旦那の孟獲もどぎまぎしています。「浜辺の砂より熱くしてあげるっ！」

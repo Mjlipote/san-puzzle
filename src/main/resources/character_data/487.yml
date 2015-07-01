@@ -1,0 +1,32 @@
+number: 487
+preName: 【栄誉の帰陣】関羽
+name: 【飛将激闘】関羽
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 22
+initHp: 1734
+initAttack: 633
+initRecovery: 97
+finalHp: 3468
+finalAttack: 1265
+finalRecovery: 145
+breakHp: 3788
+breakAttack: 1465
+breakRecovery: 265
+skills:
+  -
+    name: 誉れの杯
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 軍神の片鱗
+    statements:
+      -
+        content: 味方の「蜀」武将の攻撃力を2.2倍にする
+description: 劉備・張飛との義兄弟の契りを交わした英傑。華雄を斬り、武名を轟かせた関羽の前に、呂布が立ち塞がる。天下無双の座を巡り、両雄が虎牢関で激突する！

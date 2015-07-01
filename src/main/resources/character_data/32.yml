@@ -1,0 +1,32 @@
+number: 32
+preName: 【博士出仕】盧植
+name: 【劉備の師】盧植
+rarity: 4
+group: 漢
+arm: 神算
+maxLevel: 70
+capability: 11
+initHp: 387
+initAttack: 379
+initRecovery: 103
+finalHp: 1161
+finalAttack: 948
+finalRecovery: 154
+breakHp: 1341
+breakAttack: 1068
+breakRecovery: 234
+skills:
+  -
+    name: 黄巾征伐
+    turnMax: 25
+    turnMin: 17
+    statements:
+      -
+        content: 敵の「群」武将全員に超特大「漢」攻撃
+strategies:
+  -
+    name: 憂国の烈士
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 知勇兼備の憂国の将軍。将として蛮族を平定するも、学識より将としての才を買われたため辞職。幽州に戻ってからは劉備や公孫サンに学問を教えている。

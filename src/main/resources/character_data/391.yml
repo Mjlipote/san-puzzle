@@ -1,0 +1,30 @@
+number: 391
+preName: 厳白虎
+name: 【東呉の徳王】厳白虎
+rarity: 3
+group: 群
+arm: 蛮兵
+maxLevel: 50
+capability: 8
+initHp: 566
+initAttack: 264
+initRecovery: 29
+finalHp: 1415
+finalAttack: 527
+finalRecovery: 59
+breakHp: 1575
+breakAttack: 607
+breakRecovery: 99
+skills:
+  -
+    name: 強奪王
+    turnMax: 18
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: なし
+    statements:
+description: 呉郡の豪族で『東呉の徳王』を自称する。孫策の軍勢を恐れた彼は弟を和睦の使者として送るが、和睦も降伏も赦されず失敗。厳白虎は戦わずに逃走した。

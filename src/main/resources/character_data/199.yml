@@ -1,0 +1,30 @@
+number: 199
+preName:
+name: 漢軍剣兵
+rarity: 1
+group: 漢
+arm: 剣兵
+maxLevel: 10
+capability: 1
+initHp: 12
+initAttack: 87
+initRecovery: 10
+finalHp: 18
+finalAttack: 131
+finalRecovery: 15
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢軍兵の剣舞
+    turnMax: 4
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「漢」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 漢軍の兵卒。漢王朝直属の兵、ならびに漢王朝に縁のある勢力の兵。漢王朝に縁のある勢力の兵。漢王朝に仕えていることを誇りに思う、気高き兵士たちである。

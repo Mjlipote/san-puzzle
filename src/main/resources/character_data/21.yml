@@ -1,0 +1,30 @@
+number: 21
+preName:
+name: 【西涼の謀略家】賈ク
+rarity: 2
+group: 魏
+arm: 鬼謀
+maxLevel: 15
+capability: 2
+initHp: 39
+initAttack: 37
+initRecovery: 10
+finalHp: 137
+finalAttack: 185
+finalRecovery: 50
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 冷酷なる謀略
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを少し減少させる
+description: 曹操軍随一の謀士。元は李カクの参謀。董卓亡き後、後に長安を急襲する策を授ける。これにより、李カクは長安と献帝を手中にして司州の実権を握った。

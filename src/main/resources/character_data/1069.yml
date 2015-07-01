@@ -1,0 +1,34 @@
+number: 1069
+preName:
+name: 【男性部門一位】諸葛亮
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 830
+initAttack: 410
+initRecovery: 201
+finalHp: 2490
+finalAttack: 1763
+finalRecovery: 402
+breakHp: 2810
+breakAttack: 1963
+breakRecovery: 522
+skills:
+  -
+    name: 蜀の大速攻勢
+    turnMax: 12
+    turnMin: 6
+    statements:
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 今の私は、実に冴えていますよ？
+    statements:
+      -
+        content: 味方の「蜀」武将のHPと攻撃力を1.8倍にする
+      -
+        content: 必殺技の威力を2.5倍にする
+description: 第三回プレイヤーアンケートの男性武将部門で見事一位を獲得した劉備配下の軍師。この度の結果も全て予測通りとばかりに、得意げな笑みを浮かべている。

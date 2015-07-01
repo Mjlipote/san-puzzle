@@ -1,0 +1,36 @@
+number: 1045
+preName: 【不屈の王】孟獲
+name: 【南蛮王此処に在り】孟獲
+rarity: 6
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 25
+initHp: 
+initAttack: 
+initRecovery: 
+finalHp: 3060
+finalAttack: 1824
+finalRecovery: 177
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強烈な威圧・燃え上がる闘志
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+      -
+        content: 1ターンの間、使用した武将の攻撃力が1.8倍になる
+strategies:
+  -
+    name: 南蛮王の威勢
+    statements:
+      -
+        content: 味方の「蛮兵」の攻撃力を3倍にする
+      -
+        content: 受けるダメージを大きく減少させる
+description: 益州南部に位置する南中の豪族。諸葛亮が繰り出す兵略に敗れても、奇怪な兵器に膝を屈しても、孟獲は南蛮王の誇りを支えに、同じ数だけ立ち上がる――！

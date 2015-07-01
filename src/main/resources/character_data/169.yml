@@ -1,0 +1,30 @@
+number: 169
+preName: 張コウ
+name: 【平狄将軍】張コウ
+rarity: 3
+group: 魏
+arm: 槍兵
+maxLevel: 50
+capability: 7
+initHp: 270
+initAttack: 162
+initRecovery: 80
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 971
+breakAttack: 567
+breakRecovery: 279
+skills:
+  -
+    name: 魏武の名将
+    turnMax: 14
+    turnMin: 6
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 生涯を戦場で過ごした歴戦の勇将。曹操群軍加入後の張コウの活躍は目覚しく、鳥丸征伐や潼関、さらに、その後も諸葛亮の北伐まで戦場で活躍し続ける。

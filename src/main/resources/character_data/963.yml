@@ -1,0 +1,34 @@
+number: 963
+preName:
+name: 【新年の祝い】花鬘
+rarity: 5
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 25
+initHp: 1007
+initAttack: 391
+initRecovery: 135
+finalHp: 2820
+finalAttack: 1564
+finalRecovery: 243
+breakHp: 3100
+breakAttack: 1724
+breakRecovery: 363
+skills:
+  -
+    name: 群の速攻勢
+    turnMax: 10
+    turnMin: 4
+    statements:
+      -
+        content: 1ターンの間、「群」武将の攻撃力を1.5倍にする
+strategies:
+  -
+    name: 休息の一時
+    statements:
+      -
+        content: 味方の「群」武将のHPと攻撃力を1.8倍にする
+      -
+        content: 必殺技の威力を2倍にする
+description: 南蛮王‧孟獲と妻‧祝融の娘。いつもは血気盛んな南蛮の将も、お正月ばかりはおやすみモード。花鬘もこたつでぬくぬく休憩中。「んぅ...ふぁ？　どうしたの？」

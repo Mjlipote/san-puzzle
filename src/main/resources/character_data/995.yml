@@ -1,0 +1,36 @@
+number: 995
+preName:
+name: 【贈る想いの形】袁姫
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 853
+initAttack: 397
+initRecovery: 214
+finalHp: 2559
+finalAttack: 1707
+finalRecovery: 458
+breakHp: 2839
+breakAttack: 1907
+breakRecovery: 578
+skills:
+  -
+    name: 群の誘い（呉）群の攻勢
+    turnMax: 11
+    turnMin: 5
+    statements:
+      -
+        content: 「呉」ユニットを「群」ユニットに変化させる
+      -
+        content: 1ターンの間、「群」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: もっと、もっと、愛をこめなくちゃ
+    statements:
+      -
+        content: 「鬼謀」武将のHPと攻撃力を1.8倍、回復力を1.5倍
+      -
+        content: 必殺技発動に必要なチャージ数が3減少する
+description: 袁術の幸薄い娘。愛する孫権に気持ちを伝えたい。そう願った袁姫は、チョコレートの自作を開始する。隠し味は、もちろん溢れてやまない「愛」である。

@@ -1,0 +1,32 @@
+number: 338
+preName:
+name: 【鈴の猛将】甘寧
+rarity: 6
+group: 呉
+arm: 騎兵
+maxLevel: 99
+capability: 40
+initHp: 472
+initAttack: 350
+initRecovery: 96
+finalHp: 1888
+finalAttack: 1750
+finalRecovery: 192
+breakHp: 2168
+breakAttack: 1950
+breakRecovery: 312
+skills:
+  -
+    name: 江賊の流儀
+    turnMax: 18
+    turnMin: 8
+    statements:
+      -
+        content: 1ターンの間、使用した武将の攻撃力を2.2倍にする
+strategies:
+  -
+    name: 鈴の音の響き
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を2倍にする
+description: 遊侠を好み、攻撃的な猛将であるが、書に親しむ一面もあり、戦略にも長ける。任侠時代から鈴と羽根飾りを常に身に付け、自分の目印としていた。

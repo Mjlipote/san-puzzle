@@ -1,0 +1,34 @@
+number: 899
+preName:
+name: 【チアガール】貂蝉
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 712
+initAttack: 467
+initRecovery: 116
+finalHp: 2492
+finalAttack: 1401
+finalRecovery: 348
+breakHp: 2772
+breakAttack: 1561
+breakRecovery: 508
+skills:
+  -
+    name: 群雄への転向
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: 「呉」と「蜀」ユニットを「群」ユニットに変換
+strategies:
+  -
+    name: がんばれ♪がんばれ♪
+    statements:
+      -
+        content: 「呉」「蜀」「群」で攻撃した時、全武将の攻撃力2倍
+      -
+        content: 「魏」「漢」「群」で攻撃した時、全武将の攻撃力2倍
+description: 中国四大美女の1人。味方の激励を頼まれ、貂蝉はひらひらした異国の装身具に袖を通す。艶やかな鼓舞の舞に、運動会はますますの盛り上がりを見せる。

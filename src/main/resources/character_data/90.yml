@@ -1,0 +1,30 @@
+number: 90
+preName:
+name: 蹇碩
+rarity: 1
+group: 漢
+arm: 鬼謀
+maxLevel: 15
+capability: 5
+initHp: 31
+initAttack: 40
+initRecovery: 62
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 悪質な報復
+    turnMax: 12
+    turnMin: 
+    statements:
+      -
+        content: 1ターンの間、敵の防御力がダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 十常侍の１人。北部尉の曹操とは因縁浅からぬ仲で、叔父が洛陽北門で誅伐させられたことを根に持ち、いつか報復することを心に誓っている。

@@ -1,0 +1,32 @@
+number: 438
+preName: 【雪の歌姫】雪ミク
+name: 【新雪の魔法】雪ミク
+rarity: 5
+group: 魏
+arm: 神算
+maxLevel: 70
+capability: 16
+initHp: 752
+initAttack: 195
+initRecovery: 204
+finalHp: 1900
+finalAttack: 420
+finalRecovery: 517
+breakHp: 2140
+breakAttack: 580
+breakRecovery: 597
+skills:
+  -
+    name: 雪の贈り物
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: 部隊の回復合計の2.5倍のHPを回復させる
+strategies:
+  -
+    name: 幸せになーれ♪
+    statements:
+      -
+        content: ユニットを消した時の回復力の3.9倍のHPを回復
+description: 雪の終南山に、新たに舞い降りた天女の一人。友情パワーを受けて変身する、雪の魔法少女という触れ込み。正体は謎。「ふわふわ雪の魔法だよ！」

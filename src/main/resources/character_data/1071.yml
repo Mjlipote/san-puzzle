@@ -1,0 +1,34 @@
+number: 1071
+preName:
+name: 【曹家嫡男】曹昂
+rarity: 3
+group: 魏
+arm: 騎兵
+maxLevel: 25
+capability: 8
+initHp: 130
+initAttack: 100
+initRecovery: 20
+finalHp: 780
+finalAttack: 400
+finalRecovery: 80
+breakHp: 940
+breakAttack: 520
+breakRecovery: 160
+skills:
+  -
+    name: 絶対の防備
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 5ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 身命を賭して
+    statements:
+      -
+        content: 味方の「騎兵」武将のHPと攻撃力を1.5倍にする
+      -
+        content: さらにHPが満タンの時、全武将の攻撃力を1.5倍
+description: 曹操の長男。生母の劉夫人が早くに亡くなったため、丁夫人に育てられる。両親から将来を期待されており、曹昂本人も大功を立てる日を夢見ていた。

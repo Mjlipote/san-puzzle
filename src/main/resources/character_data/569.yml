@@ -1,0 +1,30 @@
+number: 569
+preName: 【なりきりムック】弓兵
+name: 【なりきりムック】上級弓兵
+rarity: 2
+group: 呉
+arm: 弓兵
+maxLevel: 30
+capability: 5
+initHp: 126
+initAttack: 198
+initRecovery: 21
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ムック直伝弓術
+    turnMax: 28
+    turnMin: 
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力10倍の攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 元孫家軍の兵卒。弓矢の扱いが巧く、熟練の域に達している。またムックとの連携にも優れ、いつでも命令通りの場所に弓矢を当てることができる。

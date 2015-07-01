@@ -1,0 +1,32 @@
+number: 535
+preName: 【鬼神】関羽
+name: 【修羅】関羽
+rarity: 7
+group: 魏
+arm: 騎兵
+maxLevel: 99
+capability: 35
+initHp: 1131
+initAttack: 958
+initRecovery: 9
+finalHp: 3394
+finalAttack: 2011
+finalRecovery: 13
+breakHp: 3754
+breakAttack: 2211
+breakRecovery: 133
+skills:
+  -
+    name: 鬼神彷徨
+    turnMax: 34
+    turnMin: 20
+    statements:
+      -
+        content: 敵のHPを35%減少させる
+strategies:
+  -
+    name: 修羅道を征く青龍
+    statements:
+      -
+        content: 4連撃以上で攻撃力が上昇し最大3.5倍になる
+description: 劉備・張飛と義兄弟の契りを交わした英傑。曹操から破格の厚遇を受け、深く感じ入るも、義兄弟の魂の繋がりには及ばず、と、曹操軍內で孤高を貫く。

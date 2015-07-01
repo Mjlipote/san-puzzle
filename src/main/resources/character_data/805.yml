@@ -1,0 +1,34 @@
+number: 805
+preName: 【咬牙切歯】夏侯惇
+name: 【撃滅の一振】夏侯惇
+rarity: 7
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 40
+initHp: 1612
+initAttack: 781
+initRecovery: 9
+finalHp: 3546
+finalAttack: 1952
+finalRecovery: 15
+breakHp: 3946
+breakAttack: 2152
+breakRecovery: 135
+skills:
+  -
+    name: 魏軍への大変転
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: ユニットの「漢」「群」「桃」を「魏」に変化させる
+strategies:
+  -
+    name: 羅刹の猛攻
+    statements:
+      -
+        content: 4連撃以上で攻撃力があがり、最大3倍になる
+      -
+        content: ユニットを動かせる時間が延びる
+description: 曹操軍最古参の隻眼将軍。親に貰った身体を傷つけられた、と左目に刺さった矢で戦意を高めた彼は、抜け落ちた己の目玉を喰らい羅刹の勢いで戦う。

@@ -1,0 +1,32 @@
+number: 637
+preName: 【兵糧不送】袁術－今日ぱず
+name: 【袁家対立】袁術
+rarity: 5
+group: 群
+arm: 剣兵
+maxLevel: 99
+capability: 10
+initHp: 302
+initAttack: 260
+initRecovery: 69
+finalHp: 2308
+finalAttack: 840
+finalRecovery: 261
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 名門の大攻勢
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 群雄の威信
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 

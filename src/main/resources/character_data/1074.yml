@@ -1,0 +1,32 @@
+number: 1074
+preName: 【江陵防衛】朱然
+name: 【不屈の魂】朱然
+rarity: 5
+group: 呉
+arm: 剣兵
+maxLevel: 70
+capability: 16
+initHp: 754
+initAttack: 294
+initRecovery: 120
+finalHp: 2263
+finalAttack: 810
+finalRecovery: 216
+breakHp: 2543
+breakAttack: 970
+breakRecovery: 336
+skills:
+  -
+    name: 呉蜀漢同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「漢」ユニットに変化させる
+strategies:
+  -
+    name: 孫呉の守護者
+    statements:
+      -
+        content: 味方の「剣兵」武将の攻撃力を1.5倍にする、さらに6連撃以上で全武将の攻撃力を1.8倍
+description: 慎重で冷静な呉の名将。曹丕による呉侵攻の際、江陵の守りを、務める。逃げ場のない城の中、僅か５千の兵で半年に及ぶ功囲に耐え抜き、ついに魏を退けた。

@@ -1,0 +1,30 @@
+number: 367
+preName:
+name: 楊松（ようまつ）
+rarity: 2
+group: 群
+arm: 鬼謀
+maxLevel: 20
+capability: 6
+initHp: 171
+initAttack: 181
+initRecovery: 22
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 強欲の対価
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 自分のHPを少し減少させ、敵単体にダメージを与える
+strategies:
+  -
+    name: なし
+    statements:
+description: 五斗米道の教主・張魯の配下。私腹を肥やすコトにのみ執心した佞臣。客将・馬超の離反も買収された楊松の讒言によるものであった。

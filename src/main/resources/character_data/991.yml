@@ -1,0 +1,36 @@
+number: 991
+preName:
+name: 【贈る想いの形】張春華
+rarity: 5
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 770
+initAttack: 461
+initRecovery: 214
+finalHp: 2156
+finalAttack: 1614
+finalRecovery: 407
+breakHp: 2396
+breakAttack: 1774
+breakRecovery: 487
+skills:
+  -
+    name: 糧食確保（漢）継戦幇助
+    turnMax: 9
+    turnMin: 5
+    statements:
+      -
+        content: 「漢」ユニットを「桃」ユニットに変化させる
+      -
+        content: 2ターンの間、使用した武将の回復力3倍のHPを回復
+strategies:
+  -
+    name: 天下ごと平らげてみなさい
+    statements:
+      -
+        content: 味方の「魏」武将の回復力を2.5倍にする
+      -
+        content: 「回復封じ・技能封じ・ユニット封じ」を中確率で無効
+description: 粟邑県令の張汪と山氏の娘で、魏の功臣‧司馬懿の正室。人知れぬ野望を抱く司馬懿に張春華が贈るのは、男の度胸を試すようなチョコレートだった。

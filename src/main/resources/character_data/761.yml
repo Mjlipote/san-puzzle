@@ -1,0 +1,34 @@
+number: 761
+preName: 【盟主待望】周泰
+name: 【孫家への参陣】周泰
+rarity: 5
+group: 呉
+arm: 槍兵
+maxLevel: 70
+capability: 16
+initHp: 1094
+initAttack: 556
+initRecovery: 143
+finalHp: 2407
+finalAttack: 1112
+finalRecovery: 178
+breakHp: 2647
+breakAttack: 1272
+breakRecovery: 258
+skills:
+  -
+    name: 呉の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 血路拓く前進
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 体に無数の傷がある歴戦の勇将。力の買い手を値踏みして回った。甘寧と違い、同じ水賊出ながら江東を束ねる存在を熱望、孫策の旗挙げに、即座に馳せ参じた。

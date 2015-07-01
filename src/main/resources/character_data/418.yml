@@ -1,0 +1,32 @@
+number: 418
+preName: 【入蜀の誘い】法正
+name: 【積年の清算】法正
+rarity: 5
+group: 蜀
+arm: 鬼謀
+maxLevel: 70
+capability: 14
+initHp: 762
+initAttack: 698
+initRecovery: 202
+finalHp: 1677
+finalAttack: 1257
+finalRecovery: 283
+breakHp: 1917
+breakAttack: 1417
+breakRecovery: 363
+skills:
+  -
+    name: 鋭才の内通
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 執念の俊士
+    statements:
+      -
+        content: 味方の「鬼謀」武将の攻撃力を2倍にする
+description: 謀略に長け、それを必要悪として利用出来る参謀・政治家。劉備の入蜀後は孔明と共に内政にあたると共に、劉備の策謀の相談役となった。

@@ -1,0 +1,34 @@
+number: 937
+preName:
+name: 【聖夜の贈り物】孫尚香
+rarity: 5
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 20
+initHp: 1225
+initAttack: 428
+initRecovery: 90
+finalHp: 2573
+finalAttack: 1327
+finalRecovery: 270
+breakHp: 2813
+breakAttack: 1487
+breakRecovery: 350
+skills:
+  -
+    name: 戦意高揚の煽惑
+    turnMax: 18
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止・ユニット封じ状態を3ターン回復する
+strategies:
+  -
+    name: 突然の贈り物
+    statements:
+      -
+        content: 4兵種以上で編成時、全武将の攻撃力と回復力1.8倍
+      -
+        content: 最大HPまで回復した時、余剰値2.5倍の再攻撃
+description: 江東の虎と呼ばれた孫堅の末娘。年の瀬迫る聖なる夜、西方では贈り物をする風習があるという。「なんてこった！孫尚香が贈られちゃった！」

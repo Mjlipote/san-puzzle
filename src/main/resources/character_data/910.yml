@@ -1,0 +1,34 @@
+number: 910
+preName: 【武陵蛮】沙摩柯
+name: 【槃瓠の裔】沙摩柯
+rarity: 5
+group: 蜀
+arm: 蛮兵
+maxLevel: 70
+capability: 16
+initHp: 1156
+initAttack: 640
+initRecovery: 61
+finalHp: 2312
+finalAttack: 1279
+finalRecovery: 122
+breakHp: 2592
+breakAttack: 1439
+breakRecovery: 242
+skills:
+  -
+    name: 蜀軍への変転
+    turnMax: 19
+    turnMin: 14
+    statements:
+      -
+        content: ユニットの「呉」と「桃」を、「蜀」に変化させる
+strategies:
+  -
+    name: 異民族の誇り
+    statements:
+      -
+        content: 味方の「蛮兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 渓谷に棲む異民族‧武陵蛮の王。復讐に燃える劉備の東征に応じ、沙摩柯は一族を連れて参戦する。鉄疾黎骨朶を自在に操り奮戦、劉備の復讐の一翼を担った。

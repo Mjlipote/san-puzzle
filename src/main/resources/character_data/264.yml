@@ -1,0 +1,28 @@
+number: 264
+preName:
+name: 関平
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 20
+capability: 5
+initHp: 137
+initAttack: 71
+initRecovery: 11
+finalHp: 343
+finalAttack: 178
+finalRecovery: 28
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: なし
+    statements:
+description: 軍神・関羽の養子。河北に住む関定の次男で、武に励む若者。彼を気に入った劉備の薦めで、関羽が養子として迎えることに。

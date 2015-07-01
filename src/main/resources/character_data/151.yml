@@ -1,0 +1,34 @@
+number: 151
+preName: 【絶世の美】貂蝉
+name: 【美女連環】貂蝉
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 20
+initHp: 1056
+initAttack: 725
+initRecovery: 253
+finalHp: 2375
+finalAttack: 1268
+finalRecovery: 606
+breakHp: 2655
+breakAttack: 1468
+breakRecovery: 726
+skills:
+  -
+    name: 美女連環の計
+    turnMax: 30
+    turnMin: 18
+    statements:
+      -
+        content: 敵のHPを30％減少させる
+strategies:
+  -
+    name: 秘めたる本心
+    statements:
+      -
+        content: 敵の「群」武将から受けるダメージを半減させる
+      -
+        content: 味方の「群」武将の攻撃力を2倍にする
+description: 中国四大美女の１人。董卓の悪政を見かねて、王允は１つの計画を実行に移す。それは、貂蝉の美貌を使って董卓と呂布の仲を引き裂くというものだった。

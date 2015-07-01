@@ -1,0 +1,32 @@
+number: 575
+preName: 【放浪の果てに】馬岱
+name: 【蜀軍の支柱】馬岱
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 14
+initHp: 1046
+initAttack: 621
+initRecovery: 110
+finalHp: 2091
+finalAttack: 1243
+finalRecovery: 165
+breakHp: 2331
+breakAttack: 1403
+breakRecovery: 245
+skills:
+  -
+    name: 着実なる攻勢
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力5倍防御無視攻撃
+strategies:
+  -
+    name: 馬氏の継手
+    statements:
+      -
+        content: 味方の「騎兵」武将の攻撃力と回復力を1.8倍にする
+description: 馬超の族弟にして、若い頃からの片腕的存在。魏延とは、蜀に下る以前から因縁が有り、孔明が授けた策により、謀反を起こした魏延を討ち果たしている。

@@ -1,0 +1,32 @@
+number: 519
+preName: 【無類の勇将】高順
+name: 【陥陣営の咆哮】高順
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 22
+initHp: 267
+initAttack: 1178
+initRecovery: 59
+finalHp: 524
+finalAttack: 1946
+finalRecovery: 102
+breakHp: 684
+breakAttack: 2506
+breakRecovery: 142
+skills:
+  -
+    name: 進撃の雄叫び
+    turnMax: 28
+    turnMin: 15
+    statements:
+      -
+        content: 敵全体に部隊の「群」攻撃力8倍の攻撃
+strategies:
+  -
+    name: 突撃の緩急
+    statements:
+      -
+        content: 連撃数が偶数時に攻撃力3.5倍、奇数時に攻撃力0.5倍
+description: 呂布配下の筆頭武将。彼の率いる700名の部隊は、鎧甲、武器類が常に万全の状態にある事で勇名であり、呂布も決戦には常に彼を起用した。

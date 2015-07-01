@@ -1,0 +1,32 @@
+number: 79
+preName: 孫策
+name: 【若き英雄】孫策
+rarity: 3
+group: 呉
+arm: 剣兵
+maxLevel: 50
+capability: 10
+initHp: 60
+initAttack: 181
+initRecovery: 34
+finalHp: 268
+finalAttack: 725
+finalRecovery: 71
+breakHp: 428
+breakAttack: 845
+breakRecovery: 151
+skills:
+  -
+    name: 小覇王の快進撃
+    turnMax: 12
+    turnMin: 5
+    statements:
+      -
+        content: 敵全体に「呉」勢力の1000ダメージ
+strategies:
+  -
+    name: 雌伏からの雄飛
+    statements:
+      -
+        content: ダメージを受けると、ごく稀に反撃をする
+description: 小覇王の異名を持つ戦の天才。卓越した武勇と将器を備える。挙兵後は破竹の勢いで連勝し、一度は離散してしまった家臣団も見事にまとめ上げた。

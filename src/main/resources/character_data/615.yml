@@ -1,0 +1,32 @@
+number: 615
+preName: 【蟒蛇】何皇后
+name: 【恍惚の佳人】何皇后
+rarity: 6
+group: 漢
+arm: 鬼謀
+maxLevel: 99
+capability: 23
+initHp: 955
+initAttack: 422
+initRecovery: 208
+finalHp: 2482
+finalAttack: 1280
+finalRecovery: 374
+breakHp: 2762
+breakAttack: 1480
+breakRecovery: 494
+skills:
+  -
+    name: 群蜀よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「群」を「漢」に、「蜀」を「桃」に変換
+strategies:
+  -
+    name: 蟒蛇の誘い酒
+    statements:
+      -
+        content: 「漢」武将のHPと攻撃力と回復力を1.8倍にする
+description: 大将軍何進の異母妹。お酒が進み、ポンヤリと昔の事を思い出しているようです。「お店の裏にも、キレイなお花の木があったなぁ。」

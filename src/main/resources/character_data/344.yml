@@ -1,0 +1,30 @@
+number: 344
+preName:
+name: 凌統
+rarity: 2
+group: 呉
+arm: 槍兵
+maxLevel: 15
+capability: 5
+initHp: 142
+initAttack: 153
+initRecovery: 37
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 特攻隊の進軍
+    turnMax: 20
+    turnMin: 
+    statements:
+      -
+        content: 使用した武将の攻撃力10倍の「呉」攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 謹厳実直な剛将。孫軍の挙兵に従った父親の戦死により、十五歳で後を継いだ。父親を射たのは敵方だった甘寧であり、彼に、浅からぬ怨恨を抱いている。

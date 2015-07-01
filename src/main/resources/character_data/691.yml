@@ -1,0 +1,32 @@
+number: 691
+preName: 【高貴なる姿】袁氏
+name: 【禽獣掌握】袁氏
+rarity: 6
+group: 漢
+arm: 弓兵
+maxLevel: 99
+capability: 24
+initHp: 995
+initAttack: 921
+initRecovery: 192
+finalHp: 2287
+finalAttack: 1381
+finalRecovery: 289
+breakHp: 2567
+breakAttack: 1581
+breakRecovery: 409
+skills:
+  -
+    name: 士気高揚の煽惑
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: HPの半分と技能封じ・回復禁止状態を3ターン回復
+strategies:
+  -
+    name: 高貴なる統率
+    statements:
+      -
+        content: 10連撃以上で「弓兵」武将の攻撃力を6倍にする
+description: 名門袁家の御曹司‧袁紹の末娘。名門の息女たるもの、人間はおろか、禽獸の類さえも統率できなければ話にならない。彼女もまた、その素養を持つ。

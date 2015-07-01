@@ -1,0 +1,34 @@
+number: 1006
+preName: 【小悪魔】董白
+name: 【唯我独尊】董白
+rarity: 7
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 2298
+initAttack: 1185
+initRecovery: 389
+finalHp: 2987
+finalAttack: 1659
+finalRecovery: 525
+breakHp: 3347
+breakAttack: 1859
+breakRecovery: 645
+skills:
+  -
+    name: 小悪魔のいたずら
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+strategies:
+  -
+    name: 天下掌握の欲望
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2.2倍にする
+      -
+        content: 味方の「騎兵」武将のHPと攻撃力と回復力を1.5倍
+description: 魔王・董卓の孫娘。蝶よ花よと甘やかされた結果、天下の全てが自分のものであると疑わず、望めば何もかも叶うと確信する、奔放なわがまま娘へと成長した。

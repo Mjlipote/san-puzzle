@@ -1,0 +1,30 @@
+number: 281
+preName: 糜芳
+name: 【南郡太守】糜芳
+rarity: 2
+group: 蜀
+arm: 鬼謀
+maxLevel: 30
+capability: 3
+initHp: 168
+initAttack: 107
+initRecovery: 26
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 信義無き転進
+    turnMax: 17
+    turnMin: 
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備軍の武官。劉備入蜀時には荊州に残って、関羽を補佐する劉備が蜀を得ると、荊州守備の功績によって南都太守の要職に任命された。

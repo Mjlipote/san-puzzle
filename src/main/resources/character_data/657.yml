@@ -1,0 +1,32 @@
+number: 657
+preName: 【類稀なる慧眼】郭嘉
+name: 【冴え渡る智謀】郭嘉
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 1323
+initAttack: 1150
+initRecovery: 39
+finalHp: 1588
+finalAttack: 1725
+finalRecovery: 293
+breakHp: 1908
+breakAttack: 1925
+breakRecovery: 413
+skills:
+  -
+    name: 千変万化
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「群」ユニットを「魏」ユニットに変化させる
+strategies:
+  -
+    name: 限界なき才覚
+    statements:
+      -
+        content: 味方の「魏」武将のHPを2倍、攻撃力を1.8倍にする
+description: 曹操配下の軍師。呂布が下ヒに籠城した際、水攻めを進言する。また、劉備、袁紹、孫策等の人物像を的確に捉え、度々彼らの行動を正確に予測している。

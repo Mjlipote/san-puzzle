@@ -1,0 +1,32 @@
+number: 374
+preName:
+name: 【古典復興】髭男爵（【るねっさんす】ひげだんしゃく
+rarity: 5
+group: 漢
+arm: 蛮兵
+maxLevel: 99
+capability: 20
+initHp: 416
+initAttack: 273
+initRecovery: 163
+finalHp: 1872
+finalAttack: 546
+finalRecovery: 408
+breakHp: 2112
+breakAttack: 706
+breakRecovery: 488
+skills:
+  -
+    name: ひぐちカッター
+    turnMax: 12
+    turnMin: 4
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力15倍の攻撃
+strategies:
+  -
+    name: 古典復興への渇望
+    statements:
+      -
+        content: 最大HPまで回復した時、余剰値の5倍で再攻撃を行う
+description: ゴマすりし過ぎて指紋が消えた宦官と、ジェントリーな肉屋のノブリスなセレブレティ。あと、実生活は割と質素。「ルネッサァーンス！」

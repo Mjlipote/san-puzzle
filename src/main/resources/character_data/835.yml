@@ -1,0 +1,32 @@
+number: 835
+preName: 【関羽挟撃】司馬懿
+name: 【狼顧の相】司馬懿
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 25
+initHp: 944
+initAttack: 1129
+initRecovery: 207
+finalHp: 1698
+finalAttack: 2031
+finalRecovery: 373
+breakHp: 2018
+breakAttack: 2231
+breakRecovery: 493
+skills:
+  -
+    name: 呉群よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「呉」を「魏」に、「群」を「桃」に変換
+strategies:
+  -
+    name: 運於掌上の策略
+    statements:
+      -
+        content: 4連撃以上で「魏」の攻撃力があがり、最大4倍
+description: 多方面に才幹を発揮する魏の臣。司馬懿には首を真後ろに回せる奇妙な体質があった。彼の体質と性格、そして野心を察知した曹操は「狼顧の相」と評した。

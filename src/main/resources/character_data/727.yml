@@ -1,0 +1,32 @@
+number: 727
+preName: 【雪膚花貌】甄姫
+name: 【悲歌慷慨】甄姫
+rarity: 6
+group: 魏
+arm: 鬼謀
+maxLevel: 99
+capability: 27
+initHp: 1181
+initAttack: 1130
+initRecovery: 473
+finalHp: 2125
+finalAttack: 1468
+finalRecovery: 568
+breakHp: 2405
+breakAttack: 1668
+breakRecovery: 688
+skills:
+  -
+    name: 傾国の舞
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ２ターンの間、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 憂愁なる美貌
+    statements:
+      -
+        content: 「魏」武将の攻撃力を2.2倍、回復力を1.5倍にする
+description: 三国志を代表する美女の１人。夫‧曹丕の帝位即位により皇后の位を得るが、やがてその寵愛は薄れていく。憂愁の瞳に映るのは果たして誰の姿なのか──

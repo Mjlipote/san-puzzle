@@ -1,0 +1,34 @@
+number: 903
+preName:
+name: 【黄門侍郎】曹純
+rarity: 4
+group: 魏
+arm: 剣兵
+maxLevel: 25
+capability: 11
+initHp: 400
+initAttack: 261
+initRecovery: 44
+finalHp: 1200
+finalAttack: 731
+finalRecovery: 132
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏軍への変転
+    turnMax: 19
+    turnMin: 14
+    statements:
+      -
+        content: ユニットの「群」と「桃」を、「魏」に変化させる
+strategies:
+  -
+    name: 熱き咆哮
+    statements:
+      -
+        content: 味方の「剣兵」武将の攻撃力と回復力を1.5倍にする
+      -
+        content: さらに5連撃以上で全武将の攻撃力1.5倍
+description: 曹仁の実弟で優秀な指揮官として知られる魏の武将。家を出た兄の代わりに家督を継ぐ。管理能力に長け、学問学者を敬愛した為、よく賞賛された。

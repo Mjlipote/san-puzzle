@@ -1,0 +1,32 @@
+number: 114
+preName:
+name: 【孫家末娘】孫尚香
+rarity: 3
+group: 呉
+arm: 弓兵
+maxLevel: 25
+capability: 5
+initHp: 66
+initAttack: 35
+initRecovery: 16
+finalHp: 413
+finalAttack: 236
+finalRecovery: 136
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 弓腰姫
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 敵の攻撃を2ターン遅らせる
+strategies:
+  -
+    name: 弓矢の雨
+    statements:
+      -
+        content: 攻撃の後、再攻撃を行う
+description: 技能

@@ -1,0 +1,32 @@
+number: 683
+preName: 【純真な羞恥】樊氏
+name: 【一日千秋】樊氏
+rarity: 6
+group: 群
+arm: 神算
+maxLevel: 99
+capability: 23
+initHp: 510
+initAttack: 532
+initRecovery: 300
+finalHp: 2142
+finalAttack: 1224
+finalRecovery: 600
+breakHp: 2462
+breakAttack: 1424
+breakRecovery: 720
+skills:
+  -
+    name: 群軍への変転
+    turnMax: 14
+    turnMin: 9
+    statements:
+      -
+        content: ユニットの「漢」と「桃」を、「群」に変化させる
+strategies:
+  -
+    name: 一途な想い
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力と回復力を2倍にする
+description: 桂陽太守・趙範の義姉。既に夫を亡くしており、趙雲は趙範から、樊氏を娶る様に勧められ、樊氏も內心、心憎く思っていたが、断られてしまう。

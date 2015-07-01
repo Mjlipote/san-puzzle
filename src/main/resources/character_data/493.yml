@@ -1,0 +1,32 @@
+number: 493
+preName: 【男伊達】曹洪
+name: 【不羈奔放】曹洪
+rarity: 5
+group: 魏
+arm: 槍兵
+maxLevel: 99
+capability: 16
+initHp: 778
+initAttack: 699
+initRecovery: 30
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 1973
+breakAttack: 1558
+breakRecovery: 174
+skills:
+  -
+    name: 縦横無尽
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵単体に攻撃力の最大100倍までのランダムダメージ
+strategies:
+  -
+    name: 鋭い攻めの呼吸
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を2倍にする
+description: 曹操の徒弟で、彼の覇業を支え続けた宿将。短慮、吝嗇、派手好き。が、義理堅く、一騎打ちでは無敗の武勇を誇る等、剛柔共に華々しい武将であった。

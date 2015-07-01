@@ -1,0 +1,30 @@
+number: 568
+preName:
+name: 【なりきりムック】弓兵
+rarity: 1
+group: 呉
+arm: 弓兵
+maxLevel: 15
+capability: 2
+initHp: 74
+initAttack: 104
+initRecovery: 11
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: ムック直伝弓術
+    turnMax: 28
+    turnMin: 18
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力10倍の攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 元孫家軍の兵卒。ムックを慕い、大陸各地から集まった。弓の腕前や操船技術、水練について、カチャピン並みに多芸な者が、多いのが特徵。

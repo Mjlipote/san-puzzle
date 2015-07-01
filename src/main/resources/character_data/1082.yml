@@ -1,0 +1,32 @@
+number: 1082
+preName: 【蜀軍の支柱】馬岱
+name: 【心に錦を】馬岱
+rarity: 6
+group: 蜀
+arm: 騎兵
+maxLevel: 99
+capability: 27
+initHp: 1777
+initAttack: 1180
+initRecovery: 157
+finalHp: 2311
+finalAttack: 1475
+finalRecovery: 470
+breakHp: 2631
+breakAttack: 1675
+breakRecovery: 590
+skills:
+  -
+    name: 着実なる攻勢
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力5倍防御無視攻撃
+strategies:
+  -
+    name: 馬氏の大極柱
+    statements:
+      -
+        content: 味方の「騎兵」武将のHPを1.2倍、攻撃力と回復力を1.8倍にする
+description: 馬超の族弟にして、若い頃からの片腕的存在。馬超の志を絶やさぬため、馬岱は戦い続ける。その威名は、巴蜀の地から遠く離れた涼州の地にも轟いていた。

@@ -1,0 +1,32 @@
+number: 440
+preName: 【電子の歌姫】初音ミク
+name: 【天使の歌声】初音ミク
+rarity: 6
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 39
+initHp: 866
+initAttack: 789
+initRecovery: 145
+finalHp: 2443
+finalAttack: 1356
+finalRecovery: 430
+breakHp: 2723
+breakAttack: 1556
+breakRecovery: 550
+skills:
+  -
+    name: いたずらトイボックス
+    turnMax: 20
+    turnMin: 9
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: いっしょに歌お？
+    statements:
+      -
+        content: VOCALOIDの攻撃力を2.2倍にする
+description: 天から舞い降りた、変幻自在、神出鬼沒の謎の歌姬。どこに居ても、誰と居ても、みんなの歌を歌って踊る。「ミクはどこにでも居るよ─」

@@ -1,0 +1,30 @@
+number: 46
+preName:
+name: 王朗
+rarity: 2
+group: 魏
+arm: 神算
+maxLevel: 10
+capability: 2
+initHp: 55
+initAttack: 30
+initRecovery: 15
+finalHp: 275
+finalAttack: 75
+finalRecovery: 50
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 堅実な内政
+    turnMax: 8
+    turnMin: 5
+    statements:
+      -
+        content: HPを500回復させる
+strategies:
+  -
+    name: なし
+    statements:
+description: 漢王朝への忠誠に篤い、儒学に通じた政治家。朝廷より会稽の太守に任ぜられると、近隣県郡の混乱をよそに民を慈しむ政事を行い郡内を安定させた。

@@ -1,0 +1,38 @@
+number: 1027
+preName:
+name: 【もう一つの可能性】劉備
+rarity: 7
+group: 蜀
+arm: 剣兵
+maxLevel: 99
+capability: 40
+initHp: 1612
+initAttack: 266
+initRecovery: 492
+finalHp: 4514
+finalAttack: 931
+finalRecovery: 541
+breakHp: 4914
+breakAttack: 1131
+breakRecovery: 661
+skills:
+  -
+    name: 蜀の誘い（桃）蜀の大攻勢
+    turnMax: 25
+    turnMin: 10
+    statements:
+      -
+        content: 「桃」ユニットを「蜀」ユニットに変化させる
+      -
+        content: 1ターンの間、「蜀」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 悟りに至り
+    statements:
+      -
+        content: ユニットを5つ以上同時消しで攻撃力2倍
+      -
+        content: 最大3倍
+      -
+        content: ユニットを横5つ繋げて消すと全武将の攻撃力2倍
+description: 復讐に駆られ、東征を決行した男のもう一つの可能性。嘆きと怒りの呪縛から解き放たれた時、無我の境地へ至った劉備は乱世の儚さを悟り、そして笑った。

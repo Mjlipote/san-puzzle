@@ -1,0 +1,30 @@
+number: 171
+preName: 蒋欽
+name: 【江賊出身】蒋欽
+rarity: 3
+group: 呉
+arm: 弓兵
+maxLevel: 50
+capability: 
+initHp: 275
+initAttack: 279
+initRecovery: 3
+finalHp: 826
+finalAttack: 838
+finalRecovery: 9
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 君主死守
+    turnMax: 14
+    turnMin: 7
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策旗揚げから付き従った側近。合肥の戦いでは呂蒙と共に軍の指揮を担当し、張遼の猛攻から孫権を守り抜く。この功績から濡須の督となる。

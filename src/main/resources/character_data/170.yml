@@ -1,0 +1,30 @@
+number: 170
+preName:
+name: 蒋欽
+rarity: 2
+group: 呉
+arm: 弓兵
+maxLevel: 15
+capability: 
+initHp: 108
+initAttack: 98
+initRecovery: 1
+finalHp: 324
+finalAttack: 294
+finalRecovery: 3
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 君主死守
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策旗揚げから付き従った側近。元は周泰と共に江賊をしていた。江東進出時に各地を転戦し、山越などの異民族討伐で手柄を立てる。

@@ -1,0 +1,30 @@
+number: 701
+preName: 【高慢なる姿勢】孫輔
+name: 【內通の懐疑】孫輔
+rarity: 3
+group: 呉
+arm: 弓兵
+maxLevel: 30
+capability: 9
+initHp: 625
+initAttack: 380
+initRecovery: 31
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 猛撃
+    turnMax: 12
+    turnMin: 4
+    statements:
+      -
+        content: 敵単体に、使用した武将の攻撃力15倍の攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 孫策‧孫権の従兄弟であり、孫策に挙兵の頃から付き従った呉の武将。孫呉が孫権の代に移った頃、以前から曹操と內通していた事を疑われ処断される。

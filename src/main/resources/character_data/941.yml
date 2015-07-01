@@ -1,0 +1,34 @@
+number: 941
+preName:
+name: 【聖夜の祝宴】孫権
+rarity: 6
+group: 呉
+arm: 剣兵
+maxLevel: 99
+capability: 27
+initHp: 1225
+initAttack: 356
+initRecovery: 74
+finalHp: 2450
+finalAttack: 1246
+finalRecovery: 296
+breakHp: 2730
+breakAttack: 1446
+breakRecovery: 416
+skills:
+  -
+    name: 蜀魏よりの誘致
+    turnMax: 16
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「蜀」を「呉」に、「魏」を「桃」に変換
+strategies:
+  -
+    name: 呉の祝祭
+    statements:
+      -
+        content: 味方の「呉」武将の回復力を2倍にする
+      -
+        content: 最大HPまで回復した時、余剰値2倍の再攻撃
+description: 孫呉覇業の遺志を継いだ三国志の主人公の1人。厳格な統治者も、聖夜の宴では表情が緩む。「大虎、小虎、何が欲しい？･･･お、酒が良いか？」

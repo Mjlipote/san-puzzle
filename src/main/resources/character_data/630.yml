@@ -1,0 +1,32 @@
+number: 630
+preName:
+name: 【四世三公】袁紹
+rarity: 2
+group: 漢
+arm: 剣兵
+maxLevel: 5
+capability: 2
+initHp: 80
+initAttack: 37
+initRecovery: 19
+finalHp: 160
+finalAttack: 74
+finalRecovery: 38
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家の力
+    turnMax: 
+    turnMin: 
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを入れ替える
+strategies:
+  -
+    name: 漢王朝の威風
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を1.5倍にする
+description: どこだろうが名家は慌てない。

@@ -1,0 +1,32 @@
+number: 500
+preName:
+name: 【若き豪傑】張苞
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 35
+capability: 11
+initHp: 387
+initAttack: 278
+initRecovery: 39
+finalHp: 851
+finalAttack: 695
+finalRecovery: 86
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 蜀の攻勢
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「蜀」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 獅子の咆哮
+    statements:
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 猛将張飛の実子。父と同じ蛇矛をよく使い、弓術に優れる。父と離れていた少年時代に、父の残した鉄棍で活躍、その評判で一家が再会できた伝承がある。

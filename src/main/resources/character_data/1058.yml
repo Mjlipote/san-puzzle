@@ -1,0 +1,34 @@
+number: 1058
+preName:
+name: 【無双の風来者】司馬昭
+rarity: 4
+group: 魏
+arm: 剣兵
+maxLevel: 99
+capability: 20
+initHp: 441
+initAttack: 351
+initRecovery: 67
+finalHp: 1544
+finalAttack: 1404
+finalRecovery: 201
+breakHp: 1784
+breakAttack: 1564
+breakRecovery: 281
+skills:
+  -
+    name: 紫炎の烈撃
+    turnMax: 16
+    turnMin: 10
+    statements:
+      -
+        content: 2ターンの間、「魏」武将の攻撃力を1.3倍にする
+      -
+        content: 敵単体に、使用した武将の攻撃力10倍防御無視攻撃
+strategies:
+  -
+    name: 風来の傑物
+    statements:
+      -
+        content: 「剣兵」武将の攻撃力を2.2倍にする
+description: 司馬懿の子で「真の三國無双」と称される英傑のひとり。完璧な兄と比べて大雑把で不真面目な性格だが、彼の内なる資質を王元姫は高く評価している。

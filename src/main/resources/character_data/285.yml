@@ -1,0 +1,30 @@
+number: 285
+preName: 蔡瑁
+name: 【後継の企み】蔡瑁
+rarity: 3
+group: 漢
+arm: 鬼謀
+maxLevel: 50
+capability: 7
+initHp: 255
+initAttack: 126
+initRecovery: 53
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 暗殺の策謀
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: ３ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 荊州の有力豪族。荊州刺史に任じられた劉表に力を貸す。彼の姉が産んだ劉表の次男・劉琮を荊州の後継者にしようと暗躍、劉表の長男・劉琦の命を狙う。

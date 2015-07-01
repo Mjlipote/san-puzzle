@@ -1,0 +1,30 @@
+number: 194
+preName: 曹軍剣兵
+name: 【上級】曹軍剣兵
+rarity: 2
+group: 魏
+arm: 剣兵
+maxLevel: 20
+capability: 3
+initHp: 15
+initAttack: 131
+initRecovery: 9
+finalHp: 23
+finalAttack: 197
+finalRecovery: 13
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 曹軍兵の剣撃
+    turnMax: 4
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「魏」勢力の300ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操軍の兵卒。刀剣の扱いが巧く、熟練の域に達している。曹操の覇道を支えるため、日々訓練で己の剣技に磨きをかけている。

@@ -1,0 +1,34 @@
+number: 147
+preName: 【蛇矛猛者】張飛
+name: 【万夫不当】張飛
+rarity: 6
+group: 蜀
+arm: 槍兵
+maxLevel: 99
+capability: 20
+initHp: 1186
+initAttack: 888
+initRecovery: 133
+finalHp: 2668
+finalAttack: 1554
+finalRecovery: 319
+breakHp: 2948
+breakAttack: 1754
+breakRecovery: 439
+skills:
+  -
+    name: 長坂の大喝
+    turnMax: 24
+    turnMin: 19
+    statements:
+      -
+        content: 敵の攻撃を５ターン遅らせる
+strategies:
+  -
+    name: 義侠の憤怒
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを半減させる
+      -
+        content: 味方の「蜀」武将の攻撃力を2倍にする
+description: １万の兵に匹敵する万夫不当の豪傑。その武勇は誰もが認めるところで、義兄である関羽から「自分以上の実力がある」と言われたほど。

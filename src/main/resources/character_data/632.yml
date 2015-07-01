@@ -1,0 +1,32 @@
+number: 632
+preName: 【濮陽県令】袁紹－今日ぱず
+name: 【遊侠奔走】袁紹
+rarity: 4
+group: 漢
+arm: 剣兵
+maxLevel: 35
+capability: 6
+initHp: 277
+initAttack: 267
+initRecovery: 69
+finalHp: 832
+finalAttack: 534
+finalRecovery: 137
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 袁家の大攻勢
+    turnMax: 10
+    turnMin: 7
+    statements:
+      -
+        content: 5連撃可能な状態にユニットを素早く入れ替える
+strategies:
+  -
+    name: 漢王朝の威光
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: 太った自分を見かけ、へこむ。

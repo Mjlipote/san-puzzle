@@ -1,0 +1,32 @@
+number: 132
+preName:
+name: 【曹丕寵愛】甄姫
+rarity: 4
+group: 魏
+arm: 鬼謀
+maxLevel: 35
+capability: 7
+initHp: 45
+initAttack: 55
+initRecovery: 57
+finalHp: 394
+finalAttack: 358
+finalRecovery: 299
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 傾国の舞
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「魏」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 輝く美貌
+    statements:
+      -
+        content: 味方の「魏」武将の攻撃力を1.5倍にする
+description: 三国志を代表する美女の1人。元は袁紹の次男・袁煕の妻だったが、曹丕に屋敷が攻め込まれた際に、彼女の美貌に惹かれた曹丕に連れ去られてしまう。

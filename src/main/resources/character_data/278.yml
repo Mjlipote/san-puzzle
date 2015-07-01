@@ -1,0 +1,32 @@
+number: 278
+preName:
+name: 【洛陽逃亡】陳宮
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 50
+capability: 8
+initHp: 330
+initAttack: 306
+initRecovery: 16
+finalHp: 793
+finalAttack: 575
+finalRecovery: 29
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 椅角之計
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 「呉」ユニットを「群」ユニットに変化させる
+strategies:
+  -
+    name: 英雄の扶翼
+    statements:
+      -
+        content: 味方の「群」武将のHPを1.5倍にする
+description: 曹操配下の軍師。暴君・董卓の暗殺に失敗し洛陽から逃走する曹操を助ける。しかし逃走途中、大志と冷酷さを併せ持つ曹操の本質を知り苦悩する。

@@ -1,0 +1,34 @@
+number: 968
+preName:
+name: 【南蛮駆ける女傑】祝融
+rarity: 6
+group: 群
+arm: 蛮兵
+maxLevel: 99
+capability: 35
+initHp: 824
+initAttack: 629
+initRecovery: 15
+finalHp: 3131
+finalAttack: 1761
+finalRecovery: 42
+breakHp: 3451
+breakAttack: 1961
+breakRecovery: 162
+skills:
+  -
+    name: 群の誘い（漢）糧食確保（毒）
+    turnMax: 27
+    turnMin: 12
+    statements:
+      -
+        content: ユニットの「漢」を「群」へ「毒」を「桃」ユニットに変化させる
+strategies:
+  -
+    name: 炎帝の血脈
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2.2倍にする
+      -
+        content: 敵の「漢」武将から受けるダメージを減少させる
+description: 南方の有力豪族‧孟獲の妻。蜀軍に負け続けの孟獲に替わり、自ら先陣切って戦場に赴くほどの豪胆な性格で、火神の末裔を名乗るに相応しい女傑である。

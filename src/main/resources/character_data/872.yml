@@ -1,0 +1,34 @@
+number: 872
+preName:
+name: 【魔王狩りの虎】孫堅
+rarity: 7
+group: 呉
+arm: 蛮兵
+maxLevel: 99
+capability: 50
+initHp: 2099
+initAttack: 781
+initRecovery: -98
+finalHp: 4618
+finalAttack: 1953
+finalRecovery: -157
+breakHp: 4938
+breakAttack: 2153
+breakRecovery: 3
+skills:
+  -
+    name: 呉漢群の速攻勢
+    turnMax: 10
+    turnMin: 5
+    statements:
+      -
+        content: 1ターンの間、「呉」「漢」「群」武将の攻撃力を1.5倍
+strategies:
+  -
+    name: 猛虎猛進
+    statements:
+      -
+        content: 「呉‧漢」を含んた編成時、全武将の攻撃力2.5倍
+      -
+        content: 「回復封じ‧技能封じ‧ユニット封じ」を確率で無効
+description: 孫呉の始祖。義勇軍として各地転戦するうち、己に根差す強い戦闘衝動を自覚した孫堅は、その理解者を求め、衝動のままに、董卓の待つ洛陽を目指す。

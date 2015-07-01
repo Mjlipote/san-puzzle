@@ -1,0 +1,32 @@
+number: 997
+preName:
+name: 【鉄車】徹里吉＆越吉
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 25
+initHp: 1591
+initAttack: 1017
+initRecovery: 0
+finalHp: 2768
+finalAttack: 1526
+finalRecovery: 0
+breakHp: 3048
+breakAttack: 1726
+breakRecovery: 120
+skills:
+  -
+    name: 魏蜀群召集
+    turnMax: 12
+    turnMin: 6
+    statements:
+      -
+        content: 2ターンの間、「魏、蜀、群、桃」ユニットのみ出現するようになる
+strategies:
+  -
+    name: 揺るぎなき行軍
+    statements:
+      -
+        content: 毒ユニットが出現しなくなる
+description: 辺境の部族・西羌の国王と元帥。大地を蹂躙する戦闘兵器‧鉄車を自由自在に操る。魏の曹真の要請に応じると、絶妙な連携で諸葛亮の北伐軍を苦しめた。

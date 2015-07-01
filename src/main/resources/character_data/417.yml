@@ -1,0 +1,32 @@
+number: 417
+preName:
+name: 【入蜀の誘い】法正
+rarity: 4
+group: 蜀
+arm: 鬼謀
+maxLevel: 25
+capability: 7
+initHp: 299
+initAttack: 245
+initRecovery: 85
+finalHp: 897
+finalAttack: 735
+finalRecovery: 213
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 鋭才の内通
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「漢」ユニットを「蜀」ユニットに変える
+strategies:
+  -
+    name: 執念の俊士
+    statements:
+      -
+        content: 味方の「鬼謀」武将の攻撃力を2倍にする
+description: 謀略に長け、それを必要悪として利用出来る参謀・政治家。劉璋に仕えていたが、この主では乱世を乗り越えられぬと判断、劉備の入蜀を積極的に手引いた。

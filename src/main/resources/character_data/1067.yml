@@ -1,0 +1,32 @@
+number: 1067
+preName:
+name: 【こども】呂布
+rarity: 4
+group: 群
+arm: 騎兵
+maxLevel: 70
+capability: 27
+initHp: 340
+initAttack: 336
+initRecovery: 19
+finalHp: 1020
+finalAttack: 840
+finalRecovery: 38
+breakHp: 1180
+breakAttack: 960
+breakRecovery: 118
+skills:
+  -
+    name: じゃまをするな！
+    turnMax: 24
+    turnMin: 14
+    statements:
+      -
+        content: 敵のHPを25％減少させる
+strategies:
+  -
+    name: てんかむそう！
+    statements:
+      -
+        content: 味方の「こども」武将の攻撃力を3.5倍にする
+description: どこかで見た様な、暴れん坊のガキ大将。手作りの方天画戟を片手に、今日も野山を駆ける。「俺は、この世でいちばん強い男になる･･･！」

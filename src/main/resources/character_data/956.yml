@@ -1,0 +1,32 @@
+number: 956
+preName: 【道中記仮病編】司馬懿
+name: 【道中記旅人編】司馬懿
+rarity: 4
+group: 魏
+arm: 鬼謀
+maxLevel: 35
+capability: 15
+initHp: 652
+initAttack: 425
+initRecovery: 175
+finalHp: 1173
+finalAttack: 765
+finalRecovery: 315
+breakHp: 1373
+breakAttack: 925
+breakRecovery: 395
+skills:
+  -
+    name: 呉群よりの誘致
+    turnMax: 16
+    turnMin: 
+    statements:
+      -
+        content: ユニットの「呉」を「魏」に、「群」を「桃」に変換
+strategies:
+  -
+    name: シバチューじゃないんですが…
+    statements:
+      -
+        content: 味方の「魏」「群」武将の回復力を1.8倍にする
+description: 董白の旅に連れ添う事になった司馬懿。隙を見て、逃げ出そうと考えているようだが…。「･･･そのシバチューってのやめてくれませんか？」

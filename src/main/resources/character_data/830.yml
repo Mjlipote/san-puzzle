@@ -1,0 +1,32 @@
+number: 830
+preName: 【破天荒】禰衡
+name: 【皮肉の権化】禰衡
+rarity: 6
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 27
+initHp: 1402
+initAttack: 1291
+initRecovery: 220
+finalHp: 2103
+finalAttack: 1872
+finalRecovery: 330
+breakHp: 2383
+breakAttack: 2072
+breakRecovery: 450
+skills:
+  -
+    name: 過剰なる毒舌
+    turnMax: 17
+    turnMin: 8
+    statements:
+      -
+        content: 敵全体を猛毒状態にする
+strategies:
+  -
+    name: 天下鳴動の舌戦
+    statements:
+      -
+        content: 味方の「鬼謀」武将のHPを1.8倍、攻撃力を2.2倍にする
+description: 博覧強記の賢士だが、己の才に驕って傲慢な態度が多かった。曹操に厄介払いされても毒舌は鈍らず、荊州の黄祖に斬り殺されるまで続いたという。

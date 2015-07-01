@@ -1,0 +1,32 @@
+number: 1073
+preName:
+name: 【江陵防衛】朱然
+rarity: 4
+group: 呉
+arm: 剣兵
+maxLevel: 25
+capability: 11
+initHp: 145
+initAttack: 99
+initRecovery: 30
+finalHp: 887
+finalAttack: 310
+finalRecovery: 127
+breakHp: 1127
+breakAttack: 470
+breakRecovery: 207
+skills:
+  -
+    name: 呉蜀漢同盟
+    turnMax: 28
+    turnMin: 14
+    statements:
+      -
+        content: 全てのユニットを「呉」「蜀」「漢」ユニットに変化させる
+strategies:
+  -
+    name: 孫呉の守護者
+    statements:
+      -
+        content: 味方の「剣兵」武将の攻撃力を1.5倍にする、さらに6連撃以上で全武将の攻撃力を1.8倍
+description: 慎重で冷静な呉の名将。病床の呂蒙からは「決断力・実行力、ともに十二分」も絶賛される。孫権から江陵の守備を任され、夷陵の戦いでも活躍した。

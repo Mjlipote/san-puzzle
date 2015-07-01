@@ -1,0 +1,32 @@
+number: 726
+preName:
+name: 【父の日】孫堅
+rarity: 4
+group: 呉
+arm: 剣兵
+maxLevel: 88
+capability: 18
+initHp: 635
+initAttack: 333
+initRecovery: 30
+finalHp: 1397
+finalAttack: 733
+finalRecovery: 42
+breakHp: 1597
+breakAttack: 893
+breakRecovery: 122
+skills:
+  -
+    name: 蜀への誘い（群）
+    turnMax: 12
+    turnMin: 7
+    statements:
+      -
+        content: 「群」ユニットを「蜀」ユニットに変化させる
+strategies:
+  -
+    name: 父の日の猛虎
+    statements:
+      -
+        content: 味方の「呉」武将の攻撃力を2倍にする
+description: 猫族は子に甘いと言われるが、江東の虎も初姫にメロメロ。「ほーら、しょこたん、ご挨拶ちまちょーねー」

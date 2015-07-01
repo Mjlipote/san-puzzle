@@ -1,0 +1,30 @@
+number: 60
+preName:
+name: 孫乾
+rarity: 2
+group: 蜀
+arm: 神算
+maxLevel: 15
+capability: 3
+initHp: 53
+initAttack: 40
+initRecovery: 28
+finalHp: 159
+finalAttack: 130
+finalRecovery: 112
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 卓越した交渉術
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備軍の外交官。外交手腕は非常に高く、袁紹や劉表との同盟を成立させた。不遇時代の劉備を決して見捨てなかった義理堅い人物。

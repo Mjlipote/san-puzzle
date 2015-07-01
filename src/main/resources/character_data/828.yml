@@ -1,0 +1,32 @@
+number: 828
+preName: 【漢朝復興の計】沮授
+name: 【忠烈沮君】沮授
+rarity: 6
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 1358
+initAttack: 1035
+initRecovery: 465
+finalHp: 2309
+finalAttack: 1408
+finalRecovery: 744
+breakHp: 2589
+breakAttack: 1608
+breakRecovery: 864
+skills:
+  -
+    name: 袁家軍の指揮権
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 2ターンの間、「漢」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 忠義の実存
+    statements:
+      -
+        content: 「漢」勢力のHPを2.2倍、回復力を1.8倍にする
+description: 袁紹軍の監軍（総司令官）。官渡の戦いで袁紹軍が敗走した際に逃げ遅れ、捕縛される。曹操から幕僚に誘われるも断り、最期はその命を黄河に散らした。

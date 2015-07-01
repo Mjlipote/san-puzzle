@@ -1,0 +1,32 @@
+number: 463
+preName:
+name: 【蛇矛じゃない？】張姫
+rarity: 4
+group: 蜀
+arm: 槍兵
+maxLevel: 25
+capability: 11
+initHp: 158
+initAttack: 42
+initRecovery: 16
+finalHp: 695
+finalAttack: 756
+finalRecovery: 32
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 葱矛式応援術
+    turnMax: 27
+    turnMin: 24
+    statements:
+      -
+        content: 1ターンの間「ミクコラボ武将」の攻撃力を2倍にする
+strategies:
+  -
+    name: お葱の御旗の下に
+    statements:
+      -
+        content: 初音ミクの攻撃力を2.5倍にする
+description: 「これ？　うん、よく解からないけど、終南山の天女様の服なんだって。可愛いよね？え、ネギ？　…蛇矛だよ？」

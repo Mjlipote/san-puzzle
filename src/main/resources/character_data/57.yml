@@ -1,0 +1,30 @@
+number: 57
+preName: 程イク
+name: 【腹心】程イク
+rarity: 3
+group: 魏
+arm: 神算
+maxLevel: 50
+capability: 6
+initHp: 230
+initAttack: 170
+initRecovery: 95
+finalHp: 574
+finalAttack: 382
+finalRecovery: 237
+breakHp: 734
+breakAttack: 462
+breakRecovery: 277
+skills:
+  -
+    name: 老滑な策略
+    turnMax: 14
+    turnMin: 7
+    statements:
+      -
+        content: 3ターンの間、敵の防御力が少しダウン
+strategies:
+  -
+    name: なし
+    statements:
+description: 曹操軍の名参謀。元の名は「程立」。日輪を掲げる夢を見たことがそうそうに伝わり、日輪を自分に見立てた曹操が、程イクの名前に日の字を加えさせた。

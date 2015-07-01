@@ -1,0 +1,30 @@
+number: 86
+preName:
+name: 張飛
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 15
+capability: 5
+initHp: 75
+initAttack: 169
+initRecovery: 15
+finalHp: 131
+finalAttack: 296
+finalRecovery: 32
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 義侠の一撃
+    turnMax: 8
+    turnMin: 
+    statements:
+      -
+        content: 敵全体に「蜀」勢力の500ダメージ
+strategies:
+  -
+    name: なし
+    statements:
+description: 劉備・関羽と義兄弟の契りを交わした猛将。短気で喧嘩っ早く、無類の酒好き。しかし、常に劉備に付き従い、乱世を終わらせるために戦う。

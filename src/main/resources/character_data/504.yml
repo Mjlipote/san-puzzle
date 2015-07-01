@@ -1,0 +1,32 @@
+number: 504
+preName:
+name: 【怪力一番】文醜
+rarity: 4
+group: 漢
+arm: 騎兵
+maxLevel: 35
+capability: 11
+initHp: 581
+initAttack: 214
+initRecovery: 6
+finalHp: 1453
+finalAttack: 428
+finalRecovery: 12
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 勇将の大喝
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 勇猛なる指揮
+    statements:
+      -
+        content: 味方の「漢」武将の攻撃力を2倍にする
+description: 顏良と並び、袁家の双璧と賞された勇将。騎兵を主力とした軍を率いる。顏良と合わせ「勇は三軍に冠たり」と曹操の幕僚、孔融から称えられた。

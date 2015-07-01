@@ -1,0 +1,30 @@
+number: 460
+preName:
+name: 【蜀兵感嘆】ミクファン
+rarity: 2
+group: 蜀
+arm: 槍兵
+maxLevel: 10
+capability: 1
+initHp: 16
+initAttack: 42
+initRecovery: 8
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 感嘆溢れる独奏曲
+    turnMax: 39
+    turnMin: 
+    statements:
+      -
+        content: 3回から9回までの3939ダメージのランダム回数攻撃
+strategies:
+  -
+    name: なし
+    statements:
+description: 元劉備の兵卒。長槍の扱いが巧く、熟練の域に達している。関羽、張飛の二大豪傑の動きを取り入れた流れる様な振り付けで天下を狙う。

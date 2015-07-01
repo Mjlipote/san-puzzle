@@ -1,0 +1,32 @@
+number: 508
+preName:
+name: 【慧眼の士】賈ク
+rarity: 4
+group: 群
+arm: 鬼謀
+maxLevel: 35
+capability: 11
+initHp: 310
+initAttack: 223
+initRecovery: 147
+finalHp: 861
+finalAttack: 595
+finalRecovery: 224
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 鬼門の見極め
+    turnMax: 27
+    turnMin: 17
+    statements:
+      -
+        content: 敵のHPを20%減少させる
+strategies:
+  -
+    name: 巧みなる策謀
+    statements:
+      -
+        content: 敵の「魏」武将から受けるダメージを減少させる
+description: 西涼出身の謀士。諸国放浪の後張繍の招きに応じて彼の参謀となる。張繍の期待に応えて多くの献策を行ない、小勢の張繍を曹操と互角に戦わせてみせた。

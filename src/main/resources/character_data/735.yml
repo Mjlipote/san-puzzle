@@ -1,0 +1,32 @@
+number: 735
+preName: 【小覇王の娘】孫氏
+name: 【優等なる武芸】孫氏
+rarity: 6
+group: 呉
+arm: 弓兵
+maxLevel: 99
+capability: 25
+initHp: 548
+initAttack: 527
+initRecovery: 84
+finalHp: 987
+finalAttack: 791
+finalRecovery: 126
+breakHp: 3147
+breakAttack: 1991
+breakRecovery: 526
+skills:
+  -
+    name: 呉の超攻勢
+    turnMax: 37
+    turnMin: 12
+    statements:
+      -
+        content: 1ターンの間、「呉」武将の攻撃力を2倍にする
+strategies:
+  -
+    name: 若き虎姬の攻勢
+    statements:
+      -
+        content: 味方の「弓兵」武将のHPと攻撃力を2倍にする
+description: 孫策の三人の娘のうちの一人。小覇王と呼ばれた父に恥じない武芸の持ち主。孫権の意向で、呉の四姓と呼ばれる名家の長‧陸遜の元に嫁いでいる。

@@ -1,0 +1,34 @@
+number: 1050
+preName:
+name: 【洛水の恋】曹植
+rarity: 6
+group: 魏
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 1079
+initAttack: 810
+initRecovery: 87
+finalHp: 2374
+finalAttack: 1458
+finalRecovery: 131
+breakHp: 2654
+breakAttack: 1658
+breakRecovery: 251
+skills:
+  -
+    name: 魏の大攻勢
+    turnMax: 30
+    turnMin: 24
+    statements:
+      -
+        content: 1ターンの間、「魏」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 届かぬ想い
+    statements:
+      -
+        content: 「神算」武将のHPと攻撃力を1.5倍にする
+      -
+        content: 必殺技の威力を1.5倍にする
+description: 曹丕と母を同じくする曹操の五男。彼の詩作で、最高傑作の一つに挙げられる『洛神賦』は、兄嫁に当たる甄姫への儚い恋慕を綴ったものとする伝承がある。

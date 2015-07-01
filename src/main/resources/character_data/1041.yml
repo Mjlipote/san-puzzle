@@ -1,0 +1,32 @@
+number: 1041
+preName:
+name: 【猫神輿】袁氏
+rarity: 5
+group: 漢
+arm: 弓兵
+maxLevel: 99
+capability: 15
+initHp: 580
+initAttack: 416
+initRecovery: 100
+finalHp: 1450
+finalAttack: 1040
+finalRecovery: 250
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 漢の誘い（毒）
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 「毒」を「漢」ユニットに変化させる
+strategies:
+  -
+    name: この神輿が目に入らぬかー
+    statements:
+      -
+        content: 味方の「漢」武将の回復力を2倍にする
+description: どいつもこいつも頭が高ーい。

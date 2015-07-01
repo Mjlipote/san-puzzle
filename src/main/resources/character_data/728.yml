@@ -1,0 +1,32 @@
+number: 728
+preName: 【孫策諫言】呉夫人
+name: 【優しき賢母】呉夫人
+rarity: 6
+group: 呉
+arm: 神算
+maxLevel: 99
+capability: 27
+initHp: 1653
+initAttack: 863
+initRecovery: 505
+finalHp: 2480
+finalAttack: 1225
+finalRecovery: 606
+breakHp: 2760
+breakAttack: 1425
+breakRecovery: 726
+skills:
+  -
+    name: 賢母の助言
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: ２ターンの間、「呉」武将の攻撃力を1.3倍にする
+strategies:
+  -
+    name: 孫呉の支え
+    statements:
+      -
+        content: 「呉」武将の攻撃力を2.2倍、回復力を1.5倍にする
+description: 孫堅の妻で、孫策・孫権の生みの親。江東平定を目指し覇道を進む息子たちを慈愛の心で包み、影から日向から支えた、孫呉の柱石たる佳人。

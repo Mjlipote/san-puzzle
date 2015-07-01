@@ -1,0 +1,34 @@
+number: 1072
+preName: 【曹家嫡男】曹昂
+name: 【孝の精神】曹昂
+rarity: 4
+group: 魏
+arm: 騎兵
+maxLevel: 70
+capability: 12
+initHp: 663
+initAttack: 380
+initRecovery: 76
+finalHp: 1989
+finalAttack: 760
+finalRecovery: 152
+breakHp: 2229
+breakAttack: 920
+breakRecovery: 232
+skills:
+  -
+    name: 絶対の防備
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 5ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 身命を賭して
+    statements:
+      -
+        content: 味方の「騎兵」武将のHPと攻撃力を1.5倍にする
+      -
+        content: さらにHPが満タンの時、全武将の攻撃力を1.5倍
+description: 曹操の長男。宛城で張繍の奇襲を受け、命の危機に陥る曹操。曹昂は父を逃がす為、己が馬を差し出し、自らは戦場に残った。自身よりも父の命を優先して･･･。

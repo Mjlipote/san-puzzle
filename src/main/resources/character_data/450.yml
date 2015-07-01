@@ -1,0 +1,32 @@
+number: 450
+preName: 【双子鏡奏】鏡音レン
+name: 【凛然たる歌】鏡音レン
+rarity: 4
+group: 群
+arm: 蛮兵
+maxLevel: 70
+capability: 10
+initHp: 522
+initAttack: 627
+initRecovery: 117
+finalHp: 966
+finalAttack: 1187
+finalRecovery: 130
+breakHp: 1146 
+breakAttack: 1347
+breakRecovery: 210
+skills:
+  -
+    name: もう一人の僕へ
+    turnMax: 24
+    turnMin: 18
+    statements:
+      -
+        content: リンの攻撃力を1ターンの間3倍にする
+strategies:
+  -
+    name: 二人ならできるコト
+    statements:
+      -
+        content: 攻撃後、部隊で最も攻撃が高いリンの攻撃力３倍の追撃
+description: 終南山に舞い降りた天人の一人。硬派に憧れているらしいが、その外觀から、イマイチ周りに浸透していない。「俺の歌に酔いなっ！」

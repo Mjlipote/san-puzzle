@@ -1,0 +1,34 @@
+number: 944
+preName:
+name: 【北伐の悲願】諸葛亮
+rarity: 7
+group: 蜀
+arm: 神算
+maxLevel: 99
+capability: 40
+initHp: 1201
+initAttack: 660
+initRecovery: 171
+finalHp: 2162
+finalAttack: 2409
+finalRecovery: 547
+breakHp: 2562
+breakAttack: 2609
+breakRecovery: 667
+skills:
+  -
+    name: 呉蜀漢の大速攻勢
+    turnMax: 15
+    turnMin: 10
+    statements:
+      -
+        content: 1ターンの間、「呉」「蜀」「漢」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 臥龍神風
+    statements:
+      -
+        content: 全武将のHPと回復力を1.5倍にする
+      -
+        content: HPが半分以上の時、全武将の攻撃力を3倍にする
+description: 劉備が建国した蜀漢の丞相。夷陵の敗北により亡国の危機に瀕した蜀を執念で立て直すと、亡き劉備の悲願「漢室復興」を果たすため、北伐へと出征する。

@@ -1,0 +1,30 @@
+number: 24
+preName:
+name: 【解衣推食】魯粛
+rarity: 2
+group: 呉
+arm: 神算
+maxLevel: 15
+capability: 2
+initHp: 41
+initAttack: 36
+initRecovery: 10
+finalHp: 144
+finalAttack: 180
+finalRecovery: 50
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: なし
+    turnMax:
+    turnMin:
+    statements:
+strategies:
+  -
+    name: 不敵の弁舌
+    statements:
+      -
+        content: 敵の「呉」武将から受けるダメージを少し減少させる
+description: 孫家の名参謀。裕福な豪族の家に生まれるが家業は一切せず、困窮者への援助ばかり行う。資金援助を求めた周瑜には、二つある倉の1つを分け与えた。

@@ -1,0 +1,32 @@
+number: 153
+preName: 【悪来】典韋
+name: 【親衛隊長】典韋
+rarity: 6
+group: 魏
+arm: 槍兵
+maxLevel: 99
+capability: 20
+initHp: 1454
+initAttack: 698
+initRecovery: 100
+finalHp: 3329
+finalAttack: 1257
+finalRecovery: 229
+breakHp: 3649
+breakAttack: 1457
+breakRecovery: 349
+skills:
+  -
+    name: 典韋奮闘
+    turnMax: 24
+    turnMin: 15
+    statements:
+      -
+        content: 5ターンの間、受けるダメージを半減させる
+strategies:
+  -
+    name: 悪来の意地
+    statements:
+      -
+        content: HPが50%以上の時、HPが0になる攻撃を耐える
+description: 怪力無双の親衛隊長。前線に立って活躍することもあり、昼は戦場で敵陣を陥落させ、夜は親衛隊として曹操の護衛を務めるという活躍を見せている。

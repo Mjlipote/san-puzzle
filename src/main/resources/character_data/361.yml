@@ -1,0 +1,32 @@
+number: 361
+preName: 【董卓寵愛】董白
+name: 【小悪魔】董白
+rarity: 6
+group: 群
+arm: 騎兵
+maxLevel: 99
+capability: 22
+initHp: 1082
+initAttack: 499
+initRecovery: 186
+finalHp: 2704
+finalAttack: 1247
+finalRecovery: 409
+breakHp: 3024
+breakAttack: 1447
+breakRecovery: 529
+skills:
+  -
+    name: 小悪魔のいたずら
+    turnMax: 20
+    turnMin: 15
+    statements:
+      -
+        content: 敵の攻撃を3ターン遅らせる
+strategies:
+  -
+    name: 色濃き暴虐の血
+    statements:
+      -
+        content: 味方の「群」武将の攻撃力を2.2倍にする
+description: 魔王・董卓の孫娘。董卓に溺愛されていたと言われる。彼女が入よう渭陽君に封ぜられた時には、都尉や中郎将などの高官を従え、ビ城まで豪華な行列が続いた。

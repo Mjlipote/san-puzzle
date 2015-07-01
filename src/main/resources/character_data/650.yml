@@ -1,0 +1,32 @@
+number: 650
+preName: 【のんびり少女】森園芽以
+name: 【祈願の巫女姫】森園芽以
+rarity: 5
+group: 漢
+arm: 神算
+maxLevel: 99
+capability: 16
+initHp: 1068
+initAttack: 667
+initRecovery: 262
+finalHp: 1989
+finalAttack: 1067
+finalRecovery: 422
+breakHp: 2229
+breakAttack: 1227
+breakRecovery: 502
+skills:
+  -
+    name: 大丈夫ですよ、きっと♪
+    turnMax: 14
+    turnMin: 
+    statements:
+      -
+        content: HPを2000回復させ、回復禁止狀態を1ターン回復する
+strategies:
+  -
+    name: ささっと決めちゃいましょう
+    statements:
+      -
+        content: 5勢力で攻撃した時、全武将の攻撃力を2.5倍
+description: 終南山に新たに現れた、謎の天女？の一人。実家は神殿らしく、偶に巫女姿を披露するが、五斗米道とは関係無いらしい。「お祈りが屆いたんですね！」

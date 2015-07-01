@@ -1,0 +1,32 @@
+number: 167
+preName: 簡雍
+name: 【劉備の旧知】簡雍
+rarity: 2
+group: 蜀
+arm: 鬼謀
+maxLevel: 30
+capability: 5
+initHp: 111
+initAttack: 86
+initRecovery: 143
+finalHp: 
+finalAttack: 
+finalRecovery: 
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 酒の宴
+    turnMax: 17
+    turnMin: 
+    statements:
+      -
+        content: ユニット全てをランダムに入れ替える
+strategies:
+  -
+    name: 憎めない人柄
+    statements:
+      -
+        content: 敵の「蜀」武将から受けるダメージを少し減少させる
+description: 劉備の同郷の友。憎めない誰からも好かれる性格なので、使者の任が得意。成都包囲時には劉璋への使者という大役も買って出る。

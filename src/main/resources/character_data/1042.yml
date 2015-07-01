@@ -1,0 +1,32 @@
+number: 1042
+preName:
+name: 【怨嗟の黒布】袁姫
+rarity: 5
+group: 群
+arm: 鬼謀
+maxLevel: 99
+capability: 15
+initHp: 615
+initAttack: 444
+initRecovery: 55
+finalHp: 1538
+finalAttack: 1110
+finalRecovery: 138
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 群の誘い（毒）
+    turnMax: 10
+    turnMin: 
+    statements:
+      -
+        content: 「毒」を「群」ユニットに変化させる
+strategies:
+  -
+    name: いま、あなたのそばにー
+    statements:
+      -
+        content: 味方の「群」武将の回復力を2倍にする
+description: うふふ、つながってまぁす。

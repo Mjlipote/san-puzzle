@@ -1,0 +1,32 @@
+number: 510
+preName:
+name: 【文武両道】曹丕
+rarity: 5
+group: 魏
+arm: 剣兵
+maxLevel: 50
+capability: 16
+initHp: 588
+initAttack: 305
+initRecovery: 98
+finalHp: 1258
+finalAttack: 634
+finalRecovery: 199
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 魏の大攻勢
+    turnMax: 22
+    turnMin: 16
+    statements:
+      -
+        content: 1ターンの間、「魏」武将の攻撃力を1.8倍にする
+strategies:
+  -
+    name: 血の定め
+    statements:
+      -
+        content: 味方の「魏」勢力の武将のHPと攻撃力を2倍にする
+description: 曹操の三男で、幼き頃から文武両道に秀でていた。特に文学では、新技法を次々に試す一方で、繊細優雅な表現で知られ、世界最古の七行詩を著した。

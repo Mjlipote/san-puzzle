@@ -1,0 +1,32 @@
+number: 584
+preName:
+name: 【気骨ある勇士】丁奉
+rarity: 4
+group: 呉
+arm: 蛮兵
+maxLevel: 25
+capability: 7
+initHp: 246
+initAttack: 220
+initRecovery: 56
+finalHp: 738
+finalAttack: 550
+finalRecovery: 112
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 震撼の攻め
+    turnMax: 18
+    turnMin: 13
+    statements:
+      -
+        content: 1ターンの間、敵の防御力が大きくダウン
+strategies:
+  -
+    name: 後背からの擁護
+    statements:
+      -
+        content: 味方の「蛮兵」武将の攻撃力と回復力を1.8倍にする
+description: 孫権の時代から呉に仕えた猛将。若い頃は甘寧や陸遜の配下で頻繁に敵将を討ち取り、その勇猛ぶりを遺憾なく発揮した。また、よく負傷したと言われる。

@@ -1,0 +1,32 @@
+number: 366
+preName: 【五斗米道】張魯
+name: 【宝庫封印】張魯
+rarity: 4
+group: 群
+arm: 神算
+maxLevel: 70
+capability: 8
+initHp: 1147
+initAttack: 237
+initRecovery: 48
+finalHp: 2064
+finalAttack: 308
+finalRecovery: 170
+breakHp: 2224
+breakAttack: 428
+breakRecovery: 250
+skills:
+  -
+    name: ひとにぎりの米
+    turnMax: 8
+    turnMin: 5
+    statements:
+      -
+        content: 部隊の回復力合計の１倍のHPを回復させる
+strategies:
+  -
+    name: 漢中堅守
+    statements:
+      -
+        content: 「漢」武将から受けるダメージを減少させる
+description: 五斗米道の三代目教主。曹操の進撃に際し、財宝類を国のものだからと破棄・収奪せず、倉を封印するだけで逃亡、その清廉さで曹操の歓心を得て赦された。

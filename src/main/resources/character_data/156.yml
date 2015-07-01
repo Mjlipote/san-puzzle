@@ -1,0 +1,34 @@
+number: 156
+preName:
+name: 【一陣の風】趙雲
+rarity: 5
+group: 蜀
+arm: 騎兵
+maxLevel: 50
+capability: 15
+initHp: 280
+initAttack: 249
+initRecovery: 59
+finalHp: 1260
+finalAttack: 872
+finalRecovery: 177
+breakHp: 
+breakAttack: 
+breakRecovery: 
+skills:
+  -
+    name: 長坂一騎駆け
+    turnMax: 20
+    turnMin: 14
+    statements:
+      -
+        content: 10秒間、自由にユニットを動かせる
+strategies:
+  -
+    name: 神速の槍術
+    statements:
+      -
+        content: ユニットを動かせる時間が延びる
+      -
+        content: 受けるダメージを大きく減少させる
+description: 心・技・体の全てが揃った勇将。袁紹との戦で公孫サン軍からの客将として劉備軍に参戦。鮮やかな槍さばきと戦いぶりで劉備を驚かせている。
